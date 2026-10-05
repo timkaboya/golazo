@@ -9,7 +9,7 @@ import preact from '@astrojs/preact';
 //   • GitHub Pages (project site): served under a subpath    → set BASE_PATH,
 //     e.g. BASE_PATH=/golazo/  SITE_URL=https://timkaboya.github.io
 const base = process.env.BASE_PATH || '/';
-const site = process.env.SITE_URL || 'https://golazo.timothy-kaboya.workers.dev';
+const site = process.env.SITE_URL || 'https://golazo-5ce.pages.dev';
 
 export default defineConfig({
   integrations: [preact({ compat: true })],
