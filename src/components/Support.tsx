@@ -4,11 +4,13 @@ import {
   isValidAmount,
   isValidEmail,
   loadPaystack,
+  paymentVerificationOutcome,
   paystackConfig,
   toSubunit,
+  type PaymentVerificationOutcome,
 } from '../lib/paystack';
 
-type Status = 'idle' | 'opening' | 'verifying' | 'success' | 'error';
+type Status = 'idle' | 'opening' | 'verifying' | 'success' | 'unverified' | 'error';
 
 // Quick-pick amounts per currency (major units). Falls back to a generic set.
 const PRESETS: Record<string, number[]> = {
@@ -19,18 +21,27 @@ const PRESETS: Record<string, number[]> = {
   USD: [3, 5, 10, 20],
 };
 
-async function verifyPayment(reference: string): Promise<boolean> {
+async function verifyPayment(reference: string): Promise<PaymentVerificationOutcome> {
+  let response: Response;
   try {
-    const r = await fetch(withBase('/api/verify-payment'), {
+    response = await fetch(withBase('/api/verify-payment'), {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({ reference }),
     });
-    if (!r.ok) return false;
-    const j = (await r.json()) as { verified?: boolean };
-    return !!j.verified;
   } catch {
-    return false;
+    return paymentVerificationOutcome(null);
+  }
+
+  const unavailable = paymentVerificationOutcome(response.status);
+  if (unavailable === 'unavailable') return unavailable;
+  if (!response.ok) return 'rejected';
+
+  try {
+    const body = (await response.json()) as { verified?: boolean };
+    return paymentVerificationOutcome(response.status, body.verified);
+  } catch {
+    return 'rejected';
   }
 }
 
@@ -82,12 +93,20 @@ export default function Support() {
         currency: cfg.currency,
         onSuccess: async (tx: { reference: string }) => {
           setStatus('verifying');
-          const verified = await verifyPayment(tx.reference);
+          const outcome = await verifyPayment(tx.reference);
+          if (outcome === 'rejected') {
+            setStatus('unverified');
+            setMsg(
+              'Paystack returned a payment reference, but Golazo could not verify it. Check your receipt before trying again. Reference: ' +
+                tx.reference
+            );
+            return;
+          }
           setStatus('success');
-          setMsg(
-            verified
-              ? 'Payment confirmed — thank you for supporting the project! ⚽'
-              : 'Thanks so much for your support! ⚽ (Reference: ' + tx.reference + ')'
+          setMsg(outcome === 'verified'
+            ? 'Payment confirmed — thank you for supporting Golazo! ⚽'
+            : 'Paystack accepted the payment, but this host cannot verify it automatically. Keep this reference: ' +
+              tx.reference
           );
         },
         onCancel: () => {
@@ -104,11 +123,11 @@ export default function Support() {
   return (
     <>
       <button class="support-btn" type="button" onClick={() => setOpen(true)}>
-        <span aria-hidden="true">☕</span> Support this project
+        <span aria-hidden="true">☕</span> Buy me a coffee
       </button>
 
       {open && (
-        <div class="drawer-overlay" onClick={close} role="dialog" aria-modal="true" aria-label="Support this project">
+        <div class="drawer-overlay" onClick={close} role="dialog" aria-modal="true" aria-label="Buy me a coffee">
           <div
             class="drawer support-modal"
             ref={panelRef}
@@ -118,10 +137,10 @@ export default function Support() {
             <div class="drawer-grab" aria-hidden="true" />
             <button class="drawer-close" onClick={close} aria-label="Close">✕</button>
 
-            {status === 'success' ? (
+            {status === 'success' || status === 'unverified' ? (
               <div class="support-done">
-                <div class="support-emoji" aria-hidden="true">🎉</div>
-                <h2 class="support-title">Thank you!</h2>
+                <div class="support-emoji" aria-hidden="true">{status === 'success' ? '🎉' : '⚠️'}</div>
+                <h2 class="support-title">{status === 'success' ? 'Thank you!' : 'Payment not verified'}</h2>
                 <p class="support-msg">{msg}</p>
                 <button class="support-cta" type="button" onClick={close}>Close</button>
               </div>
@@ -129,8 +148,8 @@ export default function Support() {
               <>
                 <h2 class="support-title">☕ Buy me a coffee</h2>
                 <p class="support-sub">
-                  This is a free, ad-free World Cup companion. If it’s useful, chip in
-                  to help cover hosting — any amount is appreciated.
+                  Golazo is free and ad-free. If it’s useful, chip in to help cover
+                  hosting — any amount is appreciated.
                 </p>
 
                 <label class="support-label" for="sup-email">Your email (for the receipt)</label>

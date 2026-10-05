@@ -119,11 +119,11 @@ test('favoriting a team from the drawer enables the Favorites filter', async ({ 
 
 test('support button opens the donation modal and validates input', async ({ page }) => {
   await page.goto('/world-cup');
-  const supportBtn = page.getByRole('button', { name: /Support this project/ });
+  const supportBtn = page.getByRole('button', { name: /Buy me a coffee/ });
   await expect(supportBtn).toBeVisible();
   await supportBtn.click();
 
-  const dialog = page.getByRole('dialog', { name: 'Support this project' });
+  const dialog = page.getByRole('dialog', { name: 'Buy me a coffee' });
   await expect(dialog).toBeVisible();
   await expect(dialog.getByText(/Buy me a coffee/)).toBeVisible();
 
@@ -137,4 +137,15 @@ test('support button opens the donation modal and validates input', async ({ pag
   // Close without triggering a real payment (Paystack SDK never loads).
   await page.keyboard.press('Escape');
   await expect(dialog).toBeHidden();
+});
+
+test('landing page offers Paystack support', async ({ page }) => {
+  await page.goto('/');
+  const supportBtn = page.getByRole('button', { name: /Buy me a coffee/ });
+  await expect(supportBtn).toBeVisible();
+  await supportBtn.click();
+
+  const dialog = page.getByRole('dialog', { name: 'Buy me a coffee' });
+  await expect(dialog).toBeVisible();
+  await expect(dialog.getByText(/Golazo is free and ad-free/)).toBeVisible();
 });

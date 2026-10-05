@@ -8,6 +8,17 @@ export interface PaystackConfig {
   currency: string;
 }
 
+export type PaymentVerificationOutcome = 'verified' | 'unavailable' | 'rejected';
+
+export function paymentVerificationOutcome(
+  responseStatus: number | null,
+  verified?: boolean
+): PaymentVerificationOutcome {
+  if (responseStatus === null || [404, 405, 501].includes(responseStatus)) return 'unavailable';
+  if (responseStatus >= 200 && responseStatus < 300 && verified === true) return 'verified';
+  return 'rejected';
+}
+
 /**
  * Read the build-time public Paystack config from Astro/Vite env.
  * Returns null when no key is configured, so the Support button can hide itself

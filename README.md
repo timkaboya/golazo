@@ -71,7 +71,7 @@ bundle-size budget). All pull requests run these automatically via GitHub Action
 
 ## ☕ Support
 
-A footer **"Support this project"** button lets fans chip in via [Paystack](https://paystack.com/)
+A site-wide footer **"Buy me a coffee"** button lets fans chip in via [Paystack](https://paystack.com/)
 (cards, bank & mobile money). It's optional and fully self-hosted — no third-party JS loads until a
 visitor actually opens the donation modal.
 
@@ -84,7 +84,8 @@ Configure it with environment variables (see [`.env.example`](./.env.example)):
 | `PAYSTACK_SECRET_KEY` | Cloudflare env **secret** | Powers `/api/verify-payment`; **never committed**. Set with `npx wrangler pages secret put PAYSTACK_SECRET_KEY`. |
 
 On Cloudflare, payments are verified server-side before showing a confirmation. On GitHub Pages
-(no edge functions) the app falls back to Paystack's own inline success callback.
+(no edge functions), the app identifies the payment as accepted by Paystack but not server-verified
+on that host. A failed Cloudflare verification is never presented as a confirmed payment.
 
 ## 🧭 Principles
 
