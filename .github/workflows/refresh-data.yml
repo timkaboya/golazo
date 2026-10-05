@@ -1,6 +1,6 @@
 name: Refresh football data
 
-# Keeps Mitty's Football current without waiting for a developer to push. The
+# Keeps Golazo current without waiting for a developer to push. The
 # scheduled job refreshes all competition snapshots plus the World Cup archive.
 #
 # Why a commit (and not just a rebuild)? The Live site is a git-integrated
