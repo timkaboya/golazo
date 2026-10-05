@@ -9,7 +9,7 @@ interface Props {
 }
 
 const {
-  title = "Mitty's Football",
+  title = 'Golazo',
   description = 'Fixtures, tables, news and transfers from the biggest football competitions.',
 } = Astro.props;
 const base = import.meta.env.BASE_URL;
@@ -36,10 +36,10 @@ const link = (path: string) => base.replace(/\/$/, '') + path;
     <a href="#main" class="skip-link">Skip to content</a>
     <header class="football-header">
       <div class="football-header-main">
-        <a href={base} class="football-brand" aria-label="Mitty's Football home">
-          <span class="football-mark" aria-hidden="true">M</span>
+        <a href={base} class="football-brand" aria-label="Golazo home">
+          <span class="football-mark" aria-hidden="true">G</span>
           <span>
-            <strong>Mitty's Football</strong>
+            <strong>Golazo</strong>
             <small>The world game, all in one place</small>
           </span>
         </a>
@@ -64,7 +64,7 @@ const link = (path: string) => base.replace(/\/$/, '') + path;
     </main>
     <footer class="football-footer">
       <div>
-        <strong>Mitty's Football</strong>
+        <strong>Golazo</strong>
         <span>Scores, tables and stories in one clear matchday view.</span>
       </div>
       <p>Data and imagery attributed to ESPN and linked publishers. Unofficial fan companion.</p>

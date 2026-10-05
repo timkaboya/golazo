@@ -99,3 +99,21 @@ export function groupMatches(matches: FootballMatch[], limit = 12) {
     recent: ordered.filter((match) => match.status === 'finished').slice(-limit).reverse(),
   };
 }
+
+export function selectLandingMatches(
+  matches: FootballMatch[],
+  now = new Date(),
+  limit = 10
+) {
+  const ordered = [...matches].sort((a, b) => a.utc.localeCompare(b.utc));
+  const today = now.toISOString().slice(0, 10);
+
+  return {
+    liveToday: ordered
+      .filter((match) => match.status === 'live' || match.utc.slice(0, 10) === today)
+      .sort((a, b) => Number(b.status === 'live') - Number(a.status === 'live') || a.utc.localeCompare(b.utc))
+      .slice(0, limit),
+    recent: ordered.filter((match) => match.status === 'finished').slice(-limit).reverse(),
+    upcoming: ordered.filter((match) => match.status === 'upcoming').slice(0, limit),
+  };
+}
