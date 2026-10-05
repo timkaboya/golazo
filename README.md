@@ -11,7 +11,7 @@ No accounts, no user data, no tracking.
 
 | Environment | URL | Hosting |
 | --- | --- | --- |
-| **Live (production)** | https://golazo.timothy-kaboya.workers.dev/ | Cloudflare (edge functions for live scores) |
+| **Live (production)** | https://golazo-5ce.pages.dev/ | Cloudflare (edge functions for live scores) |
 | **Staging** | https://timkaboya.github.io/golazo/ | GitHub Pages (static fallback data) |
 
 Both build from `main`. The Cloudflare **Live** site runs the `/api/*` edge functions that
