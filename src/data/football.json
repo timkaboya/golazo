@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-05T07:52:50.146Z",
+  "updatedUtc": "2026-10-05T09:16:06.293Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:49.412Z",
+      "updatedUtc": "2026-10-05T09:16:05.836Z",
       "matches": [
         {
           "id": "401915452",
@@ -3047,7 +3047,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:49.436Z",
+      "updatedUtc": "2026-10-05T09:16:05.794Z",
       "matches": [
         {
           "id": "401915594",
@@ -6089,7 +6089,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:50.105Z",
+      "updatedUtc": "2026-10-05T09:16:06.029Z",
       "matches": [
         {
           "id": "401879285",
@@ -8046,7 +8046,7 @@
           "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
           "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T06:42:08Z",
+          "publishedUtc": "2026-10-05T07:22:21Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -9016,7 +9016,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:49.565Z",
+      "updatedUtc": "2026-10-05T09:16:06.293Z",
       "matches": [
         {
           "id": "401882877",
@@ -10964,6 +10964,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+          "title": "Transfer rumors, news: Bayern brace for tough contract talks with Olise",
+          "description": "Bayern Munich could be facing an uphill battle to sign winger Michael Olise to a new contract. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0907/r1712702_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T08:39:19Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
           "title": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
           "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
@@ -11182,16 +11192,6 @@
           "publishedUtc": "2026-09-25T11:13:03Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50026251/barcelona-julian-alvarez-atletico-madrid-argentina",
-          "title": "Barcelona's pursuit of Julián Álvarez is 'in the past' - Deco",
-          "description": "Barcelona sporting director Deco says the club's pursuit of Julián Álvarez is \"in the past\" after it emerged the Spanish champions would have to raise money through player exits to be able to sign the Atlético Madrid striker in January.",
-          "url": "https://www.espn.com/soccer/story/_/id/50026251/barcelona-julian-alvarez-atletico-madrid-argentina",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0925/r1721614_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-25T10:32:08Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -11938,7 +11938,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:50.146Z",
+      "updatedUtc": "2026-10-05T09:16:05.962Z",
       "matches": [
         {
           "id": "401874756",
@@ -14827,7 +14827,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:49.515Z",
+      "updatedUtc": "2026-10-05T09:16:05.913Z",
       "matches": [
         {
           "id": "401884806",
@@ -16769,6 +16769,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+          "title": "Transfer rumors, news: Bayern brace for tough contract talks with Olise",
+          "description": "Bayern Munich could be facing an uphill battle to sign winger Michael Olise to a new contract. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0907/r1712702_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T08:39:19Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
           "title": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
           "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
@@ -16987,16 +16997,6 @@
           "publishedUtc": "2026-09-15T10:54:48Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49925331/transfer-rumors-news-chelsea-return-roma-star-manu-kone",
-          "title": "Transfer rumors, news: Bayern eye move for Liverpool's Wirtz",
-          "description": "Bayern Munich are ready to pounce to sign Liverpool midfielder Florian Wirtz if there is a chance. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/49925331/transfer-rumors-news-chelsea-return-roma-star-manu-kone",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0823/r1705865_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-13T22:07:57Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -17743,7 +17743,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:49.472Z",
+      "updatedUtc": "2026-10-05T09:16:05.878Z",
       "matches": [
         {
           "id": "401876472",
@@ -20650,7 +20650,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-05T07:52:49.839Z",
+      "updatedUtc": "2026-10-05T09:16:05.740Z",
       "matches": [
         {
           "id": "401861118",
@@ -23230,7 +23230,7 @@
           "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
           "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
           "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T06:44:16Z",
+          "publishedUtc": "2026-10-05T08:10:03Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -23472,6 +23472,18 @@
             "assists": 1
           },
           {
+            "id": "276350",
+            "name": "João Félix",
+            "team": {
+              "id": "482",
+              "name": "Portugal",
+              "abbreviation": "POR",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
             "id": "362150",
             "name": "Lamine Yamal",
             "team": {
@@ -23496,13 +23508,25 @@
             "assists": 1
           },
           {
-            "id": "276350",
-            "name": "João Félix",
+            "id": "309273",
+            "name": "Rasmus Højlund",
             "team": {
-              "id": "482",
-              "name": "Portugal",
-              "abbreviation": "POR",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+              "id": "479",
+              "name": "Denmark",
+              "abbreviation": "DEN",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "id": "279790",
+            "name": "Troy Parrott",
+            "team": {
+              "id": "476",
+              "name": "Republic of Ireland",
+              "abbreviation": "IRL",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png"
             },
             "goals": 4,
             "assists": 0
@@ -23527,6 +23551,18 @@
               "name": "England",
               "abbreviation": "ENG",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "288896",
+            "name": "Gonçalo Ramos",
+            "team": {
+              "id": "482",
+              "name": "Portugal",
+              "abbreviation": "POR",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
             },
             "goals": 3,
             "assists": 1
@@ -23580,18 +23616,6 @@
             "assists": 0
           },
           {
-            "id": "309273",
-            "name": "Rasmus Højlund",
-            "team": {
-              "id": "479",
-              "name": "Denmark",
-              "abbreviation": "DEN",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
             "id": "125824",
             "name": "Robert Lewandowski",
             "team": {
@@ -23599,18 +23623,6 @@
               "name": "Poland",
               "abbreviation": "POL",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "id": "279790",
-            "name": "Troy Parrott",
-            "team": {
-              "id": "476",
-              "name": "Republic of Ireland",
-              "abbreviation": "IRL",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png"
             },
             "goals": 3,
             "assists": 0
@@ -23635,18 +23647,6 @@
               "name": "Iceland",
               "abbreviation": "ISL",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "288896",
-            "name": "Gonçalo Ramos",
-            "team": {
-              "id": "482",
-              "name": "Portugal",
-              "abbreviation": "POR",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
             },
             "goals": 2,
             "assists": 1
@@ -23707,6 +23707,18 @@
               "name": "Austria",
               "abbreviation": "AUT",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "232231",
+            "name": "Teddy Teuma",
+            "team": {
+              "id": "453",
+              "name": "Malta",
+              "abbreviation": "MLT",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png"
             },
             "goals": 2,
             "assists": 1
@@ -23794,19 +23806,6 @@
             },
             "goals": 2,
             "assists": 0
-          },
-          {
-            "id": "332465",
-            "name": "Mexx Meerdink",
-            "team": {
-              "id": "449",
-              "name": "Netherlands",
-              "abbreviation": "NED",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/332465.png",
-            "goals": 2,
-            "assists": 0
           }
         ],
         "assists": [
@@ -23820,7 +23819,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
             },
             "goals": 0,
-            "assists": 5
+            "assists": 6
           },
           {
             "id": "291281",
@@ -23842,6 +23841,18 @@
               "name": "Belarus",
               "abbreviation": "BLR",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png"
+            },
+            "goals": 0,
+            "assists": 3
+          },
+          {
+            "id": "290591",
+            "name": "Nuno Mendes",
+            "team": {
+              "id": "482",
+              "name": "Portugal",
+              "abbreviation": "POR",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
             },
             "goals": 0,
             "assists": 3
@@ -24042,18 +24053,6 @@
             "assists": 2
           },
           {
-            "id": "290591",
-            "name": "Nuno Mendes",
-            "team": {
-              "id": "482",
-              "name": "Portugal",
-              "abbreviation": "POR",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
             "id": "300095",
             "name": "Patrick Wimmer",
             "team": {
@@ -24091,6 +24090,18 @@
             "assists": 2
           },
           {
+            "id": "283802",
+            "name": "Ylyas Chouaref",
+            "team": {
+              "id": "453",
+              "name": "Malta",
+              "abbreviation": "MLT",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
             "id": "142200",
             "name": "Harry Kane",
             "team": {
@@ -24098,6 +24109,18 @@
               "name": "England",
               "abbreviation": "ENG",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
+            "id": "276350",
+            "name": "João Félix",
+            "team": {
+              "id": "482",
+              "name": "Portugal",
+              "abbreviation": "POR",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
             },
             "goals": 4,
             "assists": 1
@@ -24139,39 +24162,15 @@
             "assists": 1
           },
           {
-            "id": "308932",
-            "name": "Mikkel Damsgaard",
+            "id": "288896",
+            "name": "Gonçalo Ramos",
             "team": {
-              "id": "479",
-              "name": "Denmark",
-              "abbreviation": "DEN",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
+              "id": "482",
+              "name": "Portugal",
+              "abbreviation": "POR",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
             },
             "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "320757",
-            "name": "Zeki Amdouni",
-            "team": {
-              "id": "475",
-              "name": "Switzerland",
-              "abbreviation": "SUI",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "326075",
-            "name": "Andri Gudjohnsen",
-            "team": {
-              "id": "470",
-              "name": "Iceland",
-              "abbreviation": "ISL",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png"
-            },
-            "goals": 2,
             "assists": 1
           }
         ]
@@ -24192,7 +24191,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:52:49.647Z",
+      "updatedUtc": "2026-10-05T09:16:06.184Z",
       "matches": [
         {
           "id": "761871",
@@ -25217,7 +25216,7 @@
             "abbreviation": "MTL",
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png"
           },
-          "venue": "Yankee Stadium, New York City",
+          "venue": "Citi Field, New York, New York",
           "status": "upcoming"
         },
         {
@@ -27241,7 +27240,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-05T07:52:49.888Z",
+      "updatedUtc": "2026-10-05T09:16:05.986Z",
       "matches": [
         {
           "id": "760415",

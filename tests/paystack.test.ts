@@ -1,5 +1,10 @@
 import { describe, it, expect } from 'vitest';
-import { isValidEmail, isValidAmount, toSubunit } from '../src/lib/paystack';
+import {
+  isValidEmail,
+  isValidAmount,
+  paymentVerificationOutcome,
+  toSubunit,
+} from '../src/lib/paystack';
 
 describe('paystack helpers', () => {
   describe('toSubunit', () => {
@@ -42,6 +47,21 @@ describe('paystack helpers', () => {
       expect(isValidEmail('a@b')).toBe(false);
       expect(isValidEmail('a @b.com')).toBe(false);
       expect(isValidEmail('')).toBe(false);
+    });
+  });
+
+  describe('paymentVerificationOutcome', () => {
+    it('accepts only a successful response that explicitly verifies the payment', () => {
+      expect(paymentVerificationOutcome(200, true)).toBe('verified');
+      expect(paymentVerificationOutcome(200, false)).toBe('rejected');
+      expect(paymentVerificationOutcome(502)).toBe('rejected');
+    });
+
+    it('recognizes hosts where the verification function is unavailable', () => {
+      expect(paymentVerificationOutcome(null)).toBe('unavailable');
+      expect(paymentVerificationOutcome(404)).toBe('unavailable');
+      expect(paymentVerificationOutcome(405)).toBe('unavailable');
+      expect(paymentVerificationOutcome(501)).toBe('unavailable');
     });
   });
 });

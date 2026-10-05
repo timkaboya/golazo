@@ -268,8 +268,9 @@
 .archive-callout p { color: #b9c6d6; font-size: .74rem; }
 .archive-callout a { flex: 0 0 auto; color: #071426; background: #f0c040; text-decoration: none; font-size: .72rem; font-weight: 900; padding: .65rem .85rem; border-radius: 8px; }
 .football-footer { padding: 1.5rem max(1rem, calc((100vw - 1180px) / 2)); display: flex; justify-content: space-between; gap: 1rem; color: #98a2b3; background: #071426; font-size: .68rem; }
-.football-footer div { display: flex; flex-direction: column; }
+.football-footer__copy { display: flex; flex-direction: column; }
 .football-footer strong { color: #fff; font-size: .82rem; }
+.football-footer .support-btn { align-self: center; }
 
 @media (max-width: 840px) {
   .football-global-nav a:nth-child(2), .football-global-nav a:nth-child(3) { display: none; }
@@ -315,4 +316,5 @@
   .match-strip { grid-auto-columns: minmax(250px, 88vw); }
   .leader-list li { grid-template-columns: 20px 34px minmax(0, 1fr) auto; padding-inline: .6rem; }
   .archive-callout, .football-footer { align-items: flex-start; flex-direction: column; }
+  .football-footer .support-btn { align-self: flex-start; }
 }

@@ -1,6 +1,7 @@
 ---
 import '../styles/tokens.css';
 import '../styles/football.css';
+import Support from '../components/Support';
 import { COMPETITIONS } from '../lib/competitions';
 
 interface Props {
@@ -63,10 +64,11 @@ const link = (path: string) => base.replace(/\/$/, '') + path;
       <slot />
     </main>
     <footer class="football-footer">
-      <div>
+      <div class="football-footer__copy">
         <strong>Golazo</strong>
         <span>Scores, tables and stories in one clear matchday view.</span>
       </div>
+      <Support client:idle />
       <p>Data and imagery attributed to ESPN and linked publishers. Unofficial fan companion.</p>
     </footer>
     <script is:inline>
