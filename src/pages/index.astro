@@ -1,9 +1,149 @@
 ---
-import Base from '../layouts/Base.astro';
-import Schedule from '../components/Schedule.tsx';
-import '../styles/schedule.css';
+import FootballBase from '../layouts/FootballBase.astro';
+import FootballLeaders from '../components/FootballLeaders.astro';
+import HomeMatchList from '../components/HomeMatchList.astro';
+import snapshot from '../data/football.json';
+import { aggregateFootballLeaders, groupMatches } from '../lib/football-stats';
+import type { FootballStory } from '../lib/football-types';
+
+const seen = new Set<string>();
+const stories = snapshot.competitions
+  .flatMap((competition) =>
+    competition.news.map((story) => ({ ...story, competition: competition.config.shortName }))
+  )
+  .sort((a, b) => Date.parse(b.publishedUtc) - Date.parse(a.publishedUtc))
+  .filter((story) => {
+    if (seen.has(story.url)) return false;
+    seen.add(story.url);
+    return true;
+  })
+  .slice(0, 6) as (FootballStory & { competition: string })[];
+const lead = stories.find((story) => story.imageUrl) ?? stories[0];
+const secondary = stories.filter((story) => story !== lead).slice(0, 5);
+const allMatches = snapshot.competitions.flatMap((competition) =>
+  competition.matches.map((match) => ({ ...match, competition: competition.config.shortName }))
+);
+const matchGroups = groupMatches(allMatches, 3);
+const overallLeaders = aggregateFootballLeaders(snapshot.competitions, 5);
 ---
 
-<Base title="Schedule · World Cup 2026" active="schedule">
-  <Schedule client:load />
-</Base>
+<FootballBase
+  title="Mitty's Football · Scores, tables, news and transfers"
+  description="Follow the Champions League, Europa League, Europe's Top 5, Nations League, MLS and the World Cup archive."
+>
+  <section class="home-hero">
+    {lead?.imageUrl && <img class="home-hero-img" src={lead.imageUrl} alt="" fetchpriority="high" />}
+    <div class="home-hero-inner">
+      <span class="eyebrow">Your football matchday</span>
+      <h1 class="home-title">More leagues. More football.</h1>
+      <p class="home-deck">
+        Scores, fixtures, tables, player leaders and top stories from the competitions you follow.
+      </p>
+      <div class="hero-actions">
+        <a class="primary-cta" href="#competitions">Explore competitions <span aria-hidden="true">↓</span></a>
+        <a class="secondary-cta" href="/leagues/world-cup-2026">World Cup 2026 archive</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-dashboard football-shell">
+    <div id="match-centre" class="home-match-centre">
+      <div class="home-panel-heading">
+        <div>
+          <span class="eyebrow">Across all competitions</span>
+          <h2>Match centre</h2>
+        </div>
+        <div class:list={['home-live-status', { active: matchGroups.live.length > 0 }]}>
+          <span></span>
+          {matchGroups.live.length ? `${matchGroups.live.length} live now` : 'No live games'}
+        </div>
+      </div>
+      {matchGroups.live.length > 0 && (
+        <HomeMatchList title="Live now" matches={matchGroups.live} empty="" />
+      )}
+      <div class="home-match-columns">
+        <HomeMatchList
+          title="Coming up"
+          matches={matchGroups.upcoming}
+          empty="No upcoming fixtures in the current window."
+        />
+        <HomeMatchList
+          title="Latest results"
+          matches={matchGroups.recent}
+          empty="No recent results are available."
+        />
+      </div>
+    </div>
+
+    <section id="top-news" class="home-news-panel">
+      <div class="home-panel-heading">
+        <div>
+          <span class="eyebrow">Latest headlines</span>
+          <h2>Top news</h2>
+        </div>
+        <a class="home-panel-link" href="#competitions">All competitions ↓</a>
+      </div>
+      {lead ? (
+        <div class="home-news-compact">
+          <a class="home-news-lead" href={lead.url} target="_blank" rel="noopener noreferrer">
+            {lead.imageUrl && <img src={lead.imageUrl} alt="" loading="lazy" />}
+            <div>
+              <span class="story-kicker">{lead.competition} · {lead.source}</span>
+              <h3>{lead.title}</h3>
+            </div>
+          </a>
+          <div class="home-headlines">
+            {secondary.map((story) => (
+              <a href={story.url} target="_blank" rel="noopener noreferrer">
+                <span>{story.competition}</span>
+                <strong>{story.title}</strong>
+              </a>
+            ))}
+          </div>
+        </div>
+      ) : (
+        <div class="empty-panel">Top stories will appear after the next data refresh.</div>
+      )}
+    </section>
+  </section>
+
+  <section id="competitions" class="home-section football-shell home-compact-section">
+    <div class="section-heading">
+      <h2>Choose your competition</h2>
+      <p>Jump directly to matches, tables, statistics, news and transfers.</p>
+    </div>
+    <div class="competition-quick-grid">
+      {snapshot.competitions.map(({ config }) => (
+        <a
+          class="competition-quick-card"
+          style={`--league:${config.color};--accent:${config.accent}`}
+          href={`/leagues/${config.slug}`}
+        >
+          <img src={config.logo} alt="" loading="lazy" />
+          <span>
+            <small>{config.region}</small>
+            <strong>{config.shortName}</strong>
+          </span>
+          <b aria-hidden="true">→</b>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section id="overall-stats" class="home-section football-shell home-compact-section">
+    <div class="section-heading">
+      <div>
+        <h2>All-competition leaders</h2>
+        <div class="section-jump-links" aria-label="Overall statistics views">
+          <a href="#overall-scorers">Top scorers</a>
+          <a href="#overall-assists">Assists</a>
+        </div>
+      </div>
+      <p>Combined goals and assists across every tracked competition.</p>
+    </div>
+    <div class="leader-grid">
+      <div id="overall-scorers"><FootballLeaders title="Top scorers" leaders={overallLeaders.scorers} metric="goals" limit={5} /></div>
+      <div id="overall-assists"><FootballLeaders title="Assist leaders" leaders={overallLeaders.assists} metric="assists" limit={5} /></div>
+    </div>
+  </section>
+</FootballBase>

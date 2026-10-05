@@ -106,7 +106,7 @@ export default function Schedule() {
     const pill = document.getElementById('live-pill');
     if (pill) pill.classList.toggle('on', anyLive);
     const liveLbl = document.getElementById('live-label');
-    if (liveLbl) liveLbl.textContent = anyLive ? 'LIVE' : 'Live';
+    if (liveLbl) liveLbl.textContent = anyLive ? 'LIVE' : 'Updates';
     const lbl = document.getElementById('tz-label');
     if (lbl) lbl.textContent = tzShortLabel(tz);
   }, [anyLive, tz]);
@@ -192,7 +192,7 @@ export default function Schedule() {
             <div class="banner-lbl">Match Schedule</div>
             <div class="banner-date">Times shown in {tzShortLabel(tz)}</div>
           </div>
-          <div style="display:flex;gap:.5rem;align-items:center;">
+          <div class="banner-actions">
             <select class="tz-select" aria-label="Select timezone" value={tz} onChange={onTzChange}>
               {(COMMON_TZS.includes(tz) ? COMMON_TZS : [tz, ...COMMON_TZS]).map((z) => (
                 <option value={z}>{tzShortLabel(z)}</option>

@@ -4,7 +4,7 @@
 
 import { spawnSync } from 'node:child_process';
 
-const steps = ['fetch-espn.ts', 'fetch-news.ts'];
+const steps = ['fetch-espn.ts', 'fetch-news.ts', 'fetch-football.ts'];
 
 for (const script of steps) {
   const r = spawnSync(process.execPath, ['--experimental-strip-types', `scripts/${script}`], {

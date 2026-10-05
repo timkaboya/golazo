@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-06T13:13:08.441Z",
+  "updatedUtc": "2026-10-05T06:53:00.522Z",
   "scorers": [
     {
       "name": "Kylian Mbappé",
@@ -9,8 +9,28 @@
         "name": "France",
         "flag": "🇫🇷"
       },
+      "goals": 10,
+      "assists": 4
+    },
+    {
+      "name": "Lionel Messi",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 8,
+      "assists": 4
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
       "goals": 7,
-      "assists": 2
+      "assists": 1
     },
     {
       "name": "Erling Haaland",
@@ -23,14 +43,14 @@
       "assists": 0
     },
     {
-      "name": "Lionel Messi",
+      "name": "Ousmane Dembélé",
       "team": {
-        "id": "argentina",
-        "name": "Argentina",
-        "flag": "🇦🇷"
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
       },
-      "goals": 7,
-      "assists": 0
+      "goals": 6,
+      "assists": 2
     },
     {
       "name": "Harry Kane",
@@ -43,14 +63,14 @@
       "assists": 1
     },
     {
-      "name": "Ousmane Dembélé",
+      "name": "Mikel Oyarzabal",
       "team": {
-        "id": "france",
-        "name": "France",
-        "flag": "🇫🇷"
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
       },
-      "goals": 4,
-      "assists": 2
+      "goals": 5,
+      "assists": 1
     },
     {
       "name": "Ismaïla Sarr",
@@ -58,16 +78,6 @@
         "id": "senegal",
         "name": "Senegal",
         "flag": "🇸🇳"
-      },
-      "goals": 4,
-      "assists": 1
-    },
-    {
-      "name": "Jude Bellingham",
-      "team": {
-        "id": "england",
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       "goals": 4,
       "assists": 1
@@ -83,16 +93,6 @@
       "assists": 1
     },
     {
-      "name": "Mikel Oyarzabal",
-      "team": {
-        "id": "spain",
-        "name": "Spain",
-        "flag": "🇪🇸"
-      },
-      "goals": 4,
-      "assists": 1
-    },
-    {
       "name": "Vinícius Júnior",
       "team": {
         "id": "brazil",
@@ -101,6 +101,16 @@
       },
       "goals": 4,
       "assists": 1
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 3,
+      "assists": 3
     },
     {
       "name": "Deniz Undav",
@@ -123,11 +133,51 @@
       "assists": 2
     },
     {
+      "name": "Bradley Barcola",
+      "team": {
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Charles De Ketelaere",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
       "name": "Cody Gakpo",
       "team": {
         "id": "netherlands",
         "name": "Netherlands",
         "flag": "🇳🇱"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Romelu Lukaku",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
       },
       "goals": 3,
       "assists": 1
@@ -251,56 +301,6 @@
       },
       "goals": 2,
       "assists": 2
-    },
-    {
-      "name": "Ayase Ueda",
-      "team": {
-        "id": "japan",
-        "name": "Japan",
-        "flag": "🇯🇵"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Bradley Barcola",
-      "team": {
-        "id": "france",
-        "name": "France",
-        "flag": "🇫🇷"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Leandro Trossard",
-      "team": {
-        "id": "belgium",
-        "name": "Belgium",
-        "flag": "🇧🇪"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Maxi Araújo",
-      "team": {
-        "id": "uruguay",
-        "name": "Uruguay",
-        "flag": "🇺🇾"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Nicolas Pépé",
-      "team": {
-        "id": "ivory-coast",
-        "name": "Ivory Coast",
-        "flag": "🇨🇮"
-      },
-      "goals": 2,
-      "assists": 1
     }
   ]
 }

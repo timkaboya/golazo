@@ -1,0 +1,61 @@
+name: Refresh football data
+
+# Keeps Mitty's Football current without waiting for a developer to push. The
+# scheduled job refreshes all competition snapshots plus the World Cup archive.
+#
+# Why a commit (and not just a rebuild)? The Live site is a git-integrated
+# Cloudflare project that redeploys on every new commit, so a scheduled data
+# commit refreshes production automatically — with no Cloudflare secrets
+# required. It also keeps the committed JSON fallbacks (served when ESPN is
+# unreachable from a visitor's browser) up to date.
+#
+# The full deploy workflows (deploy-cloudflare.yml / deploy-pages.yml) also run
+# on their own schedules as a belt-and-suspenders; this one is the lightweight,
+# zero-secret path.
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 2 hours — refreshes daily and within ~2h of any match result.
+    - cron: '0 */2 * * *'
+
+# Cancel a superseded refresh; the newest data always wins.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: true
+
+# Needs write access to commit the regenerated data back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          # Node 22+ is required: the data generators are TypeScript run via
+          # `node --experimental-strip-types` (added in Node 22.6).
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Regenerate football data and news
+        run: |
+          npm run data || echo "::warning::ESPN data fetch failed; keeping existing data"
+          npm run data:news || echo "::warning::news fetch failed; keeping existing news"
+          npm run data:football || echo "::warning::football data fetch failed; keeping existing data"
+
+      - name: Commit refreshed data (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/*.json src/data/tournament.json src/data/news.json src/data/football.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(data): scheduled football data refresh"
+            # Rebase in case main advanced since checkout, then push.
+            git pull --rebase --autostash origin main || true
+            git push
+          fi

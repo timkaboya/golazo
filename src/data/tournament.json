@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-06T13:13:08.441Z",
+  "updatedUtc": "2026-10-05T06:53:00.522Z",
   "matches": [
     {
       "id": 760415,
@@ -2516,11 +2516,15 @@
         "flag": "🇪🇸"
       },
       "venue": "AT&T Stadium, Arlington, Texas",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "away"
     },
     {
       "id": 760507,
@@ -2537,11 +2541,15 @@
         "flag": "🇧🇪"
       },
       "venue": "Lumen Field, Seattle, Washington",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "away"
     },
     {
       "id": 760509,
@@ -2558,11 +2566,15 @@
         "flag": "🇪🇬"
       },
       "venue": "Mercedes-Benz Stadium, Atlanta, Georgia",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "home"
     },
     {
       "id": 760508,
@@ -2579,11 +2591,16 @@
         "flag": "🇨🇴"
       },
       "venue": "BC Place, Vancouver",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "note": "Switzerland advance 4-3 on penalties",
+      "winner": "home"
     },
     {
       "id": 760510,
@@ -2600,32 +2617,40 @@
         "flag": "🇲🇦"
       },
       "venue": "Gillette Stadium, Foxborough, Massachusetts",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "home"
     },
     {
       "id": 760511,
       "utc": "2026-07-10T19:00Z",
       "stage": "qf",
       "home": {
-        "id": "rd16-w5",
-        "name": "RD16 W5",
-        "flag": "⚽"
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
       },
       "away": {
-        "id": "rd16-w6",
-        "name": "RD16 W6",
-        "flag": "⚽"
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
       },
       "venue": "SoFi Stadium, Inglewood, California",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "home"
     },
     {
       "id": 760512,
@@ -2642,116 +2667,140 @@
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "away"
     },
     {
       "id": 760513,
       "utc": "2026-07-12T01:00Z",
       "stage": "qf",
       "home": {
-        "id": "rd16-w7",
-        "name": "RD16 W7",
-        "flag": "⚽"
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
       },
       "away": {
-        "id": "rd16-w8",
-        "name": "RD16 W8",
-        "flag": "⚽"
+        "id": "switzerland",
+        "name": "Switzerland",
+        "flag": "🇨🇭"
       },
       "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "home"
     },
     {
       "id": 760514,
       "utc": "2026-07-14T19:00Z",
       "stage": "sf",
       "home": {
-        "id": "qf-w1",
-        "name": "QF W1",
-        "flag": "⚽"
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
       },
       "away": {
-        "id": "qf-w2",
-        "name": "QF W2",
-        "flag": "⚽"
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
       },
       "venue": "AT&T Stadium, Arlington, Texas",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "away"
     },
     {
       "id": 760515,
       "utc": "2026-07-15T19:00Z",
       "stage": "sf",
       "home": {
-        "id": "qf-w3",
-        "name": "QF W3",
-        "flag": "⚽"
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       "away": {
-        "id": "qf-w4",
-        "name": "QF W4",
-        "flag": "⚽"
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
       },
       "venue": "Mercedes-Benz Stadium, Atlanta, Georgia",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "away"
     },
     {
       "id": 760516,
       "utc": "2026-07-18T21:00Z",
       "stage": "r32",
       "home": {
-        "id": "sf-l1",
-        "name": "SF L1",
-        "flag": "⚽"
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
       },
       "away": {
-        "id": "sf-l2",
-        "name": "SF L2",
-        "flag": "⚽"
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 4,
+        "away": 6
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "away"
     },
     {
       "id": 760517,
       "utc": "2026-07-19T19:00Z",
       "stage": "final",
       "home": {
-        "id": "sf-w1",
-        "name": "SF W1",
-        "flag": "⚽"
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
       },
       "away": {
-        "id": "sf-w2",
-        "name": "SF W2",
-        "flag": "⚽"
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey",
-      "score": null,
-      "status": "upcoming",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "finished",
       "sources": [
         "ESPN"
-      ]
+      ],
+      "winner": "home"
     }
   ],
   "standings": [
@@ -3736,8 +3785,28 @@
         "name": "France",
         "flag": "🇫🇷"
       },
+      "goals": 10,
+      "assists": 4
+    },
+    {
+      "name": "Lionel Messi",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 8,
+      "assists": 4
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
       "goals": 7,
-      "assists": 2
+      "assists": 1
     },
     {
       "name": "Erling Haaland",
@@ -3750,14 +3819,14 @@
       "assists": 0
     },
     {
-      "name": "Lionel Messi",
+      "name": "Ousmane Dembélé",
       "team": {
-        "id": "argentina",
-        "name": "Argentina",
-        "flag": "🇦🇷"
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
       },
-      "goals": 7,
-      "assists": 0
+      "goals": 6,
+      "assists": 2
     },
     {
       "name": "Harry Kane",
@@ -3770,14 +3839,14 @@
       "assists": 1
     },
     {
-      "name": "Ousmane Dembélé",
+      "name": "Mikel Oyarzabal",
       "team": {
-        "id": "france",
-        "name": "France",
-        "flag": "🇫🇷"
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
       },
-      "goals": 4,
-      "assists": 2
+      "goals": 5,
+      "assists": 1
     },
     {
       "name": "Ismaïla Sarr",
@@ -3785,16 +3854,6 @@
         "id": "senegal",
         "name": "Senegal",
         "flag": "🇸🇳"
-      },
-      "goals": 4,
-      "assists": 1
-    },
-    {
-      "name": "Jude Bellingham",
-      "team": {
-        "id": "england",
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       "goals": 4,
       "assists": 1
@@ -3810,16 +3869,6 @@
       "assists": 1
     },
     {
-      "name": "Mikel Oyarzabal",
-      "team": {
-        "id": "spain",
-        "name": "Spain",
-        "flag": "🇪🇸"
-      },
-      "goals": 4,
-      "assists": 1
-    },
-    {
       "name": "Vinícius Júnior",
       "team": {
         "id": "brazil",
@@ -3828,6 +3877,16 @@
       },
       "goals": 4,
       "assists": 1
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 3,
+      "assists": 3
     },
     {
       "name": "Deniz Undav",
@@ -3850,11 +3909,51 @@
       "assists": 2
     },
     {
+      "name": "Bradley Barcola",
+      "team": {
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Charles De Ketelaere",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
       "name": "Cody Gakpo",
       "team": {
         "id": "netherlands",
         "name": "Netherlands",
         "flag": "🇳🇱"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Romelu Lukaku",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
       },
       "goals": 3,
       "assists": 1
@@ -3978,56 +4077,6 @@
       },
       "goals": 2,
       "assists": 2
-    },
-    {
-      "name": "Ayase Ueda",
-      "team": {
-        "id": "japan",
-        "name": "Japan",
-        "flag": "🇯🇵"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Bradley Barcola",
-      "team": {
-        "id": "france",
-        "name": "France",
-        "flag": "🇫🇷"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Leandro Trossard",
-      "team": {
-        "id": "belgium",
-        "name": "Belgium",
-        "flag": "🇧🇪"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Maxi Araújo",
-      "team": {
-        "id": "uruguay",
-        "name": "Uruguay",
-        "flag": "🇺🇾"
-      },
-      "goals": 2,
-      "assists": 1
-    },
-    {
-      "name": "Nicolas Pépé",
-      "team": {
-        "id": "ivory-coast",
-        "name": "Ivory Coast",
-        "flag": "🇨🇮"
-      },
-      "goals": 2,
-      "assists": 1
     }
   ],
   "assists": [
@@ -4039,7 +4088,27 @@
         "flag": "🇫🇷"
       },
       "goals": 0,
-      "assists": 5
+      "assists": 7
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": {
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "goals": 10,
+      "assists": 4
+    },
+    {
+      "name": "Lionel Messi",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 8,
+      "assists": 4
     },
     {
       "name": "Brahim Díaz",
@@ -4062,6 +4131,26 @@
       "assists": 4
     },
     {
+      "name": "Martin Ødegaard",
+      "team": {
+        "id": "norway",
+        "name": "Norway",
+        "flag": "🇳🇴"
+      },
+      "goals": 0,
+      "assists": 4
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 3,
+      "assists": 3
+    },
+    {
       "name": "Alexander Isak",
       "team": {
         "id": "sweden",
@@ -4078,17 +4167,17 @@
         "name": "Norway",
         "flag": "🇳🇴"
       },
-      "goals": 0,
+      "goals": 1,
       "assists": 3
     },
     {
-      "name": "Bukayo Saka",
+      "name": "Anthony Gordon",
       "team": {
         "id": "england",
         "name": "England",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
-      "goals": 0,
+      "goals": 1,
       "assists": 3
     },
     {
@@ -4097,16 +4186,6 @@
         "id": "germany",
         "name": "Germany",
         "flag": "🇩🇪"
-      },
-      "goals": 0,
-      "assists": 3
-    },
-    {
-      "name": "Martin Ødegaard",
-      "team": {
-        "id": "norway",
-        "name": "Norway",
-        "flag": "🇳🇴"
       },
       "goals": 0,
       "assists": 3
@@ -4122,23 +4201,13 @@
       "assists": 3
     },
     {
-      "name": "Kylian Mbappé",
-      "team": {
-        "id": "france",
-        "name": "France",
-        "flag": "🇫🇷"
-      },
-      "goals": 7,
-      "assists": 2
-    },
-    {
       "name": "Ousmane Dembélé",
       "team": {
         "id": "france",
         "name": "France",
         "flag": "🇫🇷"
       },
-      "goals": 4,
+      "goals": 6,
       "assists": 2
     },
     {
@@ -4182,11 +4251,41 @@
       "assists": 2
     },
     {
+      "name": "Leandro Trossard",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "goals": 2,
+      "assists": 2
+    },
+    {
       "name": "Achraf Hakimi",
       "team": {
         "id": "morocco",
         "name": "Morocco",
         "flag": "🇲🇦"
+      },
+      "goals": 1,
+      "assists": 2
+    },
+    {
+      "name": "Declan Rice",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 1,
+      "assists": 2
+    },
+    {
+      "name": "Hans Vanaken",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
       },
       "goals": 1,
       "assists": 2
@@ -4242,21 +4341,21 @@
       "assists": 2
     },
     {
-      "name": "Anthony Gordon",
-      "team": {
-        "id": "england",
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
       "name": "Chris Wood",
       "team": {
         "id": "new-zealand",
         "name": "New Zealand",
         "flag": "🇳🇿"
+      },
+      "goals": 0,
+      "assists": 2
+    },
+    {
+      "name": "Dani Olmo",
+      "team": {
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
       },
       "goals": 0,
       "assists": 2
@@ -4277,56 +4376,6 @@
         "id": "tunisia",
         "name": "Tunisia",
         "flag": "🇹🇳"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Houssem Aouar",
-      "team": {
-        "id": "algeria",
-        "name": "Algeria",
-        "flag": "🇩🇿"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Joshua Kimmich",
-      "team": {
-        "id": "germany",
-        "name": "Germany",
-        "flag": "🇩🇪"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Marc Cucurella",
-      "team": {
-        "id": "spain",
-        "name": "Spain",
-        "flag": "🇪🇸"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Patrick Berg",
-      "team": {
-        "id": "norway",
-        "name": "Norway",
-        "flag": "🇳🇴"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Ryan Gravenberch",
-      "team": {
-        "id": "netherlands",
-        "name": "Netherlands",
-        "flag": "🇳🇱"
       },
       "goals": 0,
       "assists": 2

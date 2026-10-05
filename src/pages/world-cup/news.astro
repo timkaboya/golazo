@@ -1,0 +1,11 @@
+---
+import Base from '../../layouts/Base.astro';
+import News from '../../components/News.tsx';
+---
+
+<Base title="News · World Cup 2026 Archive" active="news" navPrefix="/world-cup">
+  <div class="container">
+    <News client:load />
+  </div>
+</Base>
+

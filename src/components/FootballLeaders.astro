@@ -1,0 +1,47 @@
+---
+import type { FootballLeader } from '../lib/football-types';
+
+interface Props {
+  title: string;
+  leaders: FootballLeader[];
+  metric: 'goals' | 'assists';
+  limit?: number;
+}
+
+const { title, leaders, metric, limit = 10 } = Astro.props;
+---
+
+<section class="leader-board" aria-label={title}>
+  <div class="leader-board-head">
+    <h3>{title}</h3>
+    <span>{metric === 'goals' ? 'Goals' : 'Assists'}</span>
+  </div>
+  {leaders.length ? (
+    <ol class="leader-list">
+      {leaders.slice(0, limit).map((player, index) => (
+        <li>
+          <span class="leader-rank">{index + 1}</span>
+          <span class="leader-avatar">
+            {player.headshot ? (
+              <img src={player.headshot} alt="" loading="lazy" />
+            ) : player.team.logo ? (
+              <img src={player.team.logo} alt="" loading="lazy" />
+            ) : (
+              player.name.slice(0, 1)
+            )}
+          </span>
+          <span class="leader-person">
+            <strong>{player.name}</strong>
+            <small>
+              {player.team.name}
+              {player.competitions?.length ? ` · ${player.competitions.join(', ')}` : ''}
+            </small>
+          </span>
+          <strong class="leader-value">{player[metric]}</strong>
+        </li>
+      ))}
+    </ol>
+  ) : (
+    <div class="empty-panel">Statistics will appear after the next verified data refresh.</div>
+  )}
+</section>

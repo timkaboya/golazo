@@ -2,6 +2,7 @@
 
 .banner { background: var(--navy); padding: .9rem 1.2rem .8rem; }
 .banner-top { display: flex; align-items: baseline; justify-content: space-between; gap: .75rem; margin-bottom: .55rem; }
+.banner-actions { display: flex; gap: .5rem; align-items: center; }
 .banner-lbl { font-family: 'Bebas Neue', sans-serif; font-size: 1.35rem; letter-spacing: .06em; color: #fff; }
 .banner-date { font-size: .68rem; color: rgba(255, 255, 255, .45); }
 .refresh-btn {
@@ -88,3 +89,45 @@
 .mc-venue { font-size: .6rem; color: var(--text4); }
 
 .sched-empty { color: var(--text3); text-align: center; padding: 2rem 1rem; font-size: .8rem; }
+
+@media (max-width: 620px) {
+  .banner { padding-inline: .8rem; }
+  .banner-top {
+    align-items: stretch;
+    flex-direction: column;
+    gap: .65rem;
+  }
+  .banner-actions { width: 100%; }
+  .tz-select, .refresh-btn {
+    min-height: 42px;
+    font-size: .72rem;
+  }
+  .tz-select { flex: 1; min-width: 0; }
+  .refresh-btn { justify-content: center; padding-inline: .8rem; }
+  .next-row { margin-right: -.8rem; padding-right: .8rem; }
+  .nc { min-height: 64px; }
+  .legend {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+    padding-inline: .8rem;
+  }
+  .legend::-webkit-scrollbar { display: none; }
+  #sched-list { padding-inline: .8rem; }
+  .mc {
+    min-height: 68px;
+    grid-template-columns: 50px minmax(0, 1fr) auto;
+    gap: .5rem;
+    padding: .6rem .65rem;
+  }
+  .mc-teams, .mc-score { font-size: .82rem; }
+  .mc-meta { flex-wrap: nowrap; min-width: 0; }
+  .mc-venue { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pulse, .live-pill.on .pulse, .mc-live-tag, .pdot.pend, .refresh-btn.spin svg {
+    animation: none;
+  }
+}

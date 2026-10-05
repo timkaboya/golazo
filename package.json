@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "World Cup 2026 Companion — lightweight, timezone-correct, no-accounts web app.",
+  "description": "Mitty's Football — a static-first hub for major football competitions.",
   "scripts": {
     "dev": "astro dev",
     "data": "node --experimental-strip-types scripts/fetch-espn.ts",
     "data:news": "node --experimental-strip-types scripts/fetch-news.ts",
+    "data:football": "node --experimental-strip-types scripts/fetch-football.ts",
     "prebuild": "node scripts/prebuild.mjs",
     "build": "astro build",
     "preview": "astro preview",
@@ -15,6 +16,7 @@
     "check": "astro check",
     "typecheck": "tsc --noEmit",
     "test": "vitest run --passWithNoTests",
+    "test:coverage": "vitest run --coverage --passWithNoTests",
     "test:watch": "vitest",
     "perf": "node scripts/check-bundle.mjs",
     "e2e": "playwright test"
@@ -27,6 +29,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
     "@playwright/test": "^1.61.1",
+    "@vitest/coverage-v8": "^2.1.9",
     "typescript": "^5.6.0",
     "vitest": "^2.1.0"
   }

@@ -1,11 +1,15 @@
 ---
 interface Props {
   active: 'schedule' | 'tables' | 'scorers' | 'assists' | 'bracket' | 'news';
+  prefix?: string;
 }
-const { active } = Astro.props;
+const { active, prefix = '' } = Astro.props;
 
 const base = import.meta.env.BASE_URL; // '/', or e.g. '/worldcup-site/'
-const link = (href: string) => (href === '/' ? base : base.replace(/\/$/, '') + href);
+const link = (href: string) => {
+  const path = href === '/' ? prefix || '/' : `${prefix}${href}`;
+  return path === '/' ? base : base.replace(/\/$/, '') + path;
+};
 
 const tabs = [
   { id: 'schedule', href: '/', emoji: '📅', label: 'Schedule' },

@@ -1,16 +1,25 @@
 import { describe, it, expect } from 'vitest';
 import {
+  dayKey,
+  formatClock,
+  formatDayHeading,
+  formatTime,
+  kickoffMs,
+  LIVE_BUFFER_MS,
+  partsInTz,
   statusOf,
   timeBucket,
-  dayKey,
-  partsInTz,
-  LIVE_BUFFER_MS,
+  todayKey,
 } from '../src/lib/time';
 
 const KO = '2026-06-12T19:00:00Z';
 const koMs = new Date(KO).getTime();
 
 describe('statusOf', () => {
+  it('converts kickoff time to epoch milliseconds', () => {
+    expect(kickoffMs({ utc: KO })).toBe(koMs);
+  });
+
   it('is upcoming before kickoff', () => {
     expect(statusOf({ utc: KO }, koMs - 1000)).toBe('upcoming');
   });
@@ -47,5 +56,17 @@ describe('timezone conversion', () => {
     expect(partsInTz('2026-06-12T19:00:00Z', 'America/New_York').hour).toBe(15);
     // 19:00 UTC in Nairobi (UTC+3) => 22:00.
     expect(partsInTz('2026-06-12T19:00:00Z', 'Africa/Nairobi').hour).toBe(22);
+  });
+
+  it('builds today keys from an injected clock', () => {
+    expect(todayKey('America/New_York', new Date('2026-06-12T01:00:00Z').getTime())).toBe(
+      '2026-06-11'
+    );
+  });
+
+  it('formats match and update times in the selected timezone', () => {
+    expect(formatTime(KO, 'America/New_York')).toBe('3:00 PM');
+    expect(formatDayHeading(KO, 'America/New_York')).toBe('Fri, Jun 12');
+    expect(formatClock(koMs, 'America/New_York')).toBe('03:00 PM');
   });
 });

@@ -1,0 +1,88 @@
+---
+import '../styles/tokens.css';
+import '../styles/football.css';
+import { COMPETITIONS } from '../lib/competitions';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Mitty's Football",
+  description = 'Fixtures, tables, news and transfers from the biggest football competitions.',
+} = Astro.props;
+const base = import.meta.env.BASE_URL;
+const link = (path: string) => base.replace(/\/$/, '') + path;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#071426" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" href={link('/icons/favicon.svg')} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="football-body">
+    <a href="#main" class="skip-link">Skip to content</a>
+    <header class="football-header">
+      <div class="football-header-main">
+        <a href={base} class="football-brand" aria-label="Mitty's Football home">
+          <span class="football-mark" aria-hidden="true">M</span>
+          <span>
+            <strong>Mitty's Football</strong>
+            <small>The world game, all in one place</small>
+          </span>
+        </a>
+        <nav class="football-global-nav" aria-label="Global navigation">
+          <a href={base}>Home</a>
+          <a href={link('/#match-centre')}>Matches</a>
+          <a href={link('/#overall-stats')}>Stats</a>
+          <a href={link('/#top-news')}>News</a>
+        </nav>
+      </div>
+      <nav class="league-switcher" aria-label="Choose a competition">
+        {COMPETITIONS.map((competition) => (
+          <a href={link(`/leagues/${competition.slug}`)}>
+            <img src={competition.logo} alt="" />
+            <span>{competition.shortName}</span>
+          </a>
+        ))}
+      </nav>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="football-footer">
+      <div>
+        <strong>Mitty's Football</strong>
+        <span>Scores, tables and stories in one clear matchday view.</span>
+      </div>
+      <p>Data and imagery attributed to ESPN and linked publishers. Unofficial fan companion.</p>
+    </footer>
+    <script is:inline>
+      document.querySelectorAll('time[data-local]').forEach(function (node) {
+        var value = node.getAttribute('datetime');
+        if (!value) return;
+        try {
+          node.textContent = new Intl.DateTimeFormat(undefined, {
+            weekday: 'short',
+            day: 'numeric',
+            month: 'short',
+            hour: '2-digit',
+            minute: '2-digit',
+          }).format(new Date(value));
+        } catch (_) {}
+      });
+    </script>
+  </body>
+</html>

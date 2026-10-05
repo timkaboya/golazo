@@ -1,0 +1,188 @@
+---
+import FootballBase from '../../layouts/FootballBase.astro';
+import FootballLeaders from '../../components/FootballLeaders.astro';
+import FootballMatches from '../../components/FootballMatches.astro';
+import snapshot from '../../data/football.json';
+import { groupMatches } from '../../lib/football-stats';
+import type { CompetitionSnapshot } from '../../lib/football-types';
+
+export function getStaticPaths() {
+  return snapshot.competitions.map((competition) => ({
+    params: { slug: competition.config.slug },
+    props: { competition },
+  }));
+}
+
+interface Props {
+  competition: CompetitionSnapshot;
+}
+
+const { competition } = Astro.props;
+const { config, matches, tables, news, leaders, updatedUtc } = competition;
+const matchGroups = groupMatches(matches);
+const transfers = news.filter((story) => story.transfer);
+const cover = news.find((story) => story.imageUrl)?.imageUrl;
+---
+
+<FootballBase title={`${config.name} · Mitty's Football`} description={config.description}>
+  <section class="competition-hero" style={`--league:${config.color};--accent:${config.accent}`}>
+    {cover && <img class="competition-hero-bg" src={cover} alt="" fetchpriority="high" />}
+    <div class="competition-hero-inner football-shell">
+      <img class="competition-logo" src={config.logo} alt={`${config.name} logo`} />
+      <div>
+        <span class="eyebrow">{config.region}</span>
+        <h1>{config.name}</h1>
+        <p>{config.description}</p>
+        <div class="competition-updated">
+          Verified ESPN snapshot · updated <time datetime={updatedUtc} data-local>{new Date(updatedUtc).toUTCString()}</time>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <nav class="competition-nav" aria-label={`${config.name} sections`}>
+    <a href="#matches">Matches</a>
+    <a href="#table">{tables.length > 1 ? 'Tables' : 'Table'}</a>
+    <a href="#stats">Stats</a>
+    <a href="#news">News</a>
+    {config.transfers && <a href="#transfers">Transfers</a>}
+    {config.archiveHref && <a href={config.archiveHref}>Full archive</a>}
+  </nav>
+
+  <div class="competition-content football-shell">
+    {config.archiveHref && (
+      <div class="archive-callout">
+        <div>
+          <strong>The World Cup is complete.</strong>
+          <p>Open the original companion for every result, group table, scorer and the full knockout bracket.</p>
+        </div>
+        <a href={config.archiveHref}>Open 2026 archive</a>
+      </div>
+    )}
+
+    <section id="matches" class="competition-section">
+      <div class="competition-section-head">
+        <div>
+          <h2>Match centre</h2>
+          <p>Live games, upcoming fixtures and recent results in your local timezone.</p>
+        </div>
+      </div>
+      <div class="match-boards">
+        <FootballMatches
+          title="Live now"
+          description="Games currently in progress."
+          matches={matchGroups.live}
+          empty="No live games right now."
+          status="live"
+        />
+        <FootballMatches
+          title="Upcoming games"
+          description="The next scheduled fixtures."
+          matches={matchGroups.upcoming}
+          empty="No upcoming fixtures in the current data window."
+          status="upcoming"
+        />
+        <FootballMatches
+          title="Recent results"
+          description="The latest completed games."
+          matches={matchGroups.recent}
+          empty="No recent results are available."
+          status="finished"
+        />
+      </div>
+    </section>
+
+    <section id="table" class="competition-section">
+      <div class="competition-section-head">
+        <div>
+          <h2>{tables.length > 1 ? 'Standings' : 'League table'}</h2>
+          <p>Official source ordering and tiebreak positions.</p>
+        </div>
+      </div>
+      {tables.length ? tables.map((table) => (
+        <div class="table-block">
+          {tables.length > 1 && <h3 class="table-name">{table.name}</h3>}
+          <div class="football-table-wrap">
+            <table class="football-table">
+              <thead>
+                <tr><th>#</th><th>Club</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th><th>GD</th><th>Pts</th></tr>
+              </thead>
+              <tbody>
+                {table.rows.map((row) => (
+                  <tr>
+                    <td class="rank">{row.rank}</td>
+                    <td class="table-team">
+                      {row.team.logo ? <img src={row.team.logo} alt="" loading="lazy" /> : <span />}
+                      <span>{row.team.name}</span>
+                    </td>
+                    <td>{row.played}</td><td>{row.won}</td><td>{row.drawn}</td><td>{row.lost}</td>
+                    <td>{row.gf}</td><td>{row.ga}</td><td>{row.gd > 0 ? `+${row.gd}` : row.gd}</td>
+                    <td class="points">{row.points}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      )) : <div class="empty-panel">The official table is not available yet.</div>}
+    </section>
+
+    <section id="stats" class="competition-section">
+      <div class="competition-section-head">
+        <div>
+          <h2>Player statistics</h2>
+          <p>Top scorers and assist leaders from the verified competition statistics feed.</p>
+        </div>
+        <div class="section-jump-links" aria-label="Statistics views">
+          <a href="#top-scorers">Top scorers</a>
+          <a href="#top-assists">Assists</a>
+        </div>
+      </div>
+      <div class="leader-grid">
+        <div id="top-scorers"><FootballLeaders title="Top scorers" leaders={leaders.scorers} metric="goals" /></div>
+        <div id="top-assists"><FootballLeaders title="Assist leaders" leaders={leaders.assists} metric="assists" /></div>
+      </div>
+    </section>
+
+    <section id="news" class="competition-section">
+      <div class="competition-section-head">
+        <div><h2>Latest news</h2><p>Headlines open on the original publisher’s site.</p></div>
+      </div>
+      {news.length ? (
+        <div class="competition-news-grid">
+          {news.slice(0, 10).map((story) => (
+            <a class="story-card" href={story.url} target="_blank" rel="noopener noreferrer">
+              {story.imageUrl && <img src={story.imageUrl} alt="" loading="lazy" />}
+              <div class="story-card-body">
+                <span class="story-kicker">{story.source}</span>
+                <h3>{story.title}</h3>
+                <div class="story-meta"><time datetime={story.publishedUtc} data-local>{new Date(story.publishedUtc).toUTCString()}</time></div>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : <div class="empty-panel">No current stories are available.</div>}
+    </section>
+
+    {config.transfers && (
+      <section id="transfers" class="competition-section">
+        <div class="competition-section-head">
+          <div><h2>Transfer news</h2><p>Signings, loans, contracts and reported moves connected to this competition.</p></div>
+        </div>
+        {transfers.length ? (
+          <div class="competition-news-grid">
+            {transfers.slice(0, 8).map((story) => (
+              <a class="story-card" href={story.url} target="_blank" rel="noopener noreferrer">
+                {story.imageUrl && <img src={story.imageUrl} alt="" loading="lazy" />}
+                <div class="story-card-body">
+                  <span class="story-kicker">Transfer watch · {story.source}</span>
+                  <h3>{story.title}</h3>
+                </div>
+              </a>
+            ))}
+          </div>
+        ) : <div class="empty-panel">No verified transfer stories in the current feed. Check back after the next refresh.</div>}
+      </section>
+    )}
+  </div>
+</FootballBase>
