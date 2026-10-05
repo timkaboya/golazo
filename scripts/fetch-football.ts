@@ -210,7 +210,7 @@ async function fetchCompetition(
 }
 
 async function main() {
-  console.log(`Fetching Mitty's Football data for ${YEAR}…`);
+  console.log(`Fetching Golazo data for ${YEAR}…`);
   const previous = existsSync(OUT)
     ? (JSON.parse(readFileSync(OUT, 'utf8')) as FootballSnapshot)
     : undefined;

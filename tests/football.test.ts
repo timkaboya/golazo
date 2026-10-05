@@ -12,7 +12,7 @@ describe('competition registry', () => {
   });
 });
 
-describe("Mitty's Football snapshot", () => {
+describe('Golazo snapshot', () => {
   it('contains every configured competition exactly once', () => {
     expect(snapshot.competitions).toHaveLength(COMPETITIONS.length);
     expect(new Set(snapshot.competitions.map((item) => item.config.slug)).size).toBe(COMPETITIONS.length);

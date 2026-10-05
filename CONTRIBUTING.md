@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in improving **Mitty's Football**! This static-first football hub covers
+Thanks for your interest in improving **Golazo**! This static-first football hub covers
 major leagues and competitions while preserving the World Cup 2026 archive. These guidelines keep
 changes reliable, accessible, and fast.
 
