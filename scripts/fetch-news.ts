@@ -22,7 +22,7 @@ async function fetchText(url: string, timeoutMs = 8000): Promise<string> {
   try {
     const r = await fetch(url, {
       signal: ctrl.signal,
-      headers: { 'user-agent': 'worldcup-site/1.0 (+https://github.com/timkaboya/worldcup-site)' },
+      headers: { 'user-agent': 'golazo/1.0 (+https://github.com/timkaboya/golazo)' },
     });
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     return await r.text();

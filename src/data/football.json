@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-05T07:11:30.887Z",
+  "updatedUtc": "2026-10-05T07:52:50.146Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.175Z",
+      "updatedUtc": "2026-10-05T07:52:49.412Z",
       "matches": [
         {
           "id": "401915452",
@@ -3047,7 +3047,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.147Z",
+      "updatedUtc": "2026-10-05T07:52:49.436Z",
       "matches": [
         {
           "id": "401915594",
@@ -6089,7 +6089,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.364Z",
+      "updatedUtc": "2026-10-05T07:52:50.105Z",
       "matches": [
         {
           "id": "401879285",
@@ -9016,7 +9016,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.442Z",
+      "updatedUtc": "2026-10-05T07:52:49.565Z",
       "matches": [
         {
           "id": "401882877",
@@ -11938,7 +11938,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.535Z",
+      "updatedUtc": "2026-10-05T07:52:50.146Z",
       "matches": [
         {
           "id": "401874756",
@@ -14827,7 +14827,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.496Z",
+      "updatedUtc": "2026-10-05T07:52:49.515Z",
       "matches": [
         {
           "id": "401884806",
@@ -17743,7 +17743,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.285Z",
+      "updatedUtc": "2026-10-05T07:52:49.472Z",
       "matches": [
         {
           "id": "401876472",
@@ -20650,7 +20650,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-05T07:11:30.120Z",
+      "updatedUtc": "2026-10-05T07:52:49.839Z",
       "matches": [
         {
           "id": "401861118",
@@ -23205,6 +23205,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50107997/cristiano-ronaldo-door-open-portugal-return-jorge-jesus",
+          "title": "Cristiano Ronaldo door open for Portugal return - Jorge Jesus",
+          "description": "Portugal boss Jorge Jesus has opened the door for Cristiano Ronaldo to resume his international career.",
+          "url": "https://www.espn.com/soccer/story/_/id/50107997/cristiano-ronaldo-door-open-portugal-return-jorge-jesus",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726232_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T07:40:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
           "title": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
           "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
@@ -23431,16 +23441,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401861116",
           "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725446_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-03T21:02:24Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50092667/ireland-israel-news-conference-abruptly-cut-short",
-          "title": "Ireland's pre-Israel presser abruptly ended after racism allegation",
-          "description": "Ireland's news conference ahead of the team's contentious Nations League game against Israel was abruptly ended Saturday when a journalist asked coach Heimir Hallgrimsson about alleged racism by Irish players during last week's match between the teams.",
-          "url": "https://www.espn.com/soccer/story/_/id/50092667/ireland-israel-news-conference-abruptly-cut-short",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725435_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T11:58:56Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -24192,7 +24192,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T07:11:30.887Z",
+      "updatedUtc": "2026-10-05T07:52:49.647Z",
       "matches": [
         {
           "id": "761871",
@@ -27241,7 +27241,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-05T07:11:30.397Z",
+      "updatedUtc": "2026-10-05T07:52:49.888Z",
       "matches": [
         {
           "id": "760415",

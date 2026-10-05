@@ -338,7 +338,7 @@ interface UserPrefs { timezone: string; favorites: string[]; lastSeenNewsUtc?: s
 ## 7. Repository structure (proposed)
 
 ```
-worldcup-site/
+golazo/
 ├─ docs/
 │  ├─ PRODUCT_SPEC.md
 │  └─ TECHNICAL_SPEC.md

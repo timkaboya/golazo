@@ -39,7 +39,7 @@ async function getJson(url: string, timeoutMs = 15000, tries = 3): Promise<any> 
     try {
       const response = await fetch(url, {
         signal: ctrl.signal,
-        headers: { 'user-agent': 'mittys-football/1.0 (+https://github.com/timkaboya/worldcup-site)' },
+        headers: { 'user-agent': 'golazo/1.0 (+https://github.com/timkaboya/golazo)' },
       });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       return await response.json();

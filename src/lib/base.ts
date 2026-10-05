@@ -1,5 +1,5 @@
 // Base-path helper so the app works both at the site root (Cloudflare Worker)
-// and under a GitHub Pages project subpath (e.g. /worldcup-site/).
+// and under a GitHub Pages project subpath (e.g. /golazo/).
 // `import.meta.env.BASE_URL` is injected by Astro/Vite from `base` in
 // astro.config.mjs and always ends with a trailing slash.
 export const BASE_URL: string = (import.meta.env.BASE_URL as string) || '/';

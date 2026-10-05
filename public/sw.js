@@ -11,7 +11,7 @@ const SHELL = `${VERSION}-shell`;
 const RUNTIME = `${VERSION}-runtime`;
 
 // Base path this SW controls: '' at the site root (Cloudflare), or e.g.
-// '/worldcup-site' under a GitHub Pages project subpath. Derived from the
+// '/golazo' under a GitHub Pages project subpath. Derived from the
 // registration scope so the same file works on both deployments.
 const BASE = new URL(self.registration.scope).pathname.replace(/\/$/, '');
 

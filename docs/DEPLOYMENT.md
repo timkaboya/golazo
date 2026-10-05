@@ -4,9 +4,9 @@ The app is a static Astro site plus Cloudflare Pages Functions for the read-only
 
 ## Hosting: Cloudflare Pages (recommended)
 
-1. Push this repo to GitHub (already done: `timkaboya/worldcup-site`).
+1. Push this repo to GitHub (already done: `timkaboya/golazo`).
 2. In the Cloudflare dashboard → **Workers & Pages → Create → Pages → Connect to Git**.
-3. Select the `worldcup-site` repo. Build settings:
+3. Select the `golazo` repo. Build settings:
    - **Framework preset:** Astro
    - **Build command:** `npm run build`
    - **Build output directory:** `dist`
@@ -19,7 +19,7 @@ The app is a static Astro site plus Cloudflare Pages Functions for the read-only
 Cloudflare's Git integration occasionally stops picking up new commits. The
 `.github/workflows/deploy-cloudflare.yml` workflow is a reliable fallback: on every
 push to `main` it builds the site and runs `wrangler pages deploy dist
---project-name=worldcup-site --branch=main`, updating the **same** Live Pages project.
+--project-name=golazo --branch=main`, updating the **same** Live Pages project.
 
 It is a safe no-op until you enable it — the deploy step only runs when the
 `CLOUDFLARE_API_TOKEN` secret is present. To turn it on, add two **repository secrets**

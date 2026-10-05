@@ -11,7 +11,7 @@ interface Props {
 }
 
 const { title = 'World Cup 2026', active, navPrefix = '' } = Astro.props;
-const base = import.meta.env.BASE_URL; // '/', or e.g. '/worldcup-site/'
+const base = import.meta.env.BASE_URL; // '/', or e.g. '/golazo/'
 const asset = (p: string) => base.replace(/\/$/, '') + p;
 ---
 
