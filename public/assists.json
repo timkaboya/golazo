@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-06T13:13:08.441Z",
+  "updatedUtc": "2026-10-05T06:53:00.522Z",
   "assists": [
     {
       "name": "Michael Olise",
@@ -10,7 +10,27 @@
         "flag": "🇫🇷"
       },
       "goals": 0,
-      "assists": 5
+      "assists": 7
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": {
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "goals": 10,
+      "assists": 4
+    },
+    {
+      "name": "Lionel Messi",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 8,
+      "assists": 4
     },
     {
       "name": "Brahim Díaz",
@@ -33,6 +53,26 @@
       "assists": 4
     },
     {
+      "name": "Martin Ødegaard",
+      "team": {
+        "id": "norway",
+        "name": "Norway",
+        "flag": "🇳🇴"
+      },
+      "goals": 0,
+      "assists": 4
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 3,
+      "assists": 3
+    },
+    {
       "name": "Alexander Isak",
       "team": {
         "id": "sweden",
@@ -49,17 +89,17 @@
         "name": "Norway",
         "flag": "🇳🇴"
       },
-      "goals": 0,
+      "goals": 1,
       "assists": 3
     },
     {
-      "name": "Bukayo Saka",
+      "name": "Anthony Gordon",
       "team": {
         "id": "england",
         "name": "England",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
-      "goals": 0,
+      "goals": 1,
       "assists": 3
     },
     {
@@ -68,16 +108,6 @@
         "id": "germany",
         "name": "Germany",
         "flag": "🇩🇪"
-      },
-      "goals": 0,
-      "assists": 3
-    },
-    {
-      "name": "Martin Ødegaard",
-      "team": {
-        "id": "norway",
-        "name": "Norway",
-        "flag": "🇳🇴"
       },
       "goals": 0,
       "assists": 3
@@ -93,23 +123,13 @@
       "assists": 3
     },
     {
-      "name": "Kylian Mbappé",
-      "team": {
-        "id": "france",
-        "name": "France",
-        "flag": "🇫🇷"
-      },
-      "goals": 7,
-      "assists": 2
-    },
-    {
       "name": "Ousmane Dembélé",
       "team": {
         "id": "france",
         "name": "France",
         "flag": "🇫🇷"
       },
-      "goals": 4,
+      "goals": 6,
       "assists": 2
     },
     {
@@ -153,11 +173,41 @@
       "assists": 2
     },
     {
+      "name": "Leandro Trossard",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "goals": 2,
+      "assists": 2
+    },
+    {
       "name": "Achraf Hakimi",
       "team": {
         "id": "morocco",
         "name": "Morocco",
         "flag": "🇲🇦"
+      },
+      "goals": 1,
+      "assists": 2
+    },
+    {
+      "name": "Declan Rice",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 1,
+      "assists": 2
+    },
+    {
+      "name": "Hans Vanaken",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
       },
       "goals": 1,
       "assists": 2
@@ -213,21 +263,21 @@
       "assists": 2
     },
     {
-      "name": "Anthony Gordon",
-      "team": {
-        "id": "england",
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
       "name": "Chris Wood",
       "team": {
         "id": "new-zealand",
         "name": "New Zealand",
         "flag": "🇳🇿"
+      },
+      "goals": 0,
+      "assists": 2
+    },
+    {
+      "name": "Dani Olmo",
+      "team": {
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
       },
       "goals": 0,
       "assists": 2
@@ -248,56 +298,6 @@
         "id": "tunisia",
         "name": "Tunisia",
         "flag": "🇹🇳"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Houssem Aouar",
-      "team": {
-        "id": "algeria",
-        "name": "Algeria",
-        "flag": "🇩🇿"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Joshua Kimmich",
-      "team": {
-        "id": "germany",
-        "name": "Germany",
-        "flag": "🇩🇪"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Marc Cucurella",
-      "team": {
-        "id": "spain",
-        "name": "Spain",
-        "flag": "🇪🇸"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Patrick Berg",
-      "team": {
-        "id": "norway",
-        "name": "Norway",
-        "flag": "🇳🇴"
-      },
-      "goals": 0,
-      "assists": 2
-    },
-    {
-      "name": "Ryan Gravenberch",
-      "team": {
-        "id": "netherlands",
-        "name": "Netherlands",
-        "flag": "🇳🇱"
       },
       "goals": 0,
       "assists": 2

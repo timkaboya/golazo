@@ -14,6 +14,7 @@ import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   ESPN_BASE,
+  SCORE_PERIODS,
   ESPN_STANDINGS,
   ESPN_STATISTICS,
   assignGroups,
@@ -41,27 +42,11 @@ async function getJson(url: string, tries = 3): Promise<any> {
   throw lastErr;
 }
 
-function dateRanges(startISO: string, endISO: string, chunkDays = 6): string[] {
-  const out: string[] = [];
-  const start = new Date(startISO);
-  const end = new Date(endISO);
-  let cur = new Date(start);
-  while (cur <= end) {
-    const from = new Date(cur);
-    const to = new Date(cur);
-    to.setUTCDate(to.getUTCDate() + chunkDays - 1);
-    const fmt = (d: Date) =>
-      `${d.getUTCFullYear()}${String(d.getUTCMonth() + 1).padStart(2, '0')}${String(d.getUTCDate()).padStart(2, '0')}`;
-    out.push(`${fmt(from)}-${fmt(to)}`);
-    cur.setUTCDate(cur.getUTCDate() + chunkDays);
-  }
-  return out;
-}
-
 async function fetchAllMatches(): Promise<Match[]> {
-  const ranges = dateRanges('2026-06-11', '2026-07-19', 6);
   const payloads = await Promise.all(
-    ranges.map((r) => getJson(`${ESPN_BASE}/scoreboard?dates=${r}`).catch(() => ({ events: [] })))
+    SCORE_PERIODS.map((period) =>
+      getJson(`${ESPN_BASE}/scoreboard?dates=${period}&limit=1000`).catch(() => ({ events: [] }))
+    )
   );
   const byId = new Map<number, Match>();
   for (const p of payloads) {

@@ -1,8 +1,8 @@
 # Contributing
 
-Thanks for your interest in improving the **World Cup 2026 Companion**! This is a small,
-lightweight project built for the duration of the tournament. These guidelines keep changes safe
-and the site fast.
+Thanks for your interest in improving **Mitty's Football**! This static-first football hub covers
+major leagues and competitions while preserving the World Cup 2026 archive. These guidelines keep
+changes reliable, accessible, and fast.
 
 ## Ground rules
 
@@ -37,7 +37,7 @@ automatically in GitHub Actions (`.github/workflows/ci.yml`), and you can run th
 
 ```bash
 npm run typecheck   # TypeScript: no type errors
-npm test            # Vitest unit tests
+npm run test:coverage # Vitest unit tests and enforced coverage thresholds
 npm run build       # Astro production build succeeds
 npm run perf        # Client JS stays within the 90 KB gzip budget
 npm run e2e         # Playwright end-to-end tests
@@ -45,11 +45,34 @@ npm run e2e         # Playwright end-to-end tests
 
 A PR is expected to:
 
-- [ ] Pass typecheck, unit tests, build, e2e, and the bundle-size budget.
-- [ ] Add or update tests when changing behavior.
+- [ ] Pass typecheck, unit tests with coverage, build, e2e, and the bundle-size budget.
+- [ ] Add or update focused tests for every changed behavior and testable function.
 - [ ] Keep the change small and focused (no unrelated refactors).
 - [ ] Update docs (`README.md` / `docs/**`) when behavior or setup changes.
 - [ ] Not add new tracking, accounts, secrets, or heavyweight dependencies.
+
+## Testing and coverage policy
+
+Every behavioral change must be designed so its outcomes can be tested deterministically.
+Contributors and coding agents follow the same rules:
+
+- Add or update a focused unit test for each new or changed pure function. Cover the normal case,
+  failure or invalid-input behavior, and meaningful boundaries.
+- Extract data mapping, filtering, calculations, and state transitions from UI or network code when
+  that makes them independently testable. Do not export implementation details solely to inflate
+  coverage.
+- Use integration tests for module boundaries, generated snapshots, and external-data adapters.
+  Mock network responses; unit tests must not depend on live third-party services.
+- Add or update Playwright tests for user-visible navigation, responsive behavior, and critical
+  workflows. E2E coverage supplements unit tests and never replaces them.
+- Bug fixes must include a regression test that fails without the fix.
+- A change is not complete until its affected tests pass and `npm run test:coverage` meets the
+  thresholds in `vitest.config.ts`. Never lower thresholds to make a change pass; add tests or
+  explicitly justify a scope change in review.
+
+Coverage intentionally measures testable core logic under `src/lib`. Astro templates, generated
+data, browser/runtime adapters, and environment-specific entry points are validated through
+typecheck, build, integration, and E2E checks instead of misleading line-coverage numbers.
 
 ## Coding conventions
 

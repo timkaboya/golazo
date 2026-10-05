@@ -1,7 +1,10 @@
 import { describe, it, expect } from 'vitest';
 import {
   assignGroups,
+  buildScoresSnapshot,
   buildLeaders,
+  ESPN_BASE,
+  ESPN_STANDINGS,
   flagEmoji,
   mapScoreboard,
   mapSummary,
@@ -91,6 +94,22 @@ const scoreboard = {
     },
   ],
 };
+
+describe('buildScoresSnapshot', () => {
+  it('uses ESPN-supported month queries and keeps all returned matches', async () => {
+    const urls: string[] = [];
+    const snapshot = await buildScoresSnapshot(async (url) => {
+      urls.push(url);
+      if (url === ESPN_STANDINGS) return {};
+      return scoreboard;
+    });
+
+    expect(urls).toContain(`${ESPN_BASE}/scoreboard?dates=202606&limit=1000`);
+    expect(urls).toContain(`${ESPN_BASE}/scoreboard?dates=202607&limit=1000`);
+    expect(urls.some((url) => /dates=\d{8}-\d{8}/.test(url))).toBe(false);
+    expect(snapshot.matches).toHaveLength(3);
+  });
+});
 
 describe('mapScoreboard', () => {
   const matches = mapScoreboard(scoreboard);

@@ -149,18 +149,10 @@ export function mapScoreboard(json: any): Match[] {
   return evs.map(mapEvent).filter((m): m is Match => m !== null);
 }
 
-// Six-day chunks covering the whole tournament (Jun 11 – Jul 19, 2026).
-// Shared by the edge function and the browser fallback so both pull the
-// identical live window from ESPN.
-export const SCORE_RANGES = [
-  '20260611-20260616',
-  '20260617-20260622',
-  '20260623-20260628',
-  '20260629-20260704',
-  '20260705-20260710',
-  '20260711-20260716',
-  '20260717-20260719',
-];
+// ESPN accepts a single day, month, or year in `dates`, but rejects the
+// previously used `YYYYMMDD-YYYYMMDD` ranges. These two month queries cover
+// the complete tournament and keep browser/edge refreshes lightweight.
+export const SCORE_PERIODS = ['202606', '202607'];
 
 /**
  * Build a live ScoresSnapshot straight from ESPN's public API. Pure aside from
@@ -173,8 +165,8 @@ export async function buildScoresSnapshot(
 ): Promise<ScoresSnapshot> {
   const [scoreboards, standingsJson] = await Promise.all([
     Promise.all(
-      SCORE_RANGES.map((r) =>
-        fetchJson(`${ESPN_BASE}/scoreboard?dates=${r}`).catch(() => ({ events: [] }))
+      SCORE_PERIODS.map((period) =>
+        fetchJson(`${ESPN_BASE}/scoreboard?dates=${period}&limit=1000`).catch(() => ({ events: [] }))
       )
     ),
     fetchJson(ESPN_STANDINGS).catch(() => ({})),

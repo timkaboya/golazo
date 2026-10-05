@@ -1,0 +1,56 @@
+---
+import type { FootballMatch } from '../lib/football-types';
+
+interface DisplayMatch extends FootballMatch {
+  competition?: string;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  matches: DisplayMatch[];
+  empty: string;
+  status?: 'live' | 'upcoming' | 'finished';
+}
+
+const { title, description, matches, empty, status } = Astro.props;
+const score = (match: DisplayMatch, side: 'home' | 'away') =>
+  match.score ? match.score[side] : match.status === 'live' ? '–' : '';
+---
+
+<section class:list={['match-board', status && `is-${status}`]}>
+  <div class="competition-section-head">
+    <div>
+      <h3>{title}</h3>
+      <p>{description}</p>
+    </div>
+    {status === 'live' && matches.length > 0 && <span class="live-indicator">Live</span>}
+  </div>
+  {matches.length ? (
+    <div class="match-strip">
+      {matches.map((match) => (
+        <article class="football-match">
+          <div class="football-match-top">
+            <span>{match.competition || match.phase}</span>
+            <time datetime={match.utc} data-local>{new Date(match.utc).toUTCString()}</time>
+          </div>
+          <div class="football-match-team">
+            {match.home.logo ? <img src={match.home.logo} alt="" loading="lazy" /> : <span />}
+            <span>{match.home.name}</span>
+            <span class="football-match-score">{score(match, 'home')}</span>
+          </div>
+          <div class="football-match-team">
+            {match.away.logo ? <img src={match.away.logo} alt="" loading="lazy" /> : <span />}
+            <span>{match.away.name}</span>
+            <span class="football-match-score">{score(match, 'away')}</span>
+          </div>
+          <div class="football-match-meta">
+            {match.note || match.venue || (match.status === 'live' ? 'Live now' : match.phase)}
+          </div>
+        </article>
+      ))}
+    </div>
+  ) : (
+    <div class="empty-panel">{empty}</div>
+  )}
+</section>

@@ -19,6 +19,13 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Keep the Live site fresh during the tournament without waiting for a commit.
+  # Each scheduled run rebuilds — `prebuild` re-fetches the latest ESPN data
+  # (scores, standings, top scorers, assists) — and redeploys, so the boards
+  # update automatically every day and shortly after every match. This runs
+  # server-side, so it works even when a visitor's browser can't reach ESPN.
+  schedule:
+    - cron: '0 */2 * * *'
 
 # One Cloudflare deploy at a time; let an in-progress run finish.
 concurrency:
@@ -35,7 +42,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
       - run: npm ci
 

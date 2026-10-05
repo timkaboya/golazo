@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import Tables from '../../components/Tables.tsx';
+---
+
+<Base title="Tables · World Cup 2026 Archive" active="tables" navPrefix="/world-cup">
+  <div class="container">
+    <div class="page-head">
+      <h1 class="page-title">Group Standings</h1>
+      <p class="page-sub">Final group tables from the completed 2026 tournament.</p>
+    </div>
+    <Tables client:load />
+  </div>
+</Base>
+

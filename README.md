@@ -1,8 +1,8 @@
-# World Cup 2026 Companion ⚽
+# Mitty's Football
 
-A fast, lightweight web app for following the **FIFA World Cup 2026** in real time — live
-scores, match stats, group tables, top scorers, assists, a circular knockout bracket, and curated news —
-localized to **your timezone**, on mobile and web, with **no sign-up**.
+A fast, lightweight football hub for the Champions League, Europa League, Europe's Top 5 leagues,
+UEFA Nations League, MLS, and the complete World Cup 2026 archive. It combines live/upcoming/recent
+matches, tables, top scorers, assists, transfers, and attributed news on mobile and web.
 
 Static-first, installable (PWA), and backed only by a thin read-only edge data layer.
 No accounts, no user data, no tracking.
@@ -15,18 +15,17 @@ No accounts, no user data, no tracking.
 | **Staging** | https://timkaboya.github.io/worldcup-site/ | GitHub Pages (static fallback data) |
 
 Both build from `main`. The Cloudflare **Live** site runs the `/api/*` edge functions that
-aggregate live scores server-side; the GitHub Pages **Staging** site is a pure static build that
-falls back to the prerendered JSON snapshots, so it's ideal for previewing UI changes.
+aggregate World Cup scores server-side; the broader football hub uses resilient build-time ESPN
+snapshots. GitHub Pages **Staging** is a pure static build and is ideal for previewing UI changes.
 
 ## ✨ Features
 
-- **Schedule** — every match in your timezone, grouped by day, with an "up next" drawer and live polling.
-- **Live scores & match detail** — expandable match view with facts, line-ups, and stats.
-- **Group tables** — standings with qualification highlighting.
-- **Top scorers** — the Golden Boot race, refreshed live from ESPN on load.
-- **Assists** — the playmaker race, ranking the tournament's top assist providers, refreshed live.
-- **Bracket** — a circular knockout tree that fills in as matches finish; tap any flag for details.
-- **News** — curated, attributed World Cup stories from reputable outlets, newest first.
+- **Match centre** — live, upcoming, and recent games across every tracked competition.
+- **Competition homes** — fixtures, standings, player statistics, news, and transfers.
+- **Player leaders** — per-competition and aggregate scorer/assist boards.
+- **Top news** — current attributed stories surfaced directly beside the landing match centre.
+- **World Cup archive** — all 104 results, group tables, player leaders, and knockout bracket.
+- **Responsive dashboard** — dense desktop information with mobile-safe horizontal navigation.
 - **PWA** — installable, offline-tolerant, with a service worker.
 
 ## 🧱 Tech stack
@@ -34,7 +33,7 @@ falls back to the prerendered JSON snapshots, so it's ideal for previewing UI ch
 - **[Astro](https://astro.build/)** (static output) with **[Preact](https://preactjs.com/)** islands for interactivity.
 - **TypeScript** throughout.
 - **Cloudflare Pages Functions** (`/functions/**`) for the read-only live-score edge APIs.
-- Build-time data fetch from the public **ESPN** FIFA World Cup feeds + RSS news (no API keys).
+- Build-time data fetch from public **ESPN** competition feeds + RSS news (no API keys).
 - **Vitest** (unit) and **Playwright** (e2e) for tests; a bundle-size budget check for perf.
 
 ## 🚀 Quick start
@@ -51,10 +50,11 @@ Common scripts:
 | Script | What it does |
 | --- | --- |
 | `npm run typecheck` | Type-check with `tsc --noEmit` |
-| `npm test` | Unit tests (Vitest) |
+| `npm run test:coverage` | Unit tests with enforced Vitest coverage thresholds |
 | `npm run e2e` | End-to-end tests (Playwright) |
 | `npm run perf` | Enforce the client-JS bundle-size budget (90 KB gzip) |
-| `npm run data` / `npm run data:news` | Refresh the static score/news snapshots |
+| `npm run data:football` | Refresh all league, cup, news, table, and player-stat snapshots |
+| `npm run data` / `npm run data:news` | Refresh the World Cup archive score/news snapshots |
 
 ## 📚 Docs
 
@@ -94,5 +94,5 @@ Lightweight first · No accounts · Your timezone · Mobile + web · Authentic, 
 
 Released under the [MIT License](./LICENSE).
 
-> Score, fixture, and news data are sourced from public third-party feeds and belong to their
-> respective owners. This project is an unofficial fan companion and is not affiliated with FIFA.
+> Score, fixture, statistic, and news data are sourced from public third-party feeds and belong to
+> their respective owners. This project is an unofficial fan companion.

@@ -7,9 +7,10 @@ import Support from '../components/Support.tsx';
 interface Props {
   title?: string;
   active: 'schedule' | 'tables' | 'scorers' | 'assists' | 'bracket' | 'news';
+  navPrefix?: string;
 }
 
-const { title = 'World Cup 2026', active } = Astro.props;
+const { title = 'World Cup 2026', active, navPrefix = '' } = Astro.props;
 const base = import.meta.env.BASE_URL; // '/', or e.g. '/worldcup-site/'
 const asset = (p: string) => base.replace(/\/$/, '') + p;
 ---
@@ -37,22 +38,22 @@ const asset = (p: string) => base.replace(/\/$/, '') + p;
   <body>
     <a href="#main" class="skip-link">Skip to content</a>
     <header class="hdr">
-      <div class="brand">
+      <a class="brand" href={base} aria-label="World Cup 2026 schedule">
         <span class="ef ef-lg">⚽</span>
         <div>
           <div class="brand-name">World Cup 2026</div>
-          <div class="brand-sub">Your timezone · Live</div>
+          <div class="brand-sub">Scores in your timezone</div>
         </div>
-      </div>
+      </a>
       <div class="hdr-right">
-        <span id="live-pill" class="live-pill" title="This site is live and auto-refreshing">
-          <span class="pulse"></span><span id="live-label">Live</span>
+        <span id="live-pill" class="live-pill" title="Scores auto-refresh">
+          <span class="pulse"></span><span id="live-label">Updates</span>
         </span>
         <span id="tz-badge" class="tz-badge">🕐 <span id="tz-label"></span></span>
       </div>
     </header>
 
-    <TabNav active={active} />
+    <TabNav active={active} prefix={navPrefix} />
 
     <main id="main">
       <slot />
