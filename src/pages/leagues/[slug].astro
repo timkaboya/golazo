@@ -24,7 +24,7 @@ const transfers = news.filter((story) => story.transfer);
 const cover = news.find((story) => story.imageUrl)?.imageUrl;
 ---
 
-<FootballBase title={`${config.name} · Mitty's Football`} description={config.description}>
+<FootballBase title={`${config.name} · Golazo`} description={config.description}>
   <section class="competition-hero" style={`--league:${config.color};--accent:${config.accent}`}>
     {cover && <img class="competition-hero-bg" src={cover} alt="" fetchpriority="high" />}
     <div class="competition-hero-inner football-shell">

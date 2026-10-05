@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-05T06:53:04.396Z",
+  "updatedUtc": "2026-10-05T07:11:30.887Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:03.006Z",
+      "updatedUtc": "2026-10-05T07:11:30.175Z",
       "matches": [
         {
           "id": "401915452",
@@ -3047,7 +3047,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:02.832Z",
+      "updatedUtc": "2026-10-05T07:11:30.147Z",
       "matches": [
         {
           "id": "401915594",
@@ -6089,7 +6089,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:03.184Z",
+      "updatedUtc": "2026-10-05T07:11:30.364Z",
       "matches": [
         {
           "id": "401879285",
@@ -8041,6 +8041,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+          "title": "Which Premier League players got injured in the international break?",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T06:42:08Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
           "title": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
           "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
@@ -8057,16 +8067,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
           "imageUrl": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-04T10:38:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-          "title": "Which Premier League players got injured in the international break?",
-          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T06:22:36Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -9016,7 +9016,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:04.220Z",
+      "updatedUtc": "2026-10-05T07:11:30.442Z",
       "matches": [
         {
           "id": "401882877",
@@ -11938,7 +11938,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:04.251Z",
+      "updatedUtc": "2026-10-05T07:11:30.535Z",
       "matches": [
         {
           "id": "401874756",
@@ -14827,7 +14827,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:03.214Z",
+      "updatedUtc": "2026-10-05T07:11:30.496Z",
       "matches": [
         {
           "id": "401884806",
@@ -17743,7 +17743,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:03.203Z",
+      "updatedUtc": "2026-10-05T07:11:30.285Z",
       "matches": [
         {
           "id": "401876472",
@@ -20650,7 +20650,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-05T06:53:03.404Z",
+      "updatedUtc": "2026-10-05T07:11:30.120Z",
       "matches": [
         {
           "id": "401861118",
@@ -23205,6 +23205,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
+          "title": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
+          "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
+          "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T06:44:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
+          "title": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
+          "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
+          "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T06:44:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50107853/erling-haaland-injury-fear-asked-substituted-norway",
           "title": "Erling Haaland injury fear, asked to be substituted for Norway",
           "description": "Erling Haaland has an injury question looming over him after asking to be substituted for Norway on Sunday night.",
@@ -23321,26 +23341,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50098303/harry-kane-england-rout-croatia-sends-message-rest-europe",
           "imageUrl": "https://a.espncdn.com/photo/2026/1004/r1725682_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-04T08:28:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
-          "title": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
-          "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
-          "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T17:52:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-          "title": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
-          "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
-          "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T06:23:48Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -24192,7 +24192,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T06:53:04.396Z",
+      "updatedUtc": "2026-10-05T07:11:30.887Z",
       "matches": [
         {
           "id": "761871",
@@ -27241,7 +27241,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-05T06:53:03.447Z",
+      "updatedUtc": "2026-10-05T07:11:30.397Z",
       "matches": [
         {
           "id": "760415",

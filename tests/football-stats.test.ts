@@ -3,6 +3,7 @@ import {
   aggregateFootballLeaders,
   groupMatches,
   mapFootballLeaders,
+  selectLandingMatches,
 } from '../src/lib/football-stats';
 import type { CompetitionSnapshot, FootballMatch } from '../src/lib/football-types';
 
@@ -83,5 +84,44 @@ describe('groupMatches', () => {
     expect(grouped.live.map((item) => item.id)).toEqual(['live']);
     expect(grouped.upcoming.map((item) => item.id)).toEqual(['next']);
     expect(grouped.recent.map((item) => item.id)).toEqual(['recent', 'old']);
+  });
+});
+
+describe('selectLandingMatches', () => {
+  const match = (id: string, utc: string, status: FootballMatch['status']) =>
+    ({ id, utc, status }) as FootballMatch;
+
+  it('prioritizes live and today while returning the latest and next ten games', () => {
+    const matches = [
+      match('yesterday-live', '2026-10-04T23:55:00Z', 'live'),
+      match('today-finished', '2026-10-05T08:00:00Z', 'finished'),
+      match('today-next', '2026-10-05T18:00:00Z', 'upcoming'),
+      ...Array.from({ length: 12 }, (_, index) =>
+        match(
+          `future-${index}`,
+          `2026-10-${String(index + 6).padStart(2, '0')}T12:00:00Z`,
+          'upcoming'
+        )
+      ),
+      ...Array.from({ length: 12 }, (_, index) =>
+        match(
+          `past-${index}`,
+          `2026-09-${String(index + 1).padStart(2, '0')}T12:00:00Z`,
+          'finished'
+        )
+      ),
+    ];
+
+    const selected = selectLandingMatches(matches, new Date('2026-10-05T12:00:00Z'));
+
+    expect(selected.liveToday.map((item) => item.id)).toEqual([
+      'yesterday-live',
+      'today-finished',
+      'today-next',
+    ]);
+    expect(selected.recent).toHaveLength(10);
+    expect(selected.recent[0].id).toBe('today-finished');
+    expect(selected.upcoming).toHaveLength(10);
+    expect(selected.upcoming[0].id).toBe('today-next');
   });
 });

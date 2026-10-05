@@ -8,6 +8,11 @@ test('football landing page shows the requested competition groups', async ({ pa
   await expect(page.locator('.secondary-cta[href="/leagues/world-cup-2026"]')).toBeVisible();
   await expect(page.locator('.league-switcher a')).toHaveCount(10);
   await expect(page.locator('#match-centre')).toBeVisible();
+  await expect(page.getByRole('tab', { name: /Live & today/ })).toBeVisible();
+  await page.getByRole('tab', { name: /Recent/ }).click();
+  await expect(page.getByRole('heading', { name: '10 most recent results' })).toBeVisible();
+  await page.getByRole('tab', { name: /Up next/ }).click();
+  await expect(page.getByRole('heading', { name: 'Next 10 games' })).toBeVisible();
   await expect(page.locator('#overall-stats')).toBeVisible();
   await expect(page.locator('#overall-scorers .leader-list li').first()).toBeVisible();
   await expect(page.locator('#overall-assists .leader-list li').first()).toBeVisible();

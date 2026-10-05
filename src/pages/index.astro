@@ -3,11 +3,12 @@ import FootballBase from '../layouts/FootballBase.astro';
 import FootballLeaders from '../components/FootballLeaders.astro';
 import HomeMatchList from '../components/HomeMatchList.astro';
 import snapshot from '../data/football.json';
-import { aggregateFootballLeaders, groupMatches } from '../lib/football-stats';
-import type { FootballStory } from '../lib/football-types';
+import { aggregateFootballLeaders, selectLandingMatches } from '../lib/football-stats';
+import type { CompetitionSnapshot, FootballStory } from '../lib/football-types';
 
+const competitions = snapshot.competitions as CompetitionSnapshot[];
 const seen = new Set<string>();
-const stories = snapshot.competitions
+const stories = competitions
   .flatMap((competition) =>
     competition.news.map((story) => ({ ...story, competition: competition.config.shortName }))
   )
@@ -20,15 +21,19 @@ const stories = snapshot.competitions
   .slice(0, 6) as (FootballStory & { competition: string })[];
 const lead = stories.find((story) => story.imageUrl) ?? stories[0];
 const secondary = stories.filter((story) => story !== lead).slice(0, 5);
-const allMatches = snapshot.competitions.flatMap((competition) =>
-  competition.matches.map((match) => ({ ...match, competition: competition.config.shortName }))
-);
-const matchGroups = groupMatches(allMatches, 3);
-const overallLeaders = aggregateFootballLeaders(snapshot.competitions, 5);
+const allMatches = competitions
+  .filter((competition) => competition.config.kind !== 'archive')
+  .flatMap((competition) =>
+    competition.matches.map((match) => ({ ...match, competition: competition.config.shortName }))
+  );
+const matchGroups = selectLandingMatches(allMatches, new Date(snapshot.updatedUtc), 10);
+const liveCount = matchGroups.liveToday.filter((match) => match.status === 'live').length;
+const defaultMatchTab = matchGroups.liveToday.length ? 'today' : 'upcoming';
+const overallLeaders = aggregateFootballLeaders(competitions, 5);
 ---
 
 <FootballBase
-  title="Mitty's Football · Scores, tables, news and transfers"
+  title="Golazo · Scores, tables, news and transfers"
   description="Follow the Champions League, Europa League, Europe's Top 5, Nations League, MLS and the World Cup archive."
 >
   <section class="home-hero">
@@ -53,25 +58,86 @@ const overallLeaders = aggregateFootballLeaders(snapshot.competitions, 5);
           <span class="eyebrow">Across all competitions</span>
           <h2>Match centre</h2>
         </div>
-        <div class:list={['home-live-status', { active: matchGroups.live.length > 0 }]}>
+        <div class:list={['home-live-status', { active: liveCount > 0 }]}>
           <span></span>
-          {matchGroups.live.length ? `${matchGroups.live.length} live now` : 'No live games'}
+          {liveCount ? `${liveCount} live now` : 'Today’s football'}
         </div>
       </div>
-      {matchGroups.live.length > 0 && (
-        <HomeMatchList title="Live now" matches={matchGroups.live} empty="" />
-      )}
-      <div class="home-match-columns">
-        <HomeMatchList
-          title="Coming up"
-          matches={matchGroups.upcoming}
-          empty="No upcoming fixtures in the current window."
-        />
-        <HomeMatchList
-          title="Latest results"
-          matches={matchGroups.recent}
-          empty="No recent results are available."
-        />
+      <div class="home-match-tabs" role="tablist" aria-label="Match centre views">
+        <button
+          type="button"
+          role="tab"
+          id="match-tab-today"
+          aria-controls="match-panel-today"
+          aria-selected={defaultMatchTab === 'today' ? 'true' : 'false'}
+          data-match-tab="today"
+        >
+          Live & today <span>{matchGroups.liveToday.length}</span>
+        </button>
+        <button
+          type="button"
+          role="tab"
+          id="match-tab-recent"
+          aria-controls="match-panel-recent"
+          aria-selected="false"
+          data-match-tab="recent"
+        >
+          Recent <span>{matchGroups.recent.length}</span>
+        </button>
+        <button
+          type="button"
+          role="tab"
+          id="match-tab-upcoming"
+          aria-controls="match-panel-upcoming"
+          aria-selected={defaultMatchTab === 'upcoming' ? 'true' : 'false'}
+          data-match-tab="upcoming"
+        >
+          Up next <span>{matchGroups.upcoming.length}</span>
+        </button>
+      </div>
+      <div class="home-match-panels">
+        <div
+          id="match-panel-today"
+          role="tabpanel"
+          aria-labelledby="match-tab-today"
+          data-match-panel="today"
+          hidden={defaultMatchTab !== 'today'}
+        >
+          <HomeMatchList
+            title="Playing now or today"
+            matches={matchGroups.liveToday}
+            empty="No games are scheduled today."
+            limit={10}
+          />
+        </div>
+        <div
+          id="match-panel-recent"
+          role="tabpanel"
+          aria-labelledby="match-tab-recent"
+          data-match-panel="recent"
+          hidden
+        >
+          <HomeMatchList
+            title="10 most recent results"
+            matches={matchGroups.recent}
+            empty="No recent results are available."
+            limit={10}
+          />
+        </div>
+        <div
+          id="match-panel-upcoming"
+          role="tabpanel"
+          aria-labelledby="match-tab-upcoming"
+          data-match-panel="upcoming"
+          hidden={defaultMatchTab !== 'upcoming'}
+        >
+          <HomeMatchList
+            title="Next 10 games"
+            matches={matchGroups.upcoming}
+            empty="No upcoming fixtures are available."
+            limit={10}
+          />
+        </div>
       </div>
     </div>
 
@@ -113,7 +179,7 @@ const overallLeaders = aggregateFootballLeaders(snapshot.competitions, 5);
       <p>Jump directly to matches, tables, statistics, news and transfers.</p>
     </div>
     <div class="competition-quick-grid">
-      {snapshot.competitions.map(({ config }) => (
+      {competitions.map(({ config }) => (
         <a
           class="competition-quick-card"
           style={`--league:${config.color};--accent:${config.accent}`}
@@ -147,3 +213,17 @@ const overallLeaders = aggregateFootballLeaders(snapshot.competitions, 5);
     </div>
   </section>
 </FootballBase>
+
+<script is:inline>
+  document.querySelectorAll('[data-match-tab]').forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      var selected = tab.getAttribute('data-match-tab');
+      document.querySelectorAll('[data-match-tab]').forEach(function (item) {
+        item.setAttribute('aria-selected', String(item === tab));
+      });
+      document.querySelectorAll('[data-match-panel]').forEach(function (panel) {
+        panel.hidden = panel.getAttribute('data-match-panel') !== selected;
+      });
+    });
+  });
+</script>
