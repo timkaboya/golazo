@@ -35,7 +35,7 @@ jobs:
       - name: Build for GitHub Pages
         env:
           # Repo name → project-site subpath. Change both if the repo is renamed.
-          BASE_PATH: /worldcup-site/
+          BASE_PATH: /golazo/
           SITE_URL: https://timkaboya.github.io
           # Paystack "Support" button (public keys — safe to expose). Set these
           # as repository Variables; if unset, the button simply stays hidden.

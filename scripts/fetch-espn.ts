@@ -31,7 +31,7 @@ async function getJson(url: string, tries = 3): Promise<any> {
   let lastErr: unknown;
   for (let i = 0; i < tries; i++) {
     try {
-      const r = await fetch(url, { headers: { 'user-agent': 'worldcup-site/1.0' } });
+      const r = await fetch(url, { headers: { 'user-agent': 'golazo/1.0' } });
       if (!r.ok) throw new Error(`HTTP ${r.status} for ${url}`);
       return await r.json();
     } catch (e) {

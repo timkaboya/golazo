@@ -1,9 +1,9 @@
 {
-  "name": "worldcup-site",
+  "name": "golazo",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Mitty's Football — a static-first hub for major football competitions.",
+  "description": "Golazo — a static-first hub for major football competitions.",
   "scripts": {
     "dev": "astro dev",
     "data": "node --experimental-strip-types scripts/fetch-espn.ts",

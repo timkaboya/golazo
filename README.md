@@ -1,4 +1,4 @@
-# Mitty's Football
+# Golazo
 
 A fast, lightweight football hub for the Champions League, Europa League, Europe's Top 5 leagues,
 UEFA Nations League, MLS, and the complete World Cup 2026 archive. It combines live/upcoming/recent
@@ -11,8 +11,8 @@ No accounts, no user data, no tracking.
 
 | Environment | URL | Hosting |
 | --- | --- | --- |
-| **Live (production)** | https://worldcup-site.timothy-kaboya.workers.dev/ | Cloudflare (edge functions for live scores) |
-| **Staging** | https://timkaboya.github.io/worldcup-site/ | GitHub Pages (static fallback data) |
+| **Live (production)** | https://golazo.timothy-kaboya.workers.dev/ | Cloudflare (edge functions for live scores) |
+| **Staging** | https://timkaboya.github.io/golazo/ | GitHub Pages (static fallback data) |
 
 Both build from `main`. The Cloudflare **Live** site runs the `/api/*` edge functions that
 aggregate World Cup scores server-side; the broader football hub uses resilient build-time ESPN

@@ -8,7 +8,7 @@ async function fetchJson(url: string, timeoutMs = 7000): Promise<any> {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
   try {
-    const r = await fetch(url, { signal: ctrl.signal, headers: { 'user-agent': 'worldcup-site/1.0' } });
+    const r = await fetch(url, { signal: ctrl.signal, headers: { 'user-agent': 'golazo/1.0' } });
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     return await r.json();
   } finally {
