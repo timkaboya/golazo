@@ -11,6 +11,19 @@ test('football landing page shows the requested competition groups', async ({ pa
   await expect(page.getByRole('tab', { name: /Live & today/ })).toBeVisible();
   await page.getByRole('tab', { name: /Recent/ }).click();
   await expect(page.getByRole('heading', { name: '10 most recent results' })).toBeVisible();
+  const recentPanel = page.locator('#match-panel-recent');
+  await expect(recentPanel.locator('.home-match-list article')).toHaveCount(10);
+  await expect
+    .poll(() =>
+      recentPanel.locator('.home-match-team b').evaluateAll((scores) =>
+        scores.some((score) => Boolean(score.textContent?.trim()))
+      )
+    )
+    .toBe(true);
+  const matchListColumns = await recentPanel.locator('.home-match-list').evaluate((list) =>
+    getComputedStyle(list).gridTemplateColumns.split(' ').length
+  );
+  expect(matchListColumns).toBe((page.viewportSize()?.width ?? 0) >= 1000 ? 2 : 1);
   await page.getByRole('tab', { name: /Up next/ }).click();
   await expect(page.getByRole('heading', { name: 'Next 10 games' })).toBeVisible();
   await expect(page.locator('#overall-stats')).toBeVisible();

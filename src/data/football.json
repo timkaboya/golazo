@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-05T09:16:06.293Z",
+  "updatedUtc": "2026-10-06T14:03:44.746Z",
   "competitions": [
     {
       "config": {
@@ -17,31 +17,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:05.836Z",
+      "updatedUtc": "2026-10-06T14:03:44.361Z",
       "matches": [
-        {
-          "id": "401915452",
-          "utc": "2026-09-08T16:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "887",
-            "name": "AEK Athens",
-            "abbreviation": "AEK",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
-          },
-          "away": {
-            "id": "4411",
-            "name": "LASK Linz",
-            "abbreviation": "LAS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
-          },
-          "venue": "OPAP Arena, Athens",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 0
-          }
-        },
         {
           "id": "401915426",
           "utc": "2026-09-08T16:45Z",
@@ -1458,6 +1435,177 @@
           },
           "venue": "Viking Stadion, Stavanger",
           "status": "upcoming"
+        },
+        {
+          "id": "401915380",
+          "utc": "2026-11-24T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "2980",
+            "name": "Bodo/Glimt",
+            "abbreviation": "BODO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+          },
+          "away": {
+            "id": "4411",
+            "name": "LASK Linz",
+            "abbreviation": "LAS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+          },
+          "venue": "Aspmyra Stadion, Bodø/Glimt",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915300",
+          "utc": "2026-11-24T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "432",
+            "name": "Galatasaray",
+            "abbreviation": "GAL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
+          },
+          "away": {
+            "id": "362",
+            "name": "Aston Villa",
+            "abbreviation": "AVL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+          },
+          "venue": "RAMS Park, Istanbul",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915295",
+          "utc": "2026-11-24T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "359",
+            "name": "Arsenal",
+            "abbreviation": "ARS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+          },
+          "away": {
+            "id": "124",
+            "name": "Dortmund",
+            "abbreviation": "DOR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+          },
+          "venue": "Emirates Stadium, London",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915296",
+          "utc": "2026-11-24T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "2572",
+            "name": "Como",
+            "abbreviation": "COMO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+          },
+          "away": {
+            "id": "887",
+            "name": "AEK Athens",
+            "abbreviation": "AEK",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+          },
+          "venue": "Giuseppe Sinigaglia, Como",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915294",
+          "utc": "2026-11-24T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "142",
+            "name": "Feyenoord",
+            "abbreviation": "FEY",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+          },
+          "away": {
+            "id": "437",
+            "name": "FC Porto",
+            "abbreviation": "FCP",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
+          },
+          "venue": "De Kuip, Rotterdam",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915379",
+          "utc": "2026-11-24T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "382",
+            "name": "Man City",
+            "abbreviation": "MNC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+          },
+          "away": {
+            "id": "114",
+            "name": "Napoli",
+            "abbreviation": "NAP",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+          },
+          "venue": "Etihad Stadium, Manchester",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915299",
+          "utc": "2026-11-24T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "11420",
+            "name": "RB Leipzig",
+            "abbreviation": "RBL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+          },
+          "away": {
+            "id": "175",
+            "name": "Lens",
+            "abbreviation": "RCL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+          },
+          "venue": "Red Bull Arena, Leipzig",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915298",
+          "utc": "2026-11-24T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "86",
+            "name": "Real Madrid",
+            "abbreviation": "RMA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+          },
+          "away": {
+            "id": "148",
+            "name": "PSV",
+            "abbreviation": "PSV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
+          },
+          "venue": "Santiago Bernabéu, Madrid",
+          "status": "upcoming"
+        },
+        {
+          "id": "401915297",
+          "utc": "2026-11-24T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "521",
+            "name": "S Bratislava",
+            "abbreviation": "SLB",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+          },
+          "away": {
+            "id": "244",
+            "name": "Betis",
+            "abbreviation": "BET",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+          },
+          "venue": "Národny Futbalovy Stadión, Bratislava",
+          "status": "upcoming"
         }
       ],
       "tables": [
@@ -2081,6 +2229,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50085954/state-position-2026-biggest-soccer-tactical-trends",
+          "title": "State of each position in 2026: What are the biggest tactical trends?",
+          "description": "Elite soccer has changed dramatically in recent years, and the most valued player skill sets have evolved as a result.",
+          "url": "https://www.espn.com/soccer/story/_/id/50085954/state-position-2026-biggest-soccer-tactical-trends",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726394_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T16:24:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50085283/man-city-charges-big-topic-england-camp",
           "title": "Tuchel: Man City charges are a big topic in England camp",
           "description": "Tuchel: Man City charges are a big topic in England camp",
@@ -2287,16 +2445,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49900943/harry-kane-joins-cristiano-ronaldo-elite-champions-league-scoring-club",
           "imageUrl": "https://a.espncdn.com/photo/2026/0911/r1714779_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-11T07:36:59Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
-          "title": "Who has the most Champions League goals, assists all time?",
-          "description": "Cristiano Ronaldo leads the Champions League in all-time goals and assists. Check out which other soccer stars are behind him.",
-          "url": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
-          "imageUrl": "https://a.espncdn.com/photo/2018/0411/r355065_608x342_16-9.jpg",
-          "publishedUtc": "2026-09-10T23:42:29Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3047,7 +3195,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:05.794Z",
+      "updatedUtc": "2026-10-06T14:03:44.397Z",
       "matches": [
         {
           "id": "401915594",
@@ -6089,7 +6237,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:06.029Z",
+      "updatedUtc": "2026-10-06T14:03:44.634Z",
       "matches": [
         {
           "id": "401879285",
@@ -8041,14 +8189,134 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
+          "title": "Viktor Gyökeres to make Arsenal return after goal-laden stint with Sweden",
+          "description": "Viktor Gyökeres will return to Arsenal in confident mood after setting a new Nations League record with four more goals for Sweden over the international break.",
+          "url": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726793_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T13:48:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50116134/liverpool-jeremy-jacquet-france-nations-league-man-city-premier-league",
+          "title": "Liverpool sweating over Jeremy Jacquet fitness ahead of Man City clash",
+          "description": "Liverpool are waiting to discover the extent of Jeremy Jacquet's fitness issue after the centre-back was left out of France's Nations League win over Belgium.",
+          "url": "https://www.espn.com/soccer/story/_/id/50116134/liverpool-jeremy-jacquet-france-nations-league-man-city-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726765_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T12:15:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+          "title": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
+          "description": "Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T10:31:59Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
+          "title": "Man City mock draft: How Premier League teams could pick in hypothetical punishment",
+          "description": "Now that Manchester City have been found to have cheated on a huge scale, anything is on the table -- maybe even an American-style Premier League draft?",
+          "url": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726637_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T10:29:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50115373/man-city-punishment-three-five-years-jamie-carragher",
+          "title": "Man City punishment must be 'three to five years' - Jamie Carragher",
+          "description": "Manchester City should face a multi-year punishment for their financial misdemeanours, according to former Liverpool defender Jamie Carragher.",
+          "url": "https://www.espn.com/soccer/story/_/id/50115373/man-city-punishment-three-five-years-jamie-carragher",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0519/r1660275_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T08:36:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
+          "title": "How top Premier League clubs view Man City's guilty verdict",
+          "description": "Four clubs -- Arsenal, Liverpool, Man United and Tottenham -- retained their legal rights in the Premier League's case against Man City. Now that a guilty verdict has been issued, what will they do in response?",
+          "url": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
+          "imageUrl": "https://a.espncdn.com/photo/2021/0609/r865143_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T13:08:24Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-          "title": "Which Premier League players got injured in the international break?",
+          "title": "Premier League injury concerns from the international break",
           "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
           "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T07:22:21Z",
+          "publishedUtc": "2026-10-06T12:22:37Z",
           "source": "ESPN",
           "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+          "title": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
+          "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726526_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T20:53:41Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears",
+          "title": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
+          "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
+          "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T06:45:38Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources",
+          "title": "JJ Gabriel representatives demanded game time at Manchester United - sources",
+          "description": "Representatives of JJ Gabriel demanded that the teenager played at least 20 minutes in games against Sabah FK, Brighton and Bournemouth before beginning talks about signing a scholarship with Manchester United, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T16:53:23Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50085954/state-position-2026-biggest-soccer-tactical-trends",
+          "title": "State of each position in 2026: What are the biggest tactical trends?",
+          "description": "Elite soccer has changed dramatically in recent years, and the most valued player skill sets have evolved as a result.",
+          "url": "https://www.espn.com/soccer/story/_/id/50085954/state-position-2026-biggest-soccer-tactical-trends",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726394_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T16:24:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50108907/ledley-king-backs-tottenham-form-turn-very-quickly",
+          "title": "Ledley King backs Tottenham form to 'turn around very quickly'",
+          "description": "Ledley King has urged Roberto De Zerbi's team to draw on the experiences of last season to end the club's winless start to the new Premier League campaign.",
+          "url": "https://www.espn.com/soccer/story/_/id/50108907/ledley-king-backs-tottenham-form-turn-very-quickly",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0525/r1663333_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T12:36:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market",
+          "title": "How a mass Man City player exodus would warp the transfer market",
+          "description": "If Manchester City are punished by being relegated from the Premier League, group of players worth more than £1 billion in transfer fees would suddenly become available.",
+          "url": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T12:46:40Z",
+          "source": "ESPN",
+          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
@@ -8147,126 +8415,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50083305/sir-alex-ferguson-man-united-old-trafford-return",
           "imageUrl": "https://a.espncdn.com/photo/2026/1002/r1724845_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-02T08:55:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50083306/fa-man-city-verdict-significant-implications-integrity-game",
-          "title": "FA: Man City verdict has 'significant implications for integrity of game'",
-          "description": "The Football Association expressed its concern that the guilty charge aimed at Manchester City over the Premier League's financial rules stains the \"integrity\" of the game.",
-          "url": "https://www.espn.com/soccer/story/_/id/50083306/fa-man-city-verdict-significant-implications-integrity-game",
-          "imageUrl": "https://a.espncdn.com/photo/2023/0210/r1129437_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T11:17:31Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you",
-          "title": "Ranking the top 10 Premier League summer transfers so far",
-          "description": "Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.",
-          "url": "https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0929/r1723444_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T10:40:16Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50078680/how-man-city-players-staff-handling-premier-league-verdict",
-          "title": "How Man City players, staff are handling Premier League verdict",
-          "description": "As the reaction to Man City's guilty verdict continues to ripple across the sporting world, the club's internal messaging is very much one of confidence and carrying on. That may be easier said than done.",
-          "url": "https://www.espn.com/soccer/story/_/id/50078680/how-man-city-players-staff-handling-premier-league-verdict",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724656_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T00:25:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
-          "title": "Transfer rumors, news: Several Premier League clubs eye Koundé move",
-          "description": "Could Jules Koundé's next move be in the Premier League? Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724622_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T20:46:16Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50077292/manchester-city-guilty-charges-explained-premier-league-punishments-appeals-legal-process",
-          "title": "Manchester City guilty charges explained: Premier League's options, how appeal works, more",
-          "description": "Tuesday's news that the Premier League found Man City guilty of 100-plus charges of breaking financial rules is a landmark moment. But what comes next: what punishments are on the table, and how does the appeals process work?",
-          "url": "https://www.espn.com/soccer/story/_/id/50077292/manchester-city-guilty-charges-explained-premier-league-punishments-appeals-legal-process",
-          "imageUrl": "https://a.espncdn.com/photo/2020/0214/r666347_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T12:25:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50077746/downing-street-clarifies-andy-burnham-remarks-man-city-case",
-          "title": "Downing Street clarifies Andy Burnham's remarks on Man City case",
-          "description": "A spokesperson for Andy Burnham has insisted the guilty verdict against Manchester City is \"serious\" after remarks the Prime Minister made about the case on Wednesday raised eyebrows.",
-          "url": "https://www.espn.com/soccer/story/_/id/50077746/downing-street-clarifies-andy-burnham-remarks-man-city-case",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0728/r1694805_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T17:07:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50076311/second-hull-player-flips-car-training-ground-sorba-thomas",
-          "title": "Second Hull player flips car outside training ground - reports",
-          "description": "A second Hull player has been reported to have flipped his car in an accident close to the club's training ground in Cottingham.",
-          "url": "https://www.espn.com/soccer/story/_/id/50076311/second-hull-player-flips-car-training-ground-sorba-thomas",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724396_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T13:08:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50076437/spain-victor-munoz-liverpool-switch-premier-league-more-physical-laliga",
-          "title": "Spain's Víctor Muñoz on Liverpool switch: Premier League more physical than LaLiga",
-          "description": "Liverpool winger Víctor Muñoz has praised the \"intensity\" at the Premier League club since making the switch from LaLiga this summer, saying the change is \"helping me grow\" as a player.",
-          "url": "https://www.espn.com/soccer/story/_/id/50076437/spain-victor-munoz-liverpool-switch-premier-league-more-physical-laliga",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0829/r1708487_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T13:14:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-          "description": "Cristiano Ronaldo walked out of the Portugal national team's camp after being benched. It is far from the first high-profile row of his two decades at the top.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T11:14:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075848/roberto-de-zerbi-receives-backing-tottenham-chief-executive",
-          "title": "Roberto De Zerbi receives backing of Tottenham's chief executive",
-          "description": "Chief executive Vinai Venkatesham has offered his backing to Roberto De Zerbi after Tottenham's poor start to the new campaign.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075848/roberto-de-zerbi-receives-backing-tottenham-chief-executive",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724368_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T10:27:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075558/premier-league-dragged-mud-man-city-case-gary-neville",
-          "title": "Premier League 'dragged through the mud' by Man City case - Gary Neville",
-          "description": "The Premier League has been \"dragged through the mud\" by the Manchester City guilty verdict, Gary Neville has said.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075558/premier-league-dragged-mud-man-city-case-gary-neville",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0929/r1723479_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T10:56:26Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50076894/how-aston-villa-manager-unai-emery-rescued-family-club-real-union-irun",
-          "title": "How Aston Villa boss Unai Emery rescued Real Unión, his 'family' club, from ruin",
-          "description": "Real Unión are one of LaLiga's founding clubs, but fell on hard times. Enter Unai Emery, one of the world's top coaches, whose family connection to the club spans four generations.",
-          "url": "https://www.espn.com/soccer/story/_/id/50076894/how-aston-villa-manager-unai-emery-rescued-family-club-real-union-irun",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1002/r1724844_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T10:12:39Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9016,7 +9164,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:06.293Z",
+      "updatedUtc": "2026-10-06T14:03:44.684Z",
       "matches": [
         {
           "id": "401882877",
@@ -10964,14 +11112,24 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
-          "title": "Transfer rumors, news: Bayern brace for tough contract talks with Olise",
-          "description": "Bayern Munich could be facing an uphill battle to sign winger Michael Olise to a new contract. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0907/r1712702_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T08:39:19Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50114862/jose-mourinho-already-lot-do-save-real-madrids-season",
+          "title": "Mourinho already has a lot to do to save Real Madrid's season",
+          "description": "It's only October, but Real Madrid already face a potentially season-defining run of five games that ends with El Clásico. What does José Mourinho need to get right?",
+          "url": "https://www.espn.com/soccer/story/_/id/50114862/jose-mourinho-already-lot-do-save-real-madrids-season",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726712_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T12:17:37Z",
           "source": "ESPN",
-          "transfer": true
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50108439/mbappe-cycling-bike-jose-mourinho-real-madrid-france",
+          "title": "Kylian Mbappé goes cycling despite José Mourinho warning",
+          "description": "Kylian Mbappé has shared a video of himself riding a bicycle on social media, just days after his Real Madrid manager, José Mourinho, said players couldn't go cycling because of the injury risks involved.",
+          "url": "https://www.espn.com/soccer/story/_/id/50108439/mbappe-cycling-bike-jose-mourinho-real-madrid-france",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726250_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T10:05:02Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
@@ -11180,16 +11338,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
           "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721963_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-26T10:36:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50026378/jose-mourinho-nonnegotiable-rules-real-madrid-follow-dont-betray-me",
-          "title": "José Mourinho on 'non-negotiable' rules for Real Madrid to follow: 'Don't betray me'",
-          "description": "José Mourinho has spoken about his managerial philosophy, warning of the importance of trust between players and coach -- and \"non-negotiable\" rules for his squad to follow -- as he looks to build a new winning team at Real Madrid.",
-          "url": "https://www.espn.com/soccer/story/_/id/50026378/jose-mourinho-nonnegotiable-rules-real-madrid-follow-dont-betray-me",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0925/r1721617_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-25T11:13:03Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -11938,7 +12086,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:05.962Z",
+      "updatedUtc": "2026-10-06T14:03:44.605Z",
       "matches": [
         {
           "id": "401874756",
@@ -14827,7 +14975,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:05.913Z",
+      "updatedUtc": "2026-10-06T14:03:44.565Z",
       "matches": [
         {
           "id": "401884806",
@@ -16769,14 +16917,24 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
-          "title": "Transfer rumors, news: Bayern brace for tough contract talks with Olise",
-          "description": "Bayern Munich could be facing an uphill battle to sign winger Michael Olise to a new contract. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0907/r1712702_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T08:39:19Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+          "title": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
+          "description": "Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T10:31:59Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
+          "title": "Tuchel: There are no words left to describe Kane",
+          "description": "Tuchel: There are no words left to describe Kane",
+          "url": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane.jpg",
+          "publishedUtc": "2026-10-05T13:50:37Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
@@ -16985,16 +17143,6 @@
           "url": "https://www.espn.com/espn/story/_/id/49947189/meet-noah-atubolu-bundesliga-penalty-killer-saved-six-row",
           "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1716922_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-16T06:26:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49939007/bayern-munich-2026-27-oktoberfest-kit-their-wildest-yet",
-          "title": "Bayern Munich's 2026-27 Oktoberfest kit is their wildest yet!",
-          "description": "The Bundesliga giants have really gone all out with this year's special jersey to mark Oktoberfest -- or \"Wiesn\", to give the festival its proper Bavarian name.",
-          "url": "https://www.espn.com/soccer/story/_/id/49939007/bayern-munich-2026-27-oktoberfest-kit-their-wildest-yet",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0914/r1716478_4_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-15T10:54:48Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -17743,7 +17891,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:05.878Z",
+      "updatedUtc": "2026-10-06T14:03:44.512Z",
       "matches": [
         {
           "id": "401876472",
@@ -19685,6 +19833,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50108717/folarin-balogun-premier-league-everton-monaco-usmnt",
+          "title": "Folarin Balogun reopens door to Premier League despite failed Everton move",
+          "description": "United States striker Folarin Balogun has said that he would still be keen to play in the Premier League, even though his transfer deadline day move to Everton collapsed in dramatic fashion.",
+          "url": "https://www.espn.com/soccer/story/_/id/50108717/folarin-balogun-premier-league-everton-monaco-usmnt",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2.jpg",
+          "publishedUtc": "2026-10-05T12:27:57Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
           "title": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
           "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
@@ -19893,16 +20051,6 @@
           "publishedUtc": "2026-09-04T21:30:08Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49827385/psg-coach-luis-enrique-new-contract-fabian-ruiz-joao-neves",
-          "title": "PSG give coach Luis Enrique, 5 players new contracts",
-          "description": "Paris Saint-Germain have rewarded coach Luis Enrique and five members of their squad with new contracts after helping the French club to back-to-back Champions League titles.",
-          "url": "https://www.espn.com/soccer/story/_/id/49827385/psg-coach-luis-enrique-new-contract-fabian-ruiz-joao-neves",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711451_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-04T20:23:54Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -20650,7 +20798,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-05T09:16:05.740Z",
+      "updatedUtc": "2026-10-06T14:03:44.329Z",
       "matches": [
         {
           "id": "401861118",
@@ -20899,7 +21047,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png"
           },
           "venue": "GSP Stadium, Nicosia",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 1
+          }
         },
         {
           "id": "401861133",
@@ -20918,7 +21070,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
           },
           "venue": "Bilino Polje Stadium, Zenica",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 0
+          }
         },
         {
           "id": "401861129",
@@ -20937,7 +21093,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
           },
           "venue": "Stade de France, Saint-Denis",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 4,
+            "away": 1
+          }
         },
         {
           "id": "401861131",
@@ -20956,7 +21116,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
           },
           "venue": "Renato Dall'Ara, Bologna",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 1
+          }
         },
         {
           "id": "401861130",
@@ -20975,7 +21139,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png"
           },
           "venue": "Podgorica City Stadium, Podgorica",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 0
+          }
         },
         {
           "id": "401861132",
@@ -20994,7 +21162,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png"
           },
           "venue": "Windsor Park, Belfast",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 0
+          }
         },
         {
           "id": "401861128",
@@ -21013,7 +21185,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
           },
           "venue": "National Arena, Bucuresti",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 1
+          }
         },
         {
           "id": "401861134",
@@ -21032,7 +21208,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
           },
           "venue": "City Arena - Stadión Antona Malatinského, Trnava",
-          "status": "upcoming"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 2
+          }
         },
         {
           "id": "401861135",
@@ -21051,7 +21231,11 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png"
           },
           "venue": "Astana Arena, Astana",
-          "status": "upcoming"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          }
         },
         {
           "id": "401861140",
@@ -22224,15 +22408,15 @@
                 "abbreviation": "ITA",
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
               },
-              "rank": 3,
-              "played": 3,
-              "won": 1,
+              "rank": 2,
+              "played": 4,
+              "won": 2,
               "drawn": 1,
               "lost": 1,
-              "gf": 5,
-              "ga": 4,
-              "gd": 1,
-              "points": 4
+              "gf": 8,
+              "ga": 5,
+              "gd": 3,
+              "points": 7
             },
             {
               "team": {
@@ -22241,14 +22425,14 @@
                 "abbreviation": "BEL",
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
               },
-              "rank": 2,
-              "played": 3,
+              "rank": 3,
+              "played": 4,
               "won": 2,
               "drawn": 0,
-              "lost": 1,
-              "gf": 5,
-              "ga": 1,
-              "gd": 4,
+              "lost": 2,
+              "gf": 6,
+              "ga": 5,
+              "gd": 1,
               "points": 6
             },
             {
@@ -22259,13 +22443,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
               },
               "rank": 4,
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "gf": 1,
-              "ga": 8,
-              "gd": -7,
+              "lost": 4,
+              "gf": 2,
+              "ga": 11,
+              "gd": -9,
               "points": 0
             },
             {
@@ -22276,14 +22460,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
               },
               "rank": 1,
-              "played": 3,
-              "won": 2,
+              "played": 4,
+              "won": 3,
               "drawn": 1,
               "lost": 0,
-              "gf": 3,
-              "ga": 1,
-              "gd": 2,
-              "points": 7
+              "gf": 7,
+              "ga": 2,
+              "gd": 5,
+              "points": 10
             }
           ]
         },
@@ -22589,14 +22773,14 @@
                 "abbreviation": "UKR",
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png"
               },
-              "rank": 2,
-              "played": 3,
+              "rank": 3,
+              "played": 4,
               "won": 1,
               "drawn": 1,
-              "lost": 1,
-              "gf": 1,
-              "ga": 3,
-              "gd": -2,
+              "lost": 2,
+              "gf": 2,
+              "ga": 5,
+              "gd": -3,
               "points": 4
             },
             {
@@ -22606,15 +22790,15 @@
                 "abbreviation": "HUN",
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
               },
-              "rank": 3,
-              "played": 3,
-              "won": 1,
+              "rank": 2,
+              "played": 4,
+              "won": 2,
               "drawn": 1,
               "lost": 1,
-              "gf": 1,
-              "ga": 1,
-              "gd": 0,
-              "points": 4
+              "gf": 3,
+              "ga": 2,
+              "gd": 1,
+              "points": 7
             },
             {
               "team": {
@@ -22624,14 +22808,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png"
               },
               "rank": 4,
-              "played": 3,
+              "played": 4,
               "won": 0,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 2,
               "gf": 0,
               "ga": 2,
               "gd": -2,
-              "points": 1
+              "points": 2
             },
             {
               "team": {
@@ -22641,14 +22825,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
               },
               "rank": 1,
-              "played": 3,
+              "played": 4,
               "won": 2,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 0,
               "gf": 4,
               "ga": 0,
               "gd": 4,
-              "points": 7
+              "points": 8
             }
           ]
         },
@@ -22736,14 +22920,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png"
               },
               "rank": 2,
-              "played": 3,
-              "won": 1,
+              "played": 4,
+              "won": 2,
               "drawn": 2,
               "lost": 0,
-              "gf": 5,
+              "gf": 6,
               "ga": 3,
-              "gd": 2,
-              "points": 5
+              "gd": 3,
+              "points": 8
             },
             {
               "team": {
@@ -22753,14 +22937,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
               },
               "rank": 1,
-              "played": 3,
-              "won": 2,
+              "played": 4,
+              "won": 3,
               "drawn": 1,
               "lost": 0,
-              "gf": 6,
+              "gf": 7,
               "ga": 3,
-              "gd": 3,
-              "points": 7
+              "gd": 4,
+              "points": 10
             },
             {
               "team": {
@@ -22770,13 +22954,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
               },
               "rank": 3,
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 1,
-              "lost": 1,
+              "lost": 2,
               "gf": 7,
-              "ga": 3,
-              "gd": 4,
+              "ga": 4,
+              "gd": 3,
               "points": 4
             },
             {
@@ -22787,13 +22971,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
               },
               "rank": 4,
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
+              "lost": 4,
               "gf": 3,
-              "ga": 12,
-              "gd": -9,
+              "ga": 13,
+              "gd": -10,
               "points": 0
             }
           ]
@@ -22882,14 +23066,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png"
               },
               "rank": 2,
-              "played": 3,
-              "won": 1,
+              "played": 4,
+              "won": 2,
               "drawn": 1,
               "lost": 1,
-              "gf": 3,
-              "ga": 2,
-              "gd": 1,
-              "points": 4
+              "gf": 5,
+              "ga": 3,
+              "gd": 2,
+              "points": 7
             },
             {
               "team": {
@@ -22899,13 +23083,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png"
               },
               "rank": 4,
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 1,
-              "lost": 2,
-              "gf": 1,
-              "ga": 4,
-              "gd": -3,
+              "lost": 3,
+              "gf": 2,
+              "ga": 6,
+              "gd": -4,
               "points": 1
             },
             {
@@ -22916,14 +23100,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png"
               },
               "rank": 3,
-              "played": 3,
+              "played": 4,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 2,
               "gf": 4,
               "ga": 5,
               "gd": -1,
-              "points": 3
+              "points": 4
             },
             {
               "team": {
@@ -22933,14 +23117,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png"
               },
               "rank": 1,
-              "played": 3,
+              "played": 4,
               "won": 3,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
               "gf": 7,
               "ga": 4,
               "gd": 3,
-              "points": 9
+              "points": 10
             }
           ]
         },
@@ -23205,22 +23389,22 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50107997/cristiano-ronaldo-door-open-portugal-return-jorge-jesus",
-          "title": "Cristiano Ronaldo door open for Portugal return - Jorge Jesus",
-          "description": "Portugal boss Jorge Jesus has opened the door for Cristiano Ronaldo to resume his international career.",
-          "url": "https://www.espn.com/soccer/story/_/id/50107997/cristiano-ronaldo-door-open-portugal-return-jorge-jesus",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726232_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T07:40:30Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
+          "title": "Viktor Gyökeres to make Arsenal return after goal-laden stint with Sweden",
+          "description": "Viktor Gyökeres will return to Arsenal in confident mood after setting a new Nations League record with four more goals for Sweden over the international break.",
+          "url": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726793_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T13:48:19Z",
           "source": "ESPN",
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-          "title": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
-          "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
-          "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T06:44:32Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50115812/uefa-launches-investigation-alleged-ireland-israel-incidents",
+          "title": "UEFA launches investigation into alleged Ireland, Israel incidents",
+          "description": "UEFA is investigating possible misconduct by Republic of Ireland and Israel around their bad-tempered Nations League match on Sunday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50115812/uefa-launches-investigation-alleged-ireland-israel-incidents",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726751_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T11:24:41Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -23230,7 +23414,137 @@
           "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
           "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
           "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T08:10:03Z",
+          "publishedUtc": "2026-10-06T06:31:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
+          "title": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
+          "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
+          "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T06:17:23Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
+          "title": "Why are England playing four games in 11 days? Extended international break explained",
+          "description": "In their first return to action since this summer's World Cup, England will be dealing with a jam-packed schedule.",
+          "url": "https://www.espn.com/soccer/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1716958_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T06:15:59Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50112732/zidane-revels-olise-led-france-comeback",
+          "title": "Zidane revels in Olise-led France comeback: 'This is soccer'",
+          "description": "France left it late to beat Belgium 4-1 in the Nations League as Zinedine Zidane got his first home win as the national coach on Monday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50112732/zidane-revels-olise-led-france-comeback",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726599_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T12:51:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50112443/is-just-beginning-ronaldo-jorge-jesus-feud",
+          "title": "Is this just the beginning of the Ronaldo-Jorge Jesus feud?",
+          "description": "Is this just the beginning of the Ronaldo-Jorge Jesus feud?",
+          "url": "https://www.espn.com/video/clip/_/id/50112443/is-just-beginning-ronaldo-jorge-jesus-feud",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_COM_SOC_ANALYSIS_Is_this_just_the_beginning_of_the_Ronaldo-Jorge_Jesus_feud_2026_5_10/dm_261005_COM_SOC_ANALYSIS_Is_this_just_the_beginning_of_the_Ronaldo-Jorge_Jesus_feud_2026_5_10.jpg",
+          "publishedUtc": "2026-10-05T22:15:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50112423/olise-france-looked-unstoppable",
+          "title": "Leboeuf: Olise and France looked unstoppable",
+          "description": "Leboeuf: Olise and France looked unstoppable",
+          "url": "https://www.espn.com/video/clip/_/id/50112423/olise-france-looked-unstoppable",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_COM_SOC_ANALYSIS_Leboeuf_Olise_and_France_looked_unstoppable_2026_5_10/dm_261005_COM_SOC_ANALYSIS_Leboeuf_Olise_and_France_looked_unstoppable_2026_5_10.jpg",
+          "publishedUtc": "2026-10-05T22:14:45Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401861131",
+          "title": "Italian renaissance continues with runaway win over Türkiye",
+          "description": "Pio Esposito's late goal sealed a hard-earned win over Türkiye in Bologna and continued Italy's improvement under returning head coach Roberto Mancini.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401861131",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726523_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T21:24:23Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50111813/uefa-nations-league-northern-ireland-held-georgia-late-penalty-miss",
+          "title": "UEFA Nations League: Northern Ireland held by Georgia after late penalty miss",
+          "description": "Isaac Price missed a late penalty as Northern Ireland were held to a goalless draw by Georgia which nevertheless keeps them top of their Nations League group.",
+          "url": "https://www.espn.com/soccer/story/_/id/50111813/uefa-nations-league-northern-ireland-held-georgia-late-penalty-miss",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726535_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T21:11:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401861129",
+          "title": "France stun Belgium with four late goals to snatch victory",
+          "description": "Zinedine Zidane's France belatedly turned on the style as late goals from substitutes Désiré Doué, Ryan Cherki and two from Michael Olise saw them come from behind to beat Belgium 4-1 in the UEFA Nations League.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401861129",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726518_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T20:57:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50109266/harry-kane-best-person-match-peter-shiltons-record-thomas-tuchel",
+          "title": "Harry Kane best person to match Peter Shilton's record - Thomas Tuchel",
+          "description": "Thomas Tuchel says there is no more fitting \"role model\" than Harry Kane to equal Peter Shilton's England appearance record - and revealed he would dive around pretending to be the goalkeeper growing up.",
+          "url": "https://www.espn.com/soccer/story/_/id/50109266/harry-kane-best-person-match-peter-shiltons-record-thomas-tuchel",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726301_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T14:55:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
+          "title": "Tuchel: There are no words left to describe Kane",
+          "description": "Tuchel: There are no words left to describe Kane",
+          "url": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane.jpg",
+          "publishedUtc": "2026-10-05T13:50:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50108415/jorge-jesus-denies-placing-blame-ronaldo-portugal-national-team-fallout",
+          "title": "Jorge Jesus denies placing blame on Ronaldo after Portugal national team fallout",
+          "description": "Jorge Jesus denies placing blame on Ronaldo after Portugal national team fallout",
+          "url": "https://www.espn.com/video/clip/_/id/50108415/jorge-jesus-denies-placing-blame-ronaldo-portugal-national-team-fallout",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_Jorge_Jesus_denies_placing_blame_on_Ronaldo_after_Portugal_national_team_fallout/dm_261005_Jorge_Jesus_denies_placing_blame_on_Ronaldo_after_Portugal_national_team_fallout.jpg",
+          "publishedUtc": "2026-10-05T09:42:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50108129/alex-scott-ezri-konsa-withdraw-england-squad-face-czechia",
+          "title": "Alex Scott, Ezri Konsa withdraw from England squad to face Czechia",
+          "description": "Alex Scott and Ezri Konsa have pulled out of England's squad to face Czechia.",
+          "url": "https://www.espn.com/soccer/story/_/id/50108129/alex-scott-ezri-konsa-withdraw-england-squad-face-czechia",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726343_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-05T15:04:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50107997/cristiano-ronaldo-door-open-portugal-return-jorge-jesus",
+          "title": "Cristiano Ronaldo row 'a misunderstanding to be resolved' - Portugal FA boss",
+          "description": "Portugal boss Jorge Jesus has opened the door for Cristiano Ronaldo to resume his international career.",
+          "url": "https://www.espn.com/soccer/story/_/id/50107997/cristiano-ronaldo-door-open-portugal-return-jorge-jesus",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726232_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T12:53:24Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -23240,7 +23554,7 @@
           "description": "Erling Haaland has an injury question looming over him after asking to be substituted for Norway on Sunday night.",
           "url": "https://www.espn.com/soccer/story/_/id/50107853/erling-haaland-injury-fear-asked-substituted-norway",
           "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726226_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T06:38:31Z",
+          "publishedUtc": "2026-10-05T11:47:21Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -23313,136 +23627,6 @@
           "publishedUtc": "2026-10-05T05:56:58Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50099766/zinedine-zidane-planning-france-changes-belgium-win-home",
-          "title": "Zinedine Zidane: France will make 'smart changes' against Belgium",
-          "description": "France head coach Zinedine Zidane has said he will make some \"smart changes\" when his side face Belgium looking to stay top of Nations League Group A1.",
-          "url": "https://www.espn.com/soccer/story/_/id/50099766/zinedine-zidane-planning-france-changes-belgium-win-home",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1004/r1725754_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-04T14:40:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50099303/thomas-tuchel-alex-scott-england-croatia-nations-league",
-          "title": "Thomas Tuchel heaps praise on Alex Scott after first England start",
-          "description": "England boss Thomas Tuchel described midfielder Alex Scott as the \"complete package\" after he impressed in the 7-0 victory in Croatia.",
-          "url": "https://www.espn.com/soccer/story/_/id/50099303/thomas-tuchel-alex-scott-england-croatia-nations-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1004/r1725728_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T12:38:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50099211/andrew-robertson-hitting-100-scotland-caps-hopefully-catch-kenny-dalglish",
-          "title": "Andrew Robertson after hitting 100 Scotland caps: Hopefully I can catch Kenny Dalglish",
-          "description": "Andy Robertson was determined to savour the \"incredible\" achievement of reaching 100 Scotland caps before he thinks about trying to overhaul Sir Kenny Dalglish at the top of his country's appearance charts.",
-          "url": "https://www.espn.com/soccer/story/_/id/50099211/andrew-robertson-hitting-100-scotland-caps-hopefully-catch-kenny-dalglish",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1004/r1725723_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T11:51:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50098303/harry-kane-england-rout-croatia-sends-message-rest-europe",
-          "title": "Harry Kane: England rout of Croatia sends 'message' to rest of Europe",
-          "description": "England captain Harry Kane believes the 7-0 demolition of Croatia sends a message to the rest of Europe as he closes in on more history.",
-          "url": "https://www.espn.com/soccer/story/_/id/50098303/harry-kane-england-rout-croatia-sends-message-rest-europe",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1004/r1725682_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T08:28:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50094107/croatian-england-biggest-loss-nations-league-slaven-bilic",
-          "title": "Modric 'ashamed' after Croatia handed biggest-ever loss by England",
-          "description": "Croatia captain Luka Modric said that for the first time in his legendary national team career, he felt \"ashamed\" after a record 7-0 loss to England.",
-          "url": "https://www.espn.com/soccer/story/_/id/50094107/croatian-england-biggest-loss-nations-league-slaven-bilic",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725491_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T01:33:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50093970/burley-slams-england-beating-croatia-7-0",
-          "title": "Burley slams England despite beating Croatia 7-0",
-          "description": "Burley slams England despite beating Croatia 7-0",
-          "url": "https://www.espn.com/video/clip/_/id/50093970/burley-slams-england-beating-croatia-7-0",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1003/dm_261003_COM_SOC_Analysis_Burley_slams_England_despite_beating_Croatia_7-0__GLOBAL_2026-10-03/dm_261003_COM_SOC_Analysis_Burley_slams_England_despite_beating_Croatia_7-0__GLOBAL_2026-10-03.jpg",
-          "publishedUtc": "2026-10-03T22:43:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50093692/lamine-yamal-spain-czechia-luis-de-la-fuente-nations-league",
-          "title": "Spain's de la Fuente in disbelief as Yamal continues scoring streak",
-          "description": "Spain coach Luis de la Fuente says Lamine Yamal is on the path to becoming a legend after being left stunned by the teenager's latest goal in Saturday's 3-1 UEFA Nations League win over Czechia.",
-          "url": "https://www.espn.com/soccer/story/_/id/50093692/lamine-yamal-spain-czechia-luis-de-la-fuente-nations-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725444_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-04T12:16:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50093891/england-7-0-victory-slap-face-croatia",
-          "title": "Leboeuf: England's 7-0 victory is a slap in the face to Croatia",
-          "description": "Leboeuf: England's 7-0 victory is a slap in the face to Croatia",
-          "url": "https://www.espn.com/video/clip/_/id/50093891/england-7-0-victory-slap-face-croatia",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1003/dm_261003_COM_SOC_Analysis_Leboeuf3A_EnglandE28099s_7-0_victory_is_a_slap_in_the_face_to_Croatia__GLOBAL_2026-10-0/dm_261003_COM_SOC_Analysis_Leboeuf3A_EnglandE28099s_7-0_victory_is_a_slap_in_the_face_to_Croatia__GLOBAL_2026-10-0.jpg",
-          "publishedUtc": "2026-10-03T22:31:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50093861/how-do-stop-lamine-yamal",
-          "title": "How do you 'stop' Lamine Yamal?",
-          "description": "How do you 'stop' Lamine Yamal?",
-          "url": "https://www.espn.com/video/clip/_/id/50093861/how-do-stop-lamine-yamal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1003/dm_261003_COM_SOC_Analysis_How_do_you_E28098stopE28099_Lamine_Yamal3F_GLOBAL_2026-10-03/dm_261003_COM_SOC_Analysis_How_do_you_E28098stopE28099_Lamine_Yamal3F_GLOBAL_2026-10-03.jpg",
-          "publishedUtc": "2026-10-03T22:30:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50093391/sebastien-pocognoli-first-scotland-victory-shaky-start",
-          "title": "Sébastien Pocognoli claims first Scotland victory after shaky start",
-          "description": "Sébastien Pocognoli claimed his first win as Scotland head coach at the third attempt as his side won 2-0 in North Macedonia.",
-          "url": "https://www.espn.com/soccer/story/_/id/50093391/sebastien-pocognoli-first-scotland-victory-shaky-start",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725467_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-03T21:42:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401861118",
-          "title": "Lamine Yamal strikes early to inspire Spain win over Czechia ",
-          "description": "Lamine Yamal scored a superb early goal as world champions Spain beat Czechia 3-1 in Oviedo to maintain their perfect start in Nations League Group A3.\n\n",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401861118",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725444_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-03T21:26:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50092649/england-croatia-nations-league-harry-kane-jude-bellingham-anthony-gordon-bukayo-saka",
-          "title": "England's front four shine in Croatia demolition job",
-          "description": "One goal for Jude Bellingham, two goals for Harry Kane, one goal for Anthony Gordon and two goals for Bukayo Saka. England's front four were in sensational form in their stunning Nations League win over Croatia.",
-          "url": "https://www.espn.com/soccer/story/_/id/50092649/england-croatia-nations-league-harry-kane-jude-bellingham-anthony-gordon-bukayo-saka",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725388_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-03T21:05:54Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401861116",
-          "title": "Sébastien Pocognoli gets first Scotland win against North Macedonia",
-          "description": "Sassuolo forward Kieron Bowie broke his Scotland duck with a wonder strike to set Sébastien Pocognoli on the way to his first victory as head coach on a night of landmarks in North Macedonia for the dominant visitors.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401861116",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1003/r1725446_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-03T21:02:24Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -23458,6 +23642,18 @@
             },
             "goals": 5,
             "assists": 0
+          },
+          {
+            "id": "286831",
+            "name": "Michael Olise",
+            "team": {
+              "id": "478",
+              "name": "France",
+              "abbreviation": "FRA",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+            },
+            "goals": 4,
+            "assists": 2
           },
           {
             "id": "142200",
@@ -23527,6 +23723,18 @@
               "name": "Republic of Ireland",
               "abbreviation": "IRL",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "id": "258906",
+            "name": "Viktor Gyökeres",
+            "team": {
+              "id": "466",
+              "name": "Sweden",
+              "abbreviation": "SWE",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
             },
             "goals": 4,
             "assists": 0
@@ -23628,18 +23836,6 @@
             "assists": 0
           },
           {
-            "id": "258906",
-            "name": "Viktor Gyökeres",
-            "team": {
-              "id": "466",
-              "name": "Sweden",
-              "abbreviation": "SWE",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
             "id": "326075",
             "name": "Andri Gudjohnsen",
             "team": {
@@ -23647,6 +23843,18 @@
               "name": "Iceland",
               "abbreviation": "ISL",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "229443",
+            "name": "Dodi Lukébakio",
+            "team": {
+              "id": "459",
+              "name": "Belgium",
+              "abbreviation": "BEL",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
             },
             "goals": 2,
             "assists": 1
@@ -23664,18 +23872,6 @@
             "assists": 1
           },
           {
-            "id": "286831",
-            "name": "Michael Olise",
-            "team": {
-              "id": "478",
-              "name": "France",
-              "abbreviation": "FRA",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
             "id": "258158",
             "name": "Nikola Krstovic",
             "team": {
@@ -23683,6 +23879,18 @@
               "name": "Montenegro",
               "abbreviation": "MNE",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "362674",
+            "name": "Pio Esposito",
+            "team": {
+              "id": "162",
+              "name": "Italy",
+              "abbreviation": "ITA",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
             },
             "goals": 2,
             "assists": 1
@@ -23782,30 +23990,6 @@
             },
             "goals": 2,
             "assists": 0
-          },
-          {
-            "id": "269461",
-            "name": "Ciaron Brown",
-            "team": {
-              "id": "586",
-              "name": "Northern Ireland",
-              "abbreviation": "NIR",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "281122",
-            "name": "Felix Nmecha",
-            "team": {
-              "id": "481",
-              "name": "Germany",
-              "abbreviation": "GER",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
-            },
-            "goals": 2,
-            "assists": 0
           }
         ],
         "assists": [
@@ -23858,6 +24042,18 @@
             "assists": 3
           },
           {
+            "id": "286831",
+            "name": "Michael Olise",
+            "team": {
+              "id": "478",
+              "name": "France",
+              "abbreviation": "FRA",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+            },
+            "goals": 4,
+            "assists": 2
+          },
+          {
             "id": "341367",
             "name": "Orri Óskarsson",
             "team": {
@@ -23901,6 +24097,30 @@
               "name": "Switzerland",
               "abbreviation": "SUI",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "336388",
+            "name": "Désiré Doué",
+            "team": {
+              "id": "478",
+              "name": "France",
+              "abbreviation": "FRA",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "298008",
+            "name": "Rayan Cherki",
+            "team": {
+              "id": "478",
+              "name": "France",
+              "abbreviation": "FRA",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
             },
             "goals": 1,
             "assists": 2
@@ -24041,6 +24261,18 @@
             "assists": 2
           },
           {
+            "id": "264269",
+            "name": "Nicholas Tsaroulla",
+            "team": {
+              "id": "445",
+              "name": "Cyprus",
+              "abbreviation": "CYP",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
             "id": "288488",
             "name": "Nicola Zalewski",
             "team": {
@@ -24060,18 +24292,6 @@
               "name": "Austria",
               "abbreviation": "AUT",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "298008",
-            "name": "Rayan Cherki",
-            "team": {
-              "id": "478",
-              "name": "France",
-              "abbreviation": "FRA",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
             },
             "goals": 0,
             "assists": 2
@@ -24136,42 +24356,6 @@
             },
             "goals": 4,
             "assists": 1
-          },
-          {
-            "id": "323176",
-            "name": "Leo Walta",
-            "team": {
-              "id": "458",
-              "name": "Finland",
-              "abbreviation": "FIN",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
-            "id": "268782",
-            "name": "Anthony Gordon",
-            "team": {
-              "id": "448",
-              "name": "England",
-              "abbreviation": "ENG",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "288896",
-            "name": "Gonçalo Ramos",
-            "team": {
-              "id": "482",
-              "name": "Portugal",
-              "abbreviation": "POR",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
-            },
-            "goals": 3,
-            "assists": 1
           }
         ]
       }
@@ -24191,7 +24375,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-05T09:16:06.184Z",
+      "updatedUtc": "2026-10-06T14:03:44.746Z",
       "matches": [
         {
           "id": "761871",
@@ -27240,7 +27424,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-05T09:16:05.986Z",
+      "updatedUtc": "2026-10-06T14:03:44.301Z",
       "matches": [
         {
           "id": "760415",
@@ -30519,6 +30703,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
+          "title": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
+          "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
+          "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
+          "imageUrl": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T11:59:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
           "title": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
           "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
@@ -30725,16 +30919,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
           "imageUrl": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-24T11:12:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50015084/gianni-infantino-donald-trump-fifa-world-cup-uefa",
-          "title": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
-          "description": "FIFA president Gianni Infantino has been accused of a \"woefully inadequate\" level of co-operation over a probe by democratic members of the United States House Judiciary Committee into his relationship with Donald Trump.",
-          "url": "https://www.espn.com/soccer/story/_/id/50015084/gianni-infantino-donald-trump-fifa-world-cup-uefa",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-23T20:07:48Z",
           "source": "ESPN",
           "transfer": false
         }
