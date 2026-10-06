@@ -89,7 +89,10 @@ test('league result opens a full match centre with lineups table stats and head 
             { homeAway: 'away', statistics: [{ name: 'possessionPct', displayValue: '45' }, { name: 'totalShots', displayValue: '8' }] },
           ],
         },
-        keyEvents: [{ clock: { displayValue: "12'" }, type: { text: 'Goal' }, team: { id: '162' }, participants: [{ athlete: { displayName: 'Home Scorer' } }] }],
+        keyEvents: [
+          { clock: { displayValue: "12'" }, type: { text: 'Goal' }, team: { id: '162' }, participants: [{ athlete: { displayName: 'Home Scorer' } }] },
+          { clock: { displayValue: "74'" }, type: { text: 'Red Card' }, team: { id: '465' }, participants: [{ athlete: { displayName: 'Away Defender' } }] },
+        ],
         lastFiveGames: [
           { team: { id: '162' }, events: [{ gameDate: '2026-10-01', score: '2-0', gameResult: 'W', opponent: { abbreviation: 'BEL' } }] },
           { team: { id: '465' }, events: [{ gameDate: '2026-10-01', score: '1-1', gameResult: 'D', opponent: { abbreviation: 'FRA' } }] },
@@ -104,6 +107,8 @@ test('league result opens a full match centre with lineups table stats and head 
   const dialog = page.getByRole('dialog');
   await expect(dialog).toBeVisible();
   await expect(dialog.getByText('Full time')).toBeVisible();
+  await expect(dialog.getByLabel("Goal: Home Scorer, 12'")).toBeVisible();
+  await expect(dialog.getByLabel("Red card: Away Defender, 74'")).toBeVisible();
   await dialog.getByRole('tab', { name: 'Lineup' }).click();
   await expect(dialog.getByText('Starting lineups')).toBeVisible();
   await dialog.getByRole('tab', { name: 'Table' }).click();

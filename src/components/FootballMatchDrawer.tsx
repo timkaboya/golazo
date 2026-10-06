@@ -11,7 +11,7 @@ import type {
   TeamLineup,
 } from '../lib/types';
 import { fetchFootballMatchDetail } from '../lib/api';
-import { selectRelevantTable } from '../lib/football-stats';
+import { selectKeyIncidents, selectRelevantTable, type KeyIncident } from '../lib/football-stats';
 
 export interface FootballMatchContext {
   name: string;
@@ -75,6 +75,25 @@ function formationLines(lineup: TeamLineup): LineupPlayer[][] {
 
 function TeamBadge({ logo, name }: { logo?: string; name: string }) {
   return logo ? <img src={logo} alt="" /> : <span>{name.slice(0, 3).toUpperCase()}</span>;
+}
+
+function KeyIncidents({ incidents, team }: { incidents: KeyIncident[]; team: string }) {
+  if (!incidents.length) return null;
+  return (
+    <div class="fmd-key-incidents" aria-label={`${team} key incidents`}>
+      {incidents.map((incident, index) => (
+        <span
+          class={`fmd-key-incident is-${incident.type}`}
+          aria-label={`${incident.type === 'goal' ? 'Goal' : 'Red card'}: ${incident.player}, ${incident.minute}`}
+          key={`${incident.minute}-${incident.player}-${index}`}
+        >
+          <i aria-hidden="true">{incident.type === 'goal' ? '⚽' : ''}</i>
+          <b>{incident.player}</b>
+          <time>{incident.minute}</time>
+        </span>
+      ))}
+    </div>
+  );
 }
 
 function PitchPlayer({ player }: { player: LineupPlayer }) {
@@ -196,6 +215,8 @@ export default function FootballMatchDrawer({
   const score = detail?.score ?? match.score;
   const status = detail?.status ?? match.status;
   const showScore = (status === 'live' || status === 'finished') && score;
+  const homeIncidents = selectKeyIncidents(detail?.events ?? [], 'home');
+  const awayIncidents = selectKeyIncidents(detail?.events ?? [], 'away');
 
   return (
     <div class="fmd-overlay" onClick={onClose}>
@@ -216,7 +237,10 @@ export default function FootballMatchDrawer({
           <div class="fmd-scoreboard">
             <div class="fmd-team">
               <TeamBadge logo={match.home.logo} name={match.home.name} />
-              <strong>{match.home.name}</strong>
+              <div class="fmd-team-copy">
+                <strong>{match.home.name}</strong>
+                <KeyIncidents incidents={homeIncidents} team={match.home.name} />
+              </div>
             </div>
             <div class="fmd-score">
               {showScore ? `${score.home} - ${score.away}` : 'vs'}
@@ -226,7 +250,10 @@ export default function FootballMatchDrawer({
             </div>
             <div class="fmd-team is-away">
               <TeamBadge logo={match.away.logo} name={match.away.name} />
-              <strong>{match.away.name}</strong>
+              <div class="fmd-team-copy">
+                <strong>{match.away.name}</strong>
+                <KeyIncidents incidents={awayIncidents} team={match.away.name} />
+              </div>
             </div>
           </div>
           <div class="fmd-match-meta">

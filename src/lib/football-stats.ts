@@ -5,6 +5,7 @@ import type {
   FootballMatch,
   LeagueTable,
 } from './football-types';
+import type { MatchEvent } from './types';
 
 const text = (value: unknown) => (typeof value === 'string' ? value : '');
 const number = (value: unknown) => {
@@ -137,4 +138,26 @@ export function selectRelevantTable(
   }
 
   return best;
+}
+
+export interface KeyIncident {
+  minute: string;
+  type: 'goal' | 'red';
+  player: string;
+}
+
+export function selectKeyIncidents(
+  events: MatchEvent[],
+  side: 'home' | 'away'
+): KeyIncident[] {
+  return events
+    .filter(
+      (event): event is MatchEvent & { type: KeyIncident['type'] } =>
+        event.side === side && (event.type === 'goal' || event.type === 'red')
+    )
+    .map((event) => ({
+      minute: event.min,
+      type: event.type,
+      player: event.players[0] || event.text || (event.type === 'goal' ? 'Goal' : 'Red card'),
+    }));
 }
