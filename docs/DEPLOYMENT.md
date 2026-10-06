@@ -20,16 +20,19 @@ The app is a static Astro site plus Cloudflare Pages Functions for the read-only
 `main` is protected, it updates `automation/refresh-football-data`, opens a pull
 request, dispatches the required CI checks, waits for both suites, publishes
 their verified statuses to the refresh commit, and merges only after they pass.
-The merge triggers the git-integrated Live deployment and keeps committed
-fallbacks current.
+GitHub suppresses normal `push` workflow events for merges made with its
+workflow token, so the refresh job explicitly dispatches both deployment
+workflows after merging.
 
-Cloudflare's Git integration occasionally stops picking up new commits. The
-`.github/workflows/deploy-cloudflare.yml` workflow is an optional direct-deploy
-fallback: on every push to `main` it builds the site and runs `wrangler pages
-deploy dist --project-name=golazo --branch=main`.
+The current Cloudflare `golazo` Pages project is configured for direct uploads
+and has no Git provider. `.github/workflows/deploy-cloudflare.yml` is therefore
+the production deployment path: on every push to `main`, explicit dispatch, or
+two-hour schedule, it builds the site and runs `wrangler pages deploy dist
+--project-name=golazo --branch=main`.
 
-It is a safe no-op until you enable it — the deploy step only runs when the
-`CLOUDFLARE_API_TOKEN` secret is present. To turn it on, add two **repository secrets**
+It is a safe no-op until credentials are configured — the deploy step only runs
+when the `CLOUDFLARE_API_TOKEN` secret is present. To enable automated Live
+deployments, add two **repository secrets**
 (Settings → Secrets and variables → Actions):
 
 | Secret | How to get it |
