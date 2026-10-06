@@ -1,7 +1,7 @@
 ---
 import FootballBase from '../../layouts/FootballBase.astro';
 import FootballLeaders from '../../components/FootballLeaders.astro';
-import FootballMatches from '../../components/FootballMatches.astro';
+import FootballMatchBoards from '../../components/FootballMatchBoards';
 import snapshot from '../../data/football.json';
 import { groupMatches } from '../../lib/football-stats';
 import type { CompetitionSnapshot } from '../../lib/football-types';
@@ -67,29 +67,13 @@ const cover = news.find((story) => story.imageUrl)?.imageUrl;
           <p>Live games, upcoming fixtures and recent results in your local timezone.</p>
         </div>
       </div>
-      <div class="match-boards">
-        <FootballMatches
-          title="Live now"
-          description="Games currently in progress."
-          matches={matchGroups.live}
-          empty="No live games right now."
-          status="live"
-        />
-        <FootballMatches
-          title="Upcoming games"
-          description="The next scheduled fixtures."
-          matches={matchGroups.upcoming}
-          empty="No upcoming fixtures in the current data window."
-          status="upcoming"
-        />
-        <FootballMatches
-          title="Recent results"
-          description="The latest completed games."
-          matches={matchGroups.recent}
-          empty="No recent results are available."
-          status="finished"
-        />
-      </div>
+      <FootballMatchBoards
+        client:load
+        groups={matchGroups}
+        competition={config.name}
+        espn={config.espn}
+        tables={tables}
+      />
     </section>
 
     <section id="table" class="competition-section">

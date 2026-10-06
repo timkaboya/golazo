@@ -3,6 +3,7 @@ import type {
   FootballLeader,
   FootballLeaders,
   FootballMatch,
+  LeagueTable,
 } from './football-types';
 
 const text = (value: unknown) => (typeof value === 'string' ? value : '');
@@ -116,4 +117,24 @@ export function selectLandingMatches(
     recent: ordered.filter((match) => match.status === 'finished').slice(-limit).reverse(),
     upcoming: ordered.filter((match) => match.status === 'upcoming').slice(0, limit),
   };
+}
+
+export function selectRelevantTable(
+  tables: LeagueTable[],
+  homeTeamId: string,
+  awayTeamId: string
+): LeagueTable | null {
+  let best: LeagueTable | null = null;
+  let bestScore = 0;
+
+  for (const table of tables) {
+    const ids = new Set(table.rows.map((row) => row.team.id));
+    const score = Number(ids.has(homeTeamId)) + Number(ids.has(awayTeamId));
+    if (score > bestScore) {
+      best = table;
+      bestScore = score;
+    }
+  }
+
+  return best;
 }

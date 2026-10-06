@@ -5,6 +5,7 @@ import {
   buildLeaders,
   ESPN_BASE,
   ESPN_STANDINGS,
+  espnCompetitionSummaryUrl,
   flagEmoji,
   mapScoreboard,
   mapSummary,
@@ -322,6 +323,20 @@ describe('buildLeaders', () => {
     displayName: name,
     team: { abbreviation: code, displayName: code },
     statistics: [stat('appearances', 5), stat('totalGoals', goals), stat('goalAssists', assists)],
+  });
+
+  describe('espnCompetitionSummaryUrl', () => {
+    it('targets the selected football competition and event', () => {
+      expect(espnCompetitionSummaryUrl('uefa.nations', '401861131')).toBe(
+        'https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.nations/summary?event=401861131'
+      );
+    });
+
+    it('encodes path and query values', () => {
+      expect(espnCompetitionSummaryUrl('eng.1/test', '1&other=2')).toContain(
+        'eng.1%2Ftest/summary?event=1%26other%3D2'
+      );
+    });
   });
   const statsJson = {
     stats: [
