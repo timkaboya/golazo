@@ -16,10 +16,16 @@ The app is a static Astro site plus Cloudflare Pages Functions for the read-only
 
 ### Automated deploys via GitHub Actions (fallback)
 
+`.github/workflows/refresh-data.yml` fetches new snapshots every two hours. Because
+`main` is protected, it updates `automation/refresh-football-data`, opens a pull
+request, dispatches the required CI checks, and auto-merges after they pass. The
+merge triggers the git-integrated Live deployment and keeps committed fallbacks
+current.
+
 Cloudflare's Git integration occasionally stops picking up new commits. The
-`.github/workflows/deploy-cloudflare.yml` workflow is a reliable fallback: on every
-push to `main` it builds the site and runs `wrangler pages deploy dist
---project-name=golazo --branch=main`, updating the **same** Live Pages project.
+`.github/workflows/deploy-cloudflare.yml` workflow is an optional direct-deploy
+fallback: on every push to `main` it builds the site and runs `wrangler pages
+deploy dist --project-name=golazo --branch=main`.
 
 It is a safe no-op until you enable it — the deploy step only runs when the
 `CLOUDFLARE_API_TOKEN` secret is present. To turn it on, add two **repository secrets**

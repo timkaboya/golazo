@@ -123,6 +123,7 @@
   min-width: 0; padding: 1rem; background: #fff; border: 1px solid #e4e7ec; border-radius: 16px;
   box-shadow: 0 10px 28px rgba(7,20,38,.06);
 }
+.home-match-centre { align-self: start; }
 .home-panel-heading { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: .8rem; }
 .home-panel-heading h2 { margin-top: .15rem; font-family: 'Bebas Neue', sans-serif; color: #071426; font-size: 1.8rem; letter-spacing: .035em; }
 .home-panel-heading .eyebrow { color: #16834b; font-size: .56rem; }
@@ -146,13 +147,13 @@
   color: #071426; background: #fff; box-shadow: 0 1px 3px rgba(7,20,38,.12);
 }
 .home-match-tabs button[aria-selected='true'] span { color: #16834b; }
-.home-match-panels { min-height: 228px; max-height: 260px; overflow-y: auto; scrollbar-gutter: stable; }
+.home-match-panels { max-height: 420px; overflow-y: auto; scrollbar-gutter: stable; }
 .home-match-panels [hidden] { display: none; }
 .home-match-columns { display: grid; grid-template-columns: 1fr 1fr; gap: .8rem; min-width: 0; }
 .home-match-group { min-width: 0; }
 .home-match-group h3 { margin-bottom: .45rem; color: #475467; font-size: .65rem; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
-.home-match-list { display: grid; gap: .4rem; }
-.home-match-list article { min-width: 0; padding: .52rem .6rem; background: #f8fafc; border: 1px solid #eaecf0; border-radius: 10px; }
+.home-match-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .4rem; }
+.home-match-list article { min-width: 0; padding: .48rem .55rem; background: #f8fafc; border: 1px solid #eaecf0; border-radius: 10px; }
 .home-match-meta { display: flex; justify-content: space-between; gap: .4rem; margin-bottom: .32rem; color: #98a2b3; font-size: .52rem; }
 .home-match-meta span, .home-match-meta time { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .home-match-team { display: grid; grid-template-columns: 18px minmax(0, 1fr) auto; align-items: center; gap: .35rem; margin-top: .2rem; }
@@ -281,6 +282,8 @@
   .leader-grid { grid-template-columns: 1fr; }
   .competition-hero-inner { align-items: flex-end; padding-bottom: 2rem; }
   .home-dashboard { grid-template-columns: 1fr; }
+  .home-match-list { grid-template-columns: 1fr; }
+  .home-match-panels { max-height: 390px; }
   .competition-quick-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 560px) {
