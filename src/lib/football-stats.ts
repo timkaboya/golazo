@@ -3,7 +3,9 @@ import type {
   FootballLeader,
   FootballLeaders,
   FootballMatch,
+  LeagueTable,
 } from './football-types';
+import type { MatchEvent } from './types';
 
 const text = (value: unknown) => (typeof value === 'string' ? value : '');
 const number = (value: unknown) => {
@@ -116,4 +118,46 @@ export function selectLandingMatches(
     recent: ordered.filter((match) => match.status === 'finished').slice(-limit).reverse(),
     upcoming: ordered.filter((match) => match.status === 'upcoming').slice(0, limit),
   };
+}
+
+export function selectRelevantTable(
+  tables: LeagueTable[],
+  homeTeamId: string,
+  awayTeamId: string
+): LeagueTable | null {
+  let best: LeagueTable | null = null;
+  let bestScore = 0;
+
+  for (const table of tables) {
+    const ids = new Set(table.rows.map((row) => row.team.id));
+    const score = Number(ids.has(homeTeamId)) + Number(ids.has(awayTeamId));
+    if (score > bestScore) {
+      best = table;
+      bestScore = score;
+    }
+  }
+
+  return best;
+}
+
+export interface KeyIncident {
+  minute: string;
+  type: 'goal' | 'red';
+  player: string;
+}
+
+export function selectKeyIncidents(
+  events: MatchEvent[],
+  side: 'home' | 'away'
+): KeyIncident[] {
+  return events
+    .filter(
+      (event): event is MatchEvent & { type: KeyIncident['type'] } =>
+        event.side === side && (event.type === 'goal' || event.type === 'red')
+    )
+    .map((event) => ({
+      minute: event.min,
+      type: event.type,
+      player: event.players[0] || event.text || (event.type === 'goal' ? 'Goal' : 'Red card'),
+    }));
 }

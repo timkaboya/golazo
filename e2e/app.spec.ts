@@ -11,8 +11,8 @@ test('football landing page shows the requested competition groups', async ({ pa
   await expect(page.getByRole('tab', { name: /Live & today/ })).toBeVisible();
   await page.getByRole('tab', { name: /Recent/ }).click();
   await expect(page.getByRole('heading', { name: '10 most recent results' })).toBeVisible();
-  const recentPanel = page.locator('#match-panel-recent');
-  await expect(recentPanel.locator('.home-match-list article')).toHaveCount(10);
+  const recentPanel = page.locator('.home-match-panels');
+  await expect(recentPanel.locator('.home-match-card')).toHaveCount(10);
   await expect
     .poll(() =>
       recentPanel.locator('.home-match-team b').evaluateAll((scores) =>
@@ -50,6 +50,117 @@ test('competition page shows matches table news and transfers', async ({ page })
   await expect(page.locator('#top-assists .leader-list li').first()).toBeVisible();
   await expect(page.locator('#news')).toBeVisible();
   await expect(page.locator('#transfers')).toBeVisible();
+});
+
+test('league result opens a full match centre with lineups table stats and head to head', async ({ page }) => {
+  await page.route('**/api/match?*', (route) =>
+    route.fulfill({ status: 502, contentType: 'application/json', body: '{}' })
+  );
+  await page.route('**/summary?event=*', (route) =>
+    route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        header: {
+          competitions: [{
+            id: '401861131',
+            status: { type: { state: 'post', shortDetail: 'FT' } },
+            competitors: [
+              { homeAway: 'home', team: { id: '162' }, score: '3', winner: true },
+              { homeAway: 'away', team: { id: '465' }, score: '1' },
+            ],
+          }],
+        },
+        gameInfo: { venue: { fullName: "Renato Dall'Ara" }, officials: [] },
+        rosters: [
+          {
+            homeAway: 'home',
+            formation: '1',
+            roster: [{ jersey: '1', starter: true, formationPlace: 1, position: { abbreviation: 'G' }, athlete: { displayName: 'Home Keeper' } }],
+          },
+          {
+            homeAway: 'away',
+            formation: '1',
+            roster: [{ jersey: '1', starter: true, formationPlace: 1, position: { abbreviation: 'G' }, athlete: { displayName: 'Away Keeper' } }],
+          },
+        ],
+        boxscore: {
+          teams: [
+            { homeAway: 'home', statistics: [{ name: 'possessionPct', displayValue: '55' }, { name: 'totalShots', displayValue: '12' }] },
+            { homeAway: 'away', statistics: [{ name: 'possessionPct', displayValue: '45' }, { name: 'totalShots', displayValue: '8' }] },
+          ],
+        },
+        keyEvents: [
+          { clock: { displayValue: "12'" }, type: { text: 'Goal' }, team: { id: '162' }, participants: [{ athlete: { displayName: 'Home Scorer' } }] },
+          { clock: { displayValue: "74'" }, type: { text: 'Red Card' }, team: { id: '465' }, participants: [{ athlete: { displayName: 'Away Defender' } }] },
+        ],
+        lastFiveGames: [
+          { team: { id: '162' }, events: [{ gameDate: '2026-10-01', score: '2-0', gameResult: 'W', opponent: { abbreviation: 'BEL' } }] },
+          { team: { id: '465' }, events: [{ gameDate: '2026-10-01', score: '1-1', gameResult: 'D', opponent: { abbreviation: 'FRA' } }] },
+        ],
+        headToHeadGames: [{ events: [{ gameDate: '2024-06-01', score: '1-0', gameResult: 'W', opponent: { abbreviation: 'TUR' }, leagueAbbreviation: 'Friendly' }] }],
+      }),
+    })
+  );
+
+  await page.goto('/leagues/nations-league');
+  await page.locator('.match-board.is-recent .football-match').first().click();
+  const dialog = page.getByRole('dialog');
+  await expect(dialog).toBeVisible();
+  await expect(dialog.getByText('Full time')).toBeVisible();
+  await expect(dialog.getByLabel("Goal: Home Scorer, 12'")).toBeVisible();
+  await expect(dialog.getByLabel("Red card: Away Defender, 74'")).toBeVisible();
+  await dialog.getByRole('tab', { name: 'Lineup' }).click();
+  await expect(dialog.getByText('Starting lineups')).toBeVisible();
+  await dialog.getByRole('tab', { name: 'Table' }).click();
+  await expect(dialog.locator('.fmd-table tr.is-match-team')).toHaveCount(2);
+  await dialog.getByRole('tab', { name: 'Stats' }).click();
+  await expect(dialog.getByText('Possession')).toBeVisible();
+  await dialog.getByRole('tab', { name: 'Head to head' }).click();
+  await expect(dialog.getByText(/recent form/i).first()).toBeVisible();
+});
+
+test('future match centre explains when predicted lineups and stats are not published', async ({ page }) => {
+  await page.route('**/api/match?*', (route) =>
+    route.fulfill({ status: 502, contentType: 'application/json', body: '{}' })
+  );
+  await page.route('**/summary?event=*', (route) =>
+    route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        header: { competitions: [{ id: '1', status: { type: { state: 'pre' } }, competitors: [] }] },
+      }),
+    })
+  );
+
+  await page.goto('/leagues/premier-league');
+  await page.locator('.match-board.is-upcoming .football-match').first().click();
+  const dialog = page.getByRole('dialog');
+  await dialog.getByRole('tab', { name: 'Lineup' }).click();
+  await expect(dialog.getByText(/Predicted lineups are not published yet/)).toBeVisible();
+  await dialog.getByRole('tab', { name: 'Stats' }).click();
+  await expect(dialog.getByText(/once the match starts/)).toBeVisible();
+});
+
+test('landing page match cards open the same match centre', async ({ page }) => {
+  await page.route('**/api/match?*', (route) =>
+    route.fulfill({ status: 502, contentType: 'application/json', body: '{}' })
+  );
+  await page.route('**/summary?event=*', (route) =>
+    route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        header: { competitions: [{ id: '1', status: { type: { state: 'post' } }, competitors: [] }] },
+      }),
+    })
+  );
+
+  await page.goto('/');
+  const recentTab = page.getByRole('tab', { name: /Recent/ });
+  await recentTab.click();
+  await expect(recentTab).toHaveAttribute('aria-selected', 'true');
+  await page.locator('.home-match-card').first().click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await expect(page.getByRole('tab', { name: 'Table' })).toBeVisible();
 });
 
 test('football pages stay within the mobile and desktop viewport', async ({ page }) => {

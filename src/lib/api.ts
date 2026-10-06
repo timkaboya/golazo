@@ -1,6 +1,15 @@
 import type { MatchDetail, NewsSnapshot, ScoresSnapshot, Scorer, Standing } from './types';
-import { buildScoresSnapshot, buildLeaders, ESPN_STATISTICS, espnSummaryUrl, mapSummary } from './espn';
+import {
+  buildScoresSnapshot,
+  buildLeaders,
+  ESPN_LEAGUE,
+  ESPN_STATISTICS,
+  espnCompetitionSummaryUrl,
+  mapSummary,
+} from './espn';
 import { withBase } from './base';
+
+const LIVE_API_ORIGIN = 'https://golazo-5ce.pages.dev';
 
 export interface FetchResult {
   snapshot: ScoresSnapshot;
@@ -20,11 +29,7 @@ async function getJson(url: string, timeoutMs = 8000): Promise<ScoresSnapshot> {
   }
 }
 
-/**
- * Fetch arbitrary JSON with a timeout — used for the direct-to-ESPN browser
- * fallback. ESPN's public API sends `Access-Control-Allow-Origin: *`, so these
- * requests succeed from the browser on any host (GitHub Pages, local dev).
- */
+/** Fetch arbitrary JSON with a timeout for edge and best-effort browser fallbacks. */
 async function fetchAny(url: string, timeoutMs = 8000): Promise<any> {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
@@ -40,8 +45,7 @@ async function fetchAny(url: string, timeoutMs = 8000): Promise<any> {
 /**
  * Fetch the scores snapshot. Order of preference:
  *   1. Live edge function (`/api/scores`) — present on Cloudflare.
- *   2. Direct ESPN from the browser — works everywhere (GitHub Pages, dev),
- *      so recently-ended matches always show fresh scores on load.
+ *   2. Direct ESPN from the browser when its current CORS policy permits it.
  *   3. Static build-time snapshot (`/fixtures.json`) — last-known fallback.
  */
 export async function fetchScores(): Promise<FetchResult> {
@@ -141,10 +145,13 @@ export async function fetchNews(): Promise<NewsResult> {
 /**
  * Fetch rich per-match detail for the drawer. Tries the live edge function
  * first; if unavailable (e.g. local `astro dev`, where /api/* is Cloudflare-
- * only), falls back to calling ESPN's summary endpoint directly — its CORS
- * policy is `*`, so the same shared mapper runs in the browser.
+ * only), tries Golazo's public Cloudflare endpoint and then ESPN directly as a
+ * final best-effort fallback.
  */
-export async function fetchMatchDetail(eventId: number): Promise<MatchDetail | null> {
+export async function fetchFootballMatchDetail(
+  eventId: number | string,
+  league: string
+): Promise<MatchDetail | null> {
   const withTimeout = async (url: string, ms = 8000): Promise<Response> => {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), ms);
@@ -154,19 +161,31 @@ export async function fetchMatchDetail(eventId: number): Promise<MatchDetail | n
       clearTimeout(t);
     }
   };
-  try {
-    const r = await withTimeout(withBase(`/api/match?event=${eventId}`));
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    return (await r.json()) as MatchDetail;
-  } catch {
+  const params = new URLSearchParams({ event: String(eventId), league });
+  const endpoints = [
+    withBase(`/api/match?${params}`),
+    `${LIVE_API_ORIGIN}/api/match?${params}`,
+  ];
+  for (const endpoint of endpoints) {
     try {
-      const r = await withTimeout(espnSummaryUrl(eventId));
+      const r = await withTimeout(endpoint);
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      return mapSummary(await r.json(), eventId);
+      return (await r.json()) as MatchDetail;
     } catch {
-      return null;
+      /* try the next endpoint */
     }
   }
+  try {
+    const r = await withTimeout(espnCompetitionSummaryUrl(league, eventId));
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return mapSummary(await r.json(), eventId);
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchMatchDetail(eventId: number): Promise<MatchDetail | null> {
+  return fetchFootballMatchDetail(eventId, ESPN_LEAGUE);
 }
 
 export interface LeadersResult {
@@ -178,8 +197,7 @@ export interface LeadersResult {
 /**
  * Fetch the top-scorers and assists leaderboards. Order of preference:
  *   1. Live edge function (`/api/leaders`) — present on Cloudflare.
- *   2. Direct ESPN `/statistics` from the browser (CORS `*`) — works everywhere
- *      (GitHub Pages, dev), so the boards refresh live on load.
+ *   2. Direct ESPN `/statistics` when its current browser CORS policy permits it.
  *   3. Static build-time snapshots (`/scorers.json` + `/assists.json`).
  */
 export async function fetchLeaders(): Promise<LeadersResult> {

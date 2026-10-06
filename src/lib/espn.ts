@@ -24,7 +24,10 @@ export const ESPN_LEAGUE = 'fifa.world';
 export const ESPN_BASE = `https://site.api.espn.com/apis/site/v2/sports/soccer/${ESPN_LEAGUE}`;
 export const ESPN_STANDINGS = `https://site.api.espn.com/apis/v2/sports/soccer/${ESPN_LEAGUE}/standings`;
 export const ESPN_STATISTICS = `${ESPN_BASE}/statistics`;
-export const espnSummaryUrl = (event: number | string) => `${ESPN_BASE}/summary?event=${event}`;
+export const espnCompetitionSummaryUrl = (league: string, event: number | string) =>
+  `https://site.api.espn.com/apis/site/v2/sports/soccer/${encodeURIComponent(league)}/summary?event=${encodeURIComponent(event)}`;
+export const espnSummaryUrl = (event: number | string) =>
+  espnCompetitionSummaryUrl(ESPN_LEAGUE, event);
 
 // ESPN 3-letter code -> ISO-3166 alpha-2 (for regional-indicator emoji).
 const CODE_TO_A2: Record<string, string> = {

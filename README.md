@@ -20,7 +20,8 @@ snapshots. GitHub Pages **Staging** is a pure static build and is ideal for prev
 
 ## ✨ Features
 
-- **Match centre** — live, upcoming, and recent games across every tracked competition.
+- **Full match centre** — every live, upcoming, and recent card opens a responsive game view with
+  overview, provider-confirmed or expected lineups, relevant table, match stats, and head-to-head.
 - **Competition homes** — fixtures, standings, player statistics, news, and transfers.
 - **Player leaders** — per-competition and aggregate scorer/assist boards.
 - **Top news** — current attributed stories surfaced directly beside the landing match centre.
@@ -43,6 +44,7 @@ npm install
 npm run dev        # http://localhost:4321  (uses static fallback data; no edge fn locally)
 npm run build      # outputs dist/
 npm run preview    # serve the production build
+npx wrangler pages dev dist  # production-like local preview with /api match detail
 ```
 
 Common scripts:

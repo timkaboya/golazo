@@ -1,7 +1,7 @@
 ---
 import FootballBase from '../layouts/FootballBase.astro';
 import FootballLeaders from '../components/FootballLeaders.astro';
-import HomeMatchList from '../components/HomeMatchList.astro';
+import HomeMatchCentre from '../components/HomeMatchCentre';
 import snapshot from '../data/football.json';
 import { aggregateFootballLeaders, selectLandingMatches } from '../lib/football-stats';
 import type { CompetitionSnapshot, FootballStory } from '../lib/football-types';
@@ -24,11 +24,19 @@ const secondary = stories.filter((story) => story !== lead).slice(0, 5);
 const allMatches = competitions
   .filter((competition) => competition.config.kind !== 'archive')
   .flatMap((competition) =>
-    competition.matches.map((match) => ({ ...match, competition: competition.config.shortName }))
+    competition.matches.map((match) => ({
+      ...match,
+      competition: competition.config.shortName,
+      competitionSlug: competition.config.slug,
+    }))
   );
 const matchGroups = selectLandingMatches(allMatches, new Date(snapshot.updatedUtc), 10);
-const liveCount = matchGroups.liveToday.filter((match) => match.status === 'live').length;
-const defaultMatchTab = matchGroups.liveToday.length ? 'today' : 'upcoming';
+const matchContexts = competitions.map((competition) => ({
+  slug: competition.config.slug,
+  name: competition.config.name,
+  espn: competition.config.espn,
+  tables: competition.tables,
+}));
 const overallLeaders = aggregateFootballLeaders(competitions, 5);
 ---
 
@@ -53,92 +61,7 @@ const overallLeaders = aggregateFootballLeaders(competitions, 5);
 
   <section class="home-dashboard football-shell">
     <div id="match-centre" class="home-match-centre">
-      <div class="home-panel-heading">
-        <div>
-          <span class="eyebrow">Across all competitions</span>
-          <h2>Match centre</h2>
-        </div>
-        <div class:list={['home-live-status', { active: liveCount > 0 }]}>
-          <span></span>
-          {liveCount ? `${liveCount} live now` : 'Today’s football'}
-        </div>
-      </div>
-      <div class="home-match-tabs" role="tablist" aria-label="Match centre views">
-        <button
-          type="button"
-          role="tab"
-          id="match-tab-today"
-          aria-controls="match-panel-today"
-          aria-selected={defaultMatchTab === 'today' ? 'true' : 'false'}
-          data-match-tab="today"
-        >
-          Live & today <span>{matchGroups.liveToday.length}</span>
-        </button>
-        <button
-          type="button"
-          role="tab"
-          id="match-tab-recent"
-          aria-controls="match-panel-recent"
-          aria-selected="false"
-          data-match-tab="recent"
-        >
-          Recent <span>{matchGroups.recent.length}</span>
-        </button>
-        <button
-          type="button"
-          role="tab"
-          id="match-tab-upcoming"
-          aria-controls="match-panel-upcoming"
-          aria-selected={defaultMatchTab === 'upcoming' ? 'true' : 'false'}
-          data-match-tab="upcoming"
-        >
-          Up next <span>{matchGroups.upcoming.length}</span>
-        </button>
-      </div>
-      <div class="home-match-panels">
-        <div
-          id="match-panel-today"
-          role="tabpanel"
-          aria-labelledby="match-tab-today"
-          data-match-panel="today"
-          hidden={defaultMatchTab !== 'today'}
-        >
-          <HomeMatchList
-            title="Playing now or today"
-            matches={matchGroups.liveToday}
-            empty="No games are scheduled today."
-            limit={10}
-          />
-        </div>
-        <div
-          id="match-panel-recent"
-          role="tabpanel"
-          aria-labelledby="match-tab-recent"
-          data-match-panel="recent"
-          hidden
-        >
-          <HomeMatchList
-            title="10 most recent results"
-            matches={matchGroups.recent}
-            empty="No recent results are available."
-            limit={10}
-          />
-        </div>
-        <div
-          id="match-panel-upcoming"
-          role="tabpanel"
-          aria-labelledby="match-tab-upcoming"
-          data-match-panel="upcoming"
-          hidden={defaultMatchTab !== 'upcoming'}
-        >
-          <HomeMatchList
-            title="Next 10 games"
-            matches={matchGroups.upcoming}
-            empty="No upcoming fixtures are available."
-            limit={10}
-          />
-        </div>
-      </div>
+      <HomeMatchCentre client:load groups={matchGroups} contexts={matchContexts} />
     </div>
 
     <section id="top-news" class="home-news-panel">
@@ -213,17 +136,3 @@ const overallLeaders = aggregateFootballLeaders(competitions, 5);
     </div>
   </section>
 </FootballBase>
-
-<script is:inline>
-  document.querySelectorAll('[data-match-tab]').forEach(function (tab) {
-    tab.addEventListener('click', function () {
-      var selected = tab.getAttribute('data-match-tab');
-      document.querySelectorAll('[data-match-tab]').forEach(function (item) {
-        item.setAttribute('aria-selected', String(item === tab));
-      });
-      document.querySelectorAll('[data-match-panel]').forEach(function (panel) {
-        panel.hidden = panel.getAttribute('data-match-panel') !== selected;
-      });
-    });
-  });
-</script>

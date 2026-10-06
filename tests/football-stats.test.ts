@@ -3,9 +3,16 @@ import {
   aggregateFootballLeaders,
   groupMatches,
   mapFootballLeaders,
+  selectKeyIncidents,
+  selectRelevantTable,
   selectLandingMatches,
 } from '../src/lib/football-stats';
-import type { CompetitionSnapshot, FootballMatch } from '../src/lib/football-types';
+import type {
+  CompetitionSnapshot,
+  FootballMatch,
+  LeagueTable,
+} from '../src/lib/football-types';
+import type { MatchEvent } from '../src/lib/types';
 
 const athlete = (id: string, name: string, goals: number, assists: number) => ({
   athlete: {
@@ -123,5 +130,65 @@ describe('selectLandingMatches', () => {
     expect(selected.recent[0].id).toBe('today-finished');
     expect(selected.upcoming).toHaveLength(10);
     expect(selected.upcoming[0].id).toBe('today-next');
+  });
+});
+
+describe('selectRelevantTable', () => {
+  const table = (name: string, teamIds: string[]) =>
+    ({
+      name,
+      rows: teamIds.map((id) => ({ team: { id } })),
+    }) as LeagueTable;
+
+  it('prefers the table containing both teams', () => {
+    const selected = selectRelevantTable(
+      [table('East', ['home']), table('League A', ['home', 'away'])],
+      'home',
+      'away'
+    );
+    expect(selected?.name).toBe('League A');
+  });
+
+  it('falls back to a table containing either team', () => {
+    expect(selectRelevantTable([table('West', ['away'])], 'home', 'away')?.name).toBe('West');
+  });
+
+  it('returns null when neither team appears in a table', () => {
+    expect(selectRelevantTable([table('Other', ['third'])], 'home', 'away')).toBeNull();
+    expect(selectRelevantTable([], 'home', 'away')).toBeNull();
+  });
+});
+
+describe('selectKeyIncidents', () => {
+  const event = (
+    type: MatchEvent['type'],
+    side: MatchEvent['side'],
+    min: string,
+    players: string[] = [],
+    text = ''
+  ): MatchEvent => ({ type, side, min, players, text });
+
+  it('returns goals and red cards for the requested team in event order', () => {
+    const incidents = selectKeyIncidents([
+      event('goal', 'home', "12'", ['Home Scorer', 'Home Assist']),
+      event('yellow', 'home', "20'", ['Booked Player']),
+      event('red', 'away', "64'", ['Away Defender']),
+      event('goal', 'away', "81'", ['Away Scorer']),
+    ], 'away');
+
+    expect(incidents).toEqual([
+      { type: 'red', minute: "64'", player: 'Away Defender' },
+      { type: 'goal', minute: "81'", player: 'Away Scorer' },
+    ]);
+  });
+
+  it('uses provider text when a key incident has no player and ignores neutral events', () => {
+    expect(selectKeyIncidents([
+      event('goal', '', "5'", [], 'Unknown scorer'),
+      event('red', 'home', "90+2'", [], 'Bench dismissal'),
+    ], 'home')).toEqual([
+      { type: 'red', minute: "90+2'", player: 'Bench dismissal' },
+    ]);
+    expect(selectKeyIncidents([], 'home')).toEqual([]);
   });
 });
