@@ -1,5 +1,11 @@
 import { test, expect } from '@playwright/test';
 
+test.beforeEach(async ({ page }) => {
+  await page.route('**/api/football-scores*', (route) =>
+    route.fulfill({ status: 502, contentType: 'application/json', body: '{}' })
+  );
+});
+
 test('football landing page shows the requested competition groups', async ({ page }) => {
   await page.goto('/');
   await expect(page.getByRole('heading', { name: /More leagues/i })).toBeVisible();
@@ -50,6 +56,87 @@ test('competition page shows matches table news and transfers', async ({ page })
   await expect(page.locator('#top-assists .leader-list li').first()).toBeVisible();
   await expect(page.locator('#news')).toBeVisible();
   await expect(page.locator('#transfers')).toBeVisible();
+});
+
+test('live scoreboard moves an upcoming match to live and then to recent', async ({ page }) => {
+  await page.unroute('**/api/football-scores*');
+  let requests = 0;
+  await page.route('**/api/football-scores*', (route) => {
+    requests += 1;
+    const finished = requests > 1;
+    return route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        version: 1,
+        updatedUtc: '2026-10-06T20:06:00Z',
+        competitions: [{
+          slug: 'nations-league',
+          name: 'Nations League',
+          espn: 'uefa.nations',
+          matches: [{
+            id: '401861137',
+            utc: '2026-10-06T18:45Z',
+            phase: 'League Phase',
+            home: { id: '477', name: 'Croatia', abbreviation: 'CRO' },
+            away: { id: '164', name: 'Spain', abbreviation: 'ESP' },
+            venue: 'Stadion Poljud, Split',
+            status: finished ? 'finished' : 'live',
+            score: { home: finished ? 2 : 1, away: 1 },
+            note: finished ? 'FT' : "81'",
+          }],
+        }],
+      }),
+    });
+  });
+
+  await page.goto('/leagues/nations-league');
+  const liveCard = page.locator('.match-board.is-live .football-match[data-match-id="401861137"]');
+  await expect(liveCard).toBeVisible();
+  await expect(liveCard).toContainText("81'");
+  await expect(liveCard.locator('.football-match-score')).toHaveText(['1', '1']);
+  await expect(page.locator('.match-board.is-upcoming .football-match[data-match-id="401861137"]')).toHaveCount(0);
+
+  await page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')));
+  const recentCard = page.locator('.match-board.is-recent .football-match[data-match-id="401861137"]');
+  await expect(recentCard).toBeVisible();
+  await expect(recentCard).toContainText('FT');
+  await expect(recentCard.locator('.football-match-score')).toHaveText(['2', '1']);
+});
+
+test('landing match centre immediately surfaces provider-confirmed live games', async ({ page }) => {
+  await page.unroute('**/api/football-scores*');
+  await page.route('**/api/football-scores*', (route) =>
+    route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        version: 1,
+        updatedUtc: '2026-10-06T20:06:00Z',
+        competitions: [{
+          slug: 'nations-league',
+          name: 'Nations League',
+          espn: 'uefa.nations',
+          matches: [{
+            id: '401861137',
+            utc: '2026-10-06T18:45Z',
+            phase: 'League Phase',
+            home: { id: '477', name: 'Croatia', abbreviation: 'CRO' },
+            away: { id: '164', name: 'Spain', abbreviation: 'ESP' },
+            venue: 'Stadion Poljud, Split',
+            status: 'live',
+            score: { home: 1, away: 1 },
+            note: "81'",
+          }],
+        }],
+      }),
+    })
+  );
+
+  await page.goto('/');
+  await expect(page.locator('.home-live-status')).toContainText(/\d+ live now/);
+  const liveCard = page.locator('.home-match-card[data-match-id="401861137"]');
+  await expect(liveCard).toBeVisible();
+  await expect(liveCard).toContainText("81'");
+  await expect(liveCard.locator('.home-match-team b')).toHaveText(['1', '1']);
 });
 
 test('league result opens a full match centre with lineups table stats and head to head', async ({ page }) => {

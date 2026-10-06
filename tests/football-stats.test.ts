@@ -2,7 +2,9 @@ import { describe, expect, it } from 'vitest';
 import {
   aggregateFootballLeaders,
   groupMatches,
+  mapFootballScoreboard,
   mapFootballLeaders,
+  mergeFootballMatches,
   selectKeyIncidents,
   selectRelevantTable,
   selectLandingMatches,
@@ -24,6 +26,112 @@ const athlete = (id: string, name: string, goals: number, assists: number) => ({
       { name: 'goalAssists', value: assists },
     ],
   },
+});
+
+const scoreboardEvent = (
+  id: string,
+  state: 'pre' | 'in' | 'post',
+  shortDetail: string,
+  homeScore = '0',
+  awayScore = '0'
+) => ({
+  id,
+  date: '2026-10-06T18:45Z',
+  season: { type: { name: 'League Phase' } },
+  status: { type: { state, shortDetail } },
+  competitions: [{
+    venue: { fullName: 'Stadion Poljud', address: { city: 'Split' } },
+    competitors: [
+      {
+        homeAway: 'home',
+        score: homeScore,
+        team: { id: '477', shortDisplayName: 'Croatia', abbreviation: 'CRO' },
+      },
+      {
+        homeAway: 'away',
+        score: awayScore,
+        team: { id: '164', shortDisplayName: 'Spain', abbreviation: 'ESP' },
+      },
+    ],
+  }],
+});
+
+describe('mapFootballScoreboard', () => {
+  it('maps provider live state, score, clock, teams, and venue', () => {
+    const [match] = mapFootballScoreboard({
+      events: [scoreboardEvent('401861137', 'in', "81'", '1', '1')],
+    });
+
+    expect(match).toEqual({
+      id: '401861137',
+      utc: '2026-10-06T18:45Z',
+      phase: 'League Phase',
+      home: { id: '477', name: 'Croatia', abbreviation: 'CRO' },
+      away: { id: '164', name: 'Spain', abbreviation: 'ESP' },
+      venue: 'Stadion Poljud, Split',
+      status: 'live',
+      score: { home: 1, away: 1 },
+      note: "81'",
+    });
+  });
+
+  it('omits scores before kickoff and ignores malformed events', () => {
+    const matches = mapFootballScoreboard({
+      events: [{ id: 'bad' }, scoreboardEvent('next', 'pre', '6:45 PM')],
+    });
+
+    expect(matches).toHaveLength(1);
+    expect(matches[0]).toMatchObject({ id: 'next', status: 'upcoming', note: '6:45 PM' });
+    expect(matches[0]).not.toHaveProperty('score');
+  });
+});
+
+describe('mergeFootballMatches', () => {
+  const match = (
+    status: FootballMatch['status'],
+    score?: FootballMatch['score']
+  ): FootballMatch => ({
+    id: '401861137',
+    utc: '2026-10-06T18:45Z',
+    phase: 'League Phase',
+    home: { id: '477', name: 'Croatia', abbreviation: 'CRO', logo: '/cro.png' },
+    away: { id: '164', name: 'Spain', abbreviation: 'ESP', logo: '/esp.png' },
+    venue: 'Split',
+    status,
+    ...(score ? { score } : {}),
+  });
+
+  it('overlays refreshed status and score while preserving saved team assets', () => {
+    const saved = match('upcoming');
+    const refreshed = {
+      ...match('live', { home: 1, away: 1 }),
+      home: { id: '477', name: 'Croatia', abbreviation: 'CRO' },
+      away: { id: '164', name: 'Spain', abbreviation: 'ESP' },
+      note: "81'",
+    };
+
+    const [merged] = mergeFootballMatches([saved], [refreshed]);
+
+    expect(merged).toMatchObject({
+      status: 'live',
+      score: { home: 1, away: 1 },
+      note: "81'",
+      home: { logo: '/cro.png' },
+      away: { logo: '/esp.png' },
+    });
+    expect(saved.status).toBe('upcoming');
+  });
+
+  it('adds newly discovered games and clears an obsolete score for pre-match state', () => {
+    const formerlyLive = match('live', { home: 0, away: 0 });
+    const postponed = match('upcoming');
+    const other = { ...match('finished', { home: 2, away: 0 }), id: 'other' };
+
+    const merged = mergeFootballMatches([formerlyLive], [postponed, other]);
+
+    expect(merged.find((item) => item.id === '401861137')).not.toHaveProperty('score');
+    expect(merged.find((item) => item.id === 'other')?.status).toBe('finished');
+  });
 });
 
 describe('mapFootballLeaders', () => {

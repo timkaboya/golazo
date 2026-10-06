@@ -1,6 +1,8 @@
-import { useEffect, useState } from 'preact/hooks';
+import { useEffect, useRef, useState } from 'preact/hooks';
 import type { FootballMatch, LeagueTable } from '../lib/football-types';
+import { mergeFootballMatches, selectLandingMatches } from '../lib/football-stats';
 import FootballMatchDrawer, { type FootballMatchContext } from './FootballMatchDrawer';
+import { useFootballScores, type LiveScoreState } from './useFootballScores';
 
 interface DisplayMatch extends FootballMatch {
   competition: string;
@@ -39,6 +41,12 @@ function compactTime(utc: string, local: boolean) {
   }).format(new Date(utc));
 }
 
+function refreshLabel(state: LiveScoreState) {
+  if (state === 'current') return 'Live scores updated · refreshes every minute';
+  if (state === 'stale') return 'Using saved scores · live refresh will retry';
+  return 'Checking for live scores…';
+}
+
 export default function HomeMatchCentre({
   groups,
   contexts,
@@ -50,12 +58,46 @@ export default function HomeMatchCentre({
   const [tab, setTab] = useState<TabId>(defaultTab);
   const [selected, setSelected] = useState<DisplayMatch | null>(null);
   const [local, setLocal] = useState(false);
+  const [allMatches, setAllMatches] = useState<DisplayMatch[]>(() =>
+    mergeFootballMatches([], [
+      ...groups.liveToday,
+      ...groups.recent,
+      ...groups.upcoming,
+    ])
+  );
+  const hadLive = useRef(groups.liveToday.some((match) => match.status === 'live'));
+  const userSelectedTab = useRef(false);
+  const { snapshot, state } = useFootballScores();
+  const currentGroups = selectLandingMatches(allMatches, new Date(), 10) as MatchGroups;
   const contextBySlug = new Map(contexts.map((context) => [context.slug, context]));
-  const matches = matchesFor(groups, tab);
+  const matches = matchesFor(currentGroups, tab);
   const tabInfo = TABS.find((item) => item.id === tab)!;
-  const liveCount = groups.liveToday.filter((match) => match.status === 'live').length;
+  const liveCount = currentGroups.liveToday.filter((match) => match.status === 'live').length;
+  const selectedMatch = selected
+    ? allMatches.find(
+        (match) =>
+          match.id === selected.id && match.competitionSlug === selected.competitionSlug
+      ) ?? selected
+    : null;
 
   useEffect(() => setLocal(true), []);
+  useEffect(() => {
+    if (!snapshot) return;
+    const refreshed = snapshot.competitions.flatMap((competition) =>
+      competition.matches.map((match) => ({
+        ...match,
+        competition: competition.name,
+        competitionSlug: competition.slug,
+      }))
+    );
+    setAllMatches((saved) => mergeFootballMatches(saved, refreshed));
+  }, [snapshot]);
+  useEffect(() => {
+    if (liveCount > 0 && !hadLive.current && !userSelectedTab.current) {
+      setTab('today');
+      hadLive.current = true;
+    }
+  }, [liveCount]);
 
   return (
     <>
@@ -65,16 +107,20 @@ export default function HomeMatchCentre({
           <span />{liveCount ? `${liveCount} live now` : "Today's football"}
         </div>
       </div>
+      <p class="home-score-refresh" aria-live="polite">{refreshLabel(state)}</p>
       <div class="home-match-tabs" role="tablist" aria-label="Match centre views">
         {TABS.map((item) => (
           <button
             type="button"
             role="tab"
             aria-selected={tab === item.id}
-            onClick={() => setTab(item.id)}
+            onClick={() => {
+              userSelectedTab.current = true;
+              setTab(item.id);
+            }}
             key={item.id}
           >
-            {item.label} <span>{matchesFor(groups, item.id).length}</span>
+            {item.label} <span>{matchesFor(currentGroups, item.id).length}</span>
           </button>
         ))}
       </div>
@@ -87,13 +133,16 @@ export default function HomeMatchCentre({
                 <button
                   type="button"
                   class="home-match-card"
+                  data-match-id={match.id}
                   onClick={() => setSelected(match)}
                   aria-label={`${match.home.name} versus ${match.away.name}, open match centre`}
                   key={`${match.competitionSlug}-${match.id}`}
                 >
                   <div class="home-match-meta">
                     <span>{match.competition}</span>
-                    <time dateTime={match.utc}>{compactTime(match.utc, local)}</time>
+                    {match.status === 'upcoming'
+                      ? <time dateTime={match.utc}>{compactTime(match.utc, local)}</time>
+                      : <strong class={match.status === 'live' ? 'is-live' : ''}>{match.note || (match.status === 'live' ? 'Live' : 'FT')}</strong>}
                   </div>
                   <div class="home-match-team">
                     {match.home.logo ? <img src={match.home.logo} alt="" /> : <span />}
@@ -111,11 +160,11 @@ export default function HomeMatchCentre({
           ) : <p class="home-match-empty">{tabInfo.empty}</p>}
         </section>
       </div>
-      {selected && (
+      {selectedMatch && (
         <FootballMatchDrawer
-          match={selected}
-          context={contextBySlug.get(selected.competitionSlug) ?? {
-            name: selected.competition,
+          match={selectedMatch}
+          context={contextBySlug.get(selectedMatch.competitionSlug) ?? {
+            name: selectedMatch.competition,
             espn: 'fifa.world',
             tables: [] as LeagueTable[],
           }}

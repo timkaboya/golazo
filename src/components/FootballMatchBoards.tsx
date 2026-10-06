@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'preact/hooks';
 import type { FootballMatch, LeagueTable } from '../lib/football-types';
+import { groupMatches, mergeFootballMatches } from '../lib/football-stats';
 import FootballMatchDrawer, { type FootballMatchContext } from './FootballMatchDrawer';
+import { useFootballScores, type LiveScoreState } from './useFootballScores';
 
 interface MatchGroups {
   live: FootballMatch[];
@@ -30,6 +32,12 @@ function timeLabel(utc: string, local: boolean) {
   }).format(new Date(utc));
 }
 
+function refreshLabel(state: LiveScoreState) {
+  if (state === 'current') return 'Live scores updated · refreshes every minute';
+  if (state === 'stale') return 'Using saved scores · live refresh will retry';
+  return 'Checking for live scores…';
+}
+
 function MatchCard({
   match,
   local,
@@ -45,12 +53,15 @@ function MatchCard({
     <button
       type="button"
       class="football-match"
+      data-match-id={match.id}
       onClick={onOpen}
       aria-label={`${match.home.name} versus ${match.away.name}, open match centre`}
     >
       <div class="football-match-top">
         <span>{match.phase}</span>
-        <time dateTime={match.utc}>{timeLabel(match.utc, local)}</time>
+        {match.status === 'upcoming'
+          ? <time dateTime={match.utc}>{timeLabel(match.utc, local)}</time>
+          : <strong class={match.status === 'live' ? 'is-live' : ''}>{match.note || (match.status === 'live' ? 'Live' : 'FT')}</strong>}
       </div>
       <div class="football-match-team">
         {match.home.logo ? <img src={match.home.logo} alt="" /> : <span />}
@@ -63,7 +74,7 @@ function MatchCard({
         <span class="football-match-score">{score('away')}</span>
       </div>
       <div class="football-match-meta">
-        <span>{match.note || match.venue || (match.status === 'live' ? 'Live now' : match.phase)}</span>
+        <span>{match.venue || (match.status === 'live' ? 'Live now' : match.phase)}</span>
         <strong>Match centre</strong>
       </div>
     </button>
@@ -83,24 +94,43 @@ export default function FootballMatchBoards({
 }) {
   const [selected, setSelected] = useState<FootballMatch | null>(null);
   const [local, setLocal] = useState(false);
+  const [matches, setMatches] = useState<FootballMatch[]>(() => [
+    ...groups.live,
+    ...groups.upcoming,
+    ...groups.recent,
+  ]);
+  const { snapshot, state } = useFootballScores(espn);
+  const currentGroups = groupMatches(matches);
+  const selectedMatch = selected
+    ? matches.find((match) => match.id === selected.id) ?? selected
+    : null;
   const context: FootballMatchContext = { name: competition, espn, tables };
 
   useEffect(() => setLocal(true), []);
+  useEffect(() => {
+    const refreshed = snapshot?.competitions[0]?.matches;
+    if (refreshed) setMatches((saved) => mergeFootballMatches(saved, refreshed));
+  }, [snapshot]);
 
   return (
     <>
       <div class="match-boards">
         {BOARDS.map((board) => {
-          const matches = groups[board.key];
+          const boardMatches = currentGroups[board.key];
           return (
             <section class={`match-board is-${board.key}`} key={board.key}>
               <div class="competition-section-head">
                 <div><h3>{board.title}</h3><p>{board.description}</p></div>
-                {board.key === 'live' && matches.length > 0 && <span class="live-indicator">Live</span>}
+                {board.key === 'live' && (
+                  <div class="live-board-status">
+                    {boardMatches.length > 0 && <span class="live-indicator">Live</span>}
+                    <small aria-live="polite">{refreshLabel(state)}</small>
+                  </div>
+                )}
               </div>
-              {matches.length ? (
+              {boardMatches.length ? (
                 <div class="match-strip">
-                  {matches.map((match) => (
+                  {boardMatches.map((match) => (
                     <MatchCard match={match} local={local} onOpen={() => setSelected(match)} key={match.id} />
                   ))}
                 </div>
@@ -109,7 +139,7 @@ export default function FootballMatchBoards({
           );
         })}
       </div>
-      {selected && <FootballMatchDrawer match={selected} context={context} onClose={() => setSelected(null)} />}
+      {selectedMatch && <FootballMatchDrawer match={selectedMatch} context={context} onClose={() => setSelected(null)} />}
     </>
   );
 }

@@ -1,4 +1,5 @@
 import type {
+  Club,
   CompetitionSnapshot,
   FootballLeader,
   FootballLeaders,
@@ -12,6 +13,79 @@ const number = (value: unknown) => {
   const parsed = Number(value);
   return Number.isFinite(parsed) ? parsed : 0;
 };
+
+function mapClub(raw: any): Club {
+  return {
+    id: text(raw?.id) || text(raw?.uid) || text(raw?.slug) || text(raw?.abbreviation),
+    name: text(raw?.shortDisplayName) || text(raw?.displayName) || text(raw?.name) || 'TBD',
+    abbreviation: text(raw?.abbreviation),
+    logo: text(raw?.logo) || text(raw?.logos?.[0]?.href) || undefined,
+  };
+}
+
+export function mapFootballScoreboard(json: any): FootballMatch[] {
+  const matches = (json?.events ?? []).flatMap((event: any) => {
+    const competition = event?.competitions?.[0];
+    const competitors = competition?.competitors ?? [];
+    const home = competitors.find((entry: any) => entry.homeAway === 'home');
+    const away = competitors.find((entry: any) => entry.homeAway === 'away');
+    if (!home || !away || !event?.date) return [];
+
+    const state = text(event?.status?.type?.state);
+    const status = state === 'post' ? 'finished' : state === 'in' ? 'live' : 'upcoming';
+    const score =
+      status === 'upcoming'
+        ? undefined
+        : { home: number(home.score), away: number(away.score) };
+    const phase =
+      text(event?.season?.type?.name) ||
+      text(event?.season?.slug)
+        .replace(/-/g, ' ')
+        .replace(/\b\w/g, (letter) => letter.toUpperCase()) ||
+      'Matchday';
+    const venue = [text(competition?.venue?.fullName), text(competition?.venue?.address?.city)]
+      .filter(Boolean)
+      .join(', ');
+    const note =
+      text(event?.status?.type?.shortDetail) ||
+      text(competition?.notes?.[0]?.headline);
+
+    return [{
+      id: String(event.id),
+      utc: event.date,
+      phase,
+      home: mapClub(home.team),
+      away: mapClub(away.team),
+      venue,
+      status,
+      ...(score ? { score } : {}),
+      ...(note ? { note } : {}),
+    } satisfies FootballMatch];
+  });
+
+  return matches.sort((a: FootballMatch, b: FootballMatch) => a.utc.localeCompare(b.utc));
+}
+
+export function mergeFootballMatches<T extends FootballMatch>(
+  saved: T[],
+  refreshed: T[]
+): T[] {
+  const byId = new Map(saved.map((match) => [match.id, match]));
+
+  for (const match of refreshed) {
+    const current = byId.get(match.id);
+    const merged = {
+      ...current,
+      ...match,
+      home: { ...current?.home, ...match.home },
+      away: { ...current?.away, ...match.away },
+    } as T;
+    if (!Object.prototype.hasOwnProperty.call(match, 'score')) delete merged.score;
+    byId.set(match.id, merged);
+  }
+
+  return [...byId.values()].sort((a, b) => a.utc.localeCompare(b.utc));
+}
 
 const sortScorers = (a: FootballLeader, b: FootballLeader) =>
   b.goals - a.goals || b.assists - a.assists || a.name.localeCompare(b.name);
