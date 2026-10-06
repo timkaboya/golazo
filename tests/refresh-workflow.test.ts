@@ -10,7 +10,9 @@ describe('scheduled football data refresh', () => {
     expect(refreshWorkflow).toContain('git push --force origin "HEAD:$refresh_branch"');
     expect(refreshWorkflow).toContain('gh pr create');
     expect(refreshWorkflow).toContain('gh workflow run ci.yml --ref "$refresh_branch"');
-    expect(refreshWorkflow).toContain('gh pr merge "$pr_number" --auto --squash --delete-branch');
+    expect(refreshWorkflow).toContain('gh run watch "$run_id" --exit-status');
+    expect(refreshWorkflow).toContain('"repos/$GITHUB_REPOSITORY/statuses/$head_sha"');
+    expect(refreshWorkflow).toContain('gh pr merge "$pr_number" --squash --delete-branch');
     expect(refreshWorkflow).not.toMatch(/git push\s*$/m);
     expect(ciWorkflow).toMatch(/^\s{2}workflow_dispatch:\s*$/m);
   });
