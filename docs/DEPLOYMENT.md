@@ -18,9 +18,10 @@ The app is a static Astro site plus Cloudflare Pages Functions for the read-only
 
 `.github/workflows/refresh-data.yml` fetches new snapshots every two hours. Because
 `main` is protected, it updates `automation/refresh-football-data`, opens a pull
-request, dispatches the required CI checks, and auto-merges after they pass. The
-merge triggers the git-integrated Live deployment and keeps committed fallbacks
-current.
+request, dispatches the required CI checks, waits for both suites, publishes
+their verified statuses to the refresh commit, and merges only after they pass.
+The merge triggers the git-integrated Live deployment and keeps committed
+fallbacks current.
 
 Cloudflare's Git integration occasionally stops picking up new commits. The
 `.github/workflows/deploy-cloudflare.yml` workflow is an optional direct-deploy
