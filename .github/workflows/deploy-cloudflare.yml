@@ -2,10 +2,9 @@ name: Deploy to Cloudflare Pages
 
 # Deploys the built site to the existing Cloudflare Pages project (Live).
 #
-# Why this exists: the Live site is a git-integrated Cloudflare Pages project,
-# but that integration can silently stop deploying new commits. This workflow is
-# a reliable, repeatable fallback that pushes each `main` build straight to the
-# same Pages project via Wrangler.
+# The Live `golazo` Pages project is a direct-upload project with no Git
+# provider, so this workflow is the production deployment path. It pushes each
+# `main` build straight to the project via Wrangler.
 #
 # It is a SAFE no-op until credentials are configured: the deploy step only runs
 # when the CLOUDFLARE_API_TOKEN secret is present, so the Live site is never

@@ -13,6 +13,8 @@ describe('scheduled football data refresh', () => {
     expect(refreshWorkflow).toContain('gh run watch "$run_id" --exit-status');
     expect(refreshWorkflow).toContain('"repos/$GITHUB_REPOSITORY/statuses/$head_sha"');
     expect(refreshWorkflow).toContain('gh pr merge "$pr_number" --squash --delete-branch');
+    expect(refreshWorkflow).toContain('gh workflow run deploy-pages.yml --ref main');
+    expect(refreshWorkflow).toContain('gh workflow run deploy-cloudflare.yml --ref main');
     expect(refreshWorkflow).not.toMatch(/git push\s*$/m);
     expect(ciWorkflow).toMatch(/^\s{2}workflow_dispatch:\s*$/m);
   });

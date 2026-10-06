@@ -3,18 +3,15 @@ name: Refresh football data
 # Keeps Golazo current without waiting for a developer to push. The
 # scheduled job refreshes all competition snapshots plus the World Cup archive.
 #
-# Why a commit (and not just a rebuild)? The Live site is a git-integrated
-# Cloudflare project that redeploys on every new commit, so a scheduled data
-# commit refreshes production automatically — with no Cloudflare secrets
-# required. It also keeps the committed JSON fallbacks (served when ESPN is
-# unreachable from a visitor's browser) up to date.
+# Why a commit (and not just a rebuild)? It keeps the committed JSON fallbacks
+# (served when ESPN is unreachable from a visitor's browser) up to date and
+# gives every generated snapshot the same protected-branch CI coverage as code.
 #
 # main is protected, so the bot updates a dedicated branch, opens a pull
 # request, dispatches the required CI checks, and enables auto-merge.
 #
-# The full deploy workflows (deploy-cloudflare.yml / deploy-pages.yml) also run
-# on their own schedules as a belt-and-suspenders; this one is the lightweight,
-# zero-secret path.
+# Merges created with GITHUB_TOKEN do not emit normal push workflow events, so
+# this workflow explicitly dispatches both deployment workflows after merging.
 on:
   workflow_dispatch:
   schedule:
@@ -120,4 +117,6 @@ jobs:
             done
 
             gh pr merge "$pr_number" --squash --delete-branch
+            gh workflow run deploy-pages.yml --ref main
+            gh workflow run deploy-cloudflare.yml --ref main
           fi
