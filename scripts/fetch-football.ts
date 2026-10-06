@@ -2,11 +2,10 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { COMPETITIONS } from '../src/lib/competitions.ts';
-import { mapFootballLeaders } from '../src/lib/football-stats.ts';
+import { mapFootballLeaders, mapFootballScoreboard } from '../src/lib/football-stats.ts';
 import type {
   Club,
   CompetitionSnapshot,
-  FootballMatch,
   FootballSnapshot,
   FootballStory,
   LeagueTable,
@@ -68,48 +67,14 @@ function club(raw: any): Club {
   };
 }
 
-function mapMatches(json: any, archive: boolean): FootballMatch[] {
-  const matches = (json?.events ?? []).flatMap((event: any) => {
-    const competition = event?.competitions?.[0];
-    const competitors = competition?.competitors ?? [];
-    const home = competitors.find((entry: any) => entry.homeAway === 'home');
-    const away = competitors.find((entry: any) => entry.homeAway === 'away');
-    if (!home || !away || !event?.date) return [];
-    const state = text(event?.status?.type?.state);
-    const status = state === 'post' ? 'finished' : state === 'in' ? 'live' : 'upcoming';
-    const score =
-      status === 'upcoming'
-        ? undefined
-        : { home: number(home.score), away: number(away.score) };
-    const phase =
-      text(event?.season?.type?.name) ||
-      text(event?.season?.slug)
-        .replace(/-/g, ' ')
-        .replace(/\b\w/g, (letter) => letter.toUpperCase()) ||
-      'Matchday';
-    const venue = [text(competition?.venue?.fullName), text(competition?.venue?.address?.city)]
-      .filter(Boolean)
-      .join(', ');
-    return [{
-      id: String(event.id),
-      utc: event.date,
-      phase,
-      home: club(home.team),
-      away: club(away.team),
-      venue,
-      status,
-      ...(score ? { score } : {}),
-      ...(competition?.notes?.[0]?.headline ? { note: text(competition.notes[0].headline) } : {}),
-    } satisfies FootballMatch];
-  });
-
-  const sorted = matches.sort((a: FootballMatch, b: FootballMatch) => a.utc.localeCompare(b.utc));
+function mapMatches(json: any, archive: boolean) {
+  const sorted = mapFootballScoreboard(json);
   if (archive) return sorted;
 
   const now = Date.now();
   const pastCutoff = now - 35 * 86400000;
   const futureCutoff = now + 50 * 86400000;
-  const windowed = sorted.filter((match: FootballMatch) => {
+  const windowed = sorted.filter((match) => {
     const kickoff = Date.parse(match.utc);
     return kickoff >= pastCutoff && kickoff <= futureCutoff;
   });

@@ -1,4 +1,5 @@
 import type { MatchDetail, NewsSnapshot, ScoresSnapshot, Scorer, Standing } from './types';
+import type { FootballScoresSnapshot } from './football-types';
 import {
   buildScoresSnapshot,
   buildLeaders,
@@ -182,6 +183,27 @@ export async function fetchFootballMatchDetail(
   } catch {
     return null;
   }
+}
+
+export async function fetchFootballScores(
+  league?: string
+): Promise<FootballScoresSnapshot | null> {
+  const query = league ? `?${new URLSearchParams({ league })}` : '';
+  const endpoints = [
+    withBase(`/api/football-scores${query}`),
+    `${LIVE_API_ORIGIN}/api/football-scores${query}`,
+  ];
+
+  for (const endpoint of endpoints) {
+    try {
+      const snapshot = await fetchAny(endpoint, 10000) as FootballScoresSnapshot;
+      if (!Array.isArray(snapshot.competitions)) throw new Error('invalid live score response');
+      return snapshot;
+    } catch {
+      /* try the next endpoint */
+    }
+  }
+  return null;
 }
 
 export async function fetchMatchDetail(eventId: number): Promise<MatchDetail | null> {

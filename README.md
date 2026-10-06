@@ -15,13 +15,16 @@ No accounts, no user data, no tracking.
 | **Staging** | https://timkaboya.github.io/golazo/ | GitHub Pages (static fallback data) |
 
 Both build from `main`. The Cloudflare **Live** site runs the `/api/*` edge functions that
-aggregate World Cup scores server-side; the broader football hub uses resilient build-time ESPN
-snapshots. GitHub Pages **Staging** is a pure static build and is ideal for previewing UI changes.
+normalize and briefly cache current football scores. Competition and landing-page match boards
+refresh immediately and every minute while visible. GitHub Pages uses the same public,
+CORS-enabled Cloudflare feed and falls back to its build-time ESPN snapshot when unavailable.
 
 ## ✨ Features
 
 - **Full match centre** — every live, upcoming, and recent card opens a responsive game view with
   overview, provider-confirmed or expected lineups, relevant table, match stats, and head-to-head.
+- **Live match boards** — scores, clocks, and live/upcoming/recent placement refresh while the page
+  is open, pause in background tabs, and resume as soon as the page becomes visible.
 - **Competition homes** — fixtures, standings, player statistics, news, and transfers.
 - **Player leaders** — per-competition and aggregate scorer/assist boards.
 - **Top news** — current attributed stories surfaced directly beside the landing match centre.

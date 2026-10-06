@@ -77,3 +77,16 @@ export interface FootballSnapshot {
   updatedUtc: string;
   competitions: CompetitionSnapshot[];
 }
+
+export interface FootballScoresCompetition {
+  slug: string;
+  name: string;
+  espn: string;
+  matches: FootballMatch[];
+}
+
+export interface FootballScoresSnapshot {
+  version: number;
+  updatedUtc: string;
+  competitions: FootballScoresCompetition[];
+}
