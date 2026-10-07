@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-07T01:22:09.475Z",
+  "updatedUtc": "2026-10-07T08:29:21.781Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:08.688Z",
+      "updatedUtc": "2026-10-07T08:29:21.524Z",
       "matches": [
         {
           "id": "401915445",
@@ -2273,12 +2273,12 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
-          "title": "Ogden: Haaland will not be at Manchester City next season",
-          "description": "Ogden: Haaland will not be at Manchester City next season",
-          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
+          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
+          "title": "Ogden: Haaland will not play in the Championship",
+          "description": "Ogden: Haaland will not play in the Championship",
+          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-          "publishedUtc": "2026-10-06T14:48:36Z",
+          "publishedUtc": "2026-10-07T07:50:31Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:08.666Z",
+      "updatedUtc": "2026-10-07T08:29:21.383Z",
       "matches": [
         {
           "id": "401915594",
@@ -5375,12 +5375,12 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
-          "title": "Ogden: Haaland will not be at Manchester City next season",
-          "description": "Ogden: Haaland will not be at Manchester City next season",
-          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
+          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
+          "title": "Ogden: Haaland will not play in the Championship",
+          "description": "Ogden: Haaland will not play in the Championship",
+          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-          "publishedUtc": "2026-10-06T14:48:36Z",
+          "publishedUtc": "2026-10-07T07:50:31Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -6353,7 +6353,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:08.806Z",
+      "updatedUtc": "2026-10-07T08:29:21.606Z",
       "matches": [
         {
           "id": "401879285",
@@ -8385,6 +8385,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50109049/manchester-city-premier-league-charges-rui-pinto-football-leaks-gab-marcotti",
+          "title": "We don't get Man City guilty verdict without hacker Rui Pinto, but it doesn't make him a hero",
+          "description": "The Manchester City case, which has rocked English football to its core, wouldn't have been possible without Football Leaks and its founder, Rui Pinto. However, he is a complicated figure, with light and dark to his actions.",
+          "url": "https://www.espn.com/soccer/story/_/id/50109049/manchester-city-premier-league-charges-rui-pinto-football-leaks-gab-marcotti",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726650_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T07:53:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+          "title": "Transfer rumors, news: PSG eye Man City midfielder Cherki amid Premier League charges",
+          "description": "Paris Saint-Germain are monitoring Manchester City attacking midfielder Rayan Cherki. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0911/r1714809_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T07:21:15Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
           "title": "Transfer rumors, news: Atleti, Juve eye loan move for Arsenal's Madueke",
           "description": "Could Noni Madueke depart Arsenal for a move to either Spain or Italy? Transfer Talk has the latest.",
@@ -8415,12 +8435,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
-          "title": "Ogden: Haaland will not be at Manchester City next season",
-          "description": "Ogden: Haaland will not be at Manchester City next season",
-          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
+          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
+          "title": "Ogden: Haaland will not play in the Championship",
+          "description": "Ogden: Haaland will not play in the Championship",
+          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-          "publishedUtc": "2026-10-06T14:48:36Z",
+          "publishedUtc": "2026-10-07T07:50:31Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8601,26 +8621,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50085283/man-city-charges-big-topic-england-camp",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Tuchel_Man_City_charges_are_a_big_topic_in_England_camp/dm_261002_Tuchel_Man_City_charges_are_a_big_topic_in_England_camp.jpg",
           "publishedUtc": "2026-10-02T16:18:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50084918/erik-ten-hag-was-piece-c**p-group-former-manchester-united-midfielder-fred",
-          "title": "Erik ten Hag 'was a piece of crap' with Man United squad - Fred",
-          "description": "Former Manchester United midfielder Fred has accused ex-boss Erik ten Hag of being a 'piece of crap' when it came to squad management.",
-          "url": "https://www.espn.com/soccer/story/_/id/50084918/erik-ten-hag-was-piece-c**p-group-former-manchester-united-midfielder-fred",
-          "imageUrl": "https://a.espncdn.com/photo/2025/1209/r1587068_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T17:37:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50084463/former-man-city-manager-roberto-mancini-not-concerned-charges",
-          "title": "Former Man City boss Roberto Mancini: Unconcerned by guilty verdict",
-          "description": "Former Manchester City manager and current Italy coach Roberto Mancini says he is unconcerned about being implicated in the financial rule-breaking scandal engulfing the English club, which on Friday said it was appealing the verdict.",
-          "url": "https://www.espn.com/soccer/story/_/id/50084463/former-man-city-manager-roberto-mancini-not-concerned-charges",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0925/r1721833_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T17:10:45Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9370,7 +9370,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:08.818Z",
+      "updatedUtc": "2026-10-07T08:29:21.654Z",
       "matches": [
         {
           "id": "401882877",
@@ -12372,7 +12372,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:08.914Z",
+      "updatedUtc": "2026-10-07T08:29:21.531Z",
       "matches": [
         {
           "id": "401874756",
@@ -15342,7 +15342,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:08.964Z",
+      "updatedUtc": "2026-10-07T08:29:21.575Z",
       "matches": [
         {
           "id": "401884806",
@@ -18338,7 +18338,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:08.955Z",
+      "updatedUtc": "2026-10-07T08:29:21.686Z",
       "matches": [
         {
           "id": "401876472",
@@ -20360,6 +20360,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+          "title": "Transfer rumors, news: PSG eye Man City midfielder Cherki amid Premier League charges",
+          "description": "Paris Saint-Germain are monitoring Manchester City attacking midfielder Rayan Cherki. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0911/r1714809_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T07:21:15Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50108717/folarin-balogun-premier-league-everton-monaco-usmnt",
           "title": "Folarin Balogun reopens door to Premier League despite failed Everton move",
           "description": "United States striker Folarin Balogun has said that he would still be keen to play in the Premier League, even though his transfer deadline day move to Everton collapsed in dramatic fashion.",
@@ -20566,16 +20576,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49829043/luis-enrique-unfazed-historic-psg-winless-start-deepens-monaco-defeat",
           "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711544_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-04T23:02:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401876469",
-          "title": "PSG upset by Monaco to extend winless start",
-          "description": "Paris Saint-Germain 's difficult Ligue 1 start continued as early-season pace-setters AS Monaco won 2-1 at Parc des Princes.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401876469",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711507_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-04T21:30:08Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21325,7 +21325,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-07T01:22:08.972Z",
+      "updatedUtc": "2026-10-07T08:29:21.470Z",
       "matches": [
         {
           "id": "401861118",
@@ -24032,6 +24032,115 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50123447/harry-kane-england-greatest-ever-player-jude-bellingham",
+          "title": "Harry Kane is England's greatest ever player - Jude Bellingham",
+          "description": "Jude Bellingham has called Harry Kane \"the greatest player that has ever played for England\" after the striker became the country's joint-record appearance maker.",
+          "url": "https://www.espn.com/soccer/story/_/id/50123447/harry-kane-england-greatest-ever-player-jude-bellingham",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727239_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T08:28:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50123399/kane-performance-125th-england-cap-was-amazing",
+          "title": "Tuchel: Kane's performance on his 125th England cap was amazing",
+          "description": "Tuchel: Kane's performance on his 125th England cap was amazing",
+          "url": "https://www.espn.com/video/clip/_/id/50123399/kane-performance-125th-england-cap-was-amazing",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_COM_SOC_Analysis_Tuchel3A_KaneE28099s_performance_on_his_125th_England_cap_was_amazing__GLOBAL_2026-10-0/dm_261007_COM_SOC_Analysis_Tuchel3A_KaneE28099s_performance_on_his_125th_England_cap_was_amazing__GLOBAL_2026-10-0.jpg",
+          "publishedUtc": "2026-10-07T08:17:20Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
+          "title": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
+          "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
+          "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T05:58:24Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
+          "title": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
+          "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
+          "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T05:56:45Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50120558/scotland-got-deserved-nations-league-defeat-slovenia-sebastien-pocognoli",
+          "title": "Scotland got what we deserved in Nations League defeat to Slovenia - Sebastien Pocognoli",
+          "description": "Sebastien Pocognoli admitted Scotland got what they deserved after they ended their first camp under his charge with a dismal 2-1 Nations League defeat at home to Slovenia.",
+          "url": "https://www.espn.com/soccer/story/_/id/50120558/scotland-got-deserved-nations-league-defeat-slovenia-sebastien-pocognoli",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727041_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T22:50:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401861143",
+          "title": "Scotland end window with home loss to Slovenia",
+          "description": "Sebastien Pocognoli's first camp as Scotland head coach ended with a grim and damaging 2-1 Nations League defeat at home to Slovenia.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401861143",
+          "publishedUtc": "2026-10-06T22:31:40Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50119784/spain-win-4th-game-streak-43-games",
+          "title": "'Insatiable' Spain win 4th game of window, streak at 43 games",
+          "description": "Spain coach Luis de la Fuente said the \"insatiable\" world champions have no intention of slowing down after coming from behind to beat Croatia 2-1 in the UEFA Nations League on Tuesday, extending their unbeaten streak to 43 games.",
+          "url": "https://www.espn.com/soccer/story/_/id/50119784/spain-win-4th-game-streak-43-games",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727020_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T07:22:07Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50120362/england-keep-their-winning-mentality",
+          "title": "Nicol: England must keep their winning mentality",
+          "description": "Nicol: England must keep their winning mentality",
+          "url": "https://www.espn.com/video/clip/_/id/50120362/england-keep-their-winning-mentality",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Nicol_England_must_keep_their_winning_mentality/dm_261006_Nicol_England_must_keep_their_winning_mentality.jpg",
+          "publishedUtc": "2026-10-06T22:29:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50120290/thomas-tuchel-england-squad-competition-czechia-nations-league",
+          "title": "Thomas Tuchel: Competition for England places stronger than ever",
+          "description": "Thomas Tuchel has said competition for places has never been stronger in his time as England manager after Tuesday's 3-0 win over Czechia at Wembley.",
+          "url": "https://www.espn.com/soccer/story/_/id/50120290/thomas-tuchel-england-squad-competition-czechia-nations-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727031_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T22:23:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50119771/englands-uefa-nations-league-takeaways-harry-kane-makes-history-thomas-tuchel-steadies-ship",
+          "title": "England's Nations League takeaways: Kane makes history, Tuchel steadies ship",
+          "description": "England bounced back from defeat to Spain with three straight wins, giving Thomas Tuchel plenty to build on as the Nations League heads toward a decisive November window.",
+          "url": "https://www.espn.com/soccer/story/_/id/50119771/englands-uefa-nations-league-takeaways-harry-kane-makes-history-thomas-tuchel-steadies-ship",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726999_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-06T22:07:34Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50119999/international-break-too-much-players",
+          "title": "Hislop: International break has been 'too much' for players",
+          "description": "Hislop: International break has been 'too much' for players",
+          "url": "https://www.espn.com/video/clip/_/id/50119999/international-break-too-much-players",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_International_break_has_been_too_much_for_players/dm_261006_Hislop_International_break_has_been_too_much_for_players.jpg",
+          "publishedUtc": "2026-10-06T22:30:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50119334/harry-kane-england-czechia-nationsl-league-goals-record",
           "title": "Harry Kane reaches new milestones in landmark England outing",
           "description": "Harry Kane scored twice to take his international goal tally to 91 as he made a record-tying 125th England appearance in Tuesday's 3-0 win over Czechia at Wembley.",
@@ -24047,7 +24156,7 @@
           "description": "Harry Kane said he has further records to break and feels he hasn't yet hit his ceiling after he became England's joint most-capped men's player.",
           "url": "https://www.espn.com/soccer/story/_/id/50119774/harry-kane-eyeing-record-equalling-england-cap-record-peter-shilton-cristiano-ronaldo",
           "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727008_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T21:50:15Z",
+          "publishedUtc": "2026-10-06T22:45:02Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -24057,7 +24166,7 @@
           "description": "Robson: Ronaldo could have left Portugal team four years ago",
           "url": "https://www.espn.com/video/clip/_/id/50119730/ronaldo-left-portugal-team-four-years-ago",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Robson_Ronaldo_could_have_left_Portugal_team_four_years_ago/dm_261006_Robson_Ronaldo_could_have_left_Portugal_team_four_years_ago.jpg",
-          "publishedUtc": "2026-10-06T21:28:49Z",
+          "publishedUtc": "2026-10-06T22:30:18Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -24122,12 +24231,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
-          "title": "Ogden: Haaland will not be at Manchester City next season",
-          "description": "Ogden: Haaland will not be at Manchester City next season",
-          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
+          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
+          "title": "Ogden: Haaland will not play in the Championship",
+          "description": "Ogden: Haaland will not play in the Championship",
+          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-          "publishedUtc": "2026-10-06T14:48:36Z",
+          "publishedUtc": "2026-10-07T07:50:31Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -24152,26 +24261,6 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
-          "title": "England, Scotland, Wales, Northern Ireland in Nations League: How are Home Nations faring?",
-          "description": "The UEFA Nations League fixtures are in full swing during this international break and all of the Home Nations are involved.",
-          "url": "https://www.espn.com/soccer/story/_/id/50065733/england-scotland-wales-northern-ireland-nations-league-home-nations-results",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723893_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T06:31:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-          "title": "Nations League explained: What is the format? How can teams qualify for Euro 2028?",
-          "description": "The Nations League offers some teams a shot at glory, and others a spot at Euro 2028. But how does it work?",
-          "url": "https://www.espn.com/soccer/story/_/id/50067649/nations-league-explained-format-qualify-euro-2028",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0930/r1723910_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T06:17:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
           "title": "Why are England playing four games in 11 days? Extended international break explained",
           "description": "In their first return to action since this summer's World Cup, England will be dealing with a jam-packed schedule.",
@@ -24180,96 +24269,6 @@
           "publishedUtc": "2026-10-06T06:15:59Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50112732/zidane-revels-olise-led-france-comeback",
-          "title": "Zidane revels in Olise-led France comeback: 'This is soccer'",
-          "description": "France left it late to beat Belgium 4-1 in the Nations League as Zinedine Zidane got his first home win as the national coach on Monday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50112732/zidane-revels-olise-led-france-comeback",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726599_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T12:51:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50112443/is-just-beginning-ronaldo-jorge-jesus-feud",
-          "title": "Is this just the beginning of the Ronaldo-Jorge Jesus feud?",
-          "description": "Is this just the beginning of the Ronaldo-Jorge Jesus feud?",
-          "url": "https://www.espn.com/video/clip/_/id/50112443/is-just-beginning-ronaldo-jorge-jesus-feud",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_COM_SOC_ANALYSIS_Is_this_just_the_beginning_of_the_Ronaldo-Jorge_Jesus_feud_2026_5_10/dm_261005_COM_SOC_ANALYSIS_Is_this_just_the_beginning_of_the_Ronaldo-Jorge_Jesus_feud_2026_5_10.jpg",
-          "publishedUtc": "2026-10-05T22:15:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50112423/olise-france-looked-unstoppable",
-          "title": "Leboeuf: Olise and France looked unstoppable",
-          "description": "Leboeuf: Olise and France looked unstoppable",
-          "url": "https://www.espn.com/video/clip/_/id/50112423/olise-france-looked-unstoppable",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_COM_SOC_ANALYSIS_Leboeuf_Olise_and_France_looked_unstoppable_2026_5_10/dm_261005_COM_SOC_ANALYSIS_Leboeuf_Olise_and_France_looked_unstoppable_2026_5_10.jpg",
-          "publishedUtc": "2026-10-05T22:14:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401861131",
-          "title": "Italian renaissance continues with runaway win over Türkiye",
-          "description": "Pio Esposito's late goal sealed a hard-earned win over Türkiye in Bologna and continued Italy's improvement under returning head coach Roberto Mancini.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401861131",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726523_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T21:24:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50111813/uefa-nations-league-northern-ireland-held-georgia-late-penalty-miss",
-          "title": "UEFA Nations League: Northern Ireland held by Georgia after late penalty miss",
-          "description": "Isaac Price missed a late penalty as Northern Ireland were held to a goalless draw by Georgia which nevertheless keeps them top of their Nations League group.",
-          "url": "https://www.espn.com/soccer/story/_/id/50111813/uefa-nations-league-northern-ireland-held-georgia-late-penalty-miss",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726535_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T21:11:57Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401861129",
-          "title": "France stun Belgium with four late goals to snatch victory",
-          "description": "Zinedine Zidane's France belatedly turned on the style as late goals from substitutes Désiré Doué, Ryan Cherki and two from Michael Olise saw them come from behind to beat Belgium 4-1 in the UEFA Nations League.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401861129",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726518_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T20:57:56Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50109266/harry-kane-best-person-match-peter-shiltons-record-thomas-tuchel",
-          "title": "Harry Kane best person to match Peter Shilton's record - Thomas Tuchel",
-          "description": "Thomas Tuchel says there is no more fitting \"role model\" than Harry Kane to equal Peter Shilton's England appearance record - and revealed he would dive around pretending to be the goalkeeper growing up.",
-          "url": "https://www.espn.com/soccer/story/_/id/50109266/harry-kane-best-person-match-peter-shiltons-record-thomas-tuchel",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726301_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T14:55:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
-          "title": "Tuchel: There are no words left to describe Kane",
-          "description": "Tuchel: There are no words left to describe Kane",
-          "url": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane.jpg",
-          "publishedUtc": "2026-10-05T13:50:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50108415/jorge-jesus-denies-placing-blame-ronaldo-portugal-national-team-fallout",
-          "title": "Jorge Jesus denies placing blame on Ronaldo after Portugal national team fallout",
-          "description": "Jorge Jesus denies placing blame on Ronaldo after Portugal national team fallout",
-          "url": "https://www.espn.com/video/clip/_/id/50108415/jorge-jesus-denies-placing-blame-ronaldo-portugal-national-team-fallout",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_Jorge_Jesus_denies_placing_blame_on_Ronaldo_after_Portugal_national_team_fallout/dm_261005_Jorge_Jesus_denies_placing_blame_on_Ronaldo_after_Portugal_national_team_fallout.jpg",
-          "publishedUtc": "2026-10-05T09:42:28Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -25018,7 +25017,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T01:22:09.475Z",
+      "updatedUtc": "2026-10-07T08:29:21.754Z",
       "matches": [
         {
           "id": "761871",
@@ -26632,15 +26631,15 @@
                 "abbreviation": "CHI",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
               },
-              "rank": 5,
-              "played": 26,
-              "won": 12,
+              "rank": 4,
+              "played": 27,
+              "won": 13,
               "drawn": 6,
               "lost": 8,
-              "gf": 46,
-              "ga": 38,
-              "gd": 8,
-              "points": 42
+              "gf": 49,
+              "ga": 39,
+              "gd": 10,
+              "points": 45
             },
             {
               "team": {
@@ -26870,7 +26869,7 @@
                 "abbreviation": "CLT",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
               },
-              "rank": 4,
+              "rank": 5,
               "played": 27,
               "won": 12,
               "drawn": 7,
@@ -27046,13 +27045,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
               },
               "rank": 1,
-              "played": 26,
+              "played": 27,
               "won": 15,
               "drawn": 5,
-              "lost": 6,
-              "gf": 59,
-              "ga": 26,
-              "gd": 33,
+              "lost": 7,
+              "gf": 60,
+              "ga": 29,
+              "gd": 31,
               "points": 50
             },
             {
@@ -27144,6 +27143,26 @@
         }
       ],
       "news": [
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/761660",
+          "title": "Fire beat Whitecaps in matchup of ex-Bayern teammates Lewandowski, Müller",
+          "description": "Philip Zinckernagel scored early in the second half and Maren Haile-Selassie had a late goal and an assist as Chicago Fire FC beat the Vancouver Whitecaps 3-1 on Tuesday night.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/761660",
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761660.png?templateId=espn.applewatch.awayhome.1",
+          "publishedUtc": "2026-10-07T03:31:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50121897/chicago-fire-fc-vs-vancouver-whitecaps-game-highlights",
+          "title": "Chicago Fire FC vs. Vancouver Whitecaps - Game Highlights",
+          "description": "Watch the Game Highlights from Chicago Fire FC vs. Vancouver Whitecaps, 10/06/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50121897/chicago-fire-fc-vs-vancouver-whitecaps-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1007/e01dd1e6-5019-4316-94cc-0e2f853933c8/e01dd1e6-5019-4316-94cc-0e2f853933c8.jpg",
+          "publishedUtc": "2026-10-07T03:05:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
           "title": "Scaloni: Messi's final Argentina match will be unforgettable",
@@ -27361,26 +27380,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50008173/columbus-crew-2-fires-higuain-fallout-ref-abuse",
           "imageUrl": "https://a.espncdn.com/photo/2026/0922/r1720571_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-22T20:55:20Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49998607/mls-power-rankings-philadelphia-union-skyrocket-unbeaten-streak-reaches-11-games",
-          "title": "MLS Power Rankings: Union skyrocket as unbeaten streak reaches 11 games",
-          "description": "Can anyone stop the Philadelphia Union? Their latest win powered them up the charts in this week's edition of ESPN's MLS Power Rankings.",
-          "url": "https://www.espn.com/soccer/story/_/id/49998607/mls-power-rankings-philadelphia-union-skyrocket-unbeaten-streak-reaches-11-games",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1718089_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-21T17:33:41Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49995557/dreyer-outduels-messi-san-diego-miami-4th-straight-draw",
-          "title": "Dreyer outduels Messi as San Diego hands Miami 4th straight draw",
-          "description": "Lionel Messi scored his 101st goal for Inter Miami CF, but Anders Dreyer scored twice for San Diego FC, as the teams played to a 2-2 draw on Sunday night.",
-          "url": "https://www.espn.com/soccer/story/_/id/49995557/dreyer-outduels-messi-san-diego-miami-4th-straight-draw",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0921/r1719866_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-21T02:38:26Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28147,7 +28146,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-07T01:22:09.039Z",
+      "updatedUtc": "2026-10-07T08:29:21.781Z",
       "matches": [
         {
           "id": "760415",
@@ -31586,6 +31585,16 @@
           "transfer": false
         },
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
+          "title": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
+          "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
+          "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T04:16:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50084975/not-proud-no-regrets-2006-world-cup-final-clash-materazzi",
           "title": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
           "description": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
@@ -31734,16 +31743,6 @@
           "publishedUtc": "2026-09-25T13:05:43Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-          "title": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
-          "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
-          "url": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-25T10:12:42Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
