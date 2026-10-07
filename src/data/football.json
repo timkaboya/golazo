@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-07T17:22:31.421Z",
+  "updatedUtc": "2026-10-07T22:58:22.038Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.018Z",
+      "updatedUtc": "2026-10-07T22:58:21.783Z",
       "matches": [
         {
           "id": "401915445",
@@ -3239,248 +3239,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.058Z",
+      "updatedUtc": "2026-10-07T22:58:21.736Z",
       "matches": [
-        {
-          "id": "401915594",
-          "utc": "2026-09-16T16:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "20024",
-            "name": "Ararat-Armenia",
-            "abbreviation": "ARA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
-          },
-          "away": {
-            "id": "433",
-            "name": "Sparta",
-            "abbreviation": "SPP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
-          },
-          "venue": "Vazgen Sargsyan Republican Stadium, Yerevan",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 4
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915611",
-          "utc": "2026-09-16T16:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "617",
-            "name": "Omonia",
-            "abbreviation": "OMON",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
-          },
-          "away": {
-            "id": "85",
-            "name": "Celta Vigo",
-            "abbreviation": "CEL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-          },
-          "venue": "GSP Stadium, Nicosia",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915586",
-          "utc": "2026-09-16T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "103",
-            "name": "Milan",
-            "abbreviation": "MIL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-          },
-          "away": {
-            "id": "1929",
-            "name": "Benfica",
-            "abbreviation": "SLB",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
-          },
-          "venue": "San Siro, Milano",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915590",
-          "utc": "2026-09-16T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "441",
-            "name": "Anderlecht",
-            "abbreviation": "AND",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
-          },
-          "away": {
-            "id": "167",
-            "name": "Lyon",
-            "abbreviation": "LYON",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-          },
-          "venue": "Lotto Park, Brussels",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915587",
-          "utc": "2026-09-16T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "131",
-            "name": "Leverkusen",
-            "abbreviation": "B04",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
-          },
-          "away": {
-            "id": "3362",
-            "name": "NK Celje",
-            "abbreviation": "NKC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
-          },
-          "venue": "BayArena, Leverkusen",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915589",
-          "utc": "2026-09-16T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "13083",
-            "name": "Hapoel Be'er",
-            "abbreviation": "HBE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
-          },
-          "away": {
-            "id": "597",
-            "name": "Dinamo Zagreb",
-            "abbreviation": "DZG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
-          },
-          "venue": "Giulesti Stadium, Bucuresti",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915588",
-          "utc": "2026-09-16T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "435",
-            "name": "Olympiacos",
-            "abbreviation": "OLY",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
-          },
-          "away": {
-            "id": "11505",
-            "name": "Jagiellonia ",
-            "abbreviation": "JAG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
-          },
-          "venue": "Georgios Karaiskakis Stadium, Piraeus",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915593",
-          "utc": "2026-09-16T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "3746",
-            "name": "Sturm Graz",
-            "abbreviation": "STG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
-          },
-          "away": {
-            "id": "169",
-            "name": "Rennes",
-            "abbreviation": "REN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-          },
-          "venue": "Merkur Arena, Graz",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915592",
-          "utc": "2026-09-16T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "366",
-            "name": "Sunderland",
-            "abbreviation": "SUN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-          },
-          "away": {
-            "id": "140",
-            "name": "AZ Alkmaar",
-            "abbreviation": "AZ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
-          },
-          "venue": "Stadium of Light, Sunderland",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915584",
-          "utc": "2026-09-17T16:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "490",
-            "name": "Levski Sofia",
-            "abbreviation": "LEV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
-          },
-          "away": {
-            "id": "2790",
-            "name": "RB Salzburg",
-            "abbreviation": "SLZ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
-          },
-          "venue": "Vasil Levski National Stadium, Sofia",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401915585",
           "utc": "2026-09-17T16:45Z",
@@ -4750,6 +4510,366 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
           },
           "venue": "Estádio Dr. Magalhaes Pessoa, Leiria",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915506",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "1895",
+            "name": "Besiktas",
+            "abbreviation": "BES",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+          },
+          "away": {
+            "id": "13083",
+            "name": "Hapoel Be'er",
+            "abbreviation": "HBE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+          },
+          "venue": "Vodafone Park, Istanbul",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915519",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "85",
+            "name": "Celta Vigo",
+            "abbreviation": "CEL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+          },
+          "away": {
+            "id": "349",
+            "name": "Bournemouth",
+            "abbreviation": "BOU",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+          },
+          "venue": "Balaidos, Vigo",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915517",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "597",
+            "name": "Dinamo Zagreb",
+            "abbreviation": "DZG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+          },
+          "away": {
+            "id": "131",
+            "name": "Leverkusen",
+            "abbreviation": "B04",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+          },
+          "venue": "Maksimir Stadium, Zagreb",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915507",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "176",
+            "name": "Marseille",
+            "abbreviation": "OLM",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
+          },
+          "away": {
+            "id": "490",
+            "name": "Levski Sofia",
+            "abbreviation": "LEV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+          },
+          "venue": "Stade Vélodrome, Marseille",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915521",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "435",
+            "name": "Olympiacos",
+            "abbreviation": "OLY",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+          },
+          "away": {
+            "id": "103",
+            "name": "Milan",
+            "abbreviation": "MIL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+          },
+          "venue": "Georgios Karaiskakis Stadium, Piraeus",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915520",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "2790",
+            "name": "RB Salzburg",
+            "abbreviation": "SLZ",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
+          },
+          "away": {
+            "id": "20024",
+            "name": "Ararat-Armenia",
+            "abbreviation": "ARA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+          },
+          "venue": "Red Bull Arena Salzburg, Salzburg",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915508",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "5807",
+            "name": "Union SG",
+            "abbreviation": "USG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+          },
+          "away": {
+            "id": "2990",
+            "name": "Lech Poznan",
+            "abbreviation": "LECH",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+          },
+          "venue": "King Power at Den Dreef Stadion, Leuven",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915518",
+          "utc": "2026-11-26T17:45Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "11706",
+            "name": "Viktoria Plzen",
+            "abbreviation": "PLZ",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png"
+          },
+          "away": {
+            "id": "1929",
+            "name": "Benfica",
+            "abbreviation": "SLB",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
+          },
+          "venue": "Doosan Arena, Plzen",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915504",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "384",
+            "name": "C Palace",
+            "abbreviation": "CRY",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+          },
+          "away": {
+            "id": "89",
+            "name": "Real Sociedad",
+            "abbreviation": "RSO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+          },
+          "venue": "Selhurst Park, London",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915516",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "622",
+            "name": "Ferencvaros",
+            "abbreviation": "FER",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
+          },
+          "away": {
+            "id": "3362",
+            "name": "NK Celje",
+            "abbreviation": "NKC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+          },
+          "venue": "Groupama Arena, Budapest",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915502",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "111",
+            "name": "Juventus",
+            "abbreviation": "JUV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+          },
+          "away": {
+            "id": "617",
+            "name": "Omonia",
+            "abbreviation": "OMON",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
+          },
+          "venue": "Allianz Stadium, Torino",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915501",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "167",
+            "name": "Lyon",
+            "abbreviation": "LYON",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+          },
+          "away": {
+            "id": "987",
+            "name": "Lillestrom",
+            "abbreviation": "LSK",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png"
+          },
+          "venue": "Groupama Stadium, Lyon",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915505",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "147",
+            "name": "NEC",
+            "abbreviation": "NEC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+          },
+          "away": {
+            "id": "169",
+            "name": "Rennes",
+            "abbreviation": "REN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+          },
+          "venue": "Goffertstadion, Nijmegen",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915503",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "1010",
+            "name": "OFI Crete",
+            "abbreviation": "OFI",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png"
+          },
+          "away": {
+            "id": "441",
+            "name": "Anderlecht",
+            "abbreviation": "AND",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
+          },
+          "venue": "Pankritio Stadium, Crete",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915514",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "433",
+            "name": "Sparta",
+            "abbreviation": "SPP",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
+          },
+          "away": {
+            "id": "140",
+            "name": "AZ Alkmaar",
+            "abbreviation": "AZ",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+          },
+          "venue": "Generali Arena, Prague",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915513",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "366",
+            "name": "Sunderland",
+            "abbreviation": "SUN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+          },
+          "away": {
+            "id": "11505",
+            "name": "Jagiellonia ",
+            "abbreviation": "JAG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
+          },
+          "venue": "Stadium of Light, Sunderland",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915512",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "21615",
+            "name": "Torreense",
+            "abbreviation": "TOR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
+          },
+          "away": {
+            "id": "256",
+            "name": "Celtic",
+            "abbreviation": "CEL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+          },
+          "venue": "Estádio Dr. Magalhaes Pessoa, Leiria",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401915515",
+          "utc": "2026-11-26T20:00Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "7911",
+            "name": "Hoffenheim",
+            "abbreviation": "TSG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+          },
+          "away": {
+            "id": "3746",
+            "name": "Sturm Graz",
+            "abbreviation": "STG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+          },
+          "venue": "PreZero Arena, Sinsheim",
           "status": "upcoming",
           "note": "Scheduled"
         }
@@ -6353,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.027Z",
+      "updatedUtc": "2026-10-07T22:58:21.845Z",
       "matches": [
         {
           "id": "401879285",
@@ -8385,12 +8505,32 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+          "title": "Transfer rumors, news: Arsenal to sign Mexico's Gilberto Mora?",
+          "description": "Defending Premier League champions Arsenal are reportedly looking to sign Tijuana and Mexico's Gilberto Mora. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727546_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T21:54:14Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50126152/alexander-isak-cody-gakpo-injury-liverpool-man-city",
+          "title": "Alexander Isak, Cody Gakpo in doubt for Liverpool vs. Man City clash",
+          "description": "Liverpool head coach Andoni Iraola has cast doubt on the chances of Alexander Isak and Cody Gakpo being fit to face Manchester City this weekend.",
+          "url": "https://www.espn.com/soccer/story/_/id/50126152/alexander-isak-cody-gakpo-injury-liverpool-man-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T17:12:11Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50110195/manchester-united-managerial-cycle-michael-carrick-feeling-heat-he",
-          "title": "Another bad Man United run has Carrick feeling the heat. Should he?",
+          "title": "Another bad Man United run has Carrick feeling the heat. Should he be?",
           "description": "Michael Carrick is hardly unique in that he brought hope to Man United, but is he on course to become the latest coach to be fired midseason?",
           "url": "https://www.espn.com/soccer/story/_/id/50110195/manchester-united-managerial-cycle-michael-carrick-feeling-heat-he",
           "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726386_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T14:30:42Z",
+          "publishedUtc": "2026-10-07T16:40:33Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8400,7 +8540,7 @@
           "description": "Mathys Tel will be hoping to take his goal-scoring exploits with France Under-21s over the international break into Tottenham's fight to turn their Premier League season around.",
           "url": "https://www.espn.com/soccer/story/_/id/50124324/tottenham-mathys-tel-equals-france-21-goalscoring-record",
           "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727283_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T12:12:04Z",
+          "publishedUtc": "2026-10-07T16:36:08Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8420,7 +8560,7 @@
           "description": "Mikel Arteta has signed a new contract to extend his stay at Arsenal, the Premier League champions confirmed.",
           "url": "https://www.espn.com/soccer/story/_/id/50004993/mikel-arteta-signs-new-arsenal-contract",
           "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727273_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T13:39:37Z",
+          "publishedUtc": "2026-10-07T16:18:52Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -8443,16 +8583,6 @@
           "publishedUtc": "2026-10-07T09:10:31Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
-          "title": "Transfer rumors, news: PSG eye Man City midfielder Cherki amid Premier League charges",
-          "description": "Paris Saint-Germain are monitoring Manchester City attacking midfielder Rayan Cherki. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0911/r1714809_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T07:21:15Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
@@ -8613,16 +8743,6 @@
           "publishedUtc": "2026-10-04T18:14:16Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-          "title": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-          "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-          "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-          "imageUrl": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T10:38:08Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -9370,7 +9490,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.232Z",
+      "updatedUtc": "2026-10-07T22:58:21.976Z",
       "matches": [
         {
           "id": "401882877",
@@ -12372,7 +12492,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.365Z",
+      "updatedUtc": "2026-10-07T22:58:21.887Z",
       "matches": [
         {
           "id": "401874756",
@@ -14364,6 +14484,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50127190/scott-mctominay-back-napoli-training-heart-procedure",
+          "title": "Scott McTominay back in Napoli training after heart procedure",
+          "description": "Scott McTominay has returned to training with Napoli for the first time since undergoing a heart procedure last month.",
+          "url": "https://www.espn.com/soccer/story/_/id/50127190/scott-mctominay-back-napoli-training-heart-procedure",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-07T20:07:18Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
           "title": "Transfer rumors, news: Atleti, Juve eye loan move for Arsenal's Madueke",
           "description": "Could Noni Madueke depart Arsenal for a move to either Spain or Italy? Transfer Talk has the latest.",
@@ -14580,16 +14710,6 @@
           "url": "https://www.espn.com/video/clip/_/id/49948972/pulisic-needs-reprove-ac-milan",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Keller_Pulisic_needs_to_reprove_himself_at_AC_Milan/dm_260915_Keller_Pulisic_needs_to_reprove_himself_at_AC_Milan.jpg",
           "publishedUtc": "2026-09-15T13:38:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/f1/story/_/id/49947188/john-stones-limps-first-inter-milan-start-injury-concern-england-thomas-tuchel",
-          "title": "John Stones limps off on first Inter Milan start in injury concern for England and Thomas Tuchel",
-          "description": "John Stones limped off with a thigh injury as Inter Milan hit back from two goals down for the second time this season to beat Udinese 5-3 and maintain their winning start in Serie A.",
-          "url": "https://www.espn.com/f1/story/_/id/49947188/john-stones-limps-first-inter-milan-start-injury-concern-england-thomas-tuchel",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1716915_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-15T06:41:28Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15342,7 +15462,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.296Z",
+      "updatedUtc": "2026-10-07T22:58:21.838Z",
       "matches": [
         {
           "id": "401884806",
@@ -18338,7 +18458,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.332Z",
+      "updatedUtc": "2026-10-07T22:58:21.930Z",
       "matches": [
         {
           "id": "401876472",
@@ -21325,7 +21445,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-07T17:22:31.345Z",
+      "updatedUtc": "2026-10-07T22:58:21.861Z",
       "matches": [
         {
           "id": "401861118",
@@ -24032,6 +24152,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50124605/ronaldo-deserves-beautiful-farewell-messi",
+          "title": "Lineker: Ronaldo deserves a beautiful farewell like Messi",
+          "description": "Lineker: Ronaldo deserves a beautiful farewell like Messi",
+          "url": "https://www.espn.com/video/clip/_/id/50124605/ronaldo-deserves-beautiful-farewell-messi",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_Lineker_Ronaldo_deserves_a_beautiful_farewell_like_Messi/dm_261007_Lineker_Ronaldo_deserves_a_beautiful_farewell_like_Messi.jpg",
+          "publishedUtc": "2026-10-07T13:26:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50123757/kane-labels-125th-cap-england-perfect-night",
           "title": "Kane labels his 125th cap for England the 'perfect night'",
           "description": "Kane labels his 125th cap for England the 'perfect night'  ",
@@ -24166,7 +24296,7 @@
           "description": "Harry Kane scored twice to take his international goal tally to 91 as he made a record-tying 125th England appearance in Tuesday's 3-0 win over Czechia at Wembley.",
           "url": "https://www.espn.com/soccer/story/_/id/50119334/harry-kane-england-czechia-nationsl-league-goals-record",
           "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726974_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T21:44:00Z",
+          "publishedUtc": "2026-10-07T16:15:56Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -24257,16 +24387,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
           "publishedUtc": "2026-10-07T07:50:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
-          "title": "Viktor Gyökeres to make Arsenal return after goal-laden stint with Sweden",
-          "description": "Viktor Gyökeres will return to Arsenal in confident mood after setting a new Nations League record with four more goals for Sweden over the international break.",
-          "url": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726793_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T13:48:19Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25017,7 +25137,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T17:22:31.421Z",
+      "updatedUtc": "2026-10-07T22:58:22.038Z",
       "matches": [
         {
           "id": "761871",
@@ -28148,7 +28268,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-07T17:22:31.373Z",
+      "updatedUtc": "2026-10-07T22:58:21.990Z",
       "matches": [
         {
           "id": "760415",
@@ -31733,16 +31853,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50038230/usmnt-debutants-made-their-mark-4-1-win-vs-peru",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/ss_20260926_205309109_36763731284/ss_20260926_205309109_36763731284.jpg",
           "publishedUtc": "2026-09-27T01:25:28Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50028671/folarin-balogun-mauricio-pochettino-red-card-suspension-usa-world-cup",
-          "title": "Pochettino shares 'regret' over Balogun controversy, impact on USMNT",
-          "description": "USMNT coach Mauricio Pochettino said he regrets not being more involved in the process of appealing Folarin Balogun's suspension at this summer's World Cup, adding that the incident changed the energy around his squad.",
-          "url": "https://www.espn.com/soccer/story/_/id/50028671/folarin-balogun-mauricio-pochettino-red-card-suspension-usa-world-cup",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0925/r1721773_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-25T20:50:48Z",
           "source": "ESPN",
           "transfer": false
         }
