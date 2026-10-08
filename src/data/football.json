@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-07T22:58:22.038Z",
+  "updatedUtc": "2026-10-08T05:42:24.605Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:21.783Z",
+      "updatedUtc": "2026-10-08T05:42:24.351Z",
       "matches": [
         {
           "id": "401915445",
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:21.736Z",
+      "updatedUtc": "2026-10-08T05:42:24.321Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:21.845Z",
+      "updatedUtc": "2026-10-08T05:42:24.497Z",
       "matches": [
         {
           "id": "401879285",
@@ -8505,6 +8505,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50128076/how-hostile-man-city-reception-anfield",
+          "title": "How hostile will Man City's reception be at Anfield?",
+          "description": "How hostile will Man City's reception be at Anfield?",
+          "url": "https://www.espn.com/video/clip/_/id/50128076/how-hostile-man-city-reception-anfield",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_COM_SOC_ANALYSIS_How_hostile_will_Man_Citys_reception_be_at_Anfield_2026_10_7/dm_261007_COM_SOC_ANALYSIS_How_hostile_will_Man_Citys_reception_be_at_Anfield_2026_10_7.jpg",
+          "publishedUtc": "2026-10-07T22:26:04Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
           "title": "Transfer rumors, news: Arsenal to sign Mexico's Gilberto Mora?",
           "description": "Defending Premier League champions Arsenal are reportedly looking to sign Tijuana and Mexico's Gilberto Mora. Transfer Talk has the latest.",
@@ -8731,16 +8741,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market",
           "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-05T12:46:40Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
-          "title": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
-          "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T18:14:16Z",
           "source": "ESPN",
           "transfer": true
         }
@@ -9490,7 +9490,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:21.976Z",
+      "updatedUtc": "2026-10-08T05:42:24.546Z",
       "matches": [
         {
           "id": "401882877",
@@ -12492,7 +12492,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:21.887Z",
+      "updatedUtc": "2026-10-08T05:42:24.467Z",
       "matches": [
         {
           "id": "401874756",
@@ -15462,7 +15462,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:21.838Z",
+      "updatedUtc": "2026-10-08T05:42:24.423Z",
       "matches": [
         {
           "id": "401884806",
@@ -18458,7 +18458,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:21.930Z",
+      "updatedUtc": "2026-10-08T05:42:24.429Z",
       "matches": [
         {
           "id": "401876472",
@@ -20480,16 +20480,6 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
-          "title": "Transfer rumors, news: PSG eye Man City midfielder Cherki amid Premier League charges",
-          "description": "Paris Saint-Germain are monitoring Manchester City attacking midfielder Rayan Cherki. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0911/r1714809_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T07:21:15Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50108717/folarin-balogun-premier-league-everton-monaco-usmnt",
           "title": "Folarin Balogun reopens door to Premier League despite failed Everton move",
           "description": "United States striker Folarin Balogun has said that he would still be keen to play in the Premier League, even though his transfer deadline day move to Everton collapsed in dramatic fashion.",
@@ -20696,6 +20686,16 @@
           "url": "https://www.espn.com/soccer/story/_/id/49829043/luis-enrique-unfazed-historic-psg-winless-start-deepens-monaco-defeat",
           "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711544_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-04T23:02:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401876469",
+          "title": "PSG upset by Monaco to extend winless start",
+          "description": "Paris Saint-Germain 's difficult Ligue 1 start continued as early-season pace-setters AS Monaco won 2-1 at Parc des Princes.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401876469",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711507_1296x729_16-9.jpg",
+          "publishedUtc": "2026-09-04T21:30:08Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21445,7 +21445,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-07T22:58:21.861Z",
+      "updatedUtc": "2026-10-08T05:42:24.279Z",
       "matches": [
         {
           "id": "401861118",
@@ -24152,6 +24152,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50127956/feud-jorge-jesus-damage-ronaldo-legacy",
+          "title": "Hislop: Feud with Jorge Jesus won't damage Ronaldo's legacy",
+          "description": "Hislop: Feud with Jorge Jesus won't damage Ronaldo's legacy",
+          "url": "https://www.espn.com/video/clip/_/id/50127956/feud-jorge-jesus-damage-ronaldo-legacy",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_COM_SOC_ANALYSIS_Hislop_Feud_with_Jorge_Jesus_wont_damage_Ronaldos_legacy_2026_10_7/dm_261007_COM_SOC_ANALYSIS_Hislop_Feud_with_Jorge_Jesus_wont_damage_Ronaldos_legacy_2026_10_7.jpg",
+          "publishedUtc": "2026-10-07T22:24:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50124605/ronaldo-deserves-beautiful-farewell-messi",
           "title": "Lineker: Ronaldo deserves a beautiful farewell like Messi",
           "description": "Lineker: Ronaldo deserves a beautiful farewell like Messi",
@@ -24377,16 +24387,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50108723/harry-kane-earn-record-equalling-125th-england-cap-peter-shilton",
           "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726933_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-06T19:12:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
-          "title": "Ogden: Haaland will not play in the Championship",
-          "description": "Ogden: Haaland will not play in the Championship",
-          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-          "publishedUtc": "2026-10-07T07:50:31Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25137,7 +25137,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-07T22:58:22.038Z",
+      "updatedUtc": "2026-10-08T05:42:24.605Z",
       "matches": [
         {
           "id": "761871",
@@ -28268,7 +28268,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-07T22:58:21.990Z",
+      "updatedUtc": "2026-10-08T05:42:24.293Z",
       "matches": [
         {
           "id": "760415",
