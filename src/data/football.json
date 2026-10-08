@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-08T13:14:18.155Z",
+  "updatedUtc": "2026-10-08T19:46:51.212Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:18.017Z",
+      "updatedUtc": "2026-10-08T19:46:50.944Z",
       "matches": [
         {
           "id": "401915445",
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:17.900Z",
+      "updatedUtc": "2026-10-08T19:46:50.971Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:17.830Z",
+      "updatedUtc": "2026-10-08T19:46:51.081Z",
       "matches": [
         {
           "id": "401879285",
@@ -8505,12 +8505,42 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50133420/erling-haaland-calls-man-city-stay-positive-amid-premier-league-charges-case",
+          "title": "Erling Haaland calls on Man City to 'stay positive' amid Premier League charges case",
+          "description": "Erling Haaland has said that everyone at Manchester City has to \"stay positive\" as the team prepares to play their first matches since being found guilty of breaching Premier League regulations.",
+          "url": "https://www.espn.com/soccer/story/_/id/50133420/erling-haaland-calls-man-city-stay-positive-amid-premier-league-charges-case",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727856_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T15:57:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50132069/manchester-city-guilty-premier-league-verdict-sanctions-appeals-explainer-whats-next",
+          "title": "What's next for Man City? Appeals, possible punishments, how long it could take",
+          "description": "Man City have appealed the Premier League's guilty verdict, while the sanctions board also begins its work on figuring out appropriate punishments. So what happens next, and what is the possible timeline?",
+          "url": "https://www.espn.com/soccer/story/_/id/50132069/manchester-city-guilty-premier-league-verdict-sanctions-appeals-explainer-whats-next",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727809_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T15:40:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50132726/martin-sherif-everton-fined-fa-betting-rules",
+          "title": "Everton's Martin Sherif fined for breaching FA betting rules",
+          "description": "Everton youngster Martin Sherif has been fined for breaching Football Association betting rules.",
+          "url": "https://www.espn.com/soccer/story/_/id/50132726/martin-sherif-everton-fined-fa-betting-rules",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727813_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T13:56:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50131879/pep-guardiola-attend-first-man-city-home-game-guilty-verdict-sources",
           "title": "Sources: Pep Guardiola set to attend first Man City home game since guilty verdict",
           "description": "Pep Guardiola is expected to attend Manchester City's Champions League fixture against Paris Saint-Germain, sources have told ESPN.",
           "url": "https://www.espn.com/soccer/story/_/id/50131879/pep-guardiola-attend-first-man-city-home-game-guilty-verdict-sources",
           "imageUrl": "https://a.espncdn.com/photo/2026/0723/r1692734_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-08T12:05:50Z",
+          "publishedUtc": "2026-10-08T12:21:37Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8520,7 +8550,7 @@
           "description": "Max Dowman has added three Guinness World Records to his growing list of achievements despite not turning 17 until this coming December.",
           "url": "https://www.espn.com/soccer/story/_/id/50131668/max-dowman-three-guinness-world-records-breakout-arsenal-season",
           "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727751_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-08T09:57:48Z",
+          "publishedUtc": "2026-10-08T16:16:58Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8713,36 +8743,6 @@
           "publishedUtc": "2026-10-06T10:29:56Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50115373/man-city-punishment-three-five-years-jamie-carragher",
-          "title": "Man City punishment must be 'three to five years' - Jamie Carragher",
-          "description": "Manchester City should face a multi-year punishment for their financial misdemeanours, according to former Liverpool defender Jamie Carragher.",
-          "url": "https://www.espn.com/soccer/story/_/id/50115373/man-city-punishment-three-five-years-jamie-carragher",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0519/r1660275_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T08:36:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
-          "title": "How top Premier League clubs view Man City's guilty verdict",
-          "description": "Four clubs -- Arsenal, Liverpool, Man United and Tottenham -- retained their legal rights in the Premier League's case against Man City. Now that a guilty verdict has been issued, what will they do in response?",
-          "url": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
-          "imageUrl": "https://a.espncdn.com/photo/2021/0609/r865143_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T13:08:24Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
-          "title": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
-          "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726526_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-05T20:53:41Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9490,7 +9490,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:17.984Z",
+      "updatedUtc": "2026-10-08T19:46:51.159Z",
       "matches": [
         {
           "id": "401882877",
@@ -12492,32 +12492,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:18.045Z",
+      "updatedUtc": "2026-10-08T19:46:51.117Z",
       "matches": [
-        {
-          "id": "401874756",
-          "utc": "2026-09-18T18:45Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "4007",
-            "name": "Monza",
-            "abbreviation": "MON",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
-          },
-          "away": {
-            "id": "3997",
-            "name": "Sassuolo",
-            "abbreviation": "SAS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
-          },
-          "venue": "U-Power Stadium, Monza",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401874767",
           "utc": "2026-09-19T13:00Z",
@@ -14133,6 +14109,26 @@
           "venue": "U-Power Stadium, Monza",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401875004",
+          "utc": "2026-11-27T19:45Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "17530",
+            "name": "Venezia",
+            "abbreviation": "VEN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+          },
+          "away": {
+            "id": "107",
+            "name": "Bologna",
+            "abbreviation": "BOL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+          },
+          "venue": "Stadio Pier Luigi Penzo, Venezia",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -15462,32 +15458,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:18.010Z",
+      "updatedUtc": "2026-10-08T19:46:51.039Z",
       "matches": [
-        {
-          "id": "401884806",
-          "utc": "2026-09-05T13:30Z",
-          "phase": "2026 27 German Bundesliga",
-          "home": {
-            "id": "131",
-            "name": "Leverkusen",
-            "abbreviation": "B04",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
-          },
-          "away": {
-            "id": "598",
-            "name": "Union Berlin",
-            "abbreviation": "FCU",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
-          },
-          "venue": "BayArena, Leverkusen",
-          "status": "finished",
-          "score": {
-            "home": 4,
-            "away": 0
-          },
-          "note": "FT"
-        },
         {
           "id": "401884804",
           "utc": "2026-09-05T13:30Z",
@@ -17167,6 +17139,26 @@
           "venue": "Weserstadion, Bremen",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401884720",
+          "utc": "2026-11-27T19:30Z",
+          "phase": "2026 27 German Bundesliga",
+          "home": {
+            "id": "137",
+            "name": "Bremen",
+            "abbreviation": "SVW",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+          },
+          "away": {
+            "id": "268",
+            "name": "Gladbach",
+            "abbreviation": "BMG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
+          },
+          "venue": "Weserstadion, Bremen",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -18458,32 +18450,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:18.096Z",
+      "updatedUtc": "2026-10-08T19:46:51.010Z",
       "matches": [
-        {
-          "id": "401876472",
-          "utc": "2026-09-04T17:00Z",
-          "phase": "2026 27 Ligue 1",
-          "home": {
-            "id": "167",
-            "name": "Lyon",
-            "abbreviation": "LYON",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-          },
-          "away": {
-            "id": "172",
-            "name": "Auxerre",
-            "abbreviation": "AUX",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
-          },
-          "venue": "Groupama Stadium, Lyon",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401876469",
           "utc": "2026-09-04T19:05Z",
@@ -20163,6 +20131,26 @@
           "venue": "Stade Vélodrome, Marseille",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401876392",
+          "utc": "2026-11-27T19:45Z",
+          "phase": "2026 27 Ligue 1",
+          "home": {
+            "id": "6997",
+            "name": "Brest",
+            "abbreviation": "BRE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+          },
+          "away": {
+            "id": "6851",
+            "name": "Paris FC",
+            "abbreviation": "PAR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+          },
+          "venue": "Stade Francis-Le Blé, Brest",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -21445,7 +21433,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-08T13:14:18.074Z",
+      "updatedUtc": "2026-10-08T19:46:50.919Z",
       "matches": [
         {
           "id": "401861118",
@@ -25137,7 +25125,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T13:14:18.155Z",
+      "updatedUtc": "2026-10-08T19:46:51.212Z",
       "matches": [
         {
           "id": "761871",
@@ -28268,7 +28256,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-08T13:14:18.015Z",
+      "updatedUtc": "2026-10-08T19:46:50.892Z",
       "matches": [
         {
           "id": "760415",
