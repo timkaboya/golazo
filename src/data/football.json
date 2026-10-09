@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-08T19:46:51.212Z",
+  "updatedUtc": "2026-10-09T00:14:08.465Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:50.944Z",
+      "updatedUtc": "2026-10-09T00:14:07.828Z",
       "matches": [
         {
           "id": "401915445",
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:50.971Z",
+      "updatedUtc": "2026-10-09T00:14:07.674Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,32 +6473,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:51.081Z",
+      "updatedUtc": "2026-10-09T00:14:07.751Z",
       "matches": [
-        {
-          "id": "401879285",
-          "utc": "2026-09-12T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "349",
-            "name": "Bournemouth",
-            "abbreviation": "BOU",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
-          },
-          "away": {
-            "id": "337",
-            "name": "Brentford",
-            "abbreviation": "BRE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-          },
-          "venue": "Vitality Stadium, Bournemouth",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401879284",
           "utc": "2026-09-12T14:00Z",
@@ -8154,6 +8130,26 @@
           "venue": "Gtech Community Stadium, Brentford",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401879225",
+          "utc": "2026-11-27T20:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "393",
+            "name": "Nottm Forest",
+            "abbreviation": "NFO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+          },
+          "away": {
+            "id": "363",
+            "name": "Chelsea",
+            "abbreviation": "CHE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+          },
+          "venue": "The City Ground, Nottingham",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -8505,12 +8501,82 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50135294/man-utd-vs-spurs-not-lose-sides",
+          "title": "Moreno: Man Utd vs. Spurs a 'must not lose' for both sides",
+          "description": "Moreno: Man Utd vs. Spurs a 'must not lose' for both sides",
+          "url": "https://www.espn.com/video/clip/_/id/50135294/man-utd-vs-spurs-not-lose-sides",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_Moreno_Man_Utd_vs_Spurs_a_must_not_lose_for_both_sides/dm_261008_Moreno_Man_Utd_vs_Spurs_a_must_not_lose_for_both_sides.jpg",
+          "publishedUtc": "2026-10-08T21:15:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50135036/man-city-players-focus-liverpool-not-charges",
+          "title": "Maresca: Man City players' focus is on Liverpool, not charges",
+          "description": "Maresca: Man City players' focus is on Liverpool, not charges",
+          "url": "https://www.espn.com/video/clip/_/id/50135036/man-city-players-focus-liverpool-not-charges",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_Maresca_Man_City_players_focus_is_on_Liverpool_not_charges/dm_261008_Maresca_Man_City_players_focus_is_on_Liverpool_not_charges.jpg",
+          "publishedUtc": "2026-10-08T20:31:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50134874/uk-pm-burnham-denies-downplaying-seriousness-man-city-findings",
+          "title": "UK PM Burnham denies downplaying seriousness of Man City findings",
+          "description": "UK PM Burnham denies downplaying seriousness of Man City findings",
+          "url": "https://www.espn.com/video/clip/_/id/50134874/uk-pm-burnham-denies-downplaying-seriousness-man-city-findings",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_UK_PM_Burnham_denies_downplaying_seriousness_of_Man_City_findings/dm_261008_UK_PM_Burnham_denies_downplaying_seriousness_of_Man_City_findings.jpg",
+          "publishedUtc": "2026-10-08T20:12:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50134572/tottenham-hotspur-xavi-simons-enrolls-student-harvard-business-school",
+          "title": "Tottenham's Xavi Simons enrolls at Harvard Business School",
+          "description": "Tottenham Hotspur's Xavi Simons has revealed he has enrolled for an online course at Harvard Business School.",
+          "url": "https://www.espn.com/soccer/story/_/id/50134572/tottenham-hotspur-xavi-simons-enrolls-student-harvard-business-school",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727956_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T19:19:43Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50134523/jose-mourinho-manchester-city-charges-punishment-case",
+          "title": "Mourinho jokes he'll be lucky to still be around when Man City case ends",
+          "description": "Real Madrid coach José Mourinho joked that he'll be lucky to still be around to see the final verdict in the Premier League's case against Manchester City.",
+          "url": "https://www.espn.com/soccer/story/_/id/50134523/jose-mourinho-manchester-city-charges-punishment-case",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727964_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T20:01:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50134137/manchester-city-manager-enzo-maresca-says-trusts-club-completely",
+          "title": "Man City manager Enzo Maresca says he 'trusts the club completely'",
+          "description": "Enzo Maresca has said he \"trusts the club completely\" in his first interview since Manchester City were found guilty of breaking financial rules.",
+          "url": "https://www.espn.com/soccer/story/_/id/50134137/manchester-city-manager-enzo-maresca-says-trusts-club-completely",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0905/r1711852_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T20:32:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+          "title": "Manchester City charges: Features, explainers, what's next after guilty verdict",
+          "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
+          "url": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T16:58:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50133420/erling-haaland-calls-man-city-stay-positive-amid-premier-league-charges-case",
           "title": "Erling Haaland calls on Man City to 'stay positive' amid Premier League charges case",
           "description": "Erling Haaland has said that everyone at Manchester City has to \"stay positive\" as the team prepares to play their first matches since being found guilty of breaching Premier League regulations.",
           "url": "https://www.espn.com/soccer/story/_/id/50133420/erling-haaland-calls-man-city-stay-positive-amid-premier-league-charges-case",
           "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727856_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-08T15:57:55Z",
+          "publishedUtc": "2026-10-08T17:16:16Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8671,76 +8737,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50123758/man-city-glory-taken-players-kyle-walker",
           "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727251_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-07T09:42:10Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
-          "title": "Manchester City charges: Features, explainers, what's next after guilty verdict",
-          "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
-          "url": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T09:10:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
-          "title": "Transfer rumors, news: Atleti, Juve eye loan move for Arsenal's Madueke",
-          "description": "Could Noni Madueke depart Arsenal for a move to either Spain or Italy? Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726964_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T20:30:24Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-          "description": "Cristiano Ronaldo walked out of the Portugal national team's camp after being benched. It is far from the first high-profile row of his two decades at the top.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T20:21:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
-          "title": "Ogden: Haaland will not play in the Championship",
-          "description": "Ogden: Haaland will not play in the Championship",
-          "url": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-          "publishedUtc": "2026-10-07T07:50:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
-          "title": "Viktor Gyökeres to make Arsenal return after goal-laden stint with Sweden",
-          "description": "Viktor Gyökeres will return to Arsenal in confident mood after setting a new Nations League record with four more goals for Sweden over the international break.",
-          "url": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726793_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T13:48:19Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50116134/liverpool-jeremy-jacquet-france-nations-league-man-city-premier-league",
-          "title": "Liverpool sweating over Jeremy Jacquet fitness ahead of Man City clash",
-          "description": "Liverpool are waiting to discover the extent of Jeremy Jacquet's fitness issue after the centre-back was left out of France's Nations League win over Belgium.",
-          "url": "https://www.espn.com/soccer/story/_/id/50116134/liverpool-jeremy-jacquet-france-nations-league-man-city-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726765_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T12:15:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
-          "title": "Man City mock draft: How Premier League teams could pick in hypothetical punishment",
-          "description": "Now that Manchester City have been found to have cheated on a huge scale, anything is on the table -- maybe even an American-style Premier League draft?",
-          "url": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726637_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T10:29:56Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9490,7 +9486,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:51.159Z",
+      "updatedUtc": "2026-10-09T00:14:07.817Z",
       "matches": [
         {
           "id": "401882877",
@@ -11518,6 +11514,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50134792/thunder-gilegous-alexander-buys-stake-atletico-madrid",
+          "title": "Thunder's Gilegous-Alexander buys stake in Atlético Madrid",
+          "description": "Two-time NBA MVP Shai Gilgeous-Alexander has become a shareholder in Atlético Madrid, the Spanish club announced on Thursday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50134792/thunder-gilegous-alexander-buys-stake-atletico-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0518/r1659754_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-08T21:22:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50131876/raul-asencio-real-madrid-drink-drinking-jose-mourinho",
           "title": "Raúl Asencio on drink driving conviction: 'I'm at Real Madrid, that can't happen again'",
           "description": "Raúl Asencio has said he is only focused on winning at Real Madrid and \"turning the situation around\" following his recent conviction for drink driving.",
@@ -11734,16 +11740,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50057471/real-madrid-mbappe-konate-valverde-el-clasico-barcelona-la-liga",
           "imageUrl": "https://a.espncdn.com/photo/2026/0929/r1723326_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-29T12:00:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "title": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-29T07:38:13Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12492,7 +12488,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:51.117Z",
+      "updatedUtc": "2026-10-09T00:14:08.465Z",
       "matches": [
         {
           "id": "401874767",
@@ -15458,7 +15454,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:51.039Z",
+      "updatedUtc": "2026-10-09T00:14:07.779Z",
       "matches": [
         {
           "id": "401884804",
@@ -18450,7 +18446,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:51.010Z",
+      "updatedUtc": "2026-10-09T00:14:07.759Z",
       "matches": [
         {
           "id": "401876469",
@@ -21433,7 +21429,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-08T19:46:50.919Z",
+      "updatedUtc": "2026-10-09T00:14:07.672Z",
       "matches": [
         {
           "id": "401861118",
@@ -25125,7 +25121,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-08T19:46:51.212Z",
+      "updatedUtc": "2026-10-09T00:14:07.866Z",
       "matches": [
         {
           "id": "761871",
@@ -27273,11 +27269,11 @@
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50131138/harry-kane-encouraged-end-career-us-mls-commissioner",
-          "title": "Harry Kane arrival would be 'fulfilment of a dream' - MLS commissioner",
+          "title": "Harry Kane interest in MLS 'fulfilment of a dream' - commissioner",
           "description": "MLS commissioner Don Garber would love Harry Kane to follow Lionel Messi across the pond and says the England skipper's interest helps fulfil a dream that Sir David Beckham kept alive.",
           "url": "https://www.espn.com/soccer/story/_/id/50131138/harry-kane-encouraged-end-career-us-mls-commissioner",
           "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717388_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-08T11:29:07Z",
+          "publishedUtc": "2026-10-08T16:13:02Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -28256,7 +28252,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-08T19:46:50.892Z",
+      "updatedUtc": "2026-10-09T00:14:07.660Z",
       "matches": [
         {
           "id": "760415",
@@ -31831,16 +31827,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50050816/vozinha-world-cup-fame-struggling-cape-verde",
           "imageUrl": "https://a.espncdn.com/photo/2026/0928/r1722870_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-28T09:21:26Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50005268/if-fifa-expands-world-cup-again-how-64-team-tournament-work",
-          "title": "If FIFA expands the World Cup again, how would a 64-team tournament work?",
-          "description": "The 2026 World Cup was the first to feature 48 teams, and 2030 could see the field swell to 64, but just how feasible is a tournament that size?",
-          "url": "https://www.espn.com/soccer/story/_/id/50005268/if-fifa-expands-world-cup-again-how-64-team-tournament-work",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0922/r1720423_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-27T11:24:24Z",
           "source": "ESPN",
           "transfer": false
         }
