@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-09T22:31:24.169Z",
+  "updatedUtc": "2026-10-10T05:29:45.547Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:23.757Z",
+      "updatedUtc": "2026-10-10T05:29:45.258Z",
       "matches": [
         {
           "id": "401915445",
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:23.813Z",
+      "updatedUtc": "2026-10-10T05:29:45.128Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:23.997Z",
+      "updatedUtc": "2026-10-10T05:29:45.342Z",
       "matches": [
         {
           "id": "401879279",
@@ -8489,6 +8489,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united",
+          "title": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "publishedUtc": "2026-10-09T22:56:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50143029/carrick-faces-added-pressure-spurs",
           "title": "Burley: Carrick faces added pressure against Spurs",
           "description": "Burley: Carrick faces added pressure against Spurs",
@@ -8497,6 +8507,16 @@
           "publishedUtc": "2026-10-09T22:13:25Z",
           "source": "ESPN",
           "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice",
+          "title": "Arsenal 'very lucky' Mikel Arteta signed new deal, he is the 'best' - Declan Rice",
+          "description": "Declan Rice has said that Arsenal are \"very lucky\" to have the \"best\" coach in Mikel Arteta after the Spaniard signed a four-year contract, committing his future at the club.",
+          "url": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728425_3_594x334_16-9.jpg",
+          "publishedUtc": "2026-10-09T22:26:00Z",
+          "source": "ESPN",
+          "transfer": true
         },
         {
           "id": "https://www.espn.com/video/clip/_/id/50143007/manchester-city-struggle-anfield",
@@ -8705,26 +8725,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50138814/vincent-kompany-proud-man-city-achievements-guilty-verdict-premier-league-breaches",
           "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721984_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-09T17:59:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50138792/michael-carrick-man-city-retrospective-medals-cant-replace-moments",
-          "title": "Michael Carrick on Man City: Retrospective medals can't replace 'moments'",
-          "description": "Michael Carrick has said being awarded medals retrospectively as a consequence of Manchester City's financial rule breaking will not replace the winning \"moments\" he was denied.",
-          "url": "https://www.espn.com/soccer/story/_/id/50138792/michael-carrick-man-city-retrospective-medals-cant-replace-moments",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728228_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T17:37:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50134447/premier-league-reranked-all-20-teams-arsenal-fatal-flaw-chelsea-bad",
-          "title": "Premier League reranked: Have we found Arsenal's fatal flaw?",
-          "description": "Let's rank all 20 Premier League teams again: making sense of Chelsea's poor start, Arsenal's weakness, and whether Hull City can survive.",
-          "url": "https://www.espn.com/soccer/story/_/id/50134447/premier-league-reranked-all-20-teams-arsenal-fatal-flaw-chelsea-bad",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728081_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T07:58:23Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9474,7 +9474,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:24.121Z",
+      "updatedUtc": "2026-10-10T05:29:45.478Z",
       "matches": [
         {
           "id": "401882877",
@@ -11511,7 +11511,7 @@
           "description": "Lowe: Mourinho wants to play Vinícius Jr. back into form",
           "url": "https://www.espn.com/video/clip/_/id/50142917/mourinho-wants-play-vinicius-jr-back-form",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Lowe_Mourinho_wants_to_play_Vinicius_Jr_back_into_form/dm_261009_Lowe_Mourinho_wants_to_play_Vinicius_Jr_back_into_form.jpg",
-          "publishedUtc": "2026-10-09T21:57:53Z",
+          "publishedUtc": "2026-10-09T22:13:16Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11531,7 +11531,7 @@
           "description": "Nicol: Jesus is a 'no-brainer' to replace Raphinha",
           "url": "https://www.espn.com/video/clip/_/id/50142898/jesus-no-brainer-replace-raphinha",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Jesus_is_a_no_brainer_to_replace_Raphinha/dm_261009_Nicol_Jesus_is_a_no_brainer_to_replace_Raphinha.jpg",
-          "publishedUtc": "2026-10-09T21:30:33Z",
+          "publishedUtc": "2026-10-09T22:13:20Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12480,7 +12480,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:24.091Z",
+      "updatedUtc": "2026-10-10T05:29:45.419Z",
       "matches": [
         {
           "id": "401874956",
@@ -15434,7 +15434,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:24.037Z",
+      "updatedUtc": "2026-10-10T05:29:45.381Z",
       "matches": [
         {
           "id": "401884805",
@@ -18406,7 +18406,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:24.055Z",
+      "updatedUtc": "2026-10-10T05:29:45.483Z",
       "matches": [
         {
           "id": "401876475",
@@ -21373,7 +21373,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-09T22:31:23.961Z",
+      "updatedUtc": "2026-10-10T05:29:45.352Z",
       "matches": [
         {
           "id": "401861118",
@@ -25065,7 +25065,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-09T22:31:24.169Z",
+      "updatedUtc": "2026-10-10T05:29:45.547Z",
       "matches": [
         {
           "id": "761871",
@@ -28196,7 +28196,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-09T22:31:23.968Z",
+      "updatedUtc": "2026-10-10T05:29:45.348Z",
       "matches": [
         {
           "id": "760415",
