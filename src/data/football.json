@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-10T05:29:45.547Z",
+  "updatedUtc": "2026-10-10T12:18:13.085Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.258Z",
+      "updatedUtc": "2026-10-10T12:18:12.663Z",
       "matches": [
         {
           "id": "401915445",
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.128Z",
+      "updatedUtc": "2026-10-10T12:18:12.715Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,32 +6473,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.342Z",
+      "updatedUtc": "2026-10-10T12:18:12.861Z",
       "matches": [
-        {
-          "id": "401879279",
-          "utc": "2026-09-12T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "364",
-            "name": "Liverpool",
-            "abbreviation": "LIV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
-          },
-          "away": {
-            "id": "370",
-            "name": "Fulham",
-            "abbreviation": "FUL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
-          },
-          "venue": "Anfield, Liverpool",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 0
-          },
-          "note": "FT"
-        },
         {
           "id": "401879277",
           "utc": "2026-09-12T16:30Z",
@@ -6876,8 +6852,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
           },
           "venue": "Emirates Stadium, London",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "45'+3'"
         },
         {
           "id": "401878776",
@@ -8138,6 +8118,26 @@
           "venue": "Portman Road, Ipswich",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401879229",
+          "utc": "2026-11-29T12:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "368",
+            "name": "Everton",
+            "abbreviation": "EVE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+          },
+          "away": {
+            "id": "364",
+            "name": "Liverpool",
+            "abbreviation": "LIV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+          },
+          "venue": "Hill Dickinson Stadium, Liverpool",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -8489,6 +8489,76 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham",
+          "title": "Premier League live updates: Defending champs Arsenal host Leeds",
+          "description": "After a three-week international break, club soccer returns! Arsenal will look to bounce back from their first loss of the Premier League season as they host Leeds.",
+          "url": "https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728595_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T11:44:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/football/story/_/id/50146352/chelsea-cole-palmer-premier-league-xabi-alonso",
+          "title": "Chelsea's Cole Palmer signs new contract until 2034",
+          "description": "Cole Palmer has signed a contract extension keeping him at Chelsea until 2034.",
+          "url": "https://www.espn.com/football/story/_/id/50146352/chelsea-cole-palmer-premier-league-xabi-alonso",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718448_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T11:08:25Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/espn/story/_/id/50146251/kai-havertz-ezri-konsa-arsenal-leeds-united-premier-league-mikel-arteta",
+          "title": "Kai Havertz and Ezri Konsa start for Arsenal against Leeds despite picking up injuries on international duty",
+          "description": "Kai Havertz and Ezri Konsa have been named in Arsenal's starting lineup for the visit of Leeds United despite withdrawing from their national team camps with injury in the recent Nations League window.",
+          "url": "https://www.espn.com/espn/story/_/id/50146251/kai-havertz-ezri-konsa-arsenal-leeds-united-premier-league-mikel-arteta",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728584_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T11:11:15Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/espn/story/_/id/50145871/liverpool-andoni-iraola-bradley-barcola-premier-league-france",
+          "title": "Liverpool boss Andoni Iraola offers backing to Bradley Barcola after France performances criticism",
+          "description": "Liverpool head coach Andoni Iraola rejected suggestions summer signing Bradley Barcola was struggling for form after the forward was criticised for his France performances.",
+          "url": "https://www.espn.com/espn/story/_/id/50145871/liverpool-andoni-iraola-bradley-barcola-premier-league-france",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0912/r1715303_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T09:00:17Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+          "title": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
+          "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T08:40:07Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50133320/were-not-really-here-manchester-city-sanctions-loom-premier-league-guilty-verdict-fans-suffer",
+          "title": "'We're Not Really Here': As Man City sanctions loom, it's the fans who suffer",
+          "description": "Manchester City's financial malfeasance could send the club back down the football pyramid, a place where fans of a certain age are very familiar.",
+          "url": "https://www.espn.com/soccer/story/_/id/50133320/were-not-really-here-manchester-city-sanctions-loom-premier-league-guilty-verdict-fans-suffer",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728364_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T08:48:03Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+          "title": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries after the first international break of the 2026-2027 club season",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T06:33:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united",
           "title": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
           "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
@@ -8655,76 +8725,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50138434/man-city-charges-live-reaction-latest-updates-arteta-carrick-iraola-maresca-speak",
           "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728191_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-09T13:27:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50139971/isak-gakpo-unavailable-play-vs-man-city",
-          "title": "Iraola: Isak and Gakpo are unavailable to play vs. Man City",
-          "description": "Iraola: Isak and Gakpo are ruled out to play vs. Man City",
-          "url": "https://www.espn.com/video/clip/_/id/50139971/isak-gakpo-unavailable-play-vs-man-city",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_Presser_Iraola3A_Isak_and_Gakpo_are_ruled_out_to_play_vs_Man_City__GLOBAL_2026-10-09/dm_261009_COM_SOC_Presser_Iraola3A_Isak_and_Gakpo_are_ruled_out_to_play_vs_Man_City__GLOBAL_2026-10-09.jpg",
-          "publishedUtc": "2026-10-09T13:21:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50139759/alexander-isak-cody-gakpo-liverpool-vs-man-city-andoni-iraola",
-          "title": "Alexander Isak, Cody Gakpo out of Liverpool vs. Man City - Andoni Iraola",
-          "description": "Alexander Isak and Cody Gakpo are out of Liverpool's match against Manchester City this weekend due to injury, Andoni Iraola confirmed.",
-          "url": "https://www.espn.com/soccer/story/_/id/50139759/alexander-isak-cody-gakpo-liverpool-vs-man-city-andoni-iraola",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T17:48:12Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50139097/guilty-verdict-stopped-joining-man-city",
-          "title": "Maresca: The guilty verdict wouldn't have stopped me joining Man City",
-          "description": "Maresca: The guilty verdict wouldn't have stopped me joining Man City",
-          "url": "https://www.espn.com/video/clip/_/id/50139097/guilty-verdict-stopped-joining-man-city",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_PRESSER_Maresca_The_guilty_verdict_wouldnt_have_stopped_me_joining_Man_City_2026_10_9/dm_261009_COM_SOC_PRESSER_Maresca_The_guilty_verdict_wouldnt_have_stopped_me_joining_Man_City_2026_10_9.jpg",
-          "publishedUtc": "2026-10-09T10:55:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50139079/uefa-member-nations-call-fifa-international-break-disaster",
-          "title": "UEFA member nations call FIFA's international break a 'disaster'",
-          "description": "European soccer federations told UEFA they are not happy with the new extended four-game blocks of international matches that finished this week.",
-          "url": "https://www.espn.com/soccer/story/_/id/50139079/uefa-member-nations-call-fifa-international-break-disaster",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0721/r1691959_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T11:14:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50139024/completely-trust-man-city-board",
-          "title": "Maresca: I completely trust the Man City board",
-          "description": "Maresca: I completely trust the Man City board",
-          "url": "https://www.espn.com/video/clip/_/id/50139024/completely-trust-man-city-board",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_PRESSER_Maresca_I_completely_trust_the_Man_City_board_2026_10_9/dm_261009_COM_SOC_PRESSER_Maresca_I_completely_trust_the_Man_City_board_2026_10_9.jpg",
-          "publishedUtc": "2026-10-09T10:36:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50138770/enzo-maresca-joined-man-city-even-knew-guilty-verdict",
-          "title": "Enzo Maresca: Man City titles not tainted by guilty verdict",
-          "description": "Enzo Maresca has said he would still have joined Manchester City as manager if he had known the club had been found guilty of breaching financial rules.",
-          "url": "https://www.espn.com/soccer/story/_/id/50138770/enzo-maresca-joined-man-city-even-knew-guilty-verdict",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0905/r1711867_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T17:39:54Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50138814/vincent-kompany-proud-man-city-achievements-guilty-verdict-premier-league-breaches",
-          "title": "Vincent Kompany 'proud' of Man City achievements despite guilty verdict over Premier League breaches",
-          "description": "Former Manchester City captain Vincent Kompany said he remains \"proud\" of the club's achievements during his time there despite the club being found guilty of more than 100 breaches of Premier League financial rules.",
-          "url": "https://www.espn.com/soccer/story/_/id/50138814/vincent-kompany-proud-man-city-achievements-guilty-verdict-premier-league-breaches",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721984_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T17:59:30Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9474,7 +9474,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.478Z",
+      "updatedUtc": "2026-10-10T12:18:13.016Z",
       "matches": [
         {
           "id": "401882877",
@@ -9973,8 +9973,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
           },
           "venue": "Estadio de Vallecas, Madrid",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "16'"
         },
         {
           "id": "401882856",
@@ -12052,6 +12056,18 @@
             "assists": 1
           },
           {
+            "id": "373542",
+            "name": "Adrián Niño",
+            "team": {
+              "id": "99",
+              "name": "Málaga",
+              "abbreviation": "MCF",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
             "id": "283941",
             "name": "Ander Barrenetxea",
             "team": {
@@ -12086,21 +12102,21 @@
             },
             "goals": 2,
             "assists": 0
-          },
-          {
-            "id": "311054",
-            "name": "Iván Romero",
-            "team": {
-              "id": "1538",
-              "name": "Levante",
-              "abbreviation": "LEV",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
-            },
-            "goals": 2,
-            "assists": 0
           }
         ],
         "assists": [
+          {
+            "id": "367946",
+            "name": "Javi Hernandez",
+            "team": {
+              "id": "88",
+              "name": "Espanyol",
+              "abbreviation": "ESP",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
+            },
+            "goals": 0,
+            "assists": 5
+          },
           {
             "id": "362150",
             "name": "Lamine Yamal",
@@ -12121,18 +12137,6 @@
               "name": "Barcelona",
               "abbreviation": "BAR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
-            },
-            "goals": 0,
-            "assists": 4
-          },
-          {
-            "id": "367946",
-            "name": "Javi Hernandez",
-            "team": {
-              "id": "88",
-              "name": "Espanyol",
-              "abbreviation": "ESP",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
             },
             "goals": 0,
             "assists": 4
@@ -12480,32 +12484,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.419Z",
+      "updatedUtc": "2026-10-10T12:18:12.969Z",
       "matches": [
-        {
-          "id": "401874956",
-          "utc": "2026-09-19T18:45Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "17530",
-            "name": "Venezia",
-            "abbreviation": "VEN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
-          },
-          "away": {
-            "id": "112",
-            "name": "Lazio",
-            "abbreviation": "LAZ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-          },
-          "venue": "Stadio Pier Luigi Penzo, Venezia",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401874934",
           "utc": "2026-09-20T10:30Z",
@@ -14105,6 +14085,26 @@
           "venue": "San Siro, Milano",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401875031",
+          "utc": "2026-11-29T11:30Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "118",
+            "name": "Udinese",
+            "abbreviation": "UDI",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+          },
+          "away": {
+            "id": "109",
+            "name": "Fiorentina",
+            "abbreviation": "FIO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+          },
+          "venue": "Stadio Friuli, Udine",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -15434,7 +15434,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.381Z",
+      "updatedUtc": "2026-10-10T12:18:12.934Z",
       "matches": [
         {
           "id": "401884805",
@@ -17432,6 +17432,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+          "title": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
+          "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-10T08:40:07Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50139237/jamal-musiala-fight-way-back-injury-bayern-munich-boss-vincent-kompany",
           "title": "Jamal Musiala will 'fight his way back' from injury - Bayern Munich boss Vincent Kompany",
           "description": "Vincent Kompany has backed Bayern Munich playmaker Jamal Musiala to overcome his latest injury setback after he was hurt on international duty with Germany.",
@@ -17650,16 +17660,6 @@
           "publishedUtc": "2026-09-16T21:04:55Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49957688/cole-campbell-usa-usmnt-bundesliga-elversberg",
-          "title": "Bundesliga breakout star Cole Campbell committed to U.S.",
-          "description": "The breakout American star of the soccer season so far in Germany, Cole Campbell, has affirmed his commitment to the U.S. as he pushes for a first senior call-up.",
-          "url": "https://www.espn.com/soccer/story/_/id/49957688/cole-campbell-usa-usmnt-bundesliga-elversberg",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717603_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-16T17:15:58Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -17699,6 +17699,18 @@
             },
             "goals": 4,
             "assists": 1
+          },
+          {
+            "id": "170257",
+            "name": "Niclas Füllkrug",
+            "team": {
+              "id": "137",
+              "name": "Werder Bremen",
+              "abbreviation": "SVW",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+            },
+            "goals": 4,
+            "assists": 0
           },
           {
             "id": "234376",
@@ -17785,18 +17797,6 @@
             "assists": 0
           },
           {
-            "id": "170257",
-            "name": "Niclas Füllkrug",
-            "team": {
-              "id": "137",
-              "name": "Werder Bremen",
-              "abbreviation": "SVW",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
             "id": "305853",
             "name": "Marco Grüll",
             "team": {
@@ -17806,7 +17806,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
             },
             "goals": 2,
-            "assists": 3
+            "assists": 4
           },
           {
             "id": "195027",
@@ -17855,6 +17855,18 @@
             },
             "goals": 2,
             "assists": 2
+          },
+          {
+            "id": "291629",
+            "name": "Fábio Silva",
+            "team": {
+              "id": "124",
+              "name": "Borussia Dortmund",
+              "abbreviation": "DOR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+            },
+            "goals": 2,
+            "assists": 1
           },
           {
             "id": "266839",
@@ -17912,18 +17924,6 @@
               "name": "SV Elversberg",
               "abbreviation": "ELV",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "291629",
-            "name": "Fábio Silva",
-            "team": {
-              "id": "124",
-              "name": "Borussia Dortmund",
-              "abbreviation": "DOR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
             },
             "goals": 2,
             "assists": 0
@@ -18036,7 +18036,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
             },
             "goals": 2,
-            "assists": 3
+            "assists": 4
           },
           {
             "id": "195027",
@@ -18406,7 +18406,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.483Z",
+      "updatedUtc": "2026-10-10T12:18:12.938Z",
       "matches": [
         {
           "id": "401876475",
@@ -20691,18 +20691,6 @@
             "assists": 0
           },
           {
-            "id": "418536",
-            "name": "Adil Bourabaa",
-            "team": {
-              "id": "2697",
-              "name": "Le Mans",
-              "abbreviation": "MNS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
-            },
-            "goals": 3,
-            "assists": 2
-          },
-          {
             "id": "156898",
             "name": "Florian Thauvin",
             "team": {
@@ -20710,6 +20698,18 @@
               "name": "Lens",
               "abbreviation": "RCL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+            },
+            "goals": 3,
+            "assists": 4
+          },
+          {
+            "id": "418536",
+            "name": "Adil Bourabaa",
+            "team": {
+              "id": "2697",
+              "name": "Le Mans",
+              "abbreviation": "MNS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
             },
             "goals": 3,
             "assists": 2
@@ -20837,6 +20837,18 @@
           {
             "id": "364180",
             "name": "Franjo Ivanovic",
+            "team": {
+              "id": "175",
+              "name": "Lens",
+              "abbreviation": "RCL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "233199",
+            "name": "Matthieu Udol",
             "team": {
               "id": "175",
               "name": "Lens",
@@ -20977,22 +20989,21 @@
             },
             "goals": 1,
             "assists": 1
-          },
-          {
-            "id": "196234",
-            "name": "Branco van den Boomen",
-            "team": {
-              "id": "7868",
-              "name": "Angers",
-              "abbreviation": "ANG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/196234.png",
-            "goals": 1,
-            "assists": 1
           }
         ],
         "assists": [
+          {
+            "id": "156898",
+            "name": "Florian Thauvin",
+            "team": {
+              "id": "175",
+              "name": "Lens",
+              "abbreviation": "RCL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+            },
+            "goals": 3,
+            "assists": 4
+          },
           {
             "id": "271244",
             "name": "Cristian Cásseres Jr.",
@@ -21038,18 +21049,6 @@
               "name": "Le Mans",
               "abbreviation": "MNS",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
-            },
-            "goals": 3,
-            "assists": 2
-          },
-          {
-            "id": "156898",
-            "name": "Florian Thauvin",
-            "team": {
-              "id": "175",
-              "name": "Lens",
-              "abbreviation": "RCL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
             },
             "goals": 3,
             "assists": 2
@@ -21373,7 +21372,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-10T05:29:45.352Z",
+      "updatedUtc": "2026-10-10T12:18:12.801Z",
       "matches": [
         {
           "id": "401861118",
@@ -25065,7 +25064,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-10T05:29:45.547Z",
+      "updatedUtc": "2026-10-10T12:18:13.085Z",
       "matches": [
         {
           "id": "761871",
@@ -28196,7 +28195,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-10T05:29:45.348Z",
+      "updatedUtc": "2026-10-10T12:18:12.814Z",
       "matches": [
         {
           "id": "760415",
