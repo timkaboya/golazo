@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-11T05:24:45.901Z",
+  "updatedUtc": "2026-10-11T12:34:25.027Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.562Z",
+      "updatedUtc": "2026-10-11T12:34:24.500Z",
       "matches": [
         {
           "id": "401915445",
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.503Z",
+      "updatedUtc": "2026-10-11T12:34:24.663Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.735Z",
+      "updatedUtc": "2026-10-11T12:34:24.555Z",
       "matches": [
         {
           "id": "401879275",
@@ -8489,6 +8489,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+          "title": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
+          "description": "Man City, Man United and Tottenham are all looking at bringing Atlético Madrid's Giuliano Simeone to the Premier League. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729094_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-11T09:05:45Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50152700/solanke-rescues-point-10-man-spurs-united",
           "title": "Solanke rescues point for 10-man Spurs against United",
           "description": "Dominic Solanke pounces in injury time as a 10-man Tottenham outfit snatch a late 1-1 draw against Manchester United.",
@@ -8717,20 +8727,22 @@
           "publishedUtc": "2026-10-10T16:26:40Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50147075/arsenal-beat-leeds-premier-league-resumes-cloud-manchester-city-guilty-verdict",
-          "title": "Arsenal fight back to win as Premier League resumes under cloud of Man City verdict",
-          "description": "Does Arsenal's comeback win over Leeds close the gap on leaders Man City, or extend their own lead at the top? This is the perpetual uncertainty that hangs over the Premier League now.",
-          "url": "https://www.espn.com/soccer/story/_/id/50147075/arsenal-beat-leeds-premier-league-resumes-cloud-manchester-city-guilty-verdict",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728627_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-10T15:49:09Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
         "scorers": [
+          {
+            "id": "284960",
+            "name": "João Pedro",
+            "team": {
+              "id": "363",
+              "name": "Chelsea",
+              "abbreviation": "CHE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+            },
+            "goals": 5,
+            "assists": 3
+          },
           {
             "id": "253989",
             "name": "Erling Haaland",
@@ -8742,6 +8754,18 @@
             },
             "goals": 5,
             "assists": 0
+          },
+          {
+            "id": "265653",
+            "name": "Morgan Rogers",
+            "team": {
+              "id": "363",
+              "name": "Chelsea",
+              "abbreviation": "CHE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+            },
+            "goals": 4,
+            "assists": 1
           },
           {
             "id": "235662",
@@ -8756,18 +8780,6 @@
             "assists": 0
           },
           {
-            "id": "284960",
-            "name": "João Pedro",
-            "team": {
-              "id": "363",
-              "name": "Chelsea",
-              "abbreviation": "CHE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-            },
-            "goals": 3,
-            "assists": 3
-          },
-          {
             "id": "132659",
             "name": "Pascal Gross",
             "team": {
@@ -8777,7 +8789,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
             },
             "goals": 3,
-            "assists": 3
+            "assists": 4
           },
           {
             "id": "298008",
@@ -8804,18 +8816,6 @@
             "assists": 1
           },
           {
-            "id": "265653",
-            "name": "Morgan Rogers",
-            "team": {
-              "id": "363",
-              "name": "Chelsea",
-              "abbreviation": "CHE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
             "id": "282229",
             "name": "Brian Brobbey",
             "team": {
@@ -8825,6 +8825,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/282229.png",
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "id": "271170",
+            "name": "Bryan Mbeumo",
+            "team": {
+              "id": "360",
+              "name": "Manchester United",
+              "abbreviation": "MAN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+            },
             "goals": 3,
             "assists": 0
           },
@@ -8886,6 +8898,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
             },
             "goals": 2,
+            "assists": 3
+          },
+          {
+            "id": "301327",
+            "name": "Maxim De Cuyper",
+            "team": {
+              "id": "331",
+              "name": "Brighton & Hove Albion",
+              "abbreviation": "BHA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+            },
+            "goals": 2,
             "assists": 2
           },
           {
@@ -8937,6 +8961,18 @@
             "assists": 1
           },
           {
+            "id": "127262",
+            "name": "Jordan Henderson",
+            "team": {
+              "id": "363",
+              "name": "Chelsea",
+              "abbreviation": "CHE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "283086",
             "name": "Leif Davis",
             "team": {
@@ -8961,13 +8997,13 @@
             "assists": 0
           },
           {
-            "id": "271170",
-            "name": "Bryan Mbeumo",
+            "id": "218522",
+            "name": "Bruno Guimarães",
             "team": {
-              "id": "360",
-              "name": "Manchester United",
-              "abbreviation": "MAN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+              "id": "359",
+              "name": "Arsenal",
+              "abbreviation": "ARS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
             },
             "goals": 2,
             "assists": 0
@@ -9055,57 +9091,9 @@
             },
             "goals": 2,
             "assists": 0
-          },
-          {
-            "id": "301166",
-            "name": "Thierno Barry",
-            "team": {
-              "id": "368",
-              "name": "Everton",
-              "abbreviation": "EVE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "300853",
-            "name": "Tyrick Mitchell",
-            "team": {
-              "id": "384",
-              "name": "Crystal Palace",
-              "abbreviation": "CRY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "225564",
-            "name": "Vitaly Janelt",
-            "team": {
-              "id": "337",
-              "name": "Brentford",
-              "abbreviation": "BRE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-            },
-            "goals": 2,
-            "assists": 0
           }
         ],
         "assists": [
-          {
-            "id": "284960",
-            "name": "João Pedro",
-            "team": {
-              "id": "363",
-              "name": "Chelsea",
-              "abbreviation": "CHE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-            },
-            "goals": 3,
-            "assists": 3
-          },
           {
             "id": "132659",
             "name": "Pascal Gross",
@@ -9116,6 +9104,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
             },
             "goals": 3,
+            "assists": 4
+          },
+          {
+            "id": "284960",
+            "name": "João Pedro",
+            "team": {
+              "id": "363",
+              "name": "Chelsea",
+              "abbreviation": "CHE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+            },
+            "goals": 5,
             "assists": 3
           },
           {
@@ -9126,6 +9126,18 @@
               "name": "Manchester City",
               "abbreviation": "MNC",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+            },
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "id": "296395",
+            "name": "Cole Palmer",
+            "team": {
+              "id": "363",
+              "name": "Chelsea",
+              "abbreviation": "CHE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
             },
             "goals": 2,
             "assists": 3
@@ -9144,6 +9156,18 @@
             "assists": 3
           },
           {
+            "id": "102368",
+            "name": "Evanilson",
+            "team": {
+              "id": "349",
+              "name": "AFC Bournemouth",
+              "abbreviation": "BOU",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+            },
+            "goals": 1,
+            "assists": 3
+          },
+          {
             "id": "219362",
             "name": "Daichi Kamada",
             "team": {
@@ -9156,13 +9180,13 @@
             "assists": 3
           },
           {
-            "id": "102368",
-            "name": "Evanilson",
+            "id": "238262",
+            "name": "Declan Rice",
             "team": {
-              "id": "349",
-              "name": "AFC Bournemouth",
-              "abbreviation": "BOU",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+              "id": "359",
+              "name": "Arsenal",
+              "abbreviation": "ARS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
             },
             "goals": 0,
             "assists": 3
@@ -9180,13 +9204,13 @@
             "assists": 2
           },
           {
-            "id": "296395",
-            "name": "Cole Palmer",
+            "id": "301327",
+            "name": "Maxim De Cuyper",
             "team": {
-              "id": "363",
-              "name": "Chelsea",
-              "abbreviation": "CHE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+              "id": "331",
+              "name": "Brighton & Hove Albion",
+              "abbreviation": "BHA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
             },
             "goals": 2,
             "assists": 2
@@ -9216,6 +9240,30 @@
             "assists": 2
           },
           {
+            "id": "386992",
+            "name": "Johan Manzambi",
+            "team": {
+              "id": "362",
+              "name": "Aston Villa",
+              "abbreviation": "AVL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "162843",
+            "name": "John McGinn",
+            "team": {
+              "id": "362",
+              "name": "Aston Villa",
+              "abbreviation": "AVL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "299910",
             "name": "Josko Gvardiol",
             "team": {
@@ -9228,13 +9276,13 @@
             "assists": 2
           },
           {
-            "id": "301327",
-            "name": "Maxim De Cuyper",
+            "id": "259902",
+            "name": "Matheus Cunha",
             "team": {
-              "id": "331",
-              "name": "Brighton & Hove Albion",
-              "abbreviation": "BHA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+              "id": "360",
+              "name": "Manchester United",
+              "abbreviation": "MAN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
             },
             "goals": 1,
             "assists": 2
@@ -9252,8 +9300,20 @@
             "assists": 2
           },
           {
-            "id": "238262",
-            "name": "Declan Rice",
+            "id": "298329",
+            "name": "Riccardo Calafiori",
+            "team": {
+              "id": "359",
+              "name": "Arsenal",
+              "abbreviation": "ARS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "241077",
+            "name": "Ben White",
             "team": {
               "id": "359",
               "name": "Arsenal",
@@ -9276,13 +9336,13 @@
             "assists": 2
           },
           {
-            "id": "162843",
-            "name": "John McGinn",
+            "id": "278061",
+            "name": "Georginio Rutter",
             "team": {
-              "id": "362",
-              "name": "Aston Villa",
-              "abbreviation": "AVL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+              "id": "331",
+              "name": "Brighton & Hove Albion",
+              "abbreviation": "BHA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
             },
             "goals": 0,
             "assists": 2
@@ -9325,16 +9385,16 @@
             "assists": 2
           },
           {
-            "id": "298329",
-            "name": "Riccardo Calafiori",
+            "id": "265653",
+            "name": "Morgan Rogers",
             "team": {
-              "id": "359",
-              "name": "Arsenal",
-              "abbreviation": "ARS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+              "id": "363",
+              "name": "Chelsea",
+              "abbreviation": "CHE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
             },
-            "goals": 0,
-            "assists": 2
+            "goals": 4,
+            "assists": 1
           },
           {
             "id": "124091",
@@ -9344,18 +9404,6 @@
               "name": "Manchester United",
               "abbreviation": "MAN",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "265653",
-            "name": "Morgan Rogers",
-            "team": {
-              "id": "363",
-              "name": "Chelsea",
-              "abbreviation": "CHE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
             },
             "goals": 3,
             "assists": 1
@@ -9397,63 +9445,15 @@
             "assists": 1
           },
           {
-            "id": "283086",
-            "name": "Leif Davis",
+            "id": "127262",
+            "name": "Jordan Henderson",
             "team": {
-              "id": "373",
-              "name": "Ipswich Town",
-              "abbreviation": "IPS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+              "id": "363",
+              "name": "Chelsea",
+              "abbreviation": "CHE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
             },
             "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "288340",
-            "name": "Enzo Le Fée",
-            "team": {
-              "id": "366",
-              "name": "Sunderland",
-              "abbreviation": "SUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "155226",
-            "name": "James Tarkowski",
-            "team": {
-              "id": "368",
-              "name": "Everton",
-              "abbreviation": "EVE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "284490",
-            "name": "Keane Lewis-Potter",
-            "team": {
-              "id": "337",
-              "name": "Brentford",
-              "abbreviation": "BRE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "106139",
-            "name": "Lewis Hall",
-            "team": {
-              "id": "361",
-              "name": "Newcastle United",
-              "abbreviation": "NEW",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
-            },
-            "goals": 1,
             "assists": 1
           }
         ]
@@ -9474,7 +9474,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.901Z",
+      "updatedUtc": "2026-10-11T12:34:24.801Z",
       "matches": [
         {
           "id": "401882860",
@@ -9829,8 +9829,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
           },
           "venue": "Estadio Martínez Valero, Elche",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "32'"
         },
         {
           "id": "401882847",
@@ -11482,6 +11486,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+          "title": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
+          "description": "Man City, Man United and Tottenham are all looking at bringing Atlético Madrid's Giuliano Simeone to the Premier League. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729094_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-11T09:05:45Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50152014/vinicius-junior-dramatic-night-headlines-win-vs-villarreal",
           "title": "Vinicius Junior's dramatic night headlines win vs. Villarreal",
           "description": "Alex Kirkland breaks down the turn of events from Vinicius Junior's night in Real Madrid's 1-nil win against Villarreal.",
@@ -11710,16 +11724,6 @@
           "publishedUtc": "2026-10-08T21:22:49Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50131876/raul-asencio-real-madrid-drink-drinking-jose-mourinho",
-          "title": "Raúl Asencio on drink driving conviction: 'I'm at Real Madrid, that can't happen again'",
-          "description": "Raúl Asencio has said he is only focused on winning at Real Madrid and \"turning the situation around\" following his recent conviction for drink driving.",
-          "url": "https://www.espn.com/soccer/story/_/id/50131876/raul-asencio-real-madrid-drink-drinking-jose-mourinho",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727758_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-08T10:36:19Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -11746,7 +11750,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
             },
             "goals": 7,
-            "assists": 4
+            "assists": 5
           },
           {
             "id": "231388",
@@ -11833,16 +11837,16 @@
             "assists": 0
           },
           {
-            "id": "354334",
-            "name": "Fermín López",
+            "id": "207236",
+            "name": "Lucas Boyé",
             "team": {
-              "id": "83",
-              "name": "Barcelona",
-              "abbreviation": "BAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+              "id": "96",
+              "name": "Alavés",
+              "abbreviation": "ALA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
             },
-            "goals": 4,
-            "assists": 2
+            "goals": 5,
+            "assists": 0
           },
           {
             "id": "297373",
@@ -11854,19 +11858,19 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
             },
             "goals": 4,
-            "assists": 1
+            "assists": 2
           },
           {
-            "id": "207236",
-            "name": "Lucas Boyé",
+            "id": "354334",
+            "name": "Fermín López",
             "team": {
-              "id": "96",
-              "name": "Alavés",
-              "abbreviation": "ALA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+              "id": "83",
+              "name": "Barcelona",
+              "abbreviation": "BAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
             },
             "goals": 4,
-            "assists": 0
+            "assists": 2
           },
           {
             "id": "198832",
@@ -11881,6 +11885,18 @@
             "assists": 3
           },
           {
+            "id": "273499",
+            "name": "Jonathan David",
+            "team": {
+              "id": "1068",
+              "name": "Atlético Madrid",
+              "abbreviation": "ATM",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+            },
+            "goals": 3,
+            "assists": 2
+          },
+          {
             "id": "291281",
             "name": "Jude Bellingham",
             "team": {
@@ -11893,8 +11909,8 @@
             "assists": 2
           },
           {
-            "id": "273499",
-            "name": "Jonathan David",
+            "id": "166396",
+            "name": "Alejandro Grimaldo",
             "team": {
               "id": "1068",
               "name": "Atlético Madrid",
@@ -11989,18 +12005,6 @@
             "assists": 2
           },
           {
-            "id": "166396",
-            "name": "Alejandro Grimaldo",
-            "team": {
-              "id": "1068",
-              "name": "Atlético Madrid",
-              "abbreviation": "ATM",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
             "id": "336809",
             "name": "Cucho Hernández",
             "team": {
@@ -12074,19 +12078,31 @@
             "assists": 0
           },
           {
-            "id": "156172",
-            "name": "Gerard Moreno",
+            "id": "217289",
+            "name": "Gabriel Jesus",
             "team": {
-              "id": "102",
-              "name": "Villarreal",
-              "abbreviation": "VIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+              "id": "83",
+              "name": "Barcelona",
+              "abbreviation": "BAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
             },
             "goals": 2,
             "assists": 0
           }
         ],
         "assists": [
+          {
+            "id": "362150",
+            "name": "Lamine Yamal",
+            "team": {
+              "id": "83",
+              "name": "Barcelona",
+              "abbreviation": "BAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+            },
+            "goals": 7,
+            "assists": 5
+          },
           {
             "id": "367946",
             "name": "Javi Hernandez",
@@ -12100,18 +12116,6 @@
             "assists": 5
           },
           {
-            "id": "362150",
-            "name": "Lamine Yamal",
-            "team": {
-              "id": "83",
-              "name": "Barcelona",
-              "abbreviation": "BAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
-            },
-            "goals": 7,
-            "assists": 4
-          },
-          {
             "id": "268782",
             "name": "Anthony Gordon",
             "team": {
@@ -12120,7 +12124,7 @@
               "abbreviation": "BAR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
             },
-            "goals": 0,
+            "goals": 1,
             "assists": 4
           },
           {
@@ -12256,6 +12260,18 @@
             "assists": 2
           },
           {
+            "id": "297373",
+            "name": "Álex Baena",
+            "team": {
+              "id": "1068",
+              "name": "Atlético Madrid",
+              "abbreviation": "ATM",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+            },
+            "goals": 4,
+            "assists": 2
+          },
+          {
             "id": "354334",
             "name": "Fermín López",
             "team": {
@@ -12265,6 +12281,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
             },
             "goals": 4,
+            "assists": 2
+          },
+          {
+            "id": "273499",
+            "name": "Jonathan David",
+            "team": {
+              "id": "1068",
+              "name": "Atlético Madrid",
+              "abbreviation": "ATM",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+            },
+            "goals": 3,
             "assists": 2
           },
           {
@@ -12413,37 +12441,13 @@
             "assists": 2
           },
           {
-            "id": "188391",
-            "name": "Hugo Álvarez",
+            "id": "235818",
+            "name": "Federico Valverde",
             "team": {
-              "id": "85",
-              "name": "Celta Vigo",
-              "abbreviation": "CEL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "331047",
-            "name": "Ilias Akhomach",
-            "team": {
-              "id": "102",
-              "name": "Villarreal",
-              "abbreviation": "VIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "284699",
-            "name": "Iñigo Vicente",
-            "team": {
-              "id": "87",
-              "name": "Racing Santander",
-              "abbreviation": "RAC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
+              "id": "86",
+              "name": "Real Madrid",
+              "abbreviation": "RMA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
             },
             "goals": 0,
             "assists": 2
@@ -12466,7 +12470,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.777Z",
+      "updatedUtc": "2026-10-11T12:34:24.736Z",
       "matches": [
         {
           "id": "401874757",
@@ -12605,8 +12609,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
           },
           "venue": "Giuseppe Sinigaglia, Como",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401874951",
@@ -14118,14 +14126,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
               },
               "rank": 2,
-              "played": 5,
+              "played": 6,
               "won": 4,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 0,
               "gf": 14,
               "ga": 3,
               "gd": 11,
-              "points": 13
+              "points": 14
             },
             {
               "team": {
@@ -14180,12 +14188,29 @@
             },
             {
               "team": {
+                "id": "2572",
+                "name": "Como",
+                "abbreviation": "COMO",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+              },
+              "rank": 6,
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "gf": 9,
+              "ga": 6,
+              "gd": 3,
+              "points": 11
+            },
+            {
+              "team": {
                 "id": "111",
                 "name": "Juventus",
                 "abbreviation": "JUV",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
               },
-              "rank": 6,
+              "rank": 7,
               "played": 5,
               "won": 3,
               "drawn": 1,
@@ -14193,23 +14218,6 @@
               "gf": 8,
               "ga": 4,
               "gd": 4,
-              "points": 10
-            },
-            {
-              "team": {
-                "id": "2572",
-                "name": "Como",
-                "abbreviation": "COMO",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-              },
-              "rank": 7,
-              "played": 5,
-              "won": 3,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 9,
-              "ga": 6,
-              "gd": 3,
               "points": 10
             },
             {
@@ -14720,6 +14728,18 @@
             "assists": 0
           },
           {
+            "id": "217331",
+            "name": "Marcus Thuram",
+            "team": {
+              "id": "110",
+              "name": "Internazionale",
+              "abbreviation": "INT",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+            },
+            "goals": 3,
+            "assists": 2
+          },
+          {
             "id": "360714",
             "name": "Giorgi Kvernadze",
             "team": {
@@ -14727,6 +14747,30 @@
               "name": "Frosinone",
               "abbreviation": "FRO",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "134947",
+            "name": "Kevin De Bruyne",
+            "team": {
+              "id": "114",
+              "name": "Napoli",
+              "abbreviation": "NAP",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "275444",
+            "name": "Milutin Osmajic",
+            "team": {
+              "id": "3263",
+              "name": "Genoa",
+              "abbreviation": "GEN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
             },
             "goals": 3,
             "assists": 1
@@ -14792,6 +14836,18 @@
             "assists": 0
           },
           {
+            "id": "170785",
+            "name": "Hakan Çalhanoglu",
+            "team": {
+              "id": "110",
+              "name": "Internazionale",
+              "abbreviation": "INT",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "176203",
             "name": "Adrien Rabiot",
             "team": {
@@ -14799,18 +14855,6 @@
               "name": "AC Milan",
               "abbreviation": "MIL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-            },
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "217331",
-            "name": "Marcus Thuram",
-            "team": {
-              "id": "110",
-              "name": "Internazionale",
-              "abbreviation": "INT",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
             },
             "goals": 2,
             "assists": 2
@@ -14962,18 +15006,6 @@
             "assists": 0
           },
           {
-            "id": "170785",
-            "name": "Hakan Çalhanoglu",
-            "team": {
-              "id": "110",
-              "name": "Internazionale",
-              "abbreviation": "INT",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
             "id": "301980",
             "name": "José Romero",
             "team": {
@@ -15005,30 +15037,6 @@
               "name": "Fiorentina",
               "abbreviation": "FIO",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "275444",
-            "name": "Milutin Osmajic",
-            "team": {
-              "id": "3263",
-              "name": "Genoa",
-              "abbreviation": "GEN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "360235",
-            "name": "Niccolò Pisilli",
-            "team": {
-              "id": "104",
-              "name": "AS Roma",
-              "abbreviation": "ROMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
             },
             "goals": 2,
             "assists": 0
@@ -15072,18 +15080,6 @@
             "assists": 3
           },
           {
-            "id": "176203",
-            "name": "Adrien Rabiot",
-            "team": {
-              "id": "103",
-              "name": "AC Milan",
-              "abbreviation": "MIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-            },
-            "goals": 2,
-            "assists": 2
-          },
-          {
             "id": "217331",
             "name": "Marcus Thuram",
             "team": {
@@ -15091,6 +15087,18 @@
               "name": "Internazionale",
               "abbreviation": "INT",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+            },
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "id": "176203",
+            "name": "Adrien Rabiot",
+            "team": {
+              "id": "103",
+              "name": "AC Milan",
+              "abbreviation": "MIL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
             },
             "goals": 2,
             "assists": 2
@@ -15241,6 +15249,30 @@
             "assists": 1
           },
           {
+            "id": "134947",
+            "name": "Kevin De Bruyne",
+            "team": {
+              "id": "114",
+              "name": "Napoli",
+              "abbreviation": "NAP",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "275444",
+            "name": "Milutin Osmajic",
+            "team": {
+              "id": "3263",
+              "name": "Genoa",
+              "abbreviation": "GEN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
             "id": "344917",
             "name": "Vasilije Adzic",
             "team": {
@@ -15350,6 +15382,18 @@
             "assists": 1
           },
           {
+            "id": "367861",
+            "name": "Álex Jiménez",
+            "team": {
+              "id": "109",
+              "name": "Fiorentina",
+              "abbreviation": "FIO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+            },
+            "goals": 1,
+            "assists": 1
+          },
+          {
             "id": "346916",
             "name": "Antoine Hainaut",
             "team": {
@@ -15357,43 +15401,6 @@
               "name": "Venezia",
               "abbreviation": "VEN",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "312659",
-            "name": "Francisco Conceição",
-            "team": {
-              "id": "111",
-              "name": "Juventus",
-              "abbreviation": "JUV",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/312659.png",
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "346974",
-            "name": "Gabriele Bracaglia",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "236038",
-            "name": "Giacomo Calo",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
             },
             "goals": 1,
             "assists": 1
@@ -15416,7 +15423,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.732Z",
+      "updatedUtc": "2026-10-11T12:34:24.935Z",
       "matches": [
         {
           "id": "401884799",
@@ -17663,18 +17670,6 @@
       "leaders": {
         "scorers": [
           {
-            "id": "286831",
-            "name": "Michael Olise",
-            "team": {
-              "id": "132",
-              "name": "Bayern Munich",
-              "abbreviation": "MUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
             "id": "212330",
             "name": "Patrik Schick",
             "team": {
@@ -17682,6 +17677,30 @@
               "name": "Bayer Leverkusen",
               "abbreviation": "B04",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+            },
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "id": "222176",
+            "name": "Christopher Nkunku",
+            "team": {
+              "id": "11420",
+              "name": "RB Leipzig",
+              "abbreviation": "RBL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
+            "id": "286831",
+            "name": "Michael Olise",
+            "team": {
+              "id": "132",
+              "name": "Bayern Munich",
+              "abbreviation": "MUN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
             },
             "goals": 4,
             "assists": 1
@@ -17735,6 +17754,18 @@
             "assists": 0
           },
           {
+            "id": "319368",
+            "name": "Antonio Nusa",
+            "team": {
+              "id": "11420",
+              "name": "RB Leipzig",
+              "abbreviation": "RBL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+            },
+            "goals": 3,
+            "assists": 3
+          },
+          {
             "id": "142200",
             "name": "Harry Kane",
             "team": {
@@ -17744,7 +17775,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
             },
             "goals": 3,
-            "assists": 1
+            "assists": 3
           },
           {
             "id": "310883",
@@ -17795,6 +17826,18 @@
             "assists": 0
           },
           {
+            "id": "306928",
+            "name": "Robin Fellhauer",
+            "team": {
+              "id": "3841",
+              "name": "FC Augsburg",
+              "abbreviation": "FCA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "305853",
             "name": "Marco Grüll",
             "team": {
@@ -17831,14 +17874,15 @@
             "assists": 2
           },
           {
-            "id": "319368",
-            "name": "Antonio Nusa",
+            "id": "304572",
+            "name": "Ismael Saibari",
             "team": {
-              "id": "11420",
-              "name": "RB Leipzig",
-              "abbreviation": "RBL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+              "id": "132",
+              "name": "Bayern Munich",
+              "abbreviation": "MUN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
             },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/304572.png",
             "goals": 2,
             "assists": 2
           },
@@ -17853,6 +17897,30 @@
             },
             "goals": 2,
             "assists": 2
+          },
+          {
+            "id": "366911",
+            "name": "Tidiam Gomis",
+            "team": {
+              "id": "11420",
+              "name": "RB Leipzig",
+              "abbreviation": "RBL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+            },
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "id": "241297",
+            "name": "Anthony Caci",
+            "team": {
+              "id": "2950",
+              "name": "Mainz",
+              "abbreviation": "M05",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
+            },
+            "goals": 2,
+            "assists": 1
           },
           {
             "id": "291629",
@@ -17961,66 +18029,6 @@
             },
             "goals": 2,
             "assists": 0
-          },
-          {
-            "id": "258963",
-            "name": "Ridle Baku",
-            "team": {
-              "id": "11420",
-              "name": "RB Leipzig",
-              "abbreviation": "RBL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "306928",
-            "name": "Robin Fellhauer",
-            "team": {
-              "id": "3841",
-              "name": "FC Augsburg",
-              "abbreviation": "FCA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "266280",
-            "name": "Thijs Dallinga",
-            "team": {
-              "id": "122",
-              "name": "FC Cologne",
-              "abbreviation": "KOE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "220796",
-            "name": "Tim Skarke",
-            "team": {
-              "id": "598",
-              "name": "1. FC Union Berlin",
-              "abbreviation": "FCU",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "337079",
-            "name": "Yannick Engelhardt",
-            "team": {
-              "id": "126",
-              "name": "SC Freiburg",
-              "abbreviation": "SCF",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
-            },
-            "goals": 2,
-            "assists": 0
           }
         ],
         "assists": [
@@ -18035,6 +18043,30 @@
             },
             "goals": 2,
             "assists": 4
+          },
+          {
+            "id": "319368",
+            "name": "Antonio Nusa",
+            "team": {
+              "id": "11420",
+              "name": "RB Leipzig",
+              "abbreviation": "RBL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+            },
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "id": "142200",
+            "name": "Harry Kane",
+            "team": {
+              "id": "132",
+              "name": "Bayern Munich",
+              "abbreviation": "MUN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+            },
+            "goals": 3,
+            "assists": 3
           },
           {
             "id": "195027",
@@ -18097,14 +18129,15 @@
             "assists": 2
           },
           {
-            "id": "319368",
-            "name": "Antonio Nusa",
+            "id": "304572",
+            "name": "Ismael Saibari",
             "team": {
-              "id": "11420",
-              "name": "RB Leipzig",
-              "abbreviation": "RBL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+              "id": "132",
+              "name": "Bayern Munich",
+              "abbreviation": "MUN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
             },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/304572.png",
             "goals": 2,
             "assists": 2
           },
@@ -18121,6 +18154,30 @@
             "assists": 2
           },
           {
+            "id": "366911",
+            "name": "Tidiam Gomis",
+            "team": {
+              "id": "11420",
+              "name": "RB Leipzig",
+              "abbreviation": "RBL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+            },
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "id": "336355",
+            "name": "Bambasé Conté",
+            "team": {
+              "id": "7911",
+              "name": "TSG Hoffenheim",
+              "abbreviation": "TSG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "346619",
             "name": "Derry Scherhant",
             "team": {
@@ -18133,21 +18190,8 @@
             "assists": 2
           },
           {
-            "id": "304572",
-            "name": "Ismael Saibari",
-            "team": {
-              "id": "132",
-              "name": "Bayern Munich",
-              "abbreviation": "MUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/304572.png",
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "id": "366911",
-            "name": "Tidiam Gomis",
+            "id": "330233",
+            "name": "Ezechiel Banzuzi",
             "team": {
               "id": "11420",
               "name": "RB Leipzig",
@@ -18183,13 +18227,13 @@
             "assists": 2
           },
           {
-            "id": "336355",
-            "name": "Bambasé Conté",
+            "id": "290232",
+            "name": "Angelo Stiller",
             "team": {
-              "id": "7911",
-              "name": "TSG Hoffenheim",
-              "abbreviation": "TSG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+              "id": "134",
+              "name": "VfB Stuttgart",
+              "abbreviation": "VFB",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
             },
             "goals": 0,
             "assists": 2
@@ -18315,6 +18359,30 @@
             "assists": 2
           },
           {
+            "id": "212330",
+            "name": "Patrik Schick",
+            "team": {
+              "id": "131",
+              "name": "Bayer Leverkusen",
+              "abbreviation": "B04",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+            },
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "id": "222176",
+            "name": "Christopher Nkunku",
+            "team": {
+              "id": "11420",
+              "name": "RB Leipzig",
+              "abbreviation": "RBL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
             "id": "286831",
             "name": "Michael Olise",
             "team": {
@@ -18324,66 +18392,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
             },
             "goals": 4,
-            "assists": 1
-          },
-          {
-            "id": "212330",
-            "name": "Patrik Schick",
-            "team": {
-              "id": "131",
-              "name": "Bayer Leverkusen",
-              "abbreviation": "B04",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
-            "id": "359793",
-            "name": "Younes Ebnoutalib",
-            "team": {
-              "id": "125",
-              "name": "Eintracht Frankfurt",
-              "abbreviation": "SGE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
-            "id": "142200",
-            "name": "Harry Kane",
-            "team": {
-              "id": "132",
-              "name": "Bayern Munich",
-              "abbreviation": "MUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "310883",
-            "name": "Igor Matanovic",
-            "team": {
-              "id": "126",
-              "name": "SC Freiburg",
-              "abbreviation": "SCF",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "274887",
-            "name": "Jonathan Burkardt",
-            "team": {
-              "id": "125",
-              "name": "Eintracht Frankfurt",
-              "abbreviation": "SGE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
-            },
-            "goals": 3,
             "assists": 1
           }
         ]
@@ -18404,7 +18412,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.750Z",
+      "updatedUtc": "2026-10-11T12:34:24.988Z",
       "matches": [
         {
           "id": "401876458",
@@ -20649,6 +20657,18 @@
             "assists": 1
           },
           {
+            "id": "306664",
+            "name": "Casper Tengstedt",
+            "team": {
+              "id": "179",
+              "name": "Toulouse",
+              "abbreviation": "TOU",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
             "id": "330412",
             "name": "Kamory Doumbia",
             "team": {
@@ -20668,6 +20688,18 @@
               "name": "Paris FC",
               "abbreviation": "PAR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
+            "id": "268720",
+            "name": "Louis Mafouta",
+            "team": {
+              "id": "2697",
+              "name": "Le Mans",
+              "abbreviation": "MNS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
             },
             "goals": 4,
             "assists": 1
@@ -20733,18 +20765,6 @@
             "assists": 1
           },
           {
-            "id": "268720",
-            "name": "Louis Mafouta",
-            "team": {
-              "id": "2697",
-              "name": "Le Mans",
-              "abbreviation": "MNS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
             "id": "293347",
             "name": "Cameron Archer",
             "team": {
@@ -20752,18 +20772,6 @@
               "name": "AJ Auxerre",
               "abbreviation": "AUX",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "id": "306664",
-            "name": "Casper Tengstedt",
-            "team": {
-              "id": "179",
-              "name": "Toulouse",
-              "abbreviation": "TOU",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
             },
             "goals": 3,
             "assists": 0
@@ -20805,6 +20813,18 @@
             "assists": 2
           },
           {
+            "id": "297157",
+            "name": "Dilane Bakwa",
+            "team": {
+              "id": "166",
+              "name": "Lille",
+              "abbreviation": "LILL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "379012",
             "name": "Gessime Yassine",
             "team": {
@@ -20812,6 +20832,30 @@
               "name": "Strasbourg",
               "abbreviation": "STR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "192015",
+            "name": "Ludovic Ajorque",
+            "team": {
+              "id": "6997",
+              "name": "Brest",
+              "abbreviation": "BRE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "365783",
+            "name": "Pathé Mboup",
+            "team": {
+              "id": "6997",
+              "name": "Brest",
+              "abbreviation": "BRE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
             },
             "goals": 2,
             "assists": 1
@@ -20877,6 +20921,18 @@
             "assists": 0
           },
           {
+            "id": "403232",
+            "name": "Prosper Peter",
+            "team": {
+              "id": "7868",
+              "name": "Angers",
+              "abbreviation": "ANG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
             "id": "350501",
             "name": "Samuel Amo-Ameyaw",
             "team": {
@@ -20937,64 +20993,16 @@
             "assists": 2
           },
           {
-            "id": "88965",
-            "name": "Olivier Giroud",
+            "id": "331636",
+            "name": "Lucas Calodat",
             "team": {
-              "id": "166",
-              "name": "Lille",
-              "abbreviation": "LILL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+              "id": "2697",
+              "name": "Le Mans",
+              "abbreviation": "MNS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
             },
             "goals": 1,
             "assists": 2
-          },
-          {
-            "id": "308246",
-            "name": "Abdallah Sima",
-            "team": {
-              "id": "175",
-              "name": "Lens",
-              "abbreviation": "RCL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "314388",
-            "name": "Amine Sbaï",
-            "team": {
-              "id": "7868",
-              "name": "Angers",
-              "abbreviation": "ANG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "256773",
-            "name": "Angel Gomes",
-            "team": {
-              "id": "176",
-              "name": "Marseille",
-              "abbreviation": "OLM",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "270173",
-            "name": "Antoine Mille",
-            "team": {
-              "id": "170",
-              "name": "Troyes",
-              "abbreviation": "TRY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
-            },
-            "goals": 1,
-            "assists": 1
           }
         ],
         "assists": [
@@ -21022,6 +21030,18 @@
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/271244.png",
             "goals": 0,
             "assists": 4
+          },
+          {
+            "id": "195501",
+            "name": "Aleksandr Golovin",
+            "team": {
+              "id": "174",
+              "name": "AS Monaco",
+              "abbreviation": "MON",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
+            },
+            "goals": 0,
+            "assists": 3
           },
           {
             "id": "364754",
@@ -21108,6 +21128,18 @@
             "assists": 2
           },
           {
+            "id": "331636",
+            "name": "Lucas Calodat",
+            "team": {
+              "id": "2697",
+              "name": "Le Mans",
+              "abbreviation": "MNS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "88965",
             "name": "Olivier Giroud",
             "team": {
@@ -21120,18 +21152,6 @@
             "assists": 2
           },
           {
-            "id": "195501",
-            "name": "Aleksandr Golovin",
-            "team": {
-              "id": "174",
-              "name": "AS Monaco",
-              "abbreviation": "MON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
             "id": "214596",
             "name": "Fabián Ruiz",
             "team": {
@@ -21139,6 +21159,30 @@
               "name": "Paris Saint-Germain",
               "abbreviation": "PSG",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "250377",
+            "name": "Hugo Magnetti",
+            "team": {
+              "id": "6997",
+              "name": "Brest",
+              "abbreviation": "BRE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "291850",
+            "name": "Joris Chotard",
+            "team": {
+              "id": "6997",
+              "name": "Brest",
+              "abbreviation": "BRE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
             },
             "goals": 0,
             "assists": 2
@@ -21180,6 +21224,18 @@
             "assists": 1
           },
           {
+            "id": "306664",
+            "name": "Casper Tengstedt",
+            "team": {
+              "id": "179",
+              "name": "Toulouse",
+              "abbreviation": "TOU",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
             "id": "330412",
             "name": "Kamory Doumbia",
             "team": {
@@ -21204,6 +21260,18 @@
             "assists": 1
           },
           {
+            "id": "268720",
+            "name": "Louis Mafouta",
+            "team": {
+              "id": "2697",
+              "name": "Le Mans",
+              "abbreviation": "MNS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
             "id": "333310",
             "name": "Ernest Nuamah",
             "team": {
@@ -21216,15 +21284,15 @@
             "assists": 1
           },
           {
-            "id": "268720",
-            "name": "Louis Mafouta",
+            "id": "297157",
+            "name": "Dilane Bakwa",
             "team": {
-              "id": "2697",
-              "name": "Le Mans",
-              "abbreviation": "MNS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
+              "id": "166",
+              "name": "Lille",
+              "abbreviation": "LILL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
             },
-            "goals": 3,
+            "goals": 2,
             "assists": 1
           },
           {
@@ -21235,6 +21303,30 @@
               "name": "Strasbourg",
               "abbreviation": "STR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "192015",
+            "name": "Ludovic Ajorque",
+            "team": {
+              "id": "6997",
+              "name": "Brest",
+              "abbreviation": "BRE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "365783",
+            "name": "Pathé Mboup",
+            "team": {
+              "id": "6997",
+              "name": "Brest",
+              "abbreviation": "BRE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
             },
             "goals": 2,
             "assists": 1
@@ -21252,18 +21344,6 @@
             "assists": 1
           },
           {
-            "id": "308246",
-            "name": "Abdallah Sima",
-            "team": {
-              "id": "175",
-              "name": "Lens",
-              "abbreviation": "RCL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
             "id": "314388",
             "name": "Amine Sbaï",
             "team": {
@@ -21271,30 +21351,6 @@
               "name": "Angers",
               "abbreviation": "ANG",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "256773",
-            "name": "Angel Gomes",
-            "team": {
-              "id": "176",
-              "name": "Marseille",
-              "abbreviation": "OLM",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "270173",
-            "name": "Antoine Mille",
-            "team": {
-              "id": "170",
-              "name": "Troyes",
-              "abbreviation": "TRY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
             },
             "goals": 1,
             "assists": 1
@@ -21309,54 +21365,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/196234.png",
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "243748",
-            "name": "Danny Namaso",
-            "team": {
-              "id": "172",
-              "name": "AJ Auxerre",
-              "abbreviation": "AUX",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "368325",
-            "name": "Diogo Sousa",
-            "team": {
-              "id": "180",
-              "name": "Strasbourg",
-              "abbreviation": "STR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "155532",
-            "name": "Eric Dier",
-            "team": {
-              "id": "174",
-              "name": "AS Monaco",
-              "abbreviation": "MON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "304918",
-            "name": "Ilan Kebbal",
-            "team": {
-              "id": "6851",
-              "name": "Paris FC",
-              "abbreviation": "PAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
-            },
             "goals": 1,
             "assists": 1
           }
@@ -21378,7 +21386,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-11T05:24:45.605Z",
+      "updatedUtc": "2026-10-11T12:34:24.828Z",
       "matches": [
         {
           "id": "401861118",
@@ -25070,7 +25078,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-11T05:24:45.844Z",
+      "updatedUtc": "2026-10-11T12:34:24.980Z",
       "matches": [
         {
           "id": "761871",
@@ -27262,7 +27270,7 @@
           "description": "Four days on from an emotional end to his international career with Argentina, Lionel Messi continued to shine for Inter Miami, scoring twice in a 4-0 home thumping of D.C. United.",
           "url": "https://www.espn.com/soccer/story/_/id/50152619/lionel-messi-goals-inter-miami-vs-dc-united-mls-argentina",
           "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1728980_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T03:44:51Z",
+          "publishedUtc": "2026-10-11T06:43:29Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -27449,7 +27457,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/45843.png",
-            "goals": 21,
+            "goals": 23,
             "assists": 13
           },
           {
@@ -27461,8 +27469,21 @@
               "abbreviation": "DAL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
             },
-            "goals": 18,
+            "goals": 19,
             "assists": 5
+          },
+          {
+            "id": "263585",
+            "name": "Milan Iloski",
+            "team": {
+              "id": "10739",
+              "name": "Philadelphia Union",
+              "abbreviation": "PHI",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/263585.png",
+            "goals": 17,
+            "assists": 6
           },
           {
             "id": "249490",
@@ -27478,17 +27499,16 @@
             "assists": 2
           },
           {
-            "id": "263585",
-            "name": "Milan Iloski",
+            "id": "251694",
+            "name": "Kévin Denkey",
             "team": {
-              "id": "10739",
-              "name": "Philadelphia Union",
-              "abbreviation": "PHI",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
+              "id": "18267",
+              "name": "FC Cincinnati",
+              "abbreviation": "CIN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
             },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/263585.png",
             "goals": 16,
-            "assists": 6
+            "assists": 5
           },
           {
             "id": "227627",
@@ -27515,6 +27535,31 @@
             "assists": 8
           },
           {
+            "id": "213304",
+            "name": "Denis Bouanga",
+            "team": {
+              "id": "18966",
+              "name": "LAFC",
+              "abbreviation": "LAFC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/213304.png",
+            "goals": 15,
+            "assists": 7
+          },
+          {
+            "id": "125088",
+            "name": "Luis Suárez",
+            "team": {
+              "id": "20232",
+              "name": "Inter Miami CF",
+              "abbreviation": "MIA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
+            },
+            "goals": 15,
+            "assists": 7
+          },
+          {
             "id": "275798",
             "name": "Prince Owusu",
             "team": {
@@ -27525,6 +27570,18 @@
             },
             "goals": 15,
             "assists": 6
+          },
+          {
+            "id": "289941",
+            "name": "Kelvin Yeboah",
+            "team": {
+              "id": "17362",
+              "name": "Minnesota United FC",
+              "abbreviation": "MIN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png"
+            },
+            "goals": 15,
+            "assists": 3
           },
           {
             "id": "295339",
@@ -27552,41 +27609,17 @@
             "assists": 8
           },
           {
-            "id": "213304",
-            "name": "Denis Bouanga",
+            "id": "174548",
+            "name": "Hany Mukhtar",
             "team": {
-              "id": "18966",
-              "name": "LAFC",
-              "abbreviation": "LAFC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
+              "id": "18986",
+              "name": "Nashville SC",
+              "abbreviation": "NSH",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
             },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/213304.png",
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/174548.png",
             "goals": 14,
             "assists": 7
-          },
-          {
-            "id": "251694",
-            "name": "Kévin Denkey",
-            "team": {
-              "id": "18267",
-              "name": "FC Cincinnati",
-              "abbreviation": "CIN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
-            },
-            "goals": 14,
-            "assists": 5
-          },
-          {
-            "id": "289941",
-            "name": "Kelvin Yeboah",
-            "team": {
-              "id": "17362",
-              "name": "Minnesota United FC",
-              "abbreviation": "MIN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png"
-            },
-            "goals": 14,
-            "assists": 3
           },
           {
             "id": "313068",
@@ -27614,31 +27647,6 @@
             "assists": 12
           },
           {
-            "id": "174548",
-            "name": "Hany Mukhtar",
-            "team": {
-              "id": "18986",
-              "name": "Nashville SC",
-              "abbreviation": "NSH",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/174548.png",
-            "goals": 13,
-            "assists": 7
-          },
-          {
-            "id": "125088",
-            "name": "Luis Suárez",
-            "team": {
-              "id": "20232",
-              "name": "Inter Miami CF",
-              "abbreviation": "MIA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
-            },
-            "goals": 13,
-            "assists": 6
-          },
-          {
             "id": "233401",
             "name": "Martín Ojeda",
             "team": {
@@ -27649,7 +27657,7 @@
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/233401.png",
             "goals": 13,
-            "assists": 2
+            "assists": 3
           },
           {
             "id": "235511",
@@ -27673,7 +27681,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
             },
             "goals": 12,
-            "assists": 9
+            "assists": 11
           },
           {
             "id": "152168",
@@ -27710,7 +27718,31 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png"
             },
             "goals": 11,
-            "assists": 13
+            "assists": 14
+          },
+          {
+            "id": "340698",
+            "name": "Idan Toklomati",
+            "team": {
+              "id": "21300",
+              "name": "Charlotte FC",
+              "abbreviation": "CLT",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
+            },
+            "goals": 11,
+            "assists": 3
+          },
+          {
+            "id": "288041",
+            "name": "Julian Hall",
+            "team": {
+              "id": "190",
+              "name": "Red Bull New York",
+              "abbreviation": "RBNY",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
+            },
+            "goals": 11,
+            "assists": 3
           },
           {
             "id": "418187",
@@ -27725,18 +27757,6 @@
             "assists": 3
           },
           {
-            "id": "288041",
-            "name": "Julian Hall",
-            "team": {
-              "id": "190",
-              "name": "Red Bull New York",
-              "abbreviation": "RBNY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
-            },
-            "goals": 10,
-            "assists": 3
-          },
-          {
             "id": "259951",
             "name": "Maren Haile-Selassie",
             "team": {
@@ -27746,8 +27766,20 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259951.png",
-            "goals": 9,
-            "assists": 8
+            "goals": 10,
+            "assists": 9
+          },
+          {
+            "id": "348870",
+            "name": "Logan Farrington",
+            "team": {
+              "id": "185",
+              "name": "FC Dallas",
+              "abbreviation": "DAL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
+            },
+            "goals": 10,
+            "assists": 4
           },
           {
             "id": "123465",
@@ -27762,6 +27794,18 @@
             "assists": 8
           },
           {
+            "id": "140416",
+            "name": "Antoine Griezmann",
+            "team": {
+              "id": "12011",
+              "name": "Orlando City SC",
+              "abbreviation": "ORL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png"
+            },
+            "goals": 9,
+            "assists": 5
+          },
+          {
             "id": "354979",
             "name": "Kevin Kelsy",
             "team": {
@@ -27772,60 +27816,9 @@
             },
             "goals": 9,
             "assists": 4
-          },
-          {
-            "id": "348870",
-            "name": "Logan Farrington",
-            "team": {
-              "id": "185",
-              "name": "FC Dallas",
-              "abbreviation": "DAL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
-            },
-            "goals": 9,
-            "assists": 4
-          },
-          {
-            "id": "208341",
-            "name": "Simon Becher",
-            "team": {
-              "id": "21812",
-              "name": "St. Louis CITY SC",
-              "abbreviation": "STL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/208341.png",
-            "goals": 9,
-            "assists": 4
-          },
-          {
-            "id": "235061",
-            "name": "Christian Ramírez",
-            "team": {
-              "id": "20906",
-              "name": "Austin FC",
-              "abbreviation": "ATX",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/235061.png",
-            "goals": 9,
-            "assists": 2
           }
         ],
         "assists": [
-          {
-            "id": "45843",
-            "name": "Lionel Messi",
-            "team": {
-              "id": "20232",
-              "name": "Inter Miami CF",
-              "abbreviation": "MIA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/45843.png",
-            "goals": 21,
-            "assists": 13
-          },
           {
             "id": "250454",
             "name": "Anders Dreyer",
@@ -27836,6 +27829,32 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png"
             },
             "goals": 11,
+            "assists": 14
+          },
+          {
+            "id": "45843",
+            "name": "Lionel Messi",
+            "team": {
+              "id": "20232",
+              "name": "Inter Miami CF",
+              "abbreviation": "MIA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/45843.png",
+            "goals": 23,
+            "assists": 13
+          },
+          {
+            "id": "171573",
+            "name": "Albert Rusnák",
+            "team": {
+              "id": "9726",
+              "name": "Seattle Sounders FC",
+              "abbreviation": "SEA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/171573.png",
+            "goals": 4,
             "assists": 13
           },
           {
@@ -27852,6 +27871,18 @@
             "assists": 13
           },
           {
+            "id": "174466",
+            "name": "Rodrigo De Paul",
+            "team": {
+              "id": "20232",
+              "name": "Inter Miami CF",
+              "abbreviation": "MIA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
+            },
+            "goals": 4,
+            "assists": 13
+          },
+          {
             "id": "233943",
             "name": "Joaquín Pereyra",
             "team": {
@@ -27861,6 +27892,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png"
             },
             "goals": 3,
+            "assists": 13
+          },
+          {
+            "id": "359922",
+            "name": "Joaquín Valiente",
+            "team": {
+              "id": "185",
+              "name": "FC Dallas",
+              "abbreviation": "DAL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
+            },
+            "goals": 2,
             "assists": 13
           },
           {
@@ -27889,41 +27932,28 @@
             "assists": 12
           },
           {
-            "id": "171573",
-            "name": "Albert Rusnák",
+            "id": "268604",
+            "name": "Pep Biel",
             "team": {
-              "id": "9726",
-              "name": "Seattle Sounders FC",
-              "abbreviation": "SEA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png"
+              "id": "21300",
+              "name": "Charlotte FC",
+              "abbreviation": "CLT",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
             },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/171573.png",
-            "goals": 4,
-            "assists": 12
+            "goals": 12,
+            "assists": 11
           },
           {
-            "id": "174466",
-            "name": "Rodrigo De Paul",
+            "id": "337149",
+            "name": "Agustin Ojeda",
             "team": {
-              "id": "20232",
-              "name": "Inter Miami CF",
-              "abbreviation": "MIA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
+              "id": "17606",
+              "name": "New York City FC",
+              "abbreviation": "NYC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
             },
-            "goals": 4,
-            "assists": 12
-          },
-          {
-            "id": "359922",
-            "name": "Joaquín Valiente",
-            "team": {
-              "id": "185",
-              "name": "FC Dallas",
-              "abbreviation": "DAL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
-            },
-            "goals": 2,
-            "assists": 12
+            "goals": 5,
+            "assists": 11
           },
           {
             "id": "333752",
@@ -27939,15 +27969,15 @@
             "assists": 11
           },
           {
-            "id": "337149",
-            "name": "Agustin Ojeda",
+            "id": "384397",
+            "name": "Cavan Sullivan",
             "team": {
-              "id": "17606",
-              "name": "New York City FC",
-              "abbreviation": "NYC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
+              "id": "10739",
+              "name": "Philadelphia Union",
+              "abbreviation": "PHI",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
             },
-            "goals": 5,
+            "goals": 7,
             "assists": 10
           },
           {
@@ -27963,15 +27993,16 @@
             "assists": 10
           },
           {
-            "id": "268604",
-            "name": "Pep Biel",
+            "id": "259951",
+            "name": "Maren Haile-Selassie",
             "team": {
-              "id": "21300",
-              "name": "Charlotte FC",
-              "abbreviation": "CLT",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
+              "id": "182",
+              "name": "Chicago Fire FC",
+              "abbreviation": "CHI",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
             },
-            "goals": 12,
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259951.png",
+            "goals": 10,
             "assists": 9
           },
           {
@@ -27987,14 +28018,15 @@
             "assists": 9
           },
           {
-            "id": "384397",
-            "name": "Cavan Sullivan",
+            "id": "304129",
+            "name": "Paxten Aaronson",
             "team": {
-              "id": "10739",
-              "name": "Philadelphia Union",
-              "abbreviation": "PHI",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
+              "id": "184",
+              "name": "Colorado Rapids",
+              "abbreviation": "COL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
             },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/304129.png",
             "goals": 7,
             "assists": 9
           },
@@ -28020,6 +28052,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
             },
             "goals": 3,
+            "assists": 9
+          },
+          {
+            "id": "366034",
+            "name": "Frankie Westfield",
+            "team": {
+              "id": "10739",
+              "name": "Philadelphia Union",
+              "abbreviation": "PHI",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
+            },
+            "goals": 0,
             "assists": 9
           },
           {
@@ -28060,19 +28104,6 @@
             "assists": 8
           },
           {
-            "id": "259951",
-            "name": "Maren Haile-Selassie",
-            "team": {
-              "id": "182",
-              "name": "Chicago Fire FC",
-              "abbreviation": "CHI",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259951.png",
-            "goals": 9,
-            "assists": 8
-          },
-          {
             "id": "123465",
             "name": "Thomas Müller",
             "team": {
@@ -28097,19 +28128,6 @@
             "assists": 8
           },
           {
-            "id": "304129",
-            "name": "Paxten Aaronson",
-            "team": {
-              "id": "184",
-              "name": "Colorado Rapids",
-              "abbreviation": "COL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/304129.png",
-            "goals": 7,
-            "assists": 8
-          },
-          {
             "id": "279180",
             "name": "Pavel Bucha",
             "team": {
@@ -28117,6 +28135,18 @@
               "name": "FC Cincinnati",
               "abbreviation": "CIN",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
+            },
+            "goals": 6,
+            "assists": 8
+          },
+          {
+            "id": "191088",
+            "name": "Timo Werner",
+            "team": {
+              "id": "191",
+              "name": "San Jose Earthquakes",
+              "abbreviation": "SJ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png"
             },
             "goals": 6,
             "assists": 8
@@ -28157,30 +28187,6 @@
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/7567.png",
             "goals": 3,
             "assists": 8
-          },
-          {
-            "id": "305777",
-            "name": "Morgan Guilavogui",
-            "team": {
-              "id": "4771",
-              "name": "Real Salt Lake",
-              "abbreviation": "RSL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
-            },
-            "goals": 2,
-            "assists": 8
-          },
-          {
-            "id": "312934",
-            "name": "Conrad Wallem",
-            "team": {
-              "id": "21812",
-              "name": "St. Louis CITY SC",
-              "abbreviation": "STL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
-            },
-            "goals": 1,
-            "assists": 8
           }
         ]
       }
@@ -28201,7 +28207,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-11T05:24:45.743Z",
+      "updatedUtc": "2026-10-11T12:34:25.027Z",
       "matches": [
         {
           "id": "760415",
@@ -31584,8 +31590,8 @@
           "title": "Messi tracker: Goals, assists, key moments in 2026",
           "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
           "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727271_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T03:55:27Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-11T12:27:25Z",
           "source": "ESPN",
           "transfer": false
         },
