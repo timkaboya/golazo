@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-12T15:07:16.738Z",
+  "updatedUtc": "2026-10-12T22:51:02.139Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.171Z",
+      "updatedUtc": "2026-10-12T22:51:01.884Z",
       "matches": [
         {
           "id": "401915445",
@@ -2273,6 +2273,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
+          "title": "'Never happened in seven years!' - Arteta confirms double injury blow",
+          "description": "'Never happened in seven years!' - Arteta confirms double injury blow",
+          "url": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610.jpg",
+          "publishedUtc": "2026-10-12T15:07:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50166292/arsenal-gabriel-ready-take-another-penalty-champions-league-final-miss",
+          "title": "Arsenal's Gabriel ready to take another penalty despite Champions League final miss",
+          "description": "Gabriel Magalhães has said he is ready to take another penalty for Arsenal despite his crucial miss in last season's Champions League Final.",
+          "url": "https://www.espn.com/soccer/story/_/id/50166292/arsenal-gabriel-ready-take-another-penalty-champions-league-final-miss",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0912/r1715273_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T14:23:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50165977/manchester-united-strong-team-recent-results",
           "title": "Simeone: Manchester United are a strong team despite recent results",
           "description": "Simeone: Manchester United are a strong team despite recent results",
@@ -2469,26 +2489,6 @@
           "url": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison.jpg",
           "publishedUtc": "2026-09-16T13:03:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49948958/yamal-wants-win-ballon-dor",
-          "title": "Flick: Yamal wants to win the Ballon d'Or",
-          "description": "Flick: Yamal wants to win the Ballon d'Or",
-          "url": "https://www.espn.com/video/clip/_/id/49948958/yamal-wants-win-ballon-dor",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Flick_Yamal_wants_to_win_the_Ballon_dOr/dm_260915_Flick_Yamal_wants_to_win_the_Ballon_dOr.jpg",
-          "publishedUtc": "2026-09-15T13:30:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49947890/allianz-arena-host-2028-champions-league-final-camp-nou-host-2029",
-          "title": "Allianz Arena to host 2028 Champions League final, Camp Nou to host in 2029",
-          "description": "The Munich Football Arena and Barcelona's Spotify Camp Nou will host the 2028 and 2029 UEFA Champions League finals, European football's governing body confirmed Tuesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/49947890/allianz-arena-host-2028-champions-league-final-camp-nou-host-2029",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1716943_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-15T09:50:23Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.235Z",
+      "updatedUtc": "2026-10-12T22:51:01.850Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.363Z",
+      "updatedUtc": "2026-10-12T22:51:02.042Z",
       "matches": [
         {
           "id": "401879275",
@@ -6948,8 +6948,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
           },
           "venue": "Coventry Building Society Arena, Coventry",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401878771",
@@ -8334,13 +8338,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
               },
               "rank": 11,
-              "played": 5,
+              "played": 6,
               "won": 2,
               "drawn": 2,
-              "lost": 1,
-              "gf": 9,
-              "ga": 9,
-              "gd": 0,
+              "lost": 2,
+              "gf": 10,
+              "ga": 13,
+              "gd": -3,
               "points": 8
             },
             {
@@ -8379,12 +8383,29 @@
             },
             {
               "team": {
+                "id": "388",
+                "name": "Coventry",
+                "abbreviation": "COV",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+              },
+              "rank": 14,
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "gf": 5,
+              "ga": 11,
+              "gd": -6,
+              "points": 6
+            },
+            {
+              "team": {
                 "id": "393",
                 "name": "Nottm Forest",
                 "abbreviation": "NFO",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 6,
               "won": 1,
               "drawn": 2,
@@ -8401,7 +8422,7 @@
                 "abbreviation": "AVL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
               },
-              "rank": 15,
+              "rank": 16,
               "played": 6,
               "won": 1,
               "drawn": 2,
@@ -8418,7 +8439,7 @@
                 "abbreviation": "SUN",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
               },
-              "rank": 16,
+              "rank": 17,
               "played": 6,
               "won": 1,
               "drawn": 1,
@@ -8435,7 +8456,7 @@
                 "abbreviation": "BOU",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
               },
-              "rank": 17,
+              "rank": 18,
               "played": 6,
               "won": 0,
               "drawn": 3,
@@ -8452,7 +8473,7 @@
                 "abbreviation": "TOT",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
               },
-              "rank": 18,
+              "rank": 19,
               "played": 6,
               "won": 0,
               "drawn": 3,
@@ -8460,23 +8481,6 @@
               "gf": 3,
               "ga": 9,
               "gd": -6,
-              "points": 3
-            },
-            {
-              "team": {
-                "id": "388",
-                "name": "Coventry",
-                "abbreviation": "COV",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
-              },
-              "rank": 19,
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "gf": 1,
-              "ga": 10,
-              "gd": -9,
               "points": 3
             },
             {
@@ -8501,12 +8505,82 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50169204/every-team-fans-man-city-win",
+          "title": "Ogden: Every team's fans will be against Man City after this win",
+          "description": "Ogden: Every team's fans will be against Man City after this win",
+          "url": "https://www.espn.com/video/clip/_/id/50169204/every-team-fans-man-city-win",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12.jpg",
+          "publishedUtc": "2026-10-12T22:20:24Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50169196/man-united-set-carrick-fail",
+          "title": "Ogden: Man United have set Carrick up to fail",
+          "description": "Ogden: Man United have set Carrick up to fail",
+          "url": "https://www.espn.com/video/clip/_/id/50169196/man-united-set-carrick-fail",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Ogden_Man_United_have_set_Carrick_up_to_fail_2026_10_12/dm_261012_COM_SOC_ANALYSIS_Ogden_Man_United_have_set_Carrick_up_to_fail_2026_10_12.jpg",
+          "publishedUtc": "2026-10-12T22:16:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50169164/should-man-city-saga-force-changes-premier-league-psr-rules",
+          "title": "Should the Man City saga force changes to the Premier League's PSR rules?",
+          "description": "Should the Man City saga force changes to the Premier League's PSR rules?",
+          "url": "https://www.espn.com/video/clip/_/id/50169164/should-man-city-saga-force-changes-premier-league-psr-rules",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Should_the_Man_City_saga_force_changes_to_the_Premier_Leagues_PSR_rules_2026_10/dm_261012_COM_SOC_ANALYSIS_Should_the_Man_City_saga_force_changes_to_the_Premier_Leagues_PSR_rules_2026_10.jpg",
+          "publishedUtc": "2026-10-12T22:12:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401879267",
+          "title": "Coventry put four past Newcastle to climb out of relegation zone",
+          "description": "Coventry City picked up their first home victory in the Premier League for 25 years with an emphatic 4-1 win over Newcastle United on Monday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401879267",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729844_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T21:31:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
+          "title": "Transfer rumors, news: Man United eye move for Fulham youngster King",
+          "description": "Manchester United are reportedly interested in Fulham teenager Josh King. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729845_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T21:10:22Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50166551/steven-gerrard-says-man-city-stripped-titles-guilty-verdict-make-suffer",
+          "title": "Steven Gerrard says Man City must be stripped of titles after guilty verdict: 'Make them suffer'",
+          "description": "Steven Gerrard has said that Manchester City \"have to be stripped\" of their titles after the club were found guilty of 100+ charges of financial misconduct by the Premier League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50166551/steven-gerrard-says-man-city-stripped-titles-guilty-verdict-make-suffer",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729718_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T16:06:53Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
+          "title": "'Never happened in seven years!' - Arteta confirms double injury blow",
+          "description": "'Never happened in seven years!' - Arteta confirms double injury blow",
+          "url": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610.jpg",
+          "publishedUtc": "2026-10-12T15:07:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
           "title": "Mikel Arteta defends Arsenal after Piero Hincapié, Martin Zubimendi injuries",
           "description": "Mikel Arteta has defended Arsenal's training programme after confirming Piero Hincapié and Martín Zubimendi suffered \"far from ideal\" injuries in a post-match session on Saturday.",
           "url": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
           "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729650_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T13:40:25Z",
+          "publishedUtc": "2026-10-12T15:08:33Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -8611,16 +8685,6 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
-          "title": "Transfer rumors, news: Liverpool eye Hull GK as Alisson successor",
-          "description": "Liverpool are looking at Hull City GK Konstantinos Tzolakis, while Man United are interested in Fulham teenager Josh King. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729596_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T07:36:47Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/video/clip/_/id/50161470/city-trounce-liverpool-first-game-guilty-verdict",
           "title": "City trounce Liverpool in first game since guilty verdict",
           "description": "Manchester City explode for three goals in 13 minutes to put away a 10-man Liverpool in their first match since being found guilty of financial breaches.",
@@ -8677,66 +8741,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50159637/erling-haaland-proud-man-city-win-liverpool",
           "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729320_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-11T19:09:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50159585/liverpool-andoni-iraola-ryan-gravenberch-did-not-deserve-two-yellows-man-city-loss",
-          "title": "Liverpool's Andoni Iraola: Ryan Gravenberch did not deserve two yellows in Man City loss",
-          "description": "Liverpool head coach Andoni Iraola has criticised the referee's decision to show Ryan Gravenberch a red card in Sunday's 3-0 defeat to Manchester City.",
-          "url": "https://www.espn.com/soccer/story/_/id/50159585/liverpool-andoni-iraola-ryan-gravenberch-did-not-deserve-two-yellows-man-city-loss",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729328_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T19:47:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50159562/iraola-questions-gravenberch-sending-defeat-man-city",
-          "title": "Iraola questions Gravenberch sending off in defeat to Man City",
-          "description": "Iraola questions Gravenberch sending off in defeat to Man City",
-          "url": "https://www.espn.com/video/clip/_/id/50159562/iraola-questions-gravenberch-sending-defeat-man-city",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Iraola_questions_Gravenberch_sending_off_in_defeat_to_Man_City/dm_261011_Iraola_questions_Gravenberch_sending_off_in_defeat_to_Man_City.jpg",
-          "publishedUtc": "2026-10-11T18:52:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50159480/man-city-enzo-maresca-financial-breaches-liverpool-premier-league",
-          "title": "Enzo Maresca praises Man City's 'togetherness' as club hierarchy show united front at Liverpool",
-          "description": "Enzo Maresca has praised Manchester City's togetherness after the club's hierarchy showed a united front during Sunday's 3-0 victory over Liverpool.",
-          "url": "https://www.espn.com/soccer/story/_/id/50159480/man-city-enzo-maresca-financial-breaches-liverpool-premier-league",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win.jpg",
-          "publishedUtc": "2026-10-11T19:09:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50158698/man-city-snarl-defiance-wake-cheating-scandal-thrash-depleted-liverpool",
-          "title": "Man City show defiance in wake of cheating scandal, trounce depleted Liverpool",
-          "description": "Liverpool fans brought banners and chants aplenty, but Man City showed no signs of slowing down in their first match since the Premier League issued its guilty verdict.",
-          "url": "https://www.espn.com/soccer/story/_/id/50158698/man-city-snarl-defiance-wake-cheating-scandal-thrash-depleted-liverpool",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729296_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T20:08:06Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50159387/maresca-proud-see-man-city-deal-noise-anfield-win",
-          "title": "Maresca proud to see Man City 'deal with the noise' in Anfield win",
-          "description": "Maresca proud to see Man City 'deal with the noise' in Anfield win",
-          "url": "https://www.espn.com/video/clip/_/id/50159387/maresca-proud-see-man-city-deal-noise-anfield-win",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win.jpg",
-          "publishedUtc": "2026-10-11T18:31:17Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50159375/no-sympathy-manchester-city-players",
-          "title": "Nicol: I have no sympathy for Manchester City players",
-          "description": "Nicol: I have no sympathy for Manchester City players",
-          "url": "https://www.espn.com/video/clip/_/id/50159375/no-sympathy-manchester-city-players",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Nicol_I_have_no_sympathy_for_Manchester_City_players/dm_261011_Nicol_I_have_no_sympathy_for_Manchester_City_players.jpg",
-          "publishedUtc": "2026-10-11T18:25:12Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9486,7 +9490,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.598Z",
+      "updatedUtc": "2026-10-12T22:51:02.084Z",
       "matches": [
         {
           "id": "401882860",
@@ -9937,8 +9941,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
           },
           "venue": "Estadi Ciutat de València, Manises",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "note": "FT"
         },
         {
           "id": "401882844",
@@ -11241,14 +11249,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
               },
               "rank": 5,
-              "played": 7,
+              "played": 8,
               "won": 4,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 2,
-              "gf": 10,
-              "ga": 9,
+              "gf": 13,
+              "ga": 12,
               "gd": 1,
-              "points": 13
+              "points": 14
             },
             {
               "team": {
@@ -11439,12 +11447,29 @@
             },
             {
               "team": {
+                "id": "1538",
+                "name": "Levante",
+                "abbreviation": "LEV",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+              },
+              "rank": 17,
+              "played": 7,
+              "won": 1,
+              "drawn": 3,
+              "lost": 3,
+              "gf": 11,
+              "ga": 15,
+              "gd": -4,
+              "points": 6
+            },
+            {
+              "team": {
                 "id": "3751",
                 "name": "Elche",
                 "abbreviation": "ELC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
               },
-              "rank": 17,
+              "rank": 18,
               "played": 8,
               "won": 1,
               "drawn": 3,
@@ -11453,23 +11478,6 @@
               "ga": 17,
               "gd": -6,
               "points": 6
-            },
-            {
-              "team": {
-                "id": "1538",
-                "name": "Levante",
-                "abbreviation": "LEV",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
-              },
-              "rank": 18,
-              "played": 6,
-              "won": 1,
-              "drawn": 2,
-              "lost": 3,
-              "gf": 8,
-              "ga": 12,
-              "gd": -4,
-              "points": 5
             },
             {
               "team": {
@@ -11509,6 +11517,16 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50168756/levante-vs-sevilla-game-highlights",
+          "title": "Levante vs. Sevilla - Game Highlights",
+          "description": "Watch the Game Highlights from Levante vs. Sevilla, 10/12/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50168756/levante-vs-sevilla-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1012/ae4e816d-8212-45c5-a290-7fbc9df3b503/ae4e816d-8212-45c5-a290-7fbc9df3b503.jpg",
+          "publishedUtc": "2026-10-12T21:16:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50163474/manchester-city-liverpool-premier-league-charges-jose-mourinho-real-madrid-vinicius-junior-analysis",
           "title": "Man City win at angry Anfield; Mourinho overshadows ugly Madrid win",
@@ -11736,16 +11754,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50142731/malaga-vs-espanyol-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/4c47a79c-3b94-48b1-a3a2-77c7ebbb8f43/4c47a79c-3b94-48b1-a3a2-77c7ebbb8f43.jpg",
           "publishedUtc": "2026-10-09T21:03:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50142727/mourinho-backs-mbappe-amid-fan-backlash-france-absence",
-          "title": "Mourinho backs Mbappé amid fan backlash over France absence",
-          "description": "Alex Kirkland explains Mourinho's defense of Mbappé sitting out the international break, calling fan backlash \"ridiculous.\"",
-          "url": "https://www.espn.com/video/clip/_/id/50142727/mourinho-backs-mbappe-amid-fan-backlash-france-absence",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Mbappe_Real_IA/dm_261009_Mbappe_Real_IA.jpg",
-          "publishedUtc": "2026-10-09T21:03:08Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12494,7 +12502,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.532Z",
+      "updatedUtc": "2026-10-12T22:51:01.969Z",
       "matches": [
         {
           "id": "401874947",
@@ -12705,8 +12713,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
           },
           "venue": "New Balance Arena, Bergamo",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401874763",
@@ -12725,8 +12737,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
           },
           "venue": "Stadio Olimpico Grande Torino, Torino",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401874959",
@@ -14288,12 +14304,29 @@
             },
             {
               "team": {
+                "id": "105",
+                "name": "Atalanta",
+                "abbreviation": "ATA",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+              },
+              "rank": 10,
+              "played": 6,
+              "won": 3,
+              "drawn": 0,
+              "lost": 3,
+              "gf": 8,
+              "ga": 8,
+              "gd": 0,
+              "points": 9
+            },
+            {
+              "team": {
                 "id": "3997",
                 "name": "Sassuolo",
                 "abbreviation": "SAS",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
               },
-              "rank": 10,
+              "rank": 11,
               "played": 6,
               "won": 2,
               "drawn": 2,
@@ -14305,20 +14338,20 @@
             },
             {
               "team": {
-                "id": "105",
-                "name": "Atalanta",
-                "abbreviation": "ATA",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+                "id": "239",
+                "name": "Torino",
+                "abbreviation": "TOR",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
               },
-              "rank": 11,
-              "played": 5,
+              "rank": 12,
+              "played": 6,
               "won": 2,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 3,
-              "gf": 5,
-              "ga": 7,
+              "gf": 7,
+              "ga": 9,
               "gd": -2,
-              "points": 6
+              "points": 7
             },
             {
               "team": {
@@ -14327,7 +14360,7 @@
                 "abbreviation": "LEC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
               },
-              "rank": 12,
+              "rank": 13,
               "played": 6,
               "won": 2,
               "drawn": 0,
@@ -14344,7 +14377,7 @@
                 "abbreviation": "BOL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
               },
-              "rank": 13,
+              "rank": 14,
               "played": 6,
               "won": 1,
               "drawn": 2,
@@ -14361,31 +14394,14 @@
                 "abbreviation": "UDI",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
               },
-              "rank": 14,
-              "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "gf": 8,
-              "ga": 11,
-              "gd": -3,
-              "points": 4
-            },
-            {
-              "team": {
-                "id": "239",
-                "name": "Torino",
-                "abbreviation": "TOR",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
-              },
               "rank": 15,
-              "played": 5,
+              "played": 6,
               "won": 1,
               "drawn": 1,
-              "lost": 3,
-              "gf": 5,
-              "ga": 8,
-              "gd": -3,
+              "lost": 4,
+              "gf": 9,
+              "ga": 13,
+              "gd": -4,
               "points": 4
             },
             {
@@ -14464,13 +14480,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
               },
               "rank": 20,
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "gf": 4,
-              "ga": 13,
-              "gd": -9,
+              "lost": 6,
+              "gf": 5,
+              "ga": 16,
+              "gd": -11,
               "points": 0
             }
           ]
@@ -15457,7 +15473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.455Z",
+      "updatedUtc": "2026-10-12T22:51:01.929Z",
       "matches": [
         {
           "id": "401884799",
@@ -18454,7 +18470,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.428Z",
+      "updatedUtc": "2026-10-12T22:51:01.990Z",
       "matches": [
         {
           "id": "401876458",
@@ -20476,6 +20492,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50167074/lille-consider-legal-action-tiago-santos-ruptures-acl-tackle",
+          "title": "Lille consider legal action after Tiago Santos ruptures ACL in tackle",
+          "description": "Champions League club Lille said Monday they are considering legal action over an injury to defender Tiago Santos who is set to miss the rest of the season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50167074/lille-consider-legal-action-tiago-santos-ruptures-acl-tackle",
+          "imageUrl": "https://a.espncdn.com/photo/2024/0424/r1324101_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T16:41:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401876442",
           "title": "PSG stroll to third straight league win against Le Mans",
           "description": "Paris Saint-Germain continued to put their early-season struggles behind them by beating Le Mans 3-1 to register a third successive Ligue 1 win.",
@@ -20684,16 +20710,6 @@
           "publishedUtc": "2026-09-06T22:56:52Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49829043/luis-enrique-unfazed-historic-psg-winless-start-deepens-monaco-defeat",
-          "title": "Luis Enrique unfazed as historic PSG winless start deepens",
-          "description": "Paris Saint-Germain deepened their slow start to the season with a home defeat to Monaco on Friday, but Luis Enrique remained unconcerned and insisted he is pleased with his team's performances.",
-          "url": "https://www.espn.com/soccer/story/_/id/49829043/luis-enrique-unfazed-historic-psg-winless-start-deepens-monaco-defeat",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711544_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-04T23:02:48Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -21440,7 +21456,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-12T15:07:16.501Z",
+      "updatedUtc": "2026-10-12T22:51:01.834Z",
       "matches": [
         {
           "id": "401861118",
@@ -25132,7 +25148,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T15:07:16.738Z",
+      "updatedUtc": "2026-10-12T22:51:02.139Z",
       "matches": [
         {
           "id": "761871",
@@ -27259,6 +27275,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166537/mls-power-rankings-inter-miami-back-winning-ways-nashville-sc-chase-history",
+          "title": "MLS Power Rankings: Miami back to winning ways, as Nashville chase history",
+          "description": "Inter Miami end their winless drought, while Nashville still lead the way in our latest edition of ESPN's MLS Power Rankings.",
+          "url": "https://www.espn.com/soccer/story/_/id/50166537/mls-power-rankings-inter-miami-back-winning-ways-nashville-sc-chase-history",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729744_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T18:23:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50167548/st-louis-unbeaten-20-games-tying-red-bulls-mls-record",
+          "title": "St. Louis unbeaten run up to 20 games, tying Red Bulls' MLS record",
+          "description": "Carlo Holse's hat trick helped St. Louis City SC beat the LA Galaxy 6-2 on Sunday night to extend their unbeaten streak across all competitions to 20 games.",
+          "url": "https://www.espn.com/soccer/story/_/id/50167548/st-louis-unbeaten-20-games-tying-red-bulls-mls-record",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729772_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T18:51:18Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50154440/lafc-vs-vancouver-whitecaps-game-highlights",
+          "title": "LAFC vs. Vancouver Whitecaps - Game Highlights",
+          "description": "Watch the Game Highlights from LAFC vs. Vancouver Whitecaps, 10/10/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50154440/lafc-vs-vancouver-whitecaps-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/fc6c079b-b257-48b4-b3f7-648c985bf67d/fc6c079b-b257-48b4-b3f7-648c985bf67d.jpg",
+          "publishedUtc": "2026-10-12T21:17:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
           "title": "Messi tracker: Goals, assists, key moments in 2026",
           "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
@@ -27465,36 +27511,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50067664/philadelphia-union-usmnt-cavan-sullivan-becomes-youngest-mls-player-month",
           "imageUrl": "https://a.espncdn.com/photo/2026/0903/r1711097_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-30T14:32:53Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50065445/does-inter-miami-problems-moving-post-season",
-          "title": "Does Inter Miami have problems moving into the post-season?",
-          "description": "Does Inter Miami have problems moving into the post-season?",
-          "url": "https://www.espn.com/video/clip/_/id/50065445/does-inter-miami-problems-moving-post-season",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_COM_SOC_Analysis_Does_Inter_Miami_have_problems_moving_into_the_post-season3F__GLOBAL_2026-09-30/dm_260930_COM_SOC_Analysis_Does_Inter_Miami_have_problems_moving_into_the_post-season3F__GLOBAL_2026-09-30.jpg",
-          "publishedUtc": "2026-09-30T08:20:54Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50055017/usmnt-cavan-sullivan-stats-list-ranking-analysis-best-prospect",
-          "title": "Five stats: Why USMNT should be excited about Cavan Sullivan",
-          "description": "Is the hype around Cavan Sullivan's USMNT future too much? No, it's actually not enough -- and here are five reasons why.",
-          "url": "https://www.espn.com/soccer/story/_/id/50055017/usmnt-cavan-sullivan-stats-list-ranking-analysis-best-prospect",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0928/r1723197_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-29T07:18:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50051629/mls-power-rankings-no-cavan-sullivan-no-problem-surging-philadelphia-union",
-          "title": "MLS Power Rankings: No Cavan? No problem for surging Philadelphia",
-          "description": "Philadelphia lost three star youngsters to international duty, yet the Union continued their march toward the top of ESPN's MLS Power Rankings.",
-          "url": "https://www.espn.com/soccer/story/_/id/50051629/mls-power-rankings-no-cavan-sullivan-no-problem-surging-philadelphia-union",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0928/r1722956_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-28T15:35:49Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28261,7 +28277,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-12T15:07:16.631Z",
+      "updatedUtc": "2026-10-12T22:51:01.797Z",
       "matches": [
         {
           "id": "760415",
