@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-12T05:35:51.700Z",
+  "updatedUtc": "2026-10-12T15:07:16.738Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.119Z",
+      "updatedUtc": "2026-10-12T15:07:16.171Z",
       "matches": [
         {
           "id": "401915445",
@@ -2273,6 +2273,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50165977/manchester-united-strong-team-recent-results",
+          "title": "Simeone: Manchester United are a strong team despite recent results",
+          "description": "Simeone: Manchester United are a strong team despite recent results",
+          "url": "https://www.espn.com/video/clip/_/id/50165977/manchester-united-strong-team-recent-results",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Simeone_Manchester_United_are_a_strong_team_despite_recent_results/dm_261012_Simeone_Manchester_United_are_a_strong_team_despite_recent_results.jpg",
+          "publishedUtc": "2026-10-12T13:38:04Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50165652/atletico-madrid-diego-simeone-man-united-creating-danger",
+          "title": "Atlético Madrid's Simeone on Man United: 'They are still creating danger'",
+          "description": "Atlético Madrid coach Diego Simeone has insisted that Manchester United are still a dangerous opponent despite a run of form which has left the club mid-table in the Premier League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50165652/atletico-madrid-diego-simeone-man-united-creating-danger",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0827/r1707853_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T14:11:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
+          "title": "Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge?",
+          "description": "Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.",
+          "url": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0711/r1687762_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T11:00:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50159355/anfield-win-mean-man-city-punished",
           "title": "Dawson: Anfield win could mean nothing if Man City are punished",
           "description": "Dawson: Anfield win could mean nothing if Man City are punished",
@@ -2459,36 +2489,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49947890/allianz-arena-host-2028-champions-league-final-camp-nou-host-2029",
           "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1716943_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-15T09:50:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49947635/raphinha-not-no-9-barcelona-wanted-one-needed",
-          "title": "Gomez: Raphinha is not the No. 9 Barcelona wanted, but the one they needed",
-          "description": "Gomez: Raphinha is not the No. 9 Barcelona wanted, but the one they needed",
-          "url": "https://www.espn.com/video/clip/_/id/49947635/raphinha-not-no-9-barcelona-wanted-one-needed",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Gomez_Raphinha_is_not_the_No_9_Barcelona_wanted_but_the_one_they_needed/dm_260915_Gomez_Raphinha_is_not_the_No_9_Barcelona_wanted_but_the_one_they_needed.jpg",
-          "publishedUtc": "2026-09-15T08:28:26Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49916991/fenerbahce-coach-ismail-kartal-resignation-return",
-          "title": "Fenerbahce coach returns to work after resignation confusion",
-          "description": "Fenerbahce coach Ismail Kartal returned to his duties on Saturday, contradicting media reports from the day before suggesting his resignation was final.",
-          "url": "https://www.espn.com/soccer/story/_/id/49916991/fenerbahce-coach-ismail-kartal-resignation-return",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0912/r1715493_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-12T19:35:35Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49912132/arsenal-gabriel-eager-take-another-champions-league-final-penalty-happens-again-there",
-          "title": "Arsenal's Gabriel 'eager' to take another Champions League final penalty: 'If it happens again, I'll be there'",
-          "description": "Arsenal defender Gabriel Magalhães has said that he is \"eager\" for another chance to take a penalty in a Champions League final.",
-          "url": "https://www.espn.com/soccer/story/_/id/49912132/arsenal-gabriel-eager-take-another-champions-league-final-penalty-happens-again-there",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0912/r1715273_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-12T12:25:16Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.463Z",
+      "updatedUtc": "2026-10-12T15:07:16.235Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.456Z",
+      "updatedUtc": "2026-10-12T15:07:16.363Z",
       "matches": [
         {
           "id": "401879275",
@@ -8501,6 +8501,126 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
+          "title": "Mikel Arteta defends Arsenal after Piero Hincapié, Martin Zubimendi injuries",
+          "description": "Mikel Arteta has defended Arsenal's training programme after confirming Piero Hincapié and Martín Zubimendi suffered \"far from ideal\" injuries in a post-match session on Saturday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729650_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T13:40:25Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50163474/manchester-city-liverpool-premier-league-charges-jose-mourinho-real-madrid-vinicius-junior-analysis",
+          "title": "Man City win at angry Anfield; Mourinho overshadows ugly Madrid win",
+          "description": "Despite the pregame vitriol and ongoing scandal, it was no surprise that Man City won at Liverpool on Sunday. PLUS: Real Madrid won ugly and Mourinho got up to his old tricks after Vinicius' red card.",
+          "url": "https://www.espn.com/soccer/story/_/id/50163474/manchester-city-liverpool-premier-league-charges-jose-mourinho-real-madrid-vinicius-junior-analysis",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729618_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T13:03:10Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50165610/football-braces-independent-football-regulator-state-game-report",
+          "title": "Football braces for Independent Football Regulator's 'State of the Game' report",
+          "description": "A landmark report examining the financial sustainability of English football will be published on Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50165610/football-braces-independent-football-regulator-state-game-report",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729630_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T12:49:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50165375/ten-arrests-police-officer-injured-liverpool-vs-man-city",
+          "title": "Ten arrests, police officer injured, after Liverpool vs. Man City",
+          "description": "Merseyside Police have confirmed that 10 people were arrested and an officer sustained a serious injury during the policing operation for Manchester City's clash at Liverpool.",
+          "url": "https://www.espn.com/soccer/story/_/id/50165375/ten-arrests-police-officer-injured-liverpool-vs-man-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729621_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T11:53:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
+          "title": "Why did Man City fans bring inflatable bananas to Anfield?",
+          "description": "At Anfield on Sunday, Man City fans waved hundreds of inflatable bananas, but how do they relate to the club's guilty verdict?",
+          "url": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T12:46:08Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50164897/liverpool-virgil-van-dijk-dont-view-man-city-rivalry-differently-guilty-verdict",
+          "title": "Liverpool's Virgil van Dijk: Don't view Man City rivalry differently despite guilty verdict",
+          "description": "Virgil van Dijk has said he does not view the rivalry between Liverpool and Manchester City differently in light of the latter's guilty verdict but admitted he will share his opinion on the matter when the process has concluded.",
+          "url": "https://www.espn.com/soccer/story/_/id/50164897/liverpool-virgil-van-dijk-dont-view-man-city-rivalry-differently-guilty-verdict",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729607_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T11:00:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50164848/man-city-more-together-ever-chants-charges-elliot-anderson",
+          "title": "Man City 'more together than ever' after chants about charges - Elliot Anderson",
+          "description": "Manchester City midfielder Elliot Anderson has said the criticism the club has received in the wake of being found guilty of financial irregularities has galvanised the players.",
+          "url": "https://www.espn.com/soccer/story/_/id/50164848/man-city-more-together-ever-chants-charges-elliot-anderson",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729605_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T09:53:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50164725/liverpool-drop-florian-wirtz-jamie-carragher",
+          "title": "Liverpool must drop Florian Wirtz - Jamie Carragher",
+          "description": "Jamie Carragher has said Florian Wirtz should be dropped from the Liverpool lineup after another disappointing performance in Sunday's defeat to Manchester City.",
+          "url": "https://www.espn.com/soccer/story/_/id/50164725/liverpool-drop-florian-wirtz-jamie-carragher",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0921/r1720178_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T09:21:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50164676/manchester-city-dealt-anfield-very-well",
+          "title": "Maresca: Manchester City dealt with Anfield 'very well'",
+          "description": "Maresca: Manchester City dealt with Anfield 'very well'",
+          "url": "https://www.espn.com/video/clip/_/id/50164676/manchester-city-dealt-anfield-very-well",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Maresca_Manchester_City_dealt_with_Anfield_very_well/dm_261012_Maresca_Manchester_City_dealt_with_Anfield_very_well.jpg",
+          "publishedUtc": "2026-10-12T08:48:47Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50164587/liverpool-played-two-different-games-manchester-city",
+          "title": "Iraola: Liverpool played 'two different games' against Manchester City",
+          "description": "Iraola: Liverpool played 'two different games' against Manchester City",
+          "url": "https://www.espn.com/video/clip/_/id/50164587/liverpool-played-two-different-games-manchester-city",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Iraola_Liverpool_played_two_different_games_against_Manchester_City/dm_261012_Iraola_Liverpool_played_two_different_games_against_Manchester_City.jpg",
+          "publishedUtc": "2026-10-12T08:07:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50163017/the-premier-league-new-villains-liverpool-anfield-give-man-city-taste-come",
+          "title": "The Premier League's new villains: Anfield gives Man City a taste of what's to come",
+          "description": "Man City faced fury at Anfield after being found guilty of cheating, but Erling Haaland & Co. answered the hostility with an emphatic 3-0 win.",
+          "url": "https://www.espn.com/soccer/story/_/id/50163017/the-premier-league-new-villains-liverpool-anfield-give-man-city-taste-come",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729599_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T12:19:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
+          "title": "Transfer rumors, news: Liverpool eye Hull GK as Alisson successor",
+          "description": "Liverpool are looking at Hull City GK Konstantinos Tzolakis, while Man United are interested in Fulham teenager Josh King. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729596_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T07:36:47Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50161470/city-trounce-liverpool-first-game-guilty-verdict",
           "title": "City trounce Liverpool in first game since guilty verdict",
           "description": "Manchester City explode for three goals in 13 minutes to put away a 10-man Liverpool in their first match since being found guilty of financial breaches.",
@@ -8619,130 +8739,22 @@
           "publishedUtc": "2026-10-11T18:25:12Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50159355/anfield-win-mean-man-city-punished",
-          "title": "Dawson: Anfield win could mean nothing if Man City are punished",
-          "description": "Dawson: Anfield win could mean nothing if Man City are punished",
-          "url": "https://www.espn.com/video/clip/_/id/50159355/anfield-win-mean-man-city-punished",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Dawson_Three_points_vs_Liverpool_could_be_taken_off_Manchester_City/dm_261011_Dawson_Three_points_vs_Liverpool_could_be_taken_off_Manchester_City.jpg",
-          "publishedUtc": "2026-10-11T18:38:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50159327/well-get-ai-referee-liverpool-vs-manchester-city",
-          "title": "Nicol: We might as well get AI to referee Liverpool vs. Manchester City",
-          "description": "Nicol: We might as well get AI to referee Liverpool vs. Manchester City",
-          "url": "https://www.espn.com/video/clip/_/id/50159327/well-get-ai-referee-liverpool-vs-manchester-city",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Nicol_We_might_as_well_get_AI_to_referee_Liverpool_vs_Manchester_City/dm_261011_Nicol_We_might_as_well_get_AI_to_referee_Liverpool_vs_Manchester_City.jpg",
-          "publishedUtc": "2026-10-11T18:12:10Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50134705/premier-league-live-updates-liverpool-manchester-city-ac-milan",
-          "title": "Premier League recap: Man City cruise past 10-man Liverpool",
-          "description": "Liverpool's Ryan Gravenberch was sent off, and Man City responded to his dismissal with three goals in 13 minutes.",
-          "url": "https://www.espn.com/soccer/story/_/id/50134705/premier-league-live-updates-liverpool-manchester-city-ac-milan",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729247_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T18:03:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50158820/man-city-thrash-liverpool-enzo-maresca-men-silence-vitriolic-anfield",
-          "title": "Man City thrash Liverpool as Enzo Maresca's men silence vitriolic Anfield",
-          "description": "Manchester City thrashed 10-man Liverpool 3-0 to silence a vitriolic atmosphere at Anfield and maintain their perfect start in the Premier League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50158820/man-city-thrash-liverpool-enzo-maresca-men-silence-vitriolic-anfield",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729249_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-11T18:54:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50156935/liverpool-fans-welcome-manchester-city-anfield-premier-league-guilty-verdict-cheating-scandal",
-          "title": "Liverpool fans 'welcome' Man City in first Premier League match since guilty verdict",
-          "description": "With Man City in town to play their first match since being found guilty of breaching Premier League financial rules, Liverpool fans were extremely keen to make their feelings known.",
-          "url": "https://www.espn.com/soccer/story/_/id/50156935/liverpool-fans-welcome-manchester-city-anfield-premier-league-guilty-verdict-cheating-scandal",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729124_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T16:53:03Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50157531/there-no-hiding-reality-manchester-united-points-far",
-          "title": "Carrick: There's no hiding from reality of Manchester United's points so far",
-          "description": "Carrick: There's no hiding from reality of Manchester United's points so far",
-          "url": "https://www.espn.com/video/clip/_/id/50157531/there-no-hiding-reality-manchester-united-points-far",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Carrick_Theres_no_hiding_from_reality_of_Manchester_Uniteds_points_so_far/dm_261011_Carrick_Theres_no_hiding_from_reality_of_Manchester_Uniteds_points_so_far.jpg",
-          "publishedUtc": "2026-10-11T15:14:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401878774",
-          "title": "Mohamed Belloumi strikes to maintain Hull's unbeaten home record against Everton",
-          "description": "Hull retained their unbeaten home record since returning to the Premier League with an entertaining 2-2 draw against Everton at the MKM Stadium.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401878774",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729186_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T15:31:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401879266",
-          "title": "Crystal Palace come from behind to beat Nottingham Forest 3-1, spoil Oliver Glasner's return to Selhurst Park",
-          "description": "Crystal Palace dealt former boss Oliver Glasner a blow after they bounced back to beat Nottingham Forest 3-1 on the Austrian's first return to Selhurst Park.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401879266",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729189_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T16:03:55Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50157314/dominik-szoboszlai-injury-liverpool-man-city-premier-league",
-          "title": "Dominik Szoboszlai ruled out of Liverpool's huge clash with Man City",
-          "description": "Liverpool midfielder Dominik Szoboszlai has been ruled out of Sunday's Premier League clash with Manchester City due to injury.",
-          "url": "https://www.espn.com/soccer/story/_/id/50157314/dominik-szoboszlai-injury-liverpool-man-city-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729179_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T15:33:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
-          "title": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-          "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-          "url": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character.jpg",
-          "publishedUtc": "2026-10-11T13:54:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50156698/arteta-explains-unlocking-low-blocks-itoje",
-          "title": "Arteta explains unlocking low blocks with Itoje",
-          "description": "Arteta explains unlocking low blocks with Itoje",
-          "url": "https://www.espn.com/video/clip/_/id/50156698/arteta-explains-unlocking-low-blocks-itoje",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Arteta_explains_unlocking_low_blocks_with_Itoje/dm_261011_Arteta_explains_unlocking_low_blocks_with_Itoje.jpg",
-          "publishedUtc": "2026-10-11T13:43:43Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50156268/tottenham-roberto-de-zerbi-spurs-man-united",
-          "title": "Roberto De Zerbi sees something to build on from Tottenham draw at Man United",
-          "description": "Tottenham's wait for a first Premier League win of the season continues but Roberto De Zerbi takes his side to Spain for a training camp having seen promising signs in the late draw at Manchester United.",
-          "url": "https://www.espn.com/soccer/story/_/id/50156268/tottenham-roberto-de-zerbi-spurs-man-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729116_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T13:58:26Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
         "scorers": [
+          {
+            "id": "253989",
+            "name": "Erling Haaland",
+            "team": {
+              "id": "382",
+              "name": "Manchester City",
+              "abbreviation": "MNC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+            },
+            "goals": 6,
+            "assists": 0
+          },
           {
             "id": "284960",
             "name": "João Pedro",
@@ -8756,16 +8768,16 @@
             "assists": 3
           },
           {
-            "id": "253989",
-            "name": "Erling Haaland",
+            "id": "298008",
+            "name": "Rayan Cherki",
             "team": {
               "id": "382",
               "name": "Manchester City",
               "abbreviation": "MNC",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
             },
-            "goals": 5,
-            "assists": 0
+            "goals": 4,
+            "assists": 2
           },
           {
             "id": "265653",
@@ -8804,13 +8816,13 @@
             "assists": 4
           },
           {
-            "id": "298008",
-            "name": "Rayan Cherki",
+            "id": "320417",
+            "name": "Mohamed Belloumi",
             "team": {
-              "id": "382",
-              "name": "Manchester City",
-              "abbreviation": "MNC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+              "id": "306",
+              "name": "Hull City",
+              "abbreviation": "HUL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
             },
             "goals": 3,
             "assists": 2
@@ -8889,6 +8901,18 @@
             "assists": 0
           },
           {
+            "id": "301166",
+            "name": "Thierno Barry",
+            "team": {
+              "id": "368",
+              "name": "Everton",
+              "abbreviation": "EVE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "273292",
             "name": "Antoine Semenyo",
             "team": {
@@ -8920,18 +8944,6 @@
               "name": "Brighton & Hove Albion",
               "abbreviation": "BHA",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
-            },
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "320417",
-            "name": "Mohamed Belloumi",
-            "team": {
-              "id": "306",
-              "name": "Hull City",
-              "abbreviation": "HUL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
             },
             "goals": 2,
             "assists": 2
@@ -8985,6 +8997,18 @@
             "assists": 1
           },
           {
+            "id": "252389",
+            "name": "Kiernan Dewsbury-Hall",
+            "team": {
+              "id": "368",
+              "name": "Everton",
+              "abbreviation": "EVE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "283086",
             "name": "Leif Davis",
             "team": {
@@ -9016,6 +9040,18 @@
               "name": "Arsenal",
               "abbreviation": "ARS",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "275842",
+            "name": "Dan Ndoye",
+            "team": {
+              "id": "393",
+              "name": "Nottingham Forest",
+              "abbreviation": "NFO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
             },
             "goals": 2,
             "assists": 0
@@ -9064,42 +9100,6 @@
               "name": "Fulham",
               "abbreviation": "FUL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "231182",
-            "name": "Kai Havertz",
-            "team": {
-              "id": "359",
-              "name": "Arsenal",
-              "abbreviation": "ARS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "359097",
-            "name": "Malick Yalcouyé",
-            "team": {
-              "id": "331",
-              "name": "Brighton & Hove Albion",
-              "abbreviation": "BHA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "203669",
-            "name": "Martin Ødegaard",
-            "team": {
-              "id": "359",
-              "name": "Arsenal",
-              "abbreviation": "ARS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
             },
             "goals": 2,
             "assists": 0
@@ -9168,6 +9168,18 @@
             "assists": 3
           },
           {
+            "id": "219362",
+            "name": "Daichi Kamada",
+            "team": {
+              "id": "384",
+              "name": "Crystal Palace",
+              "abbreviation": "CRY",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+            },
+            "goals": 1,
+            "assists": 3
+          },
+          {
             "id": "102368",
             "name": "Evanilson",
             "team": {
@@ -9180,15 +9192,15 @@
             "assists": 3
           },
           {
-            "id": "219362",
-            "name": "Daichi Kamada",
+            "id": "299910",
+            "name": "Josko Gvardiol",
             "team": {
-              "id": "384",
-              "name": "Crystal Palace",
-              "abbreviation": "CRY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+              "id": "382",
+              "name": "Manchester City",
+              "abbreviation": "MNC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
             },
-            "goals": 0,
+            "goals": 1,
             "assists": 3
           },
           {
@@ -9212,6 +9224,18 @@
               "abbreviation": "MNC",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
             },
+            "goals": 4,
+            "assists": 2
+          },
+          {
+            "id": "320417",
+            "name": "Mohamed Belloumi",
+            "team": {
+              "id": "306",
+              "name": "Hull City",
+              "abbreviation": "HUL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+            },
             "goals": 3,
             "assists": 2
           },
@@ -9223,18 +9247,6 @@
               "name": "Brighton & Hove Albion",
               "abbreviation": "BHA",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
-            },
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "320417",
-            "name": "Mohamed Belloumi",
-            "team": {
-              "id": "306",
-              "name": "Hull City",
-              "abbreviation": "HUL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
             },
             "goals": 2,
             "assists": 2
@@ -9271,18 +9283,6 @@
               "name": "Aston Villa",
               "abbreviation": "AVL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-            },
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "id": "299910",
-            "name": "Josko Gvardiol",
-            "team": {
-              "id": "382",
-              "name": "Manchester City",
-              "abbreviation": "MNC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
             },
             "goals": 1,
             "assists": 2
@@ -9486,7 +9486,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.418Z",
+      "updatedUtc": "2026-10-12T15:07:16.598Z",
       "matches": [
         {
           "id": "401882860",
@@ -10561,6 +10561,186 @@
           "note": "Scheduled"
         },
         {
+          "id": "401882809",
+          "utc": "2026-11-06T20:00Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "243",
+            "name": "Sevilla",
+            "abbreviation": "SEV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+          },
+          "away": {
+            "id": "96",
+            "name": "Alavés",
+            "abbreviation": "ALA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+          },
+          "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882812",
+          "utc": "2026-11-07T13:00Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "99",
+            "name": "Málaga",
+            "abbreviation": "MCF",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
+          },
+          "away": {
+            "id": "87",
+            "name": "Racing",
+            "abbreviation": "RAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
+          },
+          "venue": "La Rosaleda, Malaga",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882813",
+          "utc": "2026-11-07T15:15Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "88",
+            "name": "Espanyol",
+            "abbreviation": "ESP",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
+          },
+          "away": {
+            "id": "90",
+            "name": "Deportivo",
+            "abbreviation": "DEP",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png"
+          },
+          "venue": "RCDE Stadium, Barcelona",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882811",
+          "utc": "2026-11-07T17:30Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "97",
+            "name": "Osasuna",
+            "abbreviation": "OSA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
+          },
+          "away": {
+            "id": "93",
+            "name": "Athletic",
+            "abbreviation": "ATH",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
+          },
+          "venue": "El Sadar, Pamplona",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882808",
+          "utc": "2026-11-07T20:00Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "94",
+            "name": "Valencia",
+            "abbreviation": "VAL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png"
+          },
+          "away": {
+            "id": "86",
+            "name": "Real Madrid",
+            "abbreviation": "RMA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+          },
+          "venue": "Mestalla Stadium, Manises",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882814",
+          "utc": "2026-11-08T13:00Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "3751",
+            "name": "Elche",
+            "abbreviation": "ELC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+          },
+          "away": {
+            "id": "244",
+            "name": "Betis",
+            "abbreviation": "BET",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+          },
+          "venue": "Estadio Martínez Valero, Elche",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882810",
+          "utc": "2026-11-08T15:15Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "89",
+            "name": "Real Sociedad",
+            "abbreviation": "RSO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+          },
+          "away": {
+            "id": "101",
+            "name": "Rayo",
+            "abbreviation": "RAY",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+          },
+          "venue": "Reale Arena, San Sebastian",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882815",
+          "utc": "2026-11-08T17:30Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "85",
+            "name": "Celta Vigo",
+            "abbreviation": "CEL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+          },
+          "away": {
+            "id": "1538",
+            "name": "Levante",
+            "abbreviation": "LEV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+          },
+          "venue": "Balaidos, Vigo",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401882807",
+          "utc": "2026-11-08T17:30Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "102",
+            "name": "Villarreal",
+            "abbreviation": "VIL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+          },
+          "away": {
+            "id": "2922",
+            "name": "Getafe",
+            "abbreviation": "GET",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+          },
+          "venue": "Estadio de la Cerámica, Villarreal",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
           "id": "401882816",
           "utc": "2026-11-08T20:00Z",
           "phase": "2026 27 Laliga",
@@ -10578,187 +10758,7 @@
           },
           "venue": "Riyadh Air Metropolitano, Madrid",
           "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882815",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "85",
-            "name": "Celta Vigo",
-            "abbreviation": "CEL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-          },
-          "away": {
-            "id": "1538",
-            "name": "Levante",
-            "abbreviation": "LEV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
-          },
-          "venue": "Balaidos, Vigo",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882814",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "3751",
-            "name": "Elche",
-            "abbreviation": "ELC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
-          },
-          "away": {
-            "id": "244",
-            "name": "Betis",
-            "abbreviation": "BET",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-          },
-          "venue": "Estadio Martínez Valero, Elche",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882813",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "88",
-            "name": "Espanyol",
-            "abbreviation": "ESP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
-          },
-          "away": {
-            "id": "90",
-            "name": "Deportivo",
-            "abbreviation": "DEP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png"
-          },
-          "venue": "RCDE Stadium, Barcelona",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882812",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "99",
-            "name": "Málaga",
-            "abbreviation": "MCF",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
-          },
-          "away": {
-            "id": "87",
-            "name": "Racing",
-            "abbreviation": "RAC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
-          },
-          "venue": "La Rosaleda, Malaga",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882811",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "97",
-            "name": "Osasuna",
-            "abbreviation": "OSA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
-          },
-          "away": {
-            "id": "93",
-            "name": "Athletic",
-            "abbreviation": "ATH",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
-          },
-          "venue": "El Sadar, Pamplona",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882810",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "89",
-            "name": "Real Sociedad",
-            "abbreviation": "RSO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-          },
-          "away": {
-            "id": "101",
-            "name": "Rayo",
-            "abbreviation": "RAY",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-          },
-          "venue": "Reale Arena, San Sebastian",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882809",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "243",
-            "name": "Sevilla",
-            "abbreviation": "SEV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
-          },
-          "away": {
-            "id": "96",
-            "name": "Alavés",
-            "abbreviation": "ALA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
-          },
-          "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882808",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "94",
-            "name": "Valencia",
-            "abbreviation": "VAL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png"
-          },
-          "away": {
-            "id": "86",
-            "name": "Real Madrid",
-            "abbreviation": "RMA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-          },
-          "venue": "Mestalla Stadium, Manises",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401882807",
-          "utc": "2026-11-08T20:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "102",
-            "name": "Villarreal",
-            "abbreviation": "VIL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-          },
-          "away": {
-            "id": "2922",
-            "name": "Getafe",
-            "abbreviation": "GET",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
-          },
-          "venue": "Estadio de la Cerámica, Villarreal",
-          "status": "upcoming",
-          "note": "TBD"
+          "note": "Scheduled"
         },
         {
           "id": "401882806",
@@ -11510,6 +11510,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50163474/manchester-city-liverpool-premier-league-charges-jose-mourinho-real-madrid-vinicius-junior-analysis",
+          "title": "Man City win at angry Anfield; Mourinho overshadows ugly Madrid win",
+          "description": "Despite the pregame vitriol and ongoing scandal, it was no surprise that Man City won at Liverpool on Sunday. PLUS: Real Madrid won ugly and Mourinho got up to his old tricks after Vinicius' red card.",
+          "url": "https://www.espn.com/soccer/story/_/id/50163474/manchester-city-liverpool-premier-league-charges-jose-mourinho-real-madrid-vinicius-junior-analysis",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729618_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-12T13:03:10Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50160857/racing-santander-vs-valencia-game-highlights",
           "title": "Racing Santander vs. Valencia - Game Highlights",
           "description": "Watch the Game Highlights from Racing Santander vs. Valencia, 10/11/2026",
@@ -11738,16 +11748,6 @@
           "publishedUtc": "2026-10-09T21:03:08Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50140523/flick-confirms-raphinha-injury-hails-unbelievable-yamal",
-          "title": "Flick confirms Raphinha injury and hails 'unbelievable' Yamal",
-          "description": "Flick confirms Raphinha injury and hails 'unbelievable' Yamal",
-          "url": "https://www.espn.com/video/clip/_/id/50140523/flick-confirms-raphinha-injury-hails-unbelievable-yamal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Flick_confirms_Raphinha_injury_and_hails_unbelievable_Yamal/dm_261009_Flick_confirms_Raphinha_injury_and_hails_unbelievable_Yamal.jpg",
-          "publishedUtc": "2026-10-09T14:35:24Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -11801,18 +11801,6 @@
             "assists": 1
           },
           {
-            "id": "318773",
-            "name": "Roberto Fernández",
-            "team": {
-              "id": "88",
-              "name": "Espanyol",
-              "abbreviation": "ESP",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
-            },
-            "goals": 6,
-            "assists": 0
-          },
-          {
             "id": "390389",
             "name": "Yassir Zabiri",
             "team": {
@@ -11820,6 +11808,30 @@
               "name": "Racing Santander",
               "abbreviation": "RAC",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
+            },
+            "goals": 7,
+            "assists": 0
+          },
+          {
+            "id": "207288",
+            "name": "Ante Budimir",
+            "team": {
+              "id": "97",
+              "name": "Osasuna",
+              "abbreviation": "OSA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
+            },
+            "goals": 6,
+            "assists": 0
+          },
+          {
+            "id": "318773",
+            "name": "Roberto Fernández",
+            "team": {
+              "id": "88",
+              "name": "Espanyol",
+              "abbreviation": "ESP",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
             },
             "goals": 6,
             "assists": 0
@@ -11835,18 +11847,6 @@
             },
             "goals": 5,
             "assists": 2
-          },
-          {
-            "id": "207288",
-            "name": "Ante Budimir",
-            "team": {
-              "id": "97",
-              "name": "Osasuna",
-              "abbreviation": "OSA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
-            },
-            "goals": 5,
-            "assists": 0
           },
           {
             "id": "301684",
@@ -12005,6 +12005,19 @@
             "assists": 2
           },
           {
+            "id": "336809",
+            "name": "Cucho Hernández",
+            "team": {
+              "id": "244",
+              "name": "Real Betis",
+              "abbreviation": "BET",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/336809.png",
+            "goals": 2,
+            "assists": 2
+          },
+          {
             "id": "323838",
             "name": "Giuliano Simeone",
             "team": {
@@ -12029,15 +12042,14 @@
             "assists": 2
           },
           {
-            "id": "336809",
-            "name": "Cucho Hernández",
+            "id": "283941",
+            "name": "Ander Barrenetxea",
             "team": {
-              "id": "244",
-              "name": "Real Betis",
-              "abbreviation": "BET",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+              "id": "89",
+              "name": "Real Sociedad",
+              "abbreviation": "RSO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
             },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/336809.png",
             "goals": 2,
             "assists": 1
           },
@@ -12066,6 +12078,18 @@
             "assists": 1
           },
           {
+            "id": "300912",
+            "name": "Abde Ezzalzouli",
+            "team": {
+              "id": "244",
+              "name": "Real Betis",
+              "abbreviation": "BET",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
             "id": "373542",
             "name": "Adrián Niño",
             "team": {
@@ -12078,18 +12102,6 @@
             "assists": 0
           },
           {
-            "id": "283941",
-            "name": "Ander Barrenetxea",
-            "team": {
-              "id": "89",
-              "name": "Real Sociedad",
-              "abbreviation": "RSO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
             "id": "380286",
             "name": "Carlos Espí",
             "team": {
@@ -12097,18 +12109,6 @@
               "name": "Real Madrid",
               "abbreviation": "RMA",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "217289",
-            "name": "Gabriel Jesus",
-            "team": {
-              "id": "83",
-              "name": "Barcelona",
-              "abbreviation": "BAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
             },
             "goals": 2,
             "assists": 0
@@ -12188,6 +12188,18 @@
             "assists": 3
           },
           {
+            "id": "235072",
+            "name": "Carlos Soler",
+            "team": {
+              "id": "89",
+              "name": "Real Sociedad",
+              "abbreviation": "RSO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+            },
+            "goals": 1,
+            "assists": 3
+          },
+          {
             "id": "406379",
             "name": "Job Ochieng",
             "team": {
@@ -12231,6 +12243,18 @@
               "name": "Barcelona",
               "abbreviation": "BAR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+            },
+            "goals": 0,
+            "assists": 3
+          },
+          {
+            "id": "284699",
+            "name": "Iñigo Vicente",
+            "team": {
+              "id": "87",
+              "name": "Racing Santander",
+              "abbreviation": "RAC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
             },
             "goals": 0,
             "assists": 3
@@ -12344,6 +12368,19 @@
             "assists": 2
           },
           {
+            "id": "336809",
+            "name": "Cucho Hernández",
+            "team": {
+              "id": "244",
+              "name": "Real Betis",
+              "abbreviation": "BET",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/336809.png",
+            "goals": 2,
+            "assists": 2
+          },
+          {
             "id": "323838",
             "name": "Giuliano Simeone",
             "team": {
@@ -12392,18 +12429,6 @@
             "assists": 2
           },
           {
-            "id": "235072",
-            "name": "Carlos Soler",
-            "team": {
-              "id": "89",
-              "name": "Real Sociedad",
-              "abbreviation": "RSO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-            },
-            "goals": 1,
-            "assists": 2
-          },
-          {
             "id": "324811",
             "name": "Hugo Gonzalez",
             "team": {
@@ -12428,6 +12453,18 @@
             "assists": 2
           },
           {
+            "id": "297353",
+            "name": "Mario Soriano Carreno",
+            "team": {
+              "id": "90",
+              "name": "Deportivo",
+              "abbreviation": "DEP",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "353736",
             "name": "Miguel Román",
             "team": {
@@ -12437,43 +12474,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
             },
             "goals": 1,
-            "assists": 2
-          },
-          {
-            "id": "403582",
-            "name": "Xavi Espart",
-            "team": {
-              "id": "83",
-              "name": "Barcelona",
-              "abbreviation": "BAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
-            },
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "id": "257786",
-            "name": "Dávid Hancko",
-            "team": {
-              "id": "1068",
-              "name": "Atlético Madrid",
-              "abbreviation": "ATM",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/257786.png",
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "235818",
-            "name": "Federico Valverde",
-            "team": {
-              "id": "86",
-              "name": "Real Madrid",
-              "abbreviation": "RMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-            },
-            "goals": 0,
             "assists": 2
           }
         ]
@@ -12494,7 +12494,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.589Z",
+      "updatedUtc": "2026-10-12T15:07:16.532Z",
       "matches": [
         {
           "id": "401874947",
@@ -14736,6 +14736,18 @@
             "assists": 0
           },
           {
+            "id": "290545",
+            "name": "Daniel Maldini",
+            "team": {
+              "id": "2925",
+              "name": "Cagliari",
+              "abbreviation": "CAG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
             "id": "384482",
             "name": "Gustavo Varela",
             "team": {
@@ -14758,6 +14770,18 @@
             },
             "goals": 4,
             "assists": 0
+          },
+          {
+            "id": "176203",
+            "name": "Adrien Rabiot",
+            "team": {
+              "id": "103",
+              "name": "AC Milan",
+              "abbreviation": "MIL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+            },
+            "goals": 3,
+            "assists": 2
           },
           {
             "id": "217331",
@@ -14820,18 +14844,6 @@
             "assists": 1
           },
           {
-            "id": "290545",
-            "name": "Daniel Maldini",
-            "team": {
-              "id": "2925",
-              "name": "Cagliari",
-              "abbreviation": "CAG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
             "id": "250850",
             "name": "Davide Frattesi",
             "team": {
@@ -14880,14 +14892,15 @@
             "assists": 0
           },
           {
-            "id": "176203",
-            "name": "Adrien Rabiot",
+            "id": "323113",
+            "name": "Tijjani Noslin",
             "team": {
-              "id": "103",
-              "name": "AC Milan",
-              "abbreviation": "MIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+              "id": "112",
+              "name": "Lazio",
+              "abbreviation": "LAZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
             },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/323113.png",
             "goals": 2,
             "assists": 2
           },
@@ -15026,6 +15039,18 @@
             "assists": 0
           },
           {
+            "id": "291729",
+            "name": "Cas Odenthal",
+            "team": {
+              "id": "3997",
+              "name": "Sassuolo",
+              "abbreviation": "SAS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
             "id": "213725",
             "name": "Ché Adams",
             "team": {
@@ -15045,30 +15070,6 @@
               "name": "Parma",
               "abbreviation": "PAR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "285226",
-            "name": "Manu Koné",
-            "team": {
-              "id": "104",
-              "name": "AS Roma",
-              "abbreviation": "ROMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "312757",
-            "name": "Mateo Pellegrino",
-            "team": {
-              "id": "109",
-              "name": "Fiorentina",
-              "abbreviation": "FIO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
             },
             "goals": 2,
             "assists": 0
@@ -15112,6 +15113,18 @@
             "assists": 3
           },
           {
+            "id": "176203",
+            "name": "Adrien Rabiot",
+            "team": {
+              "id": "103",
+              "name": "AC Milan",
+              "abbreviation": "MIL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+            },
+            "goals": 3,
+            "assists": 2
+          },
+          {
             "id": "217331",
             "name": "Marcus Thuram",
             "team": {
@@ -15124,20 +15137,33 @@
             "assists": 2
           },
           {
-            "id": "176203",
-            "name": "Adrien Rabiot",
+            "id": "323113",
+            "name": "Tijjani Noslin",
             "team": {
-              "id": "103",
-              "name": "AC Milan",
-              "abbreviation": "MIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+              "id": "112",
+              "name": "Lazio",
+              "abbreviation": "LAZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
             },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/323113.png",
             "goals": 2,
             "assists": 2
           },
           {
             "id": "204669",
             "name": "Mattia Zaccagni",
+            "team": {
+              "id": "112",
+              "name": "Lazio",
+              "abbreviation": "LAZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "288901",
+            "name": "Nuno Tavares",
             "team": {
               "id": "112",
               "name": "Lazio",
@@ -15157,6 +15183,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
             },
             "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "344844",
+            "name": "Danilo Veiga",
+            "team": {
+              "id": "113",
+              "name": "Lecce",
+              "abbreviation": "LEC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+            },
+            "goals": 0,
             "assists": 2
           },
           {
@@ -15233,13 +15271,13 @@
             "assists": 2
           },
           {
-            "id": "288901",
-            "name": "Nuno Tavares",
+            "id": "287790",
+            "name": "Nicolò Cambiaghi",
             "team": {
-              "id": "112",
-              "name": "Lazio",
-              "abbreviation": "LAZ",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+              "id": "107",
+              "name": "Bologna",
+              "abbreviation": "BOL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
             },
             "goals": 0,
             "assists": 2
@@ -15400,42 +15438,6 @@
             },
             "goals": 2,
             "assists": 1
-          },
-          {
-            "id": "362674",
-            "name": "Pio Esposito",
-            "team": {
-              "id": "110",
-              "name": "Internazionale",
-              "abbreviation": "INT",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "367861",
-            "name": "Álex Jiménez",
-            "team": {
-              "id": "109",
-              "name": "Fiorentina",
-              "abbreviation": "FIO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "346916",
-            "name": "Antoine Hainaut",
-            "team": {
-              "id": "17530",
-              "name": "Venezia",
-              "abbreviation": "VEN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
-            },
-            "goals": 1,
-            "assists": 1
           }
         ]
       }
@@ -15455,7 +15457,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.568Z",
+      "updatedUtc": "2026-10-12T15:07:16.455Z",
       "matches": [
         {
           "id": "401884799",
@@ -17562,7 +17564,7 @@
           "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
           "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
           "imageUrl": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T10:38:08Z",
+          "publishedUtc": "2026-10-12T13:39:08Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -17854,6 +17856,18 @@
             "assists": 0
           },
           {
+            "id": "214203",
+            "name": "Maximilian Eggestein",
+            "team": {
+              "id": "126",
+              "name": "SC Freiburg",
+              "abbreviation": "SCF",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "146804",
             "name": "Michael Gregoritsch",
             "team": {
@@ -18057,18 +18071,6 @@
             },
             "goals": 2,
             "assists": 0
-          },
-          {
-            "id": "214203",
-            "name": "Maximilian Eggestein",
-            "team": {
-              "id": "126",
-              "name": "SC Freiburg",
-              "abbreviation": "SCF",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
-            },
-            "goals": 2,
-            "assists": 0
           }
         ],
         "assists": [
@@ -18237,6 +18239,18 @@
               "name": "RB Leipzig",
               "abbreviation": "RBL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "231173",
+            "name": "Linton Maina",
+            "team": {
+              "id": "122",
+              "name": "FC Cologne",
+              "abbreviation": "KOE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
             },
             "goals": 1,
             "assists": 2
@@ -18421,18 +18435,6 @@
             },
             "goals": 4,
             "assists": 1
-          },
-          {
-            "id": "286831",
-            "name": "Michael Olise",
-            "team": {
-              "id": "132",
-              "name": "Bayern Munich",
-              "abbreviation": "MUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-            },
-            "goals": 4,
-            "assists": 1
           }
         ]
       }
@@ -18452,7 +18454,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.700Z",
+      "updatedUtc": "2026-10-12T15:07:16.428Z",
       "matches": [
         {
           "id": "401876458",
@@ -20757,6 +20759,30 @@
             "assists": 1
           },
           {
+            "id": "293347",
+            "name": "Cameron Archer",
+            "team": {
+              "id": "172",
+              "name": "AJ Auxerre",
+              "abbreviation": "AUX",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "id": "323850",
+            "name": "Esteban Lepaul",
+            "team": {
+              "id": "169",
+              "name": "Stade Rennais",
+              "abbreviation": "REN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
             "id": "265869",
             "name": "Ferran Torres",
             "team": {
@@ -20817,30 +20843,6 @@
             "assists": 1
           },
           {
-            "id": "293347",
-            "name": "Cameron Archer",
-            "team": {
-              "id": "172",
-              "name": "AJ Auxerre",
-              "abbreviation": "AUX",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "id": "323850",
-            "name": "Esteban Lepaul",
-            "team": {
-              "id": "169",
-              "name": "Stade Rennais",
-              "abbreviation": "REN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
             "id": "159047",
             "name": "Marquinhos",
             "team": {
@@ -20851,6 +20853,18 @@
             },
             "goals": 3,
             "assists": 0
+          },
+          {
+            "id": "173266",
+            "name": "Adrien Thomasson",
+            "team": {
+              "id": "169",
+              "name": "Stade Rennais",
+              "abbreviation": "REN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+            },
+            "goals": 2,
+            "assists": 2
           },
           {
             "id": "370758",
@@ -20937,6 +20951,18 @@
             "assists": 0
           },
           {
+            "id": "282381",
+            "name": "Boulaye Dia",
+            "team": {
+              "id": "169",
+              "name": "Stade Rennais",
+              "abbreviation": "REN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
             "id": "364180",
             "name": "Franjo Ivanovic",
             "team": {
@@ -21009,18 +21035,6 @@
             "assists": 0
           },
           {
-            "id": "173266",
-            "name": "Adrien Thomasson",
-            "team": {
-              "id": "169",
-              "name": "Stade Rennais",
-              "abbreviation": "REN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-            },
-            "goals": 1,
-            "assists": 2
-          },
-          {
             "id": "301262",
             "name": "Amine El Ouazzani",
             "team": {
@@ -21040,18 +21054,6 @@
               "name": "Lyon",
               "abbreviation": "LYON",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-            },
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "id": "331636",
-            "name": "Lucas Calodat",
-            "team": {
-              "id": "2697",
-              "name": "Le Mans",
-              "abbreviation": "MNS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
             },
             "goals": 1,
             "assists": 2
@@ -21132,6 +21134,18 @@
             "assists": 2
           },
           {
+            "id": "173266",
+            "name": "Adrien Thomasson",
+            "team": {
+              "id": "169",
+              "name": "Stade Rennais",
+              "abbreviation": "REN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+            },
+            "goals": 2,
+            "assists": 2
+          },
+          {
             "id": "370758",
             "name": "Zachary Athekame",
             "team": {
@@ -21141,18 +21155,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
             },
             "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "173266",
-            "name": "Adrien Thomasson",
-            "team": {
-              "id": "169",
-              "name": "Stade Rennais",
-              "abbreviation": "REN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-            },
-            "goals": 1,
             "assists": 2
           },
           {
@@ -21201,6 +21203,19 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
             },
             "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "250758",
+            "name": "Bryan Reynolds",
+            "team": {
+              "id": "169",
+              "name": "Stade Rennais",
+              "abbreviation": "REN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/250758.png",
+            "goals": 0,
             "assists": 2
           },
           {
@@ -21259,6 +21274,18 @@
               "name": "Strasbourg",
               "abbreviation": "STR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "276995",
+            "name": "Sofiane Diop",
+            "team": {
+              "id": "2502",
+              "name": "Nice",
+              "abbreviation": "NICE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
             },
             "goals": 0,
             "assists": 2
@@ -21394,31 +21421,6 @@
             },
             "goals": 2,
             "assists": 1
-          },
-          {
-            "id": "314388",
-            "name": "Amine Sbaï",
-            "team": {
-              "id": "7868",
-              "name": "Angers",
-              "abbreviation": "ANG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "196234",
-            "name": "Branco van den Boomen",
-            "team": {
-              "id": "7868",
-              "name": "Angers",
-              "abbreviation": "ANG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/196234.png",
-            "goals": 1,
-            "assists": 1
           }
         ]
       }
@@ -21438,7 +21440,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-12T05:35:51.548Z",
+      "updatedUtc": "2026-10-12T15:07:16.501Z",
       "matches": [
         {
           "id": "401861118",
@@ -22508,7 +22510,7 @@
             "abbreviation": "HUN",
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
           },
-          "venue": "Boris Paichadze Dinamo Arena, Tbilisi",
+          "venue": "Mikheil Meskhi Stadioni, Tbilisi",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -25130,7 +25132,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T05:35:51.673Z",
+      "updatedUtc": "2026-10-12T15:07:16.738Z",
       "matches": [
         {
           "id": "761871",
@@ -26414,7 +26416,7 @@
         },
         {
           "id": "761933",
-          "utc": "2026-11-02T02:30Z",
+          "utc": "2026-11-02T02:45Z",
           "phase": "Regular Season",
           "home": {
             "id": "9723",
@@ -28070,6 +28072,18 @@
             "assists": 9
           },
           {
+            "id": "122356",
+            "name": "Marco Reus",
+            "team": {
+              "id": "187",
+              "name": "LA Galaxy",
+              "abbreviation": "LA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
+            },
+            "goals": 7,
+            "assists": 9
+          },
+          {
             "id": "304129",
             "name": "Paxten Aaronson",
             "team": {
@@ -28168,18 +28182,6 @@
             "assists": 8
           },
           {
-            "id": "122356",
-            "name": "Marco Reus",
-            "team": {
-              "id": "187",
-              "name": "LA Galaxy",
-              "abbreviation": "LA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
-            },
-            "goals": 7,
-            "assists": 8
-          },
-          {
             "id": "279180",
             "name": "Pavel Bucha",
             "team": {
@@ -28259,7 +28261,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-12T05:35:51.597Z",
+      "updatedUtc": "2026-10-12T15:07:16.631Z",
       "matches": [
         {
           "id": "760415",
@@ -31723,7 +31725,7 @@
           "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
           "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
           "imageUrl": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T10:38:08Z",
+          "publishedUtc": "2026-10-12T13:39:08Z",
           "source": "ESPN",
           "transfer": false
         },
