@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-12T22:51:02.139Z",
+  "updatedUtc": "2026-10-13T06:32:11.798Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:01.884Z",
+      "updatedUtc": "2026-10-13T06:32:11.481Z",
       "matches": [
         {
           "id": "401915445",
@@ -2273,6 +2273,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
+          "title": "Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge?",
+          "description": "Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.",
+          "url": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0711/r1687762_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T06:14:02Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50168630/man-utd-players-hungry-put-things-right-vs-atletico",
+          "title": "Carrick: Man Utd players hungry to 'put things right' vs. Atletico",
+          "description": "Carrick: Man Utd players hungry to 'put things right' vs. Atletico",
+          "url": "https://www.espn.com/video/clip/_/id/50168630/man-utd-players-hungry-put-things-right-vs-atletico",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Carrick_Man_Utd_players_hungry_to_put_things_right_vs_Atletico/dm_261012_Carrick_Man_Utd_players_hungry_to_put_things_right_vs_Atletico.jpg",
+          "publishedUtc": "2026-10-12T20:45:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50168076/neuer-bayern-urbig-start-champions-league",
+          "title": "Neuer out for Bayern as Urbig to get start in Champions League",
+          "description": "Bayern Munich head coach Vincent Kompany has revealed veteran goalkeeper Manuel Neuer will be sidelined for Tuesday night's Champions League trip to Viking.",
+          "url": "https://www.espn.com/soccer/story/_/id/50168076/neuer-bayern-urbig-start-champions-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729805_1024x576_16-9.jpg",
+          "publishedUtc": "2026-10-12T19:20:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50167880/carrick-backs-man-united-ucl-rebound-tough-spell",
+          "title": "Carrick backs Man United for UCL rebound amid challenging spell",
+          "description": "Michael Carrick said Manchester United will turn things around ahead of their Champions League game at Atlético Madrid on Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50167880/carrick-backs-man-united-ucl-rebound-tough-spell",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729796_1024x576_16-9.jpg",
+          "publishedUtc": "2026-10-12T20:46:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
           "title": "'Never happened in seven years!' - Arteta confirms double injury blow",
           "description": "'Never happened in seven years!' - Arteta confirms double injury blow",
@@ -2288,7 +2328,7 @@
           "description": "Gabriel Magalhães has said he is ready to take another penalty for Arsenal despite his crucial miss in last season's Champions League Final.",
           "url": "https://www.espn.com/soccer/story/_/id/50166292/arsenal-gabriel-ready-take-another-penalty-champions-league-final-miss",
           "imageUrl": "https://a.espncdn.com/photo/2026/0912/r1715273_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T14:23:41Z",
+          "publishedUtc": "2026-10-12T18:38:53Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2309,16 +2349,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50165652/atletico-madrid-diego-simeone-man-united-creating-danger",
           "imageUrl": "https://a.espncdn.com/photo/2026/0827/r1707853_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-12T14:11:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
-          "title": "Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge?",
-          "description": "Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.",
-          "url": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0711/r1687762_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T11:00:48Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2459,36 +2489,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
           "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721963_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-26T10:36:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49964446/still-zero-viral-man-united-fan-haircut-challenge-nears-two-years",
-          "title": "Still at zero: Viral Man United fan's haircut challenge nears two years",
-          "description": "Viral Manchester United fan Frank Ilett's haircut challenge is nearing the two-year mark and he's back to square 1.",
-          "url": "https://www.espn.com/soccer/story/_/id/49964446/still-zero-viral-man-united-fan-haircut-challenge-nears-two-years",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0210/r1613205_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T15:10:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49956789/borussia-dortmund-teenager-konstantinos-karetsas-returns-training-champions-league-health-scare",
-          "title": "Borussia Dortmund teenager Konstantinos Karetsas returns to training after Champions League health scare",
-          "description": "Borussia Dortmund says 18-year-old midfielder Konstantinos Karetsas is back in training just over a week after he slumped to the ground in an alarming medical incident on his Champions League debut.",
-          "url": "https://www.espn.com/soccer/story/_/id/49956789/borussia-dortmund-teenager-konstantinos-karetsas-returns-training-champions-league-health-scare",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717509_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-16T14:12:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
-          "title": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
-          "description": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
-          "url": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison.jpg",
-          "publishedUtc": "2026-09-16T13:03:36Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:01.850Z",
+      "updatedUtc": "2026-10-13T06:32:11.558Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:02.042Z",
+      "updatedUtc": "2026-10-13T06:32:11.527Z",
       "matches": [
         {
           "id": "401879275",
@@ -8505,6 +8505,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
+          "title": "Lampard: Coventry 'feet on the ground' after Newcastle win",
+          "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729921_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T06:11:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50169204/every-team-fans-man-city-win",
           "title": "Ogden: Every team's fans will be against Man City after this win",
           "description": "Ogden: Every team's fans will be against Man City after this win",
@@ -8733,16 +8743,6 @@
           "publishedUtc": "2026-10-11T19:30:07Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50159637/erling-haaland-proud-man-city-win-liverpool",
-          "title": "Erling Haaland: 'I'm so proud' of Man City after win at Liverpool",
-          "description": "Erling Haaland spoke of his pride after Manchester City claimed victory amid a hostile reception at Anfield.",
-          "url": "https://www.espn.com/soccer/story/_/id/50159637/erling-haaland-proud-man-city-win-liverpool",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729320_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T19:09:55Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -9490,7 +9490,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:02.084Z",
+      "updatedUtc": "2026-10-13T06:32:11.600Z",
       "matches": [
         {
           "id": "401882860",
@@ -12502,7 +12502,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:01.969Z",
+      "updatedUtc": "2026-10-13T06:32:11.606Z",
       "matches": [
         {
           "id": "401874947",
@@ -15473,7 +15473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:01.929Z",
+      "updatedUtc": "2026-10-13T06:32:11.709Z",
       "matches": [
         {
           "id": "401884799",
@@ -18470,7 +18470,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:01.990Z",
+      "updatedUtc": "2026-10-13T06:32:11.779Z",
       "matches": [
         {
           "id": "401876458",
@@ -21456,7 +21456,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-12T22:51:01.834Z",
+      "updatedUtc": "2026-10-13T06:32:11.624Z",
       "matches": [
         {
           "id": "401861118",
@@ -25148,7 +25148,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-12T22:51:02.139Z",
+      "updatedUtc": "2026-10-13T06:32:11.760Z",
       "matches": [
         {
           "id": "761871",
@@ -28277,7 +28277,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-12T22:51:01.797Z",
+      "updatedUtc": "2026-10-13T06:32:11.798Z",
       "matches": [
         {
           "id": "760415",
@@ -31656,6 +31656,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+          "title": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+          "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+          "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T06:24:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
           "title": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
           "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
@@ -31842,16 +31852,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50054758/fifa-agrees-federation-payments-wc-revenue",
           "imageUrl": "https://a.espncdn.com/photo/2026/0827/r1707823_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-28T21:41:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
-          "title": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
-          "description": "Under fire from UEFA, Infantino is back to business as usual and inching closer to reelection as FIFA president.",
-          "url": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-28T16:59:49Z",
           "source": "ESPN",
           "transfer": false
         }
