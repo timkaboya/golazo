@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-13T06:32:11.798Z",
+  "updatedUtc": "2026-10-13T15:50:04.934Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.481Z",
+      "updatedUtc": "2026-10-13T15:50:04.405Z",
       "matches": [
         {
           "id": "401915445",
@@ -2273,6 +2273,56 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50173328/luis-enrique-sets-sights-champions-league-threepeat-psg",
+          "title": "Luis Enrique sets sights on Champions League threepeat for PSG",
+          "description": "Paris Saint-Germain coach Luis Enrique has set his sights on his team equalling Real Madrid's feat of three straight Champions League titles this season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50173328/luis-enrique-sets-sights-champions-league-threepeat-psg",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0520/r1660989_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T13:00:26Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50172116/i-hope-learn-flick-responds-question-real-madrid",
+          "title": "'I hope you'll learn!' - Flick responds to question about Real Madrid",
+          "description": "'I hope you'll learn!' - Flick responds to question about Real Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50172116/i-hope-learn-flick-responds-question-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_COM_SOC_Presser_I_hope_youll_learn_Flick_responds_to_question_about_Real_Madrid_20261013/dm_261013_COM_SOC_Presser_I_hope_youll_learn_Flick_responds_to_question_about_Real_Madrid_20261013.jpg",
+          "publishedUtc": "2026-10-13T09:07:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50172036/olivier-giroud-leaving-arsenal-toughest-choice-my-career",
+          "title": "Olivier Giroud on leaving Arsenal: 'Toughest' decision of my career",
+          "description": "Oliver Giroud said leaving Arsenal was the \"toughest choice\" of his career as he prepares to make his Emirates Stadium comeback, aged 40.",
+          "url": "https://www.espn.com/soccer/story/_/id/50172036/olivier-giroud-leaving-arsenal-toughest-choice-my-career",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730045_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T08:44:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50171925/arteta-reacts-messi-praise-special-dowman",
+          "title": "Arteta reacts to Messi's praise for 'special' Dowman",
+          "description": "Arteta reacts to Messi's praise for 'special' Dowman",
+          "url": "https://www.espn.com/video/clip/_/id/50171925/arteta-reacts-messi-praise-special-dowman",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_Arteta_reacts_to_Messis_praise_for_special_Dowman/dm_261013_Arteta_reacts_to_Messis_praise_for_special_Dowman.jpg",
+          "publishedUtc": "2026-10-13T08:24:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/espn/story/_/id/50171793/galatasaray-boosted-victor-osimhen-return-barcelona-clash-uefa-champions-league",
+          "title": "Galatasaray boosted by Victor Osimhen return for Barcelona clash in UEFA Champions League",
+          "description": "Victor Osimhen marked his return from a month-long injury absence with an assist against Kasımpasa, giving the Turkish champions a boost ahead of their UEFA Champions League meeting with Barcelona.",
+          "url": "https://www.espn.com/espn/story/_/id/50171793/galatasaray-boosted-victor-osimhen-return-barcelona-clash-uefa-champions-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730041_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T07:48:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
           "title": "Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge?",
           "description": "Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.",
@@ -2439,56 +2489,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50059589/man-city-titles-asterisk-guilty-appeal",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929.jpg",
           "publishedUtc": "2026-09-29T16:41:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-          "title": "Pochettino labels Man City's charges as a 'period of deception'",
-          "description": "Pochettino labels Man City's charges as a 'period of deception'",
-          "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
-          "publishedUtc": "2026-09-29T13:24:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "title": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-29T07:38:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50033278/cannot-take-away-manchester-city-achievements",
-          "title": "Rodri: You cannot take away Manchester City's achievements",
-          "description": "Rodri: You cannot take away Manchester City's achievements",
-          "url": "https://www.espn.com/video/clip/_/id/50033278/cannot-take-away-manchester-city-achievements",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/dm_260926_COM_SOC_Presser_Rodri_You_cannot_take_away_Manchester_Citys_achievements_20260926_GLOBAL/dm_260926_COM_SOC_Presser_Rodri_You_cannot_take_away_Manchester_Citys_achievements_20260926_GLOBAL.jpg",
-          "publishedUtc": "2026-09-26T14:20:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50032611/man-city-verdict-leave-stain-stench-premier-league-era",
-          "title": "Man City verdict will leave a stain and stench on a Premier League era",
-          "description": "Manchester City are expected to be found guilty of almost all 115 financial charges against them. It means an era of English soccer is now tarnished with multiple asterisks.",
-          "url": "https://www.espn.com/soccer/story/_/id/50032611/man-city-verdict-leave-stain-stench-premier-league-era",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721984_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-26T14:07:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
-          "title": "Barcelona's start to season is best in Europe's top 5 leagues for almost 100 years",
-          "description": "Barcelona have begun the season on fire, scoring 36 goals in their first eight matches. How does that compare to the best starts for all time? (Spoiler: Very well.)",
-          "url": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721963_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-26T10:36:01Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3239,7 +3239,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.558Z",
+      "updatedUtc": "2026-10-13T15:50:04.481Z",
       "matches": [
         {
           "id": "401915585",
@@ -6473,7 +6473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.527Z",
+      "updatedUtc": "2026-10-13T15:50:04.536Z",
       "matches": [
         {
           "id": "401879275",
@@ -8505,12 +8505,72 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
+          "title": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK",
+          "description": "Liverpool are set to be without Alexander Isak, Cody Gakpo and Dominik Szoboszlai for Wednesday's UEFA Champions League clash with LASK.",
+          "url": "https://www.espn.com/soccer/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729179_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T13:26:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
+          "title": "Transfer rumors, news: Barcelona, Real Madrid scout Erling Haaland at Anfield",
+          "description": "Barcelona and Real Madrid continue to keep tabs on Erling Haaland, while Chelsea growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730042_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T13:15:08Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50172881/enzo-maresca-man-city-celebration-anfield-do-want-us-do",
+          "title": "Enzo Maresca on Man City celebration at Anfield: 'What do you want us to do?'",
+          "description": "Enzo Maresca has hit back at criticism of Manchester City's celebrations at Anfield on Sunday by saying: \"What do you want us to do?\"",
+          "url": "https://www.espn.com/soccer/story/_/id/50172881/enzo-maresca-man-city-celebration-anfield-do-want-us-do",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730084_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T11:58:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
+          "title": "Man United could never contend for the Premier League title -- but they aren't so bad either",
+          "description": "Man United fans go from thinking the team will win the Premier League to thinking the sky is falling. The truth is in the middle and it's unlikely to shift.",
+          "url": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729894_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T08:28:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50166633/premier-league-overreactions-takeaways-first-games-post-international-break-man-city-liverpool-man-united",
+          "title": "Premier League overreactions: Takeaways from first games post-international break",
+          "description": "After a three-week intermission, the Premier League returned with a bang last weekend. Will Man City eventually crumble under the pressure? Is this the real Man United? Let's overreact!",
+          "url": "https://www.espn.com/soccer/story/_/id/50166633/premier-league-overreactions-takeaways-first-games-post-international-break-man-city-liverpool-man-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729833_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T12:41:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/espn/story/_/id/50171697/hull-winger-mohamed-belloumi-last-laugh-pundits-mockery",
+          "title": "Hull winger Mohamed Belloumi has the last laugh after pundits' mockery",
+          "description": "Mohamed Belloumi may have been the brunt of some studio jokes during the Premier League weekend, but the winger again proved why he could be the man to keep Hull City in the top flight this season.",
+          "url": "https://www.espn.com/espn/story/_/id/50171697/hull-winger-mohamed-belloumi-last-laugh-pundits-mockery",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730035_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T07:07:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
           "title": "Lampard: Coventry 'feet on the ground' after Newcastle win",
           "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
           "url": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729921_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T06:11:22Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730029_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T06:40:13Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8630,7 +8690,7 @@
           "description": "At Anfield on Sunday, Man City fans waved hundreds of inflatable bananas, but how do they relate to the club's guilty verdict?",
           "url": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
           "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T12:46:08Z",
+          "publishedUtc": "2026-10-13T12:31:44Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8683,66 +8743,6 @@
           "publishedUtc": "2026-10-12T08:07:32Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50163017/the-premier-league-new-villains-liverpool-anfield-give-man-city-taste-come",
-          "title": "The Premier League's new villains: Anfield gives Man City a taste of what's to come",
-          "description": "Man City faced fury at Anfield after being found guilty of cheating, but Erling Haaland & Co. answered the hostility with an emphatic 3-0 win.",
-          "url": "https://www.espn.com/soccer/story/_/id/50163017/the-premier-league-new-villains-liverpool-anfield-give-man-city-taste-come",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729599_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T12:19:38Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50161470/city-trounce-liverpool-first-game-guilty-verdict",
-          "title": "City trounce Liverpool in first game since guilty verdict",
-          "description": "Manchester City explode for three goals in 13 minutes to put away a 10-man Liverpool in their first match since being found guilty of financial breaches.",
-          "url": "https://www.espn.com/video/clip/_/id/50161470/city-trounce-liverpool-first-game-guilty-verdict",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_EPL_Highlight_City_trounce_Liverpool_in_first_game_since_guilty_verdict_20261012_AUS_ONLY/dm_261011_EPL_Highlight_City_trounce_Liverpool_in_first_game_since_guilty_verdict_20261012_AUS_ONLY.jpg",
-          "publishedUtc": "2026-10-11T22:12:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
-          "title": "Transfer rumors, news: Arsenal, Chelsea, Liverpool want Roma youngster",
-          "description": "AS Roma's Emanuele Lulli has caught the eye of Arsenal, Chelsea and Liverpool. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729418_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T22:08:12Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50161236/nicol-burley-clash-gravenberch-red-card-vs-man-city",
-          "title": "Nicol and Burley clash over Gravenberch's red card vs. Man City",
-          "description": "Nicol and Burley clash over Gravenberch's red card vs. Man City",
-          "url": "https://www.espn.com/video/clip/_/id/50161236/nicol-burley-clash-gravenberch-red-card-vs-man-city",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Nicol_and_Burley_clash_over_Gravenberchs_red_card_vs_Man_City/dm_261011_Nicol_and_Burley_clash_over_Gravenberchs_red_card_vs_Man_City.jpg",
-          "publishedUtc": "2026-10-11T21:41:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-          "title": "Premier League VAR review: Gravenberch wrongly sent off vs. Man City?",
-          "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-          "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729325_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T20:34:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50159720/andy-burnham-publish-man-city-mayoral-dealings",
-          "title": "Andy Burnham to publish Man City mayoral dealings after intervention draws criticism",
-          "description": "Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the club's owners raised eyebrows.",
-          "url": "https://www.espn.com/soccer/story/_/id/50159720/andy-burnham-publish-man-city-mayoral-dealings",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729327_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T19:30:07Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9490,7 +9490,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.600Z",
+      "updatedUtc": "2026-10-13T15:50:04.673Z",
       "matches": [
         {
           "id": "401882860",
@@ -11518,6 +11518,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
+          "title": "Transfer rumors, news: Barcelona, Real Madrid scout Erling Haaland at Anfield",
+          "description": "Barcelona and Real Madrid continue to keep tabs on Erling Haaland, while Chelsea growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730042_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T13:15:08Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50172116/i-hope-learn-flick-responds-question-real-madrid",
+          "title": "'I hope you'll learn!' - Flick responds to question about Real Madrid",
+          "description": "'I hope you'll learn!' - Flick responds to question about Real Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50172116/i-hope-learn-flick-responds-question-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_COM_SOC_Presser_I_hope_youll_learn_Flick_responds_to_question_about_Real_Madrid_20261013/dm_261013_COM_SOC_Presser_I_hope_youll_learn_Flick_responds_to_question_about_Real_Madrid_20261013.jpg",
+          "publishedUtc": "2026-10-13T09:07:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50172084/dani-carvajal-joins-getafe-real-madrid-exit",
+          "title": "Dani Carvajal joins Getafe after Real Madrid exit",
+          "description": "Dani Carvajal has joined Getafe on a free transfer, the LaLiga club announced on Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50172084/dani-carvajal-joins-getafe-real-madrid-exit",
+          "imageUrl": "https://a.espncdn.com/photo/2025/1027/r1567009_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T08:56:19Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50168756/levante-vs-sevilla-game-highlights",
           "title": "Levante vs. Sevilla - Game Highlights",
           "description": "Watch the Game Highlights from Levante vs. Sevilla, 10/12/2026",
@@ -11726,36 +11756,6 @@
           "publishedUtc": "2026-10-09T22:13:16Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
-          "title": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
-          "description": "Chelsea are reporting looking at signing Frenkie de Jong from Barcelona. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728422_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T21:34:28Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50142898/jesus-no-brainer-replace-raphinha",
-          "title": "Nicol: Jesus is a 'no-brainer' to replace Raphinha",
-          "description": "Nicol: Jesus is a 'no-brainer' to replace Raphinha",
-          "url": "https://www.espn.com/video/clip/_/id/50142898/jesus-no-brainer-replace-raphinha",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Jesus_is_a_no_brainer_to_replace_Raphinha/dm_261009_Nicol_Jesus_is_a_no_brainer_to_replace_Raphinha.jpg",
-          "publishedUtc": "2026-10-09T22:13:20Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50142731/malaga-vs-espanyol-game-highlights",
-          "title": "Málaga vs. Espanyol - Game Highlights",
-          "description": "Watch the Game Highlights from Málaga vs. Espanyol, 10/09/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50142731/malaga-vs-espanyol-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/4c47a79c-3b94-48b1-a3a2-77c7ebbb8f43/4c47a79c-3b94-48b1-a3a2-77c7ebbb8f43.jpg",
-          "publishedUtc": "2026-10-09T21:03:36Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -11953,6 +11953,30 @@
             "assists": 1
           },
           {
+            "id": "267591",
+            "name": "Roger Brugué",
+            "team": {
+              "id": "1538",
+              "name": "Levante",
+              "abbreviation": "LEV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "311054",
+            "name": "Iván Romero",
+            "team": {
+              "id": "1538",
+              "name": "Levante",
+              "abbreviation": "LEV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "306263",
             "name": "Luka Sucic",
             "team": {
@@ -11972,18 +11996,6 @@
               "name": "Villarreal",
               "abbreviation": "VIL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "id": "267591",
-            "name": "Roger Brugué",
-            "team": {
-              "id": "1538",
-              "name": "Levante",
-              "abbreviation": "LEV",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
             },
             "goals": 3,
             "assists": 0
@@ -12074,6 +12086,18 @@
             "assists": 1
           },
           {
+            "id": "365821",
+            "name": "Isaac Romero",
+            "team": {
+              "id": "243",
+              "name": "Sevilla",
+              "abbreviation": "SEV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "274197",
             "name": "Lee Kang-In",
             "team": {
@@ -12093,30 +12117,6 @@
               "name": "Real Betis",
               "abbreviation": "BET",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "373542",
-            "name": "Adrián Niño",
-            "team": {
-              "id": "99",
-              "name": "Málaga",
-              "abbreviation": "MCF",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "380286",
-            "name": "Carlos Espí",
-            "team": {
-              "id": "86",
-              "name": "Real Madrid",
-              "abbreviation": "RMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
             },
             "goals": 2,
             "assists": 0
@@ -12502,7 +12502,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.606Z",
+      "updatedUtc": "2026-10-13T15:50:04.625Z",
       "matches": [
         {
           "id": "401874947",
@@ -14824,6 +14824,19 @@
             "assists": 1
           },
           {
+            "id": "270817",
+            "name": "Jurgen Ekkelenkamp",
+            "team": {
+              "id": "118",
+              "name": "Udinese",
+              "abbreviation": "UDI",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/270817.png",
+            "goals": 3,
+            "assists": 1
+          },
+          {
             "id": "134947",
             "name": "Kevin De Bruyne",
             "team": {
@@ -14843,6 +14856,18 @@
               "name": "Genoa",
               "abbreviation": "GEN",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "258158",
+            "name": "Nikola Krstovic",
+            "team": {
+              "id": "105",
+              "name": "Atalanta",
+              "abbreviation": "ATA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
             },
             "goals": 3,
             "assists": 1
@@ -14921,6 +14946,18 @@
             "assists": 2
           },
           {
+            "id": "346916",
+            "name": "Antoine Hainaut",
+            "team": {
+              "id": "17530",
+              "name": "Venezia",
+              "abbreviation": "VEN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "364742",
             "name": "Assane Diao",
             "team": {
@@ -14953,19 +14990,6 @@
               "abbreviation": "UDI",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
             },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "270817",
-            "name": "Jurgen Ekkelenkamp",
-            "team": {
-              "id": "118",
-              "name": "Udinese",
-              "abbreviation": "UDI",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/270817.png",
             "goals": 2,
             "assists": 1
           },
@@ -15062,30 +15086,6 @@
               "name": "Sassuolo",
               "abbreviation": "SAS",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "213725",
-            "name": "Ché Adams",
-            "team": {
-              "id": "239",
-              "name": "Torino",
-              "abbreviation": "TOR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "301980",
-            "name": "José Romero",
-            "team": {
-              "id": "115",
-              "name": "Parma",
-              "abbreviation": "PAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
             },
             "goals": 2,
             "assists": 0
@@ -15335,6 +15335,19 @@
             "assists": 1
           },
           {
+            "id": "270817",
+            "name": "Jurgen Ekkelenkamp",
+            "team": {
+              "id": "118",
+              "name": "Udinese",
+              "abbreviation": "UDI",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/270817.png",
+            "goals": 3,
+            "assists": 1
+          },
+          {
             "id": "134947",
             "name": "Kevin De Bruyne",
             "team": {
@@ -15359,6 +15372,18 @@
             "assists": 1
           },
           {
+            "id": "258158",
+            "name": "Nikola Krstovic",
+            "team": {
+              "id": "105",
+              "name": "Atalanta",
+              "abbreviation": "ATA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
             "id": "344917",
             "name": "Vasilije Adzic",
             "team": {
@@ -15368,6 +15393,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
             },
             "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "346916",
+            "name": "Antoine Hainaut",
+            "team": {
+              "id": "17530",
+              "name": "Venezia",
+              "abbreviation": "VEN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+            },
+            "goals": 2,
             "assists": 1
           },
           {
@@ -15407,19 +15444,6 @@
             "assists": 1
           },
           {
-            "id": "270817",
-            "name": "Jurgen Ekkelenkamp",
-            "team": {
-              "id": "118",
-              "name": "Udinese",
-              "abbreviation": "UDI",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/270817.png",
-            "goals": 2,
-            "assists": 1
-          },
-          {
             "id": "223947",
             "name": "Lassana Coulibaly",
             "team": {
@@ -15427,30 +15451,6 @@
               "name": "Lecce",
               "abbreviation": "LEC",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "311475",
-            "name": "Martin Baturina",
-            "team": {
-              "id": "2572",
-              "name": "Como",
-              "abbreviation": "COMO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "323974",
-            "name": "Matìas Soulè",
-            "team": {
-              "id": "104",
-              "name": "AS Roma",
-              "abbreviation": "ROMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
             },
             "goals": 2,
             "assists": 1
@@ -15473,7 +15473,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.709Z",
+      "updatedUtc": "2026-10-13T15:50:04.792Z",
       "matches": [
         {
           "id": "401884799",
@@ -17495,6 +17495,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50172307/borussia-dortmund-niko-kovac-contract-extension-2029",
+          "title": "Borussia Dortmund extend head coach Niko Kovač's contract through to 2029",
+          "description": "Borussia Dortmund have handed head coach Niko Kovač a contact extension through June 2029 as a reward for stabilizing the team.",
+          "url": "https://www.espn.com/soccer/story/_/id/50172307/borussia-dortmund-niko-kovac-contract-extension-2029",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730054_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T10:49:28Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401884777",
           "title": "Bayern Munich salvage point at Augbsurg after conceding fastest ever Bundesliga goal",
           "description": "Bayern Munich salvaged a 2-2 draw against Augsburg after a blunder from Manuel Neuer led to them conceding the fastest goal in Bundesliga history.\n\n",
@@ -17713,16 +17723,6 @@
           "publishedUtc": "2026-09-18T17:51:49Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49962718/transfer-rumors-news-arsenal-keen-real-madrid-winger-rodrygo",
-          "title": "Transfer rumors, news: Liverpool targeting former Bayern Munich midfielder",
-          "description": "PSV Eindhoven's Paul Wanner has emerged as a Liverpool target. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/49962718/transfer-rumors-news-arsenal-keen-real-madrid-winger-rodrygo",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1718179_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T19:31:31Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -18470,7 +18470,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.779Z",
+      "updatedUtc": "2026-10-13T15:50:04.817Z",
       "matches": [
         {
           "id": "401876458",
@@ -21456,7 +21456,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-13T06:32:11.624Z",
+      "updatedUtc": "2026-10-13T15:50:04.771Z",
       "matches": [
         {
           "id": "401861118",
@@ -25148,7 +25148,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-13T06:32:11.760Z",
+      "updatedUtc": "2026-10-13T15:50:04.934Z",
       "matches": [
         {
           "id": "761871",
@@ -28277,7 +28277,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-13T06:32:11.798Z",
+      "updatedUtc": "2026-10-13T15:50:04.748Z",
       "matches": [
         {
           "id": "760415",
