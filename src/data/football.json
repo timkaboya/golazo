@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-14T13:34:12.026Z",
+  "updatedUtc": "2026-10-14T18:28:25.873Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.520Z",
+      "updatedUtc": "2026-10-14T18:28:25.266Z",
       "matches": [
         {
           "id": "401915445",
@@ -444,8 +444,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
           },
           "venue": "De Kuip, Rotterdam",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "note": "81'"
         },
         {
           "id": "401915415",
@@ -464,8 +468,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
           },
           "venue": "Raiffeisen Arena (Linz), Linz",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 3,
+            "away": 6
+          },
+          "note": "86'"
         },
         {
           "id": "401915414",
@@ -2314,9 +2322,19 @@
           "description": "Lamine Yamal christened his dribble leading to Anthony Gordon's goal against Galatasaray an \"almost-rabona\" as Barcelona ran out 4-1 winners in the Champions League game.",
           "url": "https://www.espn.com/soccer/story/_/id/50180579/lamine-yamal-assist-anthony-gordon-barcelona-win-almost-rabona",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730551_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T10:45:31Z",
+          "publishedUtc": "2026-10-14T11:46:46Z",
           "source": "ESPN",
           "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50180335/eberechi-eze-arsenal-competition-dont-want-play-youre-not-right-place",
+          "title": "Eberechi Eze on Arsenal competition: 'If you don't want to play you're not in the right place'",
+          "description": "Eberechi Eze has spoken about dealing with the level of competitiveness in Arsenal's squad, saying \"if you don't want to play you're not in the right place.\"",
+          "url": "https://www.espn.com/soccer/story/_/id/50180335/eberechi-eze-arsenal-competition-dont-want-play-youre-not-right-place",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730540_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-14T11:10:51Z",
+          "source": "ESPN",
+          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
@@ -2535,16 +2553,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50172116/i-hope-learn-flick-responds-question-real-madrid",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_COM_SOC_Presser_I_hope_youll_learn_Flick_responds_to_question_about_Real_Madrid_20261013/dm_261013_COM_SOC_Presser_I_hope_youll_learn_Flick_responds_to_question_about_Real_Madrid_20261013.jpg",
           "publishedUtc": "2026-10-13T09:07:59Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50172036/olivier-giroud-leaving-arsenal-toughest-choice-my-career",
-          "title": "Olivier Giroud on leaving Arsenal: 'Toughest' decision of my career",
-          "description": "Oliver Giroud said leaving Arsenal was the \"toughest choice\" of his career as he prepares to make his Emirates Stadium comeback, aged 40.",
-          "url": "https://www.espn.com/soccer/story/_/id/50172036/olivier-giroud-leaving-arsenal-toughest-choice-my-career",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730045_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T08:44:32Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3294,7 +3302,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.633Z",
+      "updatedUtc": "2026-10-14T18:28:25.296Z",
       "matches": [
         {
           "id": "401915585",
@@ -6528,7 +6536,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.765Z",
+      "updatedUtc": "2026-10-14T18:28:25.421Z",
       "matches": [
         {
           "id": "401879268",
@@ -8520,6 +8528,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50181607/mikel-merino-says-arsenal-ready-premier-league-champions-league-double",
+          "title": "Mikel Merino says Arsenal are 'ready' for Premier League, Champions League double",
+          "description": "Mikel Merino insists Arsenal are ready to go one better than last season and complete a Premier League and Champions League double.",
+          "url": "https://www.espn.com/soccer/story/_/id/50181607/mikel-merino-says-arsenal-ready-premier-league-champions-league-double",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730620_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-14T14:12:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50180974/andy-burnham-man-city-owners-mention-premier-league-charges-meeting",
           "title": "Andy Burnham: Man City owners didn't mention Premier League charges in meeting",
           "description": "Andy Burnham has said Manchester City's owners and directors did not raise the Premier League's charges against the club when he met with them.",
@@ -8565,7 +8583,7 @@
           "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
           "url": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
           "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T23:03:43Z",
+          "publishedUtc": "2026-10-14T17:09:01Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8748,16 +8766,6 @@
           "publishedUtc": "2026-10-12T15:07:27Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
-          "title": "Mikel Arteta defends Arsenal after Piero Hincapié, Martin Zubimendi injuries",
-          "description": "Mikel Arteta has defended Arsenal's training programme after confirming Piero Hincapié and Martín Zubimendi suffered \"far from ideal\" injuries in a post-match session on Saturday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729650_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T15:08:33Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9505,7 +9513,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.855Z",
+      "updatedUtc": "2026-10-14T18:28:25.455Z",
       "matches": [
         {
           "id": "401882860",
@@ -11543,6 +11551,16 @@
           "transfer": true
         },
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50180336/jose-mourinho-backs-vinicius-junior-rediscover-top-form-real-madrid",
+          "title": "José Mourinho backs Vinícius Júnior to rediscover top form at Real Madrid",
+          "description": "Real Madrid coach José Mourinho believes it's only a question of time before Vinícius Júnior returns to top form.",
+          "url": "https://www.espn.com/soccer/story/_/id/50180336/jose-mourinho-backs-vinicius-junior-rediscover-top-form-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730537_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-14T17:07:43Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50175667/real-madrid-jose-mourinho-media-snub-villarreal-say",
           "title": "Real Madrid's Mourinho on media snub post-Villarreal: 'Watch first minute of game'",
           "description": "José Mourinho has refused to explain why he skipped his post-match news conference after Real Madrid's 1-0 win over Villarreal,",
@@ -11759,16 +11777,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50147316/rayo-vallecano-vs-athletic-club-suspended-fans-launch-paper-plane-protest",
           "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728643_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-10T19:42:11Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50142917/mourinho-wants-play-vinicius-jr-back-form",
-          "title": "Lowe: Mourinho wants to play Vinícius Jr. back into form",
-          "description": "Lowe: Mourinho wants to play Vinícius Jr. back into form",
-          "url": "https://www.espn.com/video/clip/_/id/50142917/mourinho-wants-play-vinicius-jr-back-form",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Lowe_Mourinho_wants_to_play_Vinicius_Jr_back_into_form/dm_261009_Lowe_Mourinho_wants_to_play_Vinicius_Jr_back_into_form.jpg",
-          "publishedUtc": "2026-10-09T22:13:16Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12517,7 +12525,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.894Z",
+      "updatedUtc": "2026-10-14T18:28:25.384Z",
       "matches": [
         {
           "id": "401874947",
@@ -15488,7 +15496,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.863Z",
+      "updatedUtc": "2026-10-14T18:28:25.505Z",
       "matches": [
         {
           "id": "401884799",
@@ -18485,7 +18493,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.942Z",
+      "updatedUtc": "2026-10-14T18:28:25.587Z",
       "matches": [
         {
           "id": "401876458",
@@ -21471,7 +21479,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-14T13:34:11.954Z",
+      "updatedUtc": "2026-10-14T18:28:25.535Z",
       "matches": [
         {
           "id": "401861118",
@@ -25163,7 +25171,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T13:34:11.993Z",
+      "updatedUtc": "2026-10-14T18:28:25.658Z",
       "matches": [
         {
           "id": "761871",
@@ -28292,7 +28300,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-14T13:34:12.026Z",
+      "updatedUtc": "2026-10-14T18:28:25.873Z",
       "matches": [
         {
           "id": "760415",
@@ -31671,6 +31679,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50182058/fifa-set-change-rules-folarin-balogun-world-cup-red-card-reversal",
+          "title": "FIFA set to change rules that led to Folarin Balogun World Cup red card reversal - sources",
+          "description": "FIFA is set to amend its rules to prevent a repeat of the controversial reversal of the World Cup suspension issued to Folarin Balogun, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50182058/fifa-set-change-rules-folarin-balogun-world-cup-red-card-reversal",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-14T17:10:39Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
           "title": "FIFA to propose sizable association payout bump from $10M to $25M",
           "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
@@ -31857,16 +31875,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50077965/france-italy-zinedine-zidane-world-cup-final-marco-materazzi",
           "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724560_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-01T18:36:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-          "title": "Pochettino labels Man City's charges as a 'period of deception'",
-          "description": "Pochettino labels Man City's charges as a 'period of deception'",
-          "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
-          "publishedUtc": "2026-09-29T13:24:04Z",
           "source": "ESPN",
           "transfer": false
         }
