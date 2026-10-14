@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-14T01:03:45.760Z",
+  "updatedUtc": "2026-10-14T07:25:38.865Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.527Z",
+      "updatedUtc": "2026-10-14T07:25:38.233Z",
       "matches": [
         {
           "id": "401915445",
@@ -2309,12 +2309,102 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50178566/irankunda-records-assist-ucl-debut",
+          "title": "Irankunda records an assist in his UCL debut",
+          "description": "Nestory Irankunda whips in a perfect ball for Luis Suarez to finish off in Sporting CP's 2-0 win over Lens in the Champions League.",
+          "url": "https://www.espn.com/video/clip/_/id/50178566/irankunda-records-assist-ucl-debut",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_UCL_Highlight_Irankunda_records_an_assist_in_his_UCL_debut_20261014_AUS_ONLY/dm_261013_UCL_Highlight_Irankunda_records_an_assist_in_his_UCL_debut_20261014_AUS_ONLY.jpg",
+          "publishedUtc": "2026-10-14T01:55:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50178006/man-united-falter-ucl-loss-atletico",
+          "title": "Man United falter in UCL loss to Atlético",
+          "description": "Manchester United's winless run extends to a fifth match as pressure builds on Michael Carrick after a 2-0 loss to Atlético Madrid in the Champions League.",
+          "url": "https://www.espn.com/video/clip/_/id/50178006/man-united-falter-ucl-loss-atletico",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_UCL_Highlight_Man_United_falter_in_UCL_loss_to_Atletico_20261014_AUS_ONLY/dm_261013_UCL_Highlight_Man_United_falter_in_UCL_loss_to_Atletico_20261014_AUS_ONLY.jpg",
+          "publishedUtc": "2026-10-14T00:42:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50177588/peter-gulacsi-misses-champions-league-game-armed-home-invasion",
+          "title": "Péter Gulácsi misses Champions League game due to armed home invasion",
+          "description": "Villarreal goalkeeper Péter Gulácsi missed his team's Champions League game against Napoli on Tuesday because of an armed home invasion at his house, the club said.",
+          "url": "https://www.espn.com/soccer/story/_/id/50177588/peter-gulacsi-misses-champions-league-game-armed-home-invasion",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730392_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T23:19:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50177584/flick-barcelona-galatasaray-perfect-start-champions-league",
+          "title": "Flick urges caution as Barcelona extend perfect start with Champions League win",
+          "description": "Hansi Flick warned that football can change quickly, even as Barcelona extended their winning start to 10 matches with a Champions League victory on Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50177584/flick-barcelona-galatasaray-perfect-start-champions-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730384_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T23:16:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
+          "title": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
+          "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
+          "url": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T23:03:43Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50177387/simeone-alvarez-closer-atleti-wants",
+          "title": "Simeone says Álvarez getting closer what Atleti wants to see",
+          "description": "Diego Simeone praised Julián Álvarez in Atlético Madrid's 2-0 Champions League win over Man United, saying he is getting closer to the player we want to see.",
+          "url": "https://www.espn.com/soccer/story/_/id/50177387/simeone-alvarez-closer-atleti-wants",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730383_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T23:33:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50177357/arsenal-showed-strength-depth-lille-win-viktor-gyokeres-concern",
+          "title": "Arsenal showed strength in depth in Lille win, but Gyökeres is a concern",
+          "description": "Arsenal's substitutes made the difference once again, but Mikel Arteta's side still have questions as tougher tests await.",
+          "url": "https://www.espn.com/soccer/story/_/id/50177357/arsenal-showed-strength-depth-lille-win-viktor-gyokeres-concern",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730378_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-14T00:37:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50177355/arteta-labels-arsenal-second-half-vs-lille-joy-watch",
+          "title": "Arteta labels Arsenal's second half vs. Lille as 'joy to watch'",
+          "description": "Arteta labels Arsenal's second half vs. Lille as 'joy to watch'",
+          "url": "https://www.espn.com/video/clip/_/id/50177355/arteta-labels-arsenal-second-half-vs-lille-joy-watch",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_Arteta_labels_Arsenals_second_half_vs_Lille_as_joy_to_watch/dm_261013_Arteta_labels_Arsenals_second_half_vs_Lille_as_joy_to_watch.jpg",
+          "publishedUtc": "2026-10-13T22:21:10Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50177274/lisandro-martinez-wrong-person-criticise-manchester-united-hierarchy",
+          "title": "Moreno: Lisandro Martinez is the wrong person to criticise Manchester United hierarchy",
+          "description": "Moreno: Lisandro Martinez is the wrong person to criticise Manchester United hierarchy",
+          "url": "https://www.espn.com/video/clip/_/id/50177274/lisandro-martinez-wrong-person-criticise-manchester-united-hierarchy",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_COM_SOC_Analysis_Moreno_Lisandro_Martinez_is_the_wrong_person_to_criticise_Manchester_United_hiera/dm_261013_COM_SOC_Analysis_Moreno_Lisandro_Martinez_is_the_wrong_person_to_criticise_Manchester_United_hiera.jpg",
+          "publishedUtc": "2026-10-13T22:10:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401915412",
           "title": "Pressure builds on Michael Carrick as 10-man Man United slip to 2-0 defeat to Atlético Madrid",
           "description": "Manchester United's winless run extended to a fifth match as Michael Carrick's side made a nightmare start and lost Leny Yoro to a red card in Tuesday's 2-0 Champions League defeat at Atletico Madrid.",
           "url": "http://www.espn.com/soccer/report/_/gameId/401915412",
           "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730306_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T21:56:24Z",
+          "publishedUtc": "2026-10-13T22:08:07Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2455,96 +2545,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge",
           "imageUrl": "https://a.espncdn.com/photo/2026/0711/r1687762_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-13T06:14:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50168630/man-utd-players-hungry-put-things-right-vs-atletico",
-          "title": "Carrick: Man Utd players hungry to 'put things right' vs. Atletico",
-          "description": "Carrick: Man Utd players hungry to 'put things right' vs. Atletico",
-          "url": "https://www.espn.com/video/clip/_/id/50168630/man-utd-players-hungry-put-things-right-vs-atletico",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Carrick_Man_Utd_players_hungry_to_put_things_right_vs_Atletico/dm_261012_Carrick_Man_Utd_players_hungry_to_put_things_right_vs_Atletico.jpg",
-          "publishedUtc": "2026-10-12T20:45:57Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50168076/neuer-bayern-urbig-start-champions-league",
-          "title": "Neuer out for Bayern as Urbig to get start in Champions League",
-          "description": "Bayern Munich head coach Vincent Kompany has revealed veteran goalkeeper Manuel Neuer will be sidelined for Tuesday night's Champions League trip to Viking.",
-          "url": "https://www.espn.com/soccer/story/_/id/50168076/neuer-bayern-urbig-start-champions-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729805_1024x576_16-9.jpg",
-          "publishedUtc": "2026-10-12T19:20:40Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50167880/carrick-backs-man-united-ucl-rebound-tough-spell",
-          "title": "Carrick backs Man United for UCL rebound amid challenging spell",
-          "description": "Michael Carrick said Manchester United will turn things around ahead of their Champions League game at Atlético Madrid on Tuesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50167880/carrick-backs-man-united-ucl-rebound-tough-spell",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729796_1024x576_16-9.jpg",
-          "publishedUtc": "2026-10-12T20:46:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
-          "title": "'Never happened in seven years!' - Arteta confirms double injury blow",
-          "description": "'Never happened in seven years!' - Arteta confirms double injury blow",
-          "url": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610.jpg",
-          "publishedUtc": "2026-10-12T15:07:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166292/arsenal-gabriel-ready-take-another-penalty-champions-league-final-miss",
-          "title": "Arsenal's Gabriel ready to take another penalty despite Champions League final miss",
-          "description": "Gabriel Magalhães has said he is ready to take another penalty for Arsenal despite his crucial miss in last season's Champions League Final.",
-          "url": "https://www.espn.com/soccer/story/_/id/50166292/arsenal-gabriel-ready-take-another-penalty-champions-league-final-miss",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0912/r1715273_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T18:38:53Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50165977/manchester-united-strong-team-recent-results",
-          "title": "Simeone: Manchester United are a strong team despite recent results",
-          "description": "Simeone: Manchester United are a strong team despite recent results",
-          "url": "https://www.espn.com/video/clip/_/id/50165977/manchester-united-strong-team-recent-results",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Simeone_Manchester_United_are_a_strong_team_despite_recent_results/dm_261012_Simeone_Manchester_United_are_a_strong_team_despite_recent_results.jpg",
-          "publishedUtc": "2026-10-12T13:38:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50165652/atletico-madrid-diego-simeone-man-united-creating-danger",
-          "title": "Atlético Madrid's Simeone on Man United: 'They are still creating danger'",
-          "description": "Atlético Madrid coach Diego Simeone has insisted that Manchester United are still a dangerous opponent despite a run of form which has left the club mid-table in the Premier League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50165652/atletico-madrid-diego-simeone-man-united-creating-danger",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0827/r1707853_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T14:11:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50159355/anfield-win-mean-man-city-punished",
-          "title": "Dawson: Anfield win could mean nothing if Man City are punished",
-          "description": "Dawson: Anfield win could mean nothing if Man City are punished",
-          "url": "https://www.espn.com/video/clip/_/id/50159355/anfield-win-mean-man-city-punished",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Dawson_Three_points_vs_Liverpool_could_be_taken_off_Manchester_City/dm_261011_Dawson_Three_points_vs_Liverpool_could_be_taken_off_Manchester_City.jpg",
-          "publishedUtc": "2026-10-11T18:38:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50159327/well-get-ai-referee-liverpool-vs-manchester-city",
-          "title": "Nicol: We might as well get AI to referee Liverpool vs. Manchester City",
-          "description": "Nicol: We might as well get AI to referee Liverpool vs. Manchester City",
-          "url": "https://www.espn.com/video/clip/_/id/50159327/well-get-ai-referee-liverpool-vs-manchester-city",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Nicol_We_might_as_well_get_AI_to_referee_Liverpool_vs_Manchester_City/dm_261011_Nicol_We_might_as_well_get_AI_to_referee_Liverpool_vs_Manchester_City.jpg",
-          "publishedUtc": "2026-10-11T18:12:10Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3295,7 +3295,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.482Z",
+      "updatedUtc": "2026-10-14T07:25:38.356Z",
       "matches": [
         {
           "id": "401915585",
@@ -6529,7 +6529,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.711Z",
+      "updatedUtc": "2026-10-14T07:25:38.345Z",
       "matches": [
         {
           "id": "401879268",
@@ -8522,13 +8522,33 @@
       "news": [
         {
           "id": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
-          "title": "Transfer rumors, news: Barcelona, Real Madrid scout Erling Haaland at Anfield",
-          "description": "Barcelona and Real Madrid continue to keep tabs on Erling Haaland, while Chelsea growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+          "title": "Transfer rumors, news: Chelsea confident in January move for Scott",
+          "description": "Chelsea are growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730042_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T21:48:22Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730398_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T23:32:19Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
+          "title": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
+          "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
+          "url": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-13T23:03:43Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50177357/arsenal-showed-strength-depth-lille-win-viktor-gyokeres-concern",
+          "title": "Arsenal showed strength in depth in Lille win, but Gyökeres is a concern",
+          "description": "Arsenal's substitutes made the difference once again, but Mikel Arteta's side still have questions as tougher tests await.",
+          "url": "https://www.espn.com/soccer/story/_/id/50177357/arsenal-showed-strength-depth-lille-win-viktor-gyokeres-concern",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730378_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-14T00:37:21Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50174986/manchester-city-deserved-trophies-psg-boss-luis-enrique",
@@ -8596,7 +8616,7 @@
           "description": "Man United fans go from thinking the team will win the Premier League to thinking the sky is falling. The truth is in the middle and it's unlikely to shift.",
           "url": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
           "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729894_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T08:28:35Z",
+          "publishedUtc": "2026-10-14T03:22:23Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8737,26 +8757,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50165375/ten-arrests-police-officer-injured-liverpool-vs-man-city",
           "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729621_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-12T11:53:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
-          "title": "Why did Man City fans bring inflatable bananas to Anfield?",
-          "description": "At Anfield on Sunday, Man City fans waved hundreds of inflatable bananas, but how do they relate to the club's guilty verdict?",
-          "url": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T12:31:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50164897/liverpool-virgil-van-dijk-dont-view-man-city-rivalry-differently-guilty-verdict",
-          "title": "Liverpool's Virgil van Dijk: Don't view Man City rivalry differently despite guilty verdict",
-          "description": "Virgil van Dijk has said he does not view the rivalry between Liverpool and Manchester City differently in light of the latter's guilty verdict but admitted he will share his opinion on the matter when the process has concluded.",
-          "url": "https://www.espn.com/soccer/story/_/id/50164897/liverpool-virgil-van-dijk-dont-view-man-city-rivalry-differently-guilty-verdict",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729607_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T11:00:06Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9506,7 +9506,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.681Z",
+      "updatedUtc": "2026-10-14T07:25:38.421Z",
       "matches": [
         {
           "id": "401882860",
@@ -11534,16 +11534,6 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
-          "title": "Transfer rumors, news: Barcelona, Real Madrid scout Erling Haaland at Anfield",
-          "description": "Barcelona and Real Madrid continue to keep tabs on Erling Haaland, while Chelsea growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730042_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T21:48:22Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50175667/real-madrid-jose-mourinho-media-snub-villarreal-say",
           "title": "Real Madrid's Mourinho on media snub post-Villarreal: 'Watch first minute of game'",
           "description": "José Mourinho has refused to explain why he skipped his post-match news conference after Real Madrid's 1-0 win over Villarreal,",
@@ -11630,16 +11620,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50156871/elche-vs-celta-vigo-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/84fb38d2-2cbf-4b3c-ac25-0311dc6868dc/84fb38d2-2cbf-4b3c-ac25-0311dc6868dc.jpg",
           "publishedUtc": "2026-10-11T13:59:57Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50152014/vinicius-junior-dramatic-night-headlines-win-vs-villarreal",
-          "title": "Vinicius Junior's dramatic night headlines win vs. Villarreal",
-          "description": "Alex Kirkland breaks down the turn of events from Vinicius Junior's night in Real Madrid's 1-nil win against Villarreal.",
-          "url": "https://www.espn.com/video/clip/_/id/50152014/vinicius-junior-dramatic-night-headlines-win-vs-villarreal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Vinicius_Juniors_dramatic_night_headlines_win_vs_Villarreal/dm_261010_Vinicius_Juniors_dramatic_night_headlines_win_vs_Villarreal.jpg",
-          "publishedUtc": "2026-10-10T23:53:14Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11772,6 +11752,26 @@
           "publishedUtc": "2026-10-10T19:42:11Z",
           "source": "ESPN",
           "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50142917/mourinho-wants-play-vinicius-jr-back-form",
+          "title": "Lowe: Mourinho wants to play Vinícius Jr. back into form",
+          "description": "Lowe: Mourinho wants to play Vinícius Jr. back into form",
+          "url": "https://www.espn.com/video/clip/_/id/50142917/mourinho-wants-play-vinicius-jr-back-form",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Lowe_Mourinho_wants_to_play_Vinicius_Jr_back_into_form/dm_261009_Lowe_Mourinho_wants_to_play_Vinicius_Jr_back_into_form.jpg",
+          "publishedUtc": "2026-10-09T22:13:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
+          "title": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
+          "description": "Chelsea are reporting looking at signing Frenkie de Jong from Barcelona. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728422_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-09T21:34:28Z",
+          "source": "ESPN",
+          "transfer": true
         }
       ],
       "leaders": {
@@ -12518,7 +12518,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.645Z",
+      "updatedUtc": "2026-10-14T07:25:38.516Z",
       "matches": [
         {
           "id": "401874947",
@@ -15489,7 +15489,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.611Z",
+      "updatedUtc": "2026-10-14T07:25:38.633Z",
       "matches": [
         {
           "id": "401884799",
@@ -18486,7 +18486,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.577Z",
+      "updatedUtc": "2026-10-14T07:25:38.865Z",
       "matches": [
         {
           "id": "401876458",
@@ -21472,7 +21472,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-14T01:03:45.550Z",
+      "updatedUtc": "2026-10-14T07:25:38.703Z",
       "matches": [
         {
           "id": "401861118",
@@ -25164,7 +25164,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-14T01:03:45.760Z",
+      "updatedUtc": "2026-10-14T07:25:38.758Z",
       "matches": [
         {
           "id": "761871",
@@ -28293,7 +28293,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-14T01:03:45.504Z",
+      "updatedUtc": "2026-10-14T07:25:38.762Z",
       "matches": [
         {
           "id": "760415",
@@ -31672,6 +31672,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
+          "title": "FIFA to propose sizable association payout bump from $10M to $25M",
+          "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
+          "url": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-14T02:48:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50173561/netflix-buys-2030-world-cup-broadcast-rights-cohost-defending-champion-spain",
           "title": "Netflix buys 2030 World Cup broadcast rights in co-host Spain",
           "description": "Netflix bought exclusive rights to broadcast the 2030 World Cup in co-host Spain on Tuesday in a deal that lets a free-to-air public broadcaster show games each day including the ",
@@ -31858,16 +31868,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
           "publishedUtc": "2026-09-29T13:24:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
-          "title": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
-          "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
-          "url": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T18:29:28Z",
           "source": "ESPN",
           "transfer": false
         }
