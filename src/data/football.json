@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-15T11:15:30.169Z",
+  "updatedUtc": "2026-10-15T16:46:43.634Z",
   "competitions": [
     {
       "config": {
@@ -17,56 +17,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:29.918Z",
+      "updatedUtc": "2026-10-15T16:46:43.132Z",
       "matches": [
-        {
-          "id": "401915444",
-          "utc": "2026-09-10T16:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "436",
-            "name": "Fenerbahce",
-            "abbreviation": "FEN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
-          },
-          "away": {
-            "id": "104",
-            "name": "AS Roma",
-            "abbreviation": "ROMA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-          },
-          "venue": "Şükrü Saracoğlu Stadium, Istanbul",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915422",
-          "utc": "2026-09-10T16:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "148",
-            "name": "PSV",
-            "abbreviation": "PSV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
-          },
-          "away": {
-            "id": "493",
-            "name": "Shakhtar",
-            "abbreviation": "SHK",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png"
-          },
-          "venue": "Philips Stadion, Eindhoven",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401915443",
           "utc": "2026-09-10T19:00Z",
@@ -2297,6 +2249,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
+          "title": "UCL Matchday 2: Viking FK and PSG impress; Man United a mess",
+          "description": "The Chaaaaaampions! Europe's top competition returned with a ton of goals, a ton of big results and plenty to talk about. Let's start with the tiny Norwegian team that gave Bayern Munich a fright.",
+          "url": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731104_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T14:17:58Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50188084/dembele-jokes-holidays-psg-win-man-city",
+          "title": "Dembélé jokes he might ask for more holidays after PSG's win at Man City",
+          "description": "Ousmane Dembélé joked he might ask coach Luis Enrique for more time off after starring in PSG's 4-2 win at Manchester City in the Champions League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50188084/dembele-jokes-holidays-psg-win-man-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730795_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T11:54:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50187942/rfef-showed-no-shame-vinicius-ban-timing",
+          "title": "Mourinho: RFEF showed no shame over Vinicius ban timing",
+          "description": "Mourinho: RFEF showed no shame over Vinicius ban timing",
+          "url": "https://www.espn.com/video/clip/_/id/50187942/rfef-showed-no-shame-vinicius-ban-timing",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_COM_SOC_PRESSER_Mourinho_RFEF_showed_no_shame_over_Vinicius_ban_timing_2026_10_15/dm_261015_COM_SOC_PRESSER_Mourinho_RFEF_showed_no_shame_over_Vinicius_ban_timing_2026_10_15.jpg",
+          "publishedUtc": "2026-10-15T10:36:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50187870/vinicius-junior-angry-vows-return-top-real-madrid-form",
+          "title": "Vinícius Júnior 'angry,' vows to return to top Real Madrid form",
+          "description": "Real Madrid forward Vinícius Júnior admits he is \"angry\" with himself and has vowed to return to top form.",
+          "url": "https://www.espn.com/soccer/story/_/id/50187870/vinicius-junior-angry-vows-return-top-real-madrid-form",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731060_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T10:04:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50187548/will-wirtz-gain-confidence-liverpool-victory-vs-lask",
           "title": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
           "description": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
@@ -2493,46 +2485,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50184341/man-city-compete-psg-champions-league-gold-standard",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730843_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-14T22:56:40Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915414",
-          "title": "Real Madrid's late rally stuns Roma in 7-goal thriller",
-          "description": "Real Madrid scored three goals in seven minutes, all from corner kicks, to mount a dramatic comeback and claim a 4-3 win at AS Roma in the Champions League on Wednesday.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915414",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730839_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T22:21:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915407",
-          "title": "PSG hold off Man City's Haaland-inspired fightback",
-          "description": "Pep Guardiola's return ended in defeat on Wednesday as Manchester City lost 4-2 to Paris Saint-Germain in their first home match since being found guilty of serious financial irregularities.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915407",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730833_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T21:34:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50184460/erling-haaland-breaks-lionel-messi-record-goal-paris-saint-germain",
-          "title": "Erling Haaland breaks Lionel Messi record with goal against Paris Saint-Germain",
-          "description": "Erling Haaland broke Lionel Messi's record to be the youngest player to score 60 Champions League goals in Manchester City's clash with Paris Saint-Germain.",
-          "url": "https://www.espn.com/soccer/story/_/id/50184460/erling-haaland-breaks-lionel-messi-record-goal-paris-saint-germain",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730845_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T21:11:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50168898/uefa-champions-league-live-updates-manchester-city-paris-saint-germain-liverpool-real-madrid-roma",
-          "title": "Champions League recap: PSG score four past Man City, Madrid with comeback vs. Roma",
-          "description": "Paris Saint-Germain struck four past Manchester City while Real Madrid got a huge comeback against AS Roma on a Wednesday full of UEFA Champions League action.",
-          "url": "https://www.espn.com/soccer/story/_/id/50168898/uefa-champions-league-live-updates-manchester-city-paris-saint-germain-liverpool-real-madrid-roma",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730795_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T04:49:15Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3284,7 +3236,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:29.857Z",
+      "updatedUtc": "2026-10-15T16:46:43.193Z",
       "matches": [
         {
           "id": "401915585",
@@ -3515,8 +3467,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
           },
           "venue": "Municipal Stadium-Poznan, Poznan",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "1'"
         },
         {
           "id": "401915566",
@@ -3555,8 +3511,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
           },
           "venue": "Stadion Z'dezele, Celje",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "1'"
         },
         {
           "id": "401915568",
@@ -3575,8 +3535,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
           },
           "venue": "Red Bull Arena Salzburg, Salzburg",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "1'"
         },
         {
           "id": "401915567",
@@ -3595,8 +3559,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png"
           },
           "venue": "Generali Arena, Prague",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "2'"
         },
         {
           "id": "401915575",
@@ -6518,7 +6486,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:30.061Z",
+      "updatedUtc": "2026-10-15T16:46:43.338Z",
       "matches": [
         {
           "id": "401879268",
@@ -8510,6 +8478,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50189608/moises-caicedo-determined-repay-faith-shown-chelsea-manager-xabi-alonso",
+          "title": "Moisés Caicedo determined to repay faith shown by Chelsea manager Xabi Alonso",
+          "description": "Moisés Caicedo is determined to repay the faith shown in him by Chelsea boss Xabi Alonso and become more of a leader on the pitch.",
+          "url": "https://www.espn.com/soccer/story/_/id/50189608/moises-caicedo-determined-repay-faith-shown-chelsea-manager-xabi-alonso",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731184_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T16:13:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50188572/marc-guehi-hails-man-city-unity-amid-financial-charges-fallout",
+          "title": "Marc Guéhi hails Man City unity amid financial charges fallout",
+          "description": "Marc Guéhi hailed Manchester City's unity in the face of adversity after a spirited fightback in the club's first home match since being found guilty of multiple breaches of the Premier League's financial regulations.",
+          "url": "https://www.espn.com/soccer/story/_/id/50188572/marc-guehi-hails-man-city-unity-amid-financial-charges-fallout",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731101_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T13:25:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50187937/man-united-circus-amid-lisandro-martinez-rant-roy-keane",
+          "title": "Man United 'a circus' amid Lisandro Martínez rant - Roy Keane",
+          "description": "Roy Keane has branded Manchester United a \"circus\" following Lisandro Martínez's outburst against the club's hierarchy.",
+          "url": "https://www.espn.com/soccer/story/_/id/50187937/man-united-circus-amid-lisandro-martinez-rant-roy-keane",
+          "imageUrl": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T10:35:17Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
           "title": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
           "description": "Lisandro Martínez's future at Manchester United is in question after he pointed fingers at the club's board. Transfer Talk has the latest.",
@@ -8545,7 +8543,7 @@
           "description": "We know what a dominant scorer Erling Haaland is, but it often goes unnoticed how good he is at avoiding a striker's worst enemy: the offside trap.",
           "url": "https://www.espn.com/soccer/story/_/id/50173300/erling-haaland-goals-offside-trap-premier-league-man-city-john-muller",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730638_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T07:38:08Z",
+          "publishedUtc": "2026-10-15T12:51:23Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8716,36 +8714,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50172881/enzo-maresca-man-city-celebration-anfield-do-want-us-do",
           "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730084_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-13T11:58:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166633/premier-league-overreactions-takeaways-first-games-post-international-break-man-city-liverpool-man-united",
-          "title": "Premier League overreactions: Takeaways from first games post-international break",
-          "description": "After a three-week intermission, the Premier League returned with a bang last weekend. Will Man City eventually crumble under the pressure? Is this the real Man United? Let's overreact!",
-          "url": "https://www.espn.com/soccer/story/_/id/50166633/premier-league-overreactions-takeaways-first-games-post-international-break-man-city-liverpool-man-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729833_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T17:46:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/espn/story/_/id/50171697/hull-winger-mohamed-belloumi-last-laugh-pundits-mockery",
-          "title": "Hull winger Mohamed Belloumi has the last laugh after pundits' mockery",
-          "description": "Mohamed Belloumi may have been the brunt of some studio jokes during the Premier League weekend, but the winger again proved why he could be the man to keep Hull City in the top flight this season.",
-          "url": "https://www.espn.com/espn/story/_/id/50171697/hull-winger-mohamed-belloumi-last-laugh-pundits-mockery",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730035_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T07:07:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
-          "title": "Lampard: Coventry 'feet on the ground' after Newcastle win",
-          "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730029_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T06:40:13Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9495,7 +9463,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:30.110Z",
+      "updatedUtc": "2026-10-15T16:46:43.452Z",
       "matches": [
         {
           "id": "401882860",
@@ -10015,7 +9983,7 @@
         },
         {
           "id": "401882846",
-          "utc": "2026-10-17T16:30Z",
+          "utc": "2026-10-17T16:00Z",
           "phase": "2026 27 Laliga",
           "home": {
             "id": "244",
@@ -11528,7 +11496,7 @@
           "description": "It's become a tradition in recent years for Barcelona to add the logo of top music stars to their jerseys when they face Real Madrid in El Clásico.",
           "url": "https://www.espn.com/soccer/story/_/id/50180425/tyler-creator-joins-stars-appear-barcelona-clasico-kit-coldplay-olivia-rodrigo-ed-sheeran",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730559_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T07:10:27Z",
+          "publishedUtc": "2026-10-15T13:39:06Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12507,7 +12475,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:30.031Z",
+      "updatedUtc": "2026-10-15T16:46:43.523Z",
       "matches": [
         {
           "id": "401874947",
@@ -15478,7 +15446,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:29.987Z",
+      "updatedUtc": "2026-10-15T16:46:43.490Z",
       "matches": [
         {
           "id": "401884799",
@@ -18475,7 +18443,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:29.956Z",
+      "updatedUtc": "2026-10-15T16:46:43.384Z",
       "matches": [
         {
           "id": "401876458",
@@ -20497,6 +20465,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50188084/dembele-jokes-holidays-psg-win-man-city",
+          "title": "Dembélé jokes he might ask for more holidays after PSG's win at Man City",
+          "description": "Ousmane Dembélé joked he might ask coach Luis Enrique for more time off after starring in PSG's 4-2 win at Manchester City in the Champions League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50188084/dembele-jokes-holidays-psg-win-man-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730795_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T11:54:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50167074/lille-consider-legal-action-tiago-santos-ruptures-acl-tackle",
           "title": "Lille consider legal action after Tiago Santos ruptures ACL in tackle",
           "description": "Champions League club Lille said Monday they are considering legal action over an injury to defender Tiago Santos who is set to miss the rest of the season.",
@@ -20705,16 +20683,6 @@
           "publishedUtc": "2026-09-08T09:50:14Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49853186/giovanni-reyna-scores-first-goal-move-strasbourg",
-          "title": "Giovanni Reyna scores first goal since move to Strasbourg",
-          "description": "Giovanni Reyna scored his first goal since signing for Strasbourg as his new club trounced Troyes 6-2 on Sunday in Ligue 1.",
-          "url": "https://www.espn.com/soccer/story/_/id/49853186/giovanni-reyna-scores-first-goal-move-strasbourg",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0906/r1712519_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-06T22:56:52Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -21461,7 +21429,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-15T11:15:29.884Z",
+      "updatedUtc": "2026-10-15T16:46:43.535Z",
       "matches": [
         {
           "id": "401861118",
@@ -25153,7 +25121,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T11:15:30.169Z",
+      "updatedUtc": "2026-10-15T16:46:43.634Z",
       "matches": [
         {
           "id": "761871",
@@ -28303,7 +28271,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-15T11:15:29.896Z",
+      "updatedUtc": "2026-10-15T16:46:43.567Z",
       "matches": [
         {
           "id": "760415",
@@ -31682,12 +31650,32 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
+          "title": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
+          "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
+          "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T15:42:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
+          "title": "Gianni Infantino apologizes to FIFA Council, avoids key issues",
+          "description": "Gianni Infantino gave an apology to his toughest critics but no new details or documents on FIFA issues during FIFA council meetings Thursday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T15:41:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50182058/fifa-set-change-rules-folarin-balogun-world-cup-red-card-reversal",
           "title": "FIFA set to change rules that led to Folarin Balogun World Cup red card reversal - sources",
           "description": "FIFA is set to amend its rules to prevent a repeat of the controversial reversal of the World Cup suspension issued to Folarin Balogun, sources have told ESPN.",
           "url": "https://www.espn.com/soccer/story/_/id/50182058/fifa-set-change-rules-folarin-balogun-world-cup-red-card-reversal",
           "imageUrl": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T17:10:39Z",
+          "publishedUtc": "2026-10-15T13:41:22Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -31868,16 +31856,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50079068/from-usmnt-germany-why-club-coaches-taking-national-teams",
           "imageUrl": "https://a.espncdn.com/photo/2026/0806/r1698479_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-02T07:34:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50077965/france-italy-zinedine-zidane-world-cup-final-marco-materazzi",
-          "title": "Zidane set for Italy reunion with no 'regrets' about WC final headbutt",
-          "description": "Twenty years after being sent off in the 2006 World Cup final, Zinedine Zidane faces Italy again on Friday, this time in a suit as France's coach.",
-          "url": "https://www.espn.com/soccer/story/_/id/50077965/france-italy-zinedine-zidane-world-cup-final-marco-materazzi",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724560_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-01T18:36:34Z",
           "source": "ESPN",
           "transfer": false
         }
