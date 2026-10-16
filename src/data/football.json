@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-16T00:12:52.923Z",
+  "updatedUtc": "2026-10-16T06:59:07.506Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.614Z",
+      "updatedUtc": "2026-10-16T06:59:06.945Z",
       "matches": [
         {
           "id": "401915418",
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.642Z",
+      "updatedUtc": "2026-10-16T06:59:07.076Z",
       "matches": [
         {
           "id": "401915585",
@@ -5468,6 +5468,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50192400/martin-oneill-positive-celtic-europa-league-hopes-4-1-thrashing-benfica",
+          "title": "Martin O'Neill positive on Celtic Europa League hopes despite 4-1 thrashing to Benfica",
+          "description": "Martin O'Neill hailed Celtic's second-half display in the 4-1 Europa League defeat by Benfica which left them with no points from six in the league phase.",
+          "url": "https://www.espn.com/soccer/story/_/id/50192400/martin-oneill-positive-celtic-europa-league-hopes-4-1-thrashing-benfica",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731378_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T22:59:08Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50192316/marco-rose-privilege-lead-bournemouth-winning-first-ever-home-european-match",
+          "title": "Marco Rose: \"Privilege\" to lead Bournemouth after winning first-ever home European match",
+          "description": "Marco Rose said it was a \"privilege\" to lead Bournemouth to victory in their first-ever home match in Europe after Sturm Graz were beaten 3-0 at the Vitality Stadium.",
+          "url": "https://www.espn.com/soccer/story/_/id/50192316/marco-rose-privilege-lead-bournemouth-winning-first-ever-home-european-match",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731377_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T23:02:26Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401915571",
           "title": "Bournemouth beat Sturm Graz for dream European home debut",
           "description": "Bournemouth won their first European match at the Vitality Stadium as Sturm Graz were beaten 3-0 to maintain Marco Rose's perfect start in the Europa League.",
@@ -5673,26 +5693,6 @@
           "url": "https://www.espn.com/video/clip/_/id/49859683/mbappe-backs-best-world",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/dm_260907_Mbappe_backs_himself_as_the_best_in_the_world/dm_260907_Mbappe_backs_himself_as_the_best_in_the_world.jpg",
           "publishedUtc": "2026-09-07T14:29:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49824937/enzo-fernandez-winner",
-          "title": "Maresca: Enzo Fernandez is 'a winner'",
-          "description": "Maresca: Enzo Fernandez is 'a winner'",
-          "url": "https://www.espn.com/video/clip/_/id/49824937/enzo-fernandez-winner",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Maresca_Enzo_Fernandez_is_a_winner/dm_260904_Maresca_Enzo_Fernandez_is_a_winner.jpg",
-          "publishedUtc": "2026-09-04T13:35:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
-          "title": "Nicol: Liverpool won't finish in the top four",
-          "description": "Nicol: Liverpool won't finish in the top four",
-          "url": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
-          "publishedUtc": "2026-09-02T22:03:00Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -6445,7 +6445,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.783Z",
+      "updatedUtc": "2026-10-16T06:59:07.302Z",
       "matches": [
         {
           "id": "401879268",
@@ -9422,7 +9422,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.863Z",
+      "updatedUtc": "2026-10-16T06:59:07.432Z",
       "matches": [
         {
           "id": "401882860",
@@ -11450,6 +11450,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50192030/how-vinicius-junior-ban-helpful-real-madrid",
+          "title": "How Vinícius Júnior's ban could be helpful for Real Madrid",
+          "description": "How Vinícius Júnior's ban could be helpful for Real Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50192030/how-vinicius-junior-ban-helpful-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_How_Vinicius_Juniors_ban_could_be_helpful_for_Real_Madrid/dm_261015_How_Vinicius_Juniors_ban_could_be_helpful_for_Real_Madrid.jpg",
+          "publishedUtc": "2026-10-15T21:54:42Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50180425/tyler-creator-joins-stars-appear-barcelona-clasico-kit-coldplay-olivia-rodrigo-ed-sheeran",
           "title": "Tyler, The Creator joins stars to appear on Barcelona Clásico kit",
           "description": "It's become a tradition in recent years for Barcelona to add the logo of top music stars to their jerseys when they face Real Madrid in El Clásico.",
@@ -11676,16 +11686,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401882853",
           "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728779_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-10T19:24:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50148452/alaves-vs-atletico-madrid-game-highlights",
-          "title": "Alavés vs. Atletico Madrid - Game Highlights",
-          "description": "Watch the Game Highlights from Alavés vs. Atletico Madrid, 10/10/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50148452/alaves-vs-atletico-madrid-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/a9d11a0a-a064-46e3-8790-8d034534edfc/a9d11a0a-a064-46e3-8790-8d034534edfc.jpg",
-          "publishedUtc": "2026-10-10T16:23:19Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12434,7 +12434,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.752Z",
+      "updatedUtc": "2026-10-16T06:59:07.216Z",
       "matches": [
         {
           "id": "401875021",
@@ -15401,7 +15401,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.822Z",
+      "updatedUtc": "2026-10-16T06:59:07.388Z",
       "matches": [
         {
           "id": "401884799",
@@ -18398,7 +18398,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.720Z",
+      "updatedUtc": "2026-10-16T06:59:07.357Z",
       "matches": [
         {
           "id": "401876458",
@@ -21384,7 +21384,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-16T00:12:52.689Z",
+      "updatedUtc": "2026-10-16T06:59:07.329Z",
       "matches": [
         {
           "id": "401861118",
@@ -25076,7 +25076,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T00:12:52.923Z",
+      "updatedUtc": "2026-10-16T06:59:07.506Z",
       "matches": [
         {
           "id": "761871",
@@ -28226,7 +28226,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-16T00:12:52.679Z",
+      "updatedUtc": "2026-10-16T06:59:07.450Z",
       "matches": [
         {
           "id": "760415",
@@ -31610,7 +31610,7 @@
           "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
           "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
           "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T15:42:37Z",
+          "publishedUtc": "2026-10-15T22:14:46Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -31620,7 +31620,7 @@
           "description": "Gianni Infantino gave an apology to his toughest critics but no new details or documents on FIFA issues during FIFA council meetings Thursday.",
           "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
           "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T16:29:29Z",
+          "publishedUtc": "2026-10-15T23:39:04Z",
           "source": "ESPN",
           "transfer": false
         },
