@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-16T13:09:40.197Z",
+  "updatedUtc": "2026-10-16T17:55:23.006Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:39.960Z",
+      "updatedUtc": "2026-10-16T17:55:22.666Z",
       "matches": [
         {
           "id": "401915418",
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:39.946Z",
+      "updatedUtc": "2026-10-16T17:55:22.730Z",
       "matches": [
         {
           "id": "401915585",
@@ -6444,248 +6444,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:39.933Z",
+      "updatedUtc": "2026-10-16T17:55:22.831Z",
       "matches": [
-        {
-          "id": "401879268",
-          "utc": "2026-10-10T11:30Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "359",
-            "name": "Arsenal",
-            "abbreviation": "ARS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-          },
-          "away": {
-            "id": "357",
-            "name": "Leeds",
-            "abbreviation": "LEE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
-          },
-          "venue": "Emirates Stadium, London",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878776",
-          "utc": "2026-10-10T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "362",
-            "name": "Aston Villa",
-            "abbreviation": "AVL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-          },
-          "away": {
-            "id": "337",
-            "name": "Brentford",
-            "abbreviation": "BRE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-          },
-          "venue": "Villa Park, Birmingham",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878775",
-          "utc": "2026-10-10T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "363",
-            "name": "Chelsea",
-            "abbreviation": "CHE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-          },
-          "away": {
-            "id": "349",
-            "name": "Bournemouth",
-            "abbreviation": "BOU",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
-          },
-          "venue": "Stamford Bridge, London",
-          "status": "finished",
-          "score": {
-            "home": 5,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879265",
-          "utc": "2026-10-10T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "373",
-            "name": "Ipswich",
-            "abbreviation": "IPS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
-          },
-          "away": {
-            "id": "370",
-            "name": "Fulham",
-            "abbreviation": "FUL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
-          },
-          "venue": "Portman Road, Ipswich",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878772",
-          "utc": "2026-10-10T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "366",
-            "name": "Sunderland",
-            "abbreviation": "SUN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-          },
-          "away": {
-            "id": "331",
-            "name": "Brighton",
-            "abbreviation": "BHA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
-          },
-          "venue": "Stadium of Light, Sunderland",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878773",
-          "utc": "2026-10-10T16:30Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "360",
-            "name": "Man United",
-            "abbreviation": "MAN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
-          },
-          "away": {
-            "id": "367",
-            "name": "Spurs",
-            "abbreviation": "TOT",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
-          },
-          "venue": "Old Trafford, Manchester",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879266",
-          "utc": "2026-10-11T13:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "384",
-            "name": "C Palace",
-            "abbreviation": "CRY",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-          },
-          "away": {
-            "id": "393",
-            "name": "Nottm Forest",
-            "abbreviation": "NFO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
-          },
-          "venue": "Selhurst Park, London",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878774",
-          "utc": "2026-10-11T13:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "306",
-            "name": "Hull",
-            "abbreviation": "HUL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
-          },
-          "away": {
-            "id": "368",
-            "name": "Everton",
-            "abbreviation": "EVE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-          },
-          "venue": "The MKM Stadium, Hull",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879264",
-          "utc": "2026-10-11T15:30Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "364",
-            "name": "Liverpool",
-            "abbreviation": "LIV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
-          },
-          "away": {
-            "id": "382",
-            "name": "Man City",
-            "abbreviation": "MNC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-          },
-          "venue": "Anfield, Liverpool",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 3
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879267",
-          "utc": "2026-10-12T19:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "388",
-            "name": "Coventry",
-            "abbreviation": "COV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
-          },
-          "away": {
-            "id": "361",
-            "name": "Newcastle",
-            "abbreviation": "NEW",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
-          },
-          "venue": "Coventry Building Society Arena, Coventry",
-          "status": "finished",
-          "score": {
-            "home": 4,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401878771",
           "utc": "2026-10-17T11:30Z",
@@ -8085,6 +7845,206 @@
           "venue": "Tottenham Hotspur Stadium, London",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401879216",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "349",
+            "name": "Bournemouth",
+            "abbreviation": "BOU",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+          },
+          "away": {
+            "id": "306",
+            "name": "Hull",
+            "abbreviation": "HUL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+          },
+          "venue": "Vitality Stadium, Bournemouth",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879215",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "362",
+            "name": "Aston Villa",
+            "abbreviation": "AVL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+          },
+          "away": {
+            "id": "384",
+            "name": "C Palace",
+            "abbreviation": "CRY",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+          },
+          "venue": "Villa Park, Birmingham",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879214",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "337",
+            "name": "Brentford",
+            "abbreviation": "BRE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+          },
+          "away": {
+            "id": "382",
+            "name": "Man City",
+            "abbreviation": "MNC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+          },
+          "venue": "Gtech Community Stadium, Brentford",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879213",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "363",
+            "name": "Chelsea",
+            "abbreviation": "CHE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+          },
+          "away": {
+            "id": "364",
+            "name": "Liverpool",
+            "abbreviation": "LIV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+          },
+          "venue": "Stamford Bridge, London",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879212",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "368",
+            "name": "Everton",
+            "abbreviation": "EVE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+          },
+          "away": {
+            "id": "370",
+            "name": "Fulham",
+            "abbreviation": "FUL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
+          },
+          "venue": "Hill Dickinson Stadium, Liverpool",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879211",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "357",
+            "name": "Leeds",
+            "abbreviation": "LEE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+          },
+          "away": {
+            "id": "373",
+            "name": "Ipswich",
+            "abbreviation": "IPS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+          },
+          "venue": "Elland Road, Leeds",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879210",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "360",
+            "name": "Man United",
+            "abbreviation": "MAN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+          },
+          "away": {
+            "id": "388",
+            "name": "Coventry",
+            "abbreviation": "COV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+          },
+          "venue": "Old Trafford, Manchester",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401878748",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "361",
+            "name": "Newcastle",
+            "abbreviation": "NEW",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
+          },
+          "away": {
+            "id": "366",
+            "name": "Sunderland",
+            "abbreviation": "SUN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+          },
+          "venue": "St. James' Park, Newcastle-upon-Tyne",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401878747",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "393",
+            "name": "Nottm Forest",
+            "abbreviation": "NFO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+          },
+          "away": {
+            "id": "331",
+            "name": "Brighton",
+            "abbreviation": "BHA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+          },
+          "venue": "The City Ground, Nottingham",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879209",
+          "utc": "2026-12-05T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "367",
+            "name": "Spurs",
+            "abbreviation": "TOT",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+          },
+          "away": {
+            "id": "359",
+            "name": "Arsenal",
+            "abbreviation": "ARS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+          },
+          "venue": "Tottenham Hotspur Stadium, London",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -9421,7 +9381,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:40.175Z",
+      "updatedUtc": "2026-10-16T17:55:22.927Z",
       "matches": [
         {
           "id": "401882860",
@@ -11449,6 +11409,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
+          "title": "Flick confirms Raphinha and de Jong return for Barcelona",
+          "description": "Flick confirms Raphinha and de Jong return for Barcelona",
+          "url": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona.jpg",
+          "publishedUtc": "2026-10-16T17:17:45Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50196433/real-madrid-laliga-chief-resign-reference-nazi-propaganda",
+          "title": "Real Madrid want LaLiga chief out after he compared attacks on refs to Nazi propaganda",
+          "description": "Real Madrid want the LaLiga chief to resign after he compared the club's efforts to discredit referees with the propaganda techniques of the German Nazi regime.",
+          "url": "https://www.espn.com/soccer/story/_/id/50196433/real-madrid-laliga-chief-resign-reference-nazi-propaganda",
+          "imageUrl": "https://a.espncdn.com/photo/2024/0705/r1354706_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-16T15:11:09Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50195063/jadon-sancho-interest-getafe-made-final-offer-club-president",
           "title": "Jadon Sancho interest from Getafe: 'We made a final offer' - club president",
           "description": "Getafe president Ángel Torres has confirmed the club is interested in signing free agent Jadon Sancho.",
@@ -11665,26 +11645,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401882848",
           "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728872_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-10T21:43:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50150816/real-madrid-vs-villarreal-game-highlights",
-          "title": "Real Madrid vs. Villarreal - Game Highlights",
-          "description": "Watch the Game Highlights from Real Madrid vs. Villarreal, 10/10/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50150816/real-madrid-vs-villarreal-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/3251579c-38c7-4a0d-9cd3-3baeca01a942/3251579c-38c7-4a0d-9cd3-3baeca01a942.jpg",
-          "publishedUtc": "2026-10-10T21:06:47Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50150044/barcelona-record-start-anthony-gordon-gabriel-jesus",
-          "title": "Barcelona set record start as Gordon, Gabriel Jesus fill Raphinha void",
-          "description": "Hansi Flick praised the performances of Anthony Gordon and Gabriel Jesus after they stepped in for in-form Raphinha in Barcelona's 3-0 win over Getafe on Saturday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50150044/barcelona-record-start-anthony-gordon-gabriel-jesus",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728835_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-10T20:13:14Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12433,56 +12393,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:40.196Z",
+      "updatedUtc": "2026-10-16T17:55:22.843Z",
       "matches": [
-        {
-          "id": "401875021",
-          "utc": "2026-10-10T16:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "110",
-            "name": "Inter Milan",
-            "abbreviation": "INT",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-          },
-          "away": {
-            "id": "115",
-            "name": "Parma",
-            "abbreviation": "PAR",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
-          },
-          "venue": "San Siro, Milano",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401874754",
-          "utc": "2026-10-10T18:45Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "114",
-            "name": "Napoli",
-            "abbreviation": "NAP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-          },
-          "away": {
-            "id": "4057",
-            "name": "Frosinone",
-            "abbreviation": "FRO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-          },
-          "venue": "Stadio Diego Armando Maradona, Napoli",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 0
-          },
-          "note": "FT"
-        },
         {
           "id": "401874940",
           "utc": "2026-10-11T10:30Z",
@@ -14070,6 +13982,46 @@
           "venue": "Renato Dall'Ara, Bologna",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401874975",
+          "utc": "2026-12-05T14:00Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "4007",
+            "name": "Monza",
+            "abbreviation": "MON",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
+          },
+          "away": {
+            "id": "2572",
+            "name": "Como",
+            "abbreviation": "COMO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+          },
+          "venue": "U-Power Stadium, Monza",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401875023",
+          "utc": "2026-12-05T17:00Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "4057",
+            "name": "Frosinone",
+            "abbreviation": "FRO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+          },
+          "away": {
+            "id": "110",
+            "name": "Inter Milan",
+            "abbreviation": "INT",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+          },
+          "venue": "Stadio Benito Stirpe, Frosinone",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14421,6 +14373,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
+          "title": "Inter Milan rocked as captain Lautaro Martínez set to miss 7 games",
+          "description": "Inter Milan captain Lautaro Martínez will likely miss his team's next seven matches, including the derby against city rival AC Milan, with a hamstring injury.",
+          "url": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731694_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-16T16:48:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50179920/transfer-rumors-news-real-madrid-barcelona-chase-spurs-defender-porro",
           "title": "Transfer rumors, news: Liverpool eye move for Juventus' Kalulu",
           "description": "Liverpool are reportedly linked with a move for Juventus defender Pierre Kalulu. Transfer Talk has the latest.",
@@ -14637,16 +14599,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401874944",
           "imageUrl": "https://a.espncdn.com/photo/2026/0920/r1719672_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-20T23:14:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49977830/inter-milan-italy-great-sandro-mazzola-dies-83",
-          "title": "Inter Milan, Italy great Sandro Mazzola dies at 83: 'An eternal symbol'",
-          "description": "Inter Milan have paid tribute to one-club man and Italy great Sandro Mazzola after his death at the age of 83.",
-          "url": "https://www.espn.com/soccer/story/_/id/49977830/inter-milan-italy-great-sandro-mazzola-dies-83",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0919/r1718884_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-19T08:24:04Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15400,7 +15352,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:40.112Z",
+      "updatedUtc": "2026-10-16T17:55:22.958Z",
       "matches": [
         {
           "id": "401884799",
@@ -18397,7 +18349,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:40.048Z",
+      "updatedUtc": "2026-10-16T17:55:22.864Z",
       "matches": [
         {
           "id": "401876458",
@@ -21383,7 +21335,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-16T13:09:39.971Z",
+      "updatedUtc": "2026-10-16T17:55:22.867Z",
       "matches": [
         {
           "id": "401861118",
@@ -25075,7 +25027,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T13:09:40.160Z",
+      "updatedUtc": "2026-10-16T17:55:23.003Z",
       "matches": [
         {
           "id": "761871",
@@ -28225,7 +28177,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-16T13:09:40.152Z",
+      "updatedUtc": "2026-10-16T17:55:23.006Z",
       "matches": [
         {
           "id": "760415",
