@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-15T21:13:11.504Z",
+  "updatedUtc": "2026-10-16T00:12:52.923Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.223Z",
+      "updatedUtc": "2026-10-16T00:12:52.614Z",
       "matches": [
         {
           "id": "401915418",
@@ -2153,6 +2153,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50189050/shakhtar-donetsk-aek-athens-ukraine-russia-uefa-champions-league-gab-marcotti",
+          "title": "Shakhtar's Champions League win vs. AEK was more than just a game",
+          "description": "Shakhtar Donetsk haven't played at home since 2014 due to the war, and this season, their Champions League home games are at Chelsea's Stamford Bridge. Wednesday's win was a reminder of how absurd their situation is.",
+          "url": "https://www.espn.com/soccer/story/_/id/50189050/shakhtar-donetsk-aek-athens-ukraine-russia-uefa-champions-league-gab-marcotti",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731171_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T17:03:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
           "title": "UCL Matchday 2: Viking FK and PSG impress; Man United a mess",
           "description": "The Chaaaaaampions! Europe's top competition returned with a ton of goals, a ton of big results and plenty to talk about. Let's start with the tiny Norwegian team that gave Bayern Munich a fright.",
@@ -2379,16 +2389,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50183001/man-united-lisandro-martinez-comments-atletico-madrid",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730746_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-14T22:13:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50184341/man-city-compete-psg-champions-league-gold-standard",
-          "title": "Man City can't compete with PSG, the Champions League's gold standard",
-          "description": "In dismantling Man City at the Etihad, PSG strengthened their claim to be Europe's finest -- and perhaps the best UCL team of all time.",
-          "url": "https://www.espn.com/soccer/story/_/id/50184341/man-city-compete-psg-champions-league-gold-standard",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730843_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T22:56:40Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.195Z",
+      "updatedUtc": "2026-10-16T00:12:52.642Z",
       "matches": [
         {
           "id": "401915585",
@@ -5468,6 +5468,36 @@
       ],
       "news": [
         {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401915571",
+          "title": "Bournemouth beat Sturm Graz for dream European home debut",
+          "description": "Bournemouth won their first European match at the Vitality Stadium as Sturm Graz were beaten 3-0 to maintain Marco Rose's perfect start in the Europa League.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401915571",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731341_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T21:07:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50191633/pierre-sage-crystal-palace-really-far-expectations-lyon-defeat",
+          "title": "'Frustrated' Pierre Sage: Crystal Palace 'really far off' expectations in Lyon defeat",
+          "description": "Pierre Sage said Crystal Palace were \"really far off\" his expectations after suffering a 3-2 Europa League defeat away to his former side Lyon.",
+          "url": "https://www.espn.com/soccer/story/_/id/50191633/pierre-sage-crystal-palace-really-far-expectations-lyon-defeat",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731332_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T20:58:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50191336/milan-alphadjo-cisse-hat-trick-europa-league-rb-salzburg",
+          "title": "Milan's Cissè becomes Italy's youngest European hat-trick scorer",
+          "description": "Alphadjo Cissè made European history for Italy with his hat trick in AC Milan 's 4-0 thrashing of RB Salzburg in the UEFA Europa League on Thursday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50191336/milan-alphadjo-cisse-hat-trick-europa-league-rb-salzburg",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731316_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T19:57:02Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401915568",
           "title": "Cissè hat trick leads Milan to rout of Salzburg",
           "description": "Alphadjo Cissè scored a hat trick as AC Milan got their Europa League campaign up and running with a 4-0 win at RB Salzburg, who slipped to a first defeat of the season.",
@@ -5663,36 +5693,6 @@
           "url": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
           "publishedUtc": "2026-09-02T22:03:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49801733/spurs-had-worst-transfer-window",
-          "title": "Nicol: Spurs have had the worst transfer window",
-          "description": "Nicol: Spurs have had the worst transfer window",
-          "url": "https://www.espn.com/video/clip/_/id/49801733/spurs-had-worst-transfer-window",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Spurs_have_had_the_worst_transfer_window/dm_260902_Nicol_Spurs_have_had_the_worst_transfer_window.jpg",
-          "publishedUtc": "2026-09-02T10:20:37Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49751968/uefa-europa-league-draw-bournemouth-sunderland-set-face-ac-milan",
-          "title": "UEFA Europa League draw: Bournemouth, Sunderland set to face AC Milan",
-          "description": "AFC Bournemouth and Sunderland have both been drawn to face Italian giants AC Milan in this year's UEFA Europa League.",
-          "url": "https://www.espn.com/soccer/story/_/id/49751968/uefa-europa-league-draw-bournemouth-sunderland-set-face-ac-milan",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0828/r1708048_1296x729_16-9.jpg",
-          "publishedUtc": "2026-08-28T12:27:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49750984/uefa-europa-league-conference-league-draw-live-updates-blog-fixtures-bournemouth-crystal-palace-sunderland",
-          "title": "UEFA Europa, Conference League draws: Bournemouth, Sunderland to both face Milan, Brighton and Hearts get Monaco - as it happened",
-          "description": "The draws for the UEFA Europa League and the Conference League take place on Friday, and you can follow live with ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/49750984/uefa-europa-league-conference-league-draw-live-updates-blog-fixtures-bournemouth-crystal-palace-sunderland",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0828/r1708025_1296x729_16-9.jpg",
-          "publishedUtc": "2026-08-28T12:23:13Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -6445,7 +6445,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.398Z",
+      "updatedUtc": "2026-10-16T00:12:52.783Z",
       "matches": [
         {
           "id": "401879268",
@@ -8437,6 +8437,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50192054/arsenal-eberechi-eze-cristiano-ronaldo-ishowspeed-inspired-goal-celebration",
+          "title": "Arsenal's Eberechi Eze to perform Cristiano Ronaldo-inspired celebration after loss to IShowSpeed",
+          "description": "Eberechi Eze's next goal celebration has been determined by YouTuber IShowSpeed after the Arsenal forward was beaten by the influencer in an EA Sports FC battle.",
+          "url": "https://www.espn.com/soccer/story/_/id/50192054/arsenal-eberechi-eze-cristiano-ronaldo-ishowspeed-inspired-goal-celebration",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731342_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T22:18:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
+          "title": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
+          "description": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
+          "url": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd.jpg",
+          "publishedUtc": "2026-10-15T21:38:10Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+          "title": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
+          "description": "Florian Wirtz could end up returning to the Bundesliga, as Bayern Munich are keeping a close eye on his situation at Liverpool. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731333_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T20:54:08Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50191633/pierre-sage-crystal-palace-really-far-expectations-lyon-defeat",
+          "title": "'Frustrated' Pierre Sage: Crystal Palace 'really far off' expectations in Lyon defeat",
+          "description": "Pierre Sage said Crystal Palace were \"really far off\" his expectations after suffering a 3-2 Europa League defeat away to his former side Lyon.",
+          "url": "https://www.espn.com/soccer/story/_/id/50191633/pierre-sage-crystal-palace-really-far-expectations-lyon-defeat",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731332_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T20:58:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50188017/lisandro-martinez-man-united-comments-interview-michael-carrick-meeting",
           "title": "Man United's Martínez issues apology for post-match outburst after meeting",
           "description": "Lisandro Martínez has issued a formal apology after criticising Manchester United's board following the 2-0 defeat to Atlético Madrid.",
@@ -8475,16 +8515,6 @@
           "publishedUtc": "2026-10-15T10:35:17Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-          "title": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
-          "description": "Lisandro Martínez's future at Manchester United is in question after he pointed fingers at the club's board. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T09:55:45Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50187777/gareth-southgate-premier-league-england-management",
@@ -8643,36 +8673,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50174651/independent-football-regulator-english-address-finances-too-late",
           "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730173_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-13T16:54:14Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50173773/unai-emery-keen-aston-villa-use-home-advantage-fenerbahce-clash",
-          "title": "Unai Emery keen for Aston Villa to use home advantage in Fenerbahce clash",
-          "description": "Aston Villa boss Unai Emery wants his side to enjoy their home comforts once again when they host Fenerbahce in the Champions League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50173773/unai-emery-keen-aston-villa-use-home-advantage-fenerbahce-clash",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728828_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T14:30:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
-          "title": "Man United could never contend for the Premier League title -- but they aren't so bad either",
-          "description": "Man United fans go from thinking the team will win the Premier League to thinking the sky is falling. The truth is in the middle and it's unlikely to shift.",
-          "url": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729894_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T22:33:56Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
-          "title": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK",
-          "description": "Liverpool are set to be without Alexander Isak, Cody Gakpo and Dominik Szoboszlai for Wednesday's UEFA Champions League clash with LASK.",
-          "url": "https://www.espn.com/soccer/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729179_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T15:57:17Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9422,7 +9422,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.454Z",
+      "updatedUtc": "2026-10-16T00:12:52.863Z",
       "matches": [
         {
           "id": "401882860",
@@ -12434,7 +12434,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.352Z",
+      "updatedUtc": "2026-10-16T00:12:52.752Z",
       "matches": [
         {
           "id": "401875021",
@@ -15401,7 +15401,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.315Z",
+      "updatedUtc": "2026-10-16T00:12:52.822Z",
       "matches": [
         {
           "id": "401884799",
@@ -17423,6 +17423,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+          "title": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
+          "description": "Florian Wirtz could end up returning to the Bundesliga, as Bayern Munich are keeping a close eye on his situation at Liverpool. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731333_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-15T20:54:08Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50172307/borussia-dortmund-niko-kovac-contract-extension-2029",
           "title": "Borussia Dortmund extend head coach Niko Kovač's contract through to 2029",
           "description": "Borussia Dortmund have handed head coach Niko Kovač a contact extension through June 2029 as a reward for stabilizing the team.",
@@ -17639,16 +17649,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49965151/harry-kane-fastest-record-100-bundesliga-goals-bayern-munich",
           "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718710_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-18T22:28:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49974049/noahkai-banks-germany-usa-augsburg",
-          "title": "Ex-U.S. youth defender Noahkai Banks picks Germany over USMNT",
-          "description": "The German Football Federation announced on Friday that coveted dual national defender Noahkai Banks has pledged his international future to Germany over the United States.",
-          "url": "https://www.espn.com/soccer/story/_/id/49974049/noahkai-banks-germany-usa-augsburg",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718669_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-18T17:51:49Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18398,7 +18398,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.283Z",
+      "updatedUtc": "2026-10-16T00:12:52.720Z",
       "matches": [
         {
           "id": "401876458",
@@ -21384,7 +21384,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-15T21:13:11.245Z",
+      "updatedUtc": "2026-10-16T00:12:52.689Z",
       "matches": [
         {
           "id": "401861118",
@@ -25076,7 +25076,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-15T21:13:11.503Z",
+      "updatedUtc": "2026-10-16T00:12:52.923Z",
       "matches": [
         {
           "id": "761871",
@@ -28226,7 +28226,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-15T21:13:11.170Z",
+      "updatedUtc": "2026-10-16T00:12:52.679Z",
       "matches": [
         {
           "id": "760415",
