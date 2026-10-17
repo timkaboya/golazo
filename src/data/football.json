@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-16T20:52:13.724Z",
+  "updatedUtc": "2026-10-17T00:16:20.674Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.280Z",
+      "updatedUtc": "2026-10-17T00:16:20.388Z",
       "matches": [
         {
           "id": "401915418",
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.205Z",
+      "updatedUtc": "2026-10-17T00:16:20.423Z",
       "matches": [
         {
           "id": "401915585",
@@ -6444,7 +6444,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.620Z",
+      "updatedUtc": "2026-10-17T00:16:20.475Z",
       "matches": [
         {
           "id": "401878771",
@@ -8396,6 +8396,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
+          "title": "Transfer rumors, news: Are Liverpool the favorite to sign Bournemouth's Scott?",
+          "description": "Liverpool are reportedly interested in signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731819_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-16T22:06:13Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50198381/nicol-slams-carrick-ridiculous-comments-press-conference",
+          "title": "Nicol slams Carrick for 'ridiculous' comments in press conference",
+          "description": "Nicol slams Carrick for 'ridiculous' comments in press conference",
+          "url": "https://www.espn.com/video/clip/_/id/50198381/nicol-slams-carrick-ridiculous-comments-press-conference",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_COM_SOC_Analysis_Nicol_slams_Carrick_for_ridiculous_comments_in_press_conference_20261016_GLOB/dm_261016_COM_SOC_Analysis_Nicol_slams_Carrick_for_ridiculous_comments_in_press_conference_20261016_GLOB.jpg",
+          "publishedUtc": "2026-10-16T21:51:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50198374/xabi-alonso-chelsea-heading-right-way",
+          "title": "Xabi Alonso not ready to say if Chelsea heading 'right way'",
+          "description": "Xabi Alonso said it is too early to tell whether Chelsea are going the \"right way\" as he looks for greater balance from his free-scoring team.",
+          "url": "https://www.espn.com/soccer/story/_/id/50198374/xabi-alonso-chelsea-heading-right-way",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731815_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-16T22:03:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50197717/manchester-united-moved-lisandro-martinez-outburst",
           "title": "Carrick: Manchester United have moved on from Lisandro Martinez outburst",
           "description": "Carrick: Manchester United have moved on from Lisandro Martinez outburst",
@@ -8536,16 +8566,6 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
-          "title": "Transfer rumors, news: Arsenal eye January move for Bayern Munich defender",
-          "description": "Arsenal are interested in signing Bayern Munich defender Kim Min-Jae during the January transfer window. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731505_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T11:36:20Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50176627/why-do-liverpool-big-money-transfers-keep-failing-deliver",
           "title": "Why do Liverpool's big-money transfers keep failing to deliver?",
           "description": "Liverpool have spent big over the past two summer transfer windows with little to show for it. Why has their recruitment gone so wrong?",
@@ -8612,26 +8632,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
           "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-16T08:29:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50192054/arsenal-eberechi-eze-cristiano-ronaldo-ishowspeed-inspired-goal-celebration",
-          "title": "Arsenal's Eberechi Eze to perform Cristiano Ronaldo-inspired celebration after loss to IShowSpeed",
-          "description": "Eberechi Eze's next goal celebration has been determined by YouTuber IShowSpeed after the Arsenal forward was beaten by the influencer in an EA Sports FC battle.",
-          "url": "https://www.espn.com/soccer/story/_/id/50192054/arsenal-eberechi-eze-cristiano-ronaldo-ishowspeed-inspired-goal-celebration",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731342_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T22:18:28Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
-          "title": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
-          "description": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
-          "url": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd.jpg",
-          "publishedUtc": "2026-10-15T21:38:10Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9381,7 +9381,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.671Z",
+      "updatedUtc": "2026-10-17T00:16:20.584Z",
       "matches": [
         {
           "id": "401882860",
@@ -9856,12 +9856,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
           },
           "venue": "Riazor, La Coruña",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
             "away": 1
           },
-          "note": "90'+1'"
+          "note": "FT"
         },
         {
           "id": "401882843",
@@ -11195,14 +11195,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png"
               },
               "rank": 8,
-              "played": 8,
+              "played": 9,
               "won": 2,
-              "drawn": 4,
+              "drawn": 5,
               "lost": 2,
-              "gf": 12,
-              "ga": 11,
+              "gf": 13,
+              "ga": 12,
               "gd": 1,
-              "points": 10
+              "points": 11
             },
             {
               "team": {
@@ -11348,14 +11348,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
               },
               "rank": 17,
-              "played": 7,
+              "played": 8,
               "won": 1,
-              "drawn": 3,
+              "drawn": 4,
               "lost": 3,
-              "gf": 11,
-              "ga": 15,
+              "gf": 12,
+              "ga": 16,
               "gd": -4,
-              "points": 6
+              "points": 7
             },
             {
               "team": {
@@ -12397,7 +12397,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.575Z",
+      "updatedUtc": "2026-10-17T00:16:20.515Z",
       "matches": [
         {
           "id": "401874951",
@@ -15356,7 +15356,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.537Z",
+      "updatedUtc": "2026-10-17T00:16:20.608Z",
       "matches": [
         {
           "id": "401884786",
@@ -18321,7 +18321,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.506Z",
+      "updatedUtc": "2026-10-17T00:16:20.535Z",
       "matches": [
         {
           "id": "401876451",
@@ -21275,7 +21275,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-16T20:52:13.468Z",
+      "updatedUtc": "2026-10-17T00:16:20.558Z",
       "matches": [
         {
           "id": "401861118",
@@ -24967,7 +24967,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-16T20:52:13.724Z",
+      "updatedUtc": "2026-10-17T00:16:20.646Z",
       "matches": [
         {
           "id": "761871",
@@ -28117,7 +28117,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-16T20:52:13.447Z",
+      "updatedUtc": "2026-10-17T00:16:20.674Z",
       "matches": [
         {
           "id": "760415",
