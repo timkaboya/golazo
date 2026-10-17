@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-17T06:49:19.120Z",
+  "updatedUtc": "2026-10-17T12:05:28.586Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:18.784Z",
+      "updatedUtc": "2026-10-17T12:05:28.195Z",
       "matches": [
         {
           "id": "401915418",
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:18.573Z",
+      "updatedUtc": "2026-10-17T12:05:28.214Z",
       "matches": [
         {
           "id": "401915585",
@@ -6444,7 +6444,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:18.657Z",
+      "updatedUtc": "2026-10-17T12:05:28.262Z",
       "matches": [
         {
           "id": "401878771",
@@ -6463,8 +6463,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
           },
           "venue": "Hill Dickinson Stadium, Liverpool",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "33'"
         },
         {
           "id": "401879262",
@@ -8396,6 +8400,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50190266/premier-league-live-updates-everton-chelsea-liverpool-manchester-city",
+          "title": "Premier League live updates: Everton host Chelsea in early match",
+          "description": "Chelsea are in Merseyside as they take on Everton in the Premier League's early match as another weekend of European soccer is underway.",
+          "url": "https://www.espn.com/soccer/story/_/id/50190266/premier-league-live-updates-everton-chelsea-liverpool-manchester-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1731920_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-17T11:41:17Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50196763/manchester-united-lisandro-martinez-chaos-sign-whats-come-michael-carrick",
+          "title": "Is Martínez's outburst a sign of chaos to come for Man United and Carrick?",
+          "description": "Michael Carrick insists his team is ready to move past Lisandro Martínez's fiery midweek comments. Only a win Sunday vs. Leeds will prove him right.",
+          "url": "https://www.espn.com/soccer/story/_/id/50196763/manchester-united-lisandro-martinez-chaos-sign-whats-come-michael-carrick",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731730_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-17T09:34:40Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
+          "title": "Transfer rumors, news: JJ Gabriel move revealed soon amid Barcelona, Real Madrid talks",
+          "description": "JJ Gabriel's next move could be announced soon, while Arsenal and Liverpool will battle to sign Brentford's Kevin Schade. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-17T09:28:05Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
           "title": "Transfer rumors, news: Are Liverpool the favorite to sign Bournemouth's Scott?",
           "description": "Liverpool are reportedly interested in signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
@@ -8602,36 +8636,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50194886/mikel-merino-knew-arsenal-champions-aftermath-terrible-result",
           "imageUrl": "https://a.espncdn.com/photo/2026/0218/r1617005_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-16T09:45:18Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50194881/james-maddison-tottenham-coventry-premier-league",
-          "title": "James Maddison can be the difference maker for Tottenham - former Coventry academy coach",
-          "description": "James Maddison has been backed to be the missing piece of the puzzle for Tottenham by old Coventry academy coach Richard Stevens.",
-          "url": "https://www.espn.com/soccer/story/_/id/50194881/james-maddison-tottenham-coventry-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731514_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T09:05:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50194838/trey-nyoni-backed-liverpool-boss-premier-league-start-looms",
-          "title": "Trey Nyoni backed by Liverpool's Andoni Iraola amid midfield injury issues",
-          "description": "Liverpool head coach Andoni Iraola has every faith in Trey Nyoni as the 19-year-old looks set for his first Premier League start.",
-          "url": "https://www.espn.com/soccer/story/_/id/50194838/trey-nyoni-backed-liverpool-boss-premier-league-start-looms",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0803/r1697197_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T08:51:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
-          "title": "Manchester City charges: Features, explainers, what's next after guilty verdict",
-          "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
-          "url": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T08:29:08Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9381,7 +9385,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:19.040Z",
+      "updatedUtc": "2026-10-17T12:05:28.396Z",
       "matches": [
         {
           "id": "401882860",
@@ -9880,8 +9884,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
           },
           "venue": "RCDE Stadium, Barcelona",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "4'"
         },
         {
           "id": "401882837",
@@ -11413,6 +11421,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50200546/jose-mourinho-praises-vinicius-junior-real-madrid-grit-were-left",
+          "title": "José Mourinho praises Vinícius Júnior's Real Madrid grit: If I were him, I'd have left",
+          "description": "José Mourinho has claimed that if he were Vinícius Júnior, he'd have left Real Madrid last summer, praising the forward's mentality in trying to turn his situation at the club around.",
+          "url": "https://www.espn.com/soccer/story/_/id/50200546/jose-mourinho-praises-vinicius-junior-real-madrid-grit-were-left",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1731916_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-17T11:24:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
+          "title": "Transfer rumors, news: JJ Gabriel move revealed soon amid Barcelona, Real Madrid talks",
+          "description": "JJ Gabriel's next move could be announced soon, while Arsenal and Liverpool will battle to sign Brentford's Kevin Schade. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-17T09:28:05Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50198191/deportivo-la-coruna-vs-levante-game-highlights",
           "title": "Deportivo La Coruña vs. Levante - Game Highlights",
           "description": "Watch the Game Highlights from Deportivo La Coruña vs. Levante, 10/16/2026",
@@ -11629,26 +11657,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50150534/vinicius-junior-red-card-real-madrid-villarreal",
           "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728861_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-11T15:57:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50151065/vinicius-jr-learn-actions-consequences",
-          "title": "Burley: Vinícius Jr. must learn actions have consequences",
-          "description": "Burley: Vinícius Jr. must learn actions have consequences",
-          "url": "https://www.espn.com/video/clip/_/id/50151065/vinicius-jr-learn-actions-consequences",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Burley_Vinicius_Jr_must_learn_actions_have_consequences/dm_261010_Burley_Vinicius_Jr_must_learn_actions_have_consequences.jpg",
-          "publishedUtc": "2026-10-10T22:45:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50150970/vinicius-junior-goal-turns-red-card-real-madrid-win",
-          "title": "Vinicius Júnior goal turns into a red card in Real Madrid win",
-          "description": "Vinicius Júnior goal turns into a red card in Real Madrid win",
-          "url": "https://www.espn.com/video/clip/_/id/50150970/vinicius-junior-goal-turns-red-card-real-madrid-win",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Vinicius_Junior_goal_turns_into_a_red_card_in_Real_Madrid_win/dm_261010_Vinicius_Junior_goal_turns_into_a_red_card_in_Real_Madrid_win.jpg",
-          "publishedUtc": "2026-10-10T22:45:38Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12397,32 +12405,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:18.990Z",
+      "updatedUtc": "2026-10-17T12:05:28.436Z",
       "matches": [
-        {
-          "id": "401874951",
-          "utc": "2026-10-11T13:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "112",
-            "name": "Lazio",
-            "abbreviation": "LAZ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-          },
-          "away": {
-            "id": "4007",
-            "name": "Monza",
-            "abbreviation": "MON",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
-          },
-          "venue": "Olimpico, Roma",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401874776",
           "utc": "2026-10-11T13:00Z",
@@ -14026,6 +14010,26 @@
           "venue": "Stadio Diego Armando Maradona, Napoli",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401875017",
+          "utc": "2026-12-06T11:30Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "3263",
+            "name": "Genoa",
+            "abbreviation": "GEN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+          },
+          "away": {
+            "id": "239",
+            "name": "Torino",
+            "abbreviation": "TOR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
+          },
+          "venue": "Stadio Luigi Ferraris, Genova",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14610,6 +14614,18 @@
       "leaders": {
         "scorers": [
           {
+            "id": "319265",
+            "name": "Antonio Raimondo",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 7,
+            "assists": 0
+          },
+          {
             "id": "259481",
             "name": "Donyell Malen",
             "team": {
@@ -14620,18 +14636,6 @@
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259481.png",
             "goals": 6,
-            "assists": 0
-          },
-          {
-            "id": "319265",
-            "name": "Antonio Raimondo",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-            },
-            "goals": 4,
             "assists": 0
           },
           {
@@ -14865,6 +14869,18 @@
             "assists": 1
           },
           {
+            "id": "236038",
+            "name": "Giacomo Calo",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "193919",
             "name": "Hassane Kamara",
             "team": {
@@ -14957,18 +14973,6 @@
               "name": "Juventus",
               "abbreviation": "JUV",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "291729",
-            "name": "Cas Odenthal",
-            "team": {
-              "id": "3997",
-              "name": "Sassuolo",
-              "abbreviation": "SAS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
             },
             "goals": 2,
             "assists": 0
@@ -15092,6 +15096,18 @@
               "name": "Lecce",
               "abbreviation": "LEC",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "384170",
+            "name": "Darryl Bakola",
+            "team": {
+              "id": "3997",
+              "name": "Sassuolo",
+              "abbreviation": "SAS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
             },
             "goals": 0,
             "assists": 2
@@ -15315,25 +15331,13 @@
             "assists": 1
           },
           {
-            "id": "193919",
-            "name": "Hassane Kamara",
+            "id": "236038",
+            "name": "Giacomo Calo",
             "team": {
-              "id": "118",
-              "name": "Udinese",
-              "abbreviation": "UDI",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "223947",
-            "name": "Lassana Coulibaly",
-            "team": {
-              "id": "113",
-              "name": "Lecce",
-              "abbreviation": "LEC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
             },
             "goals": 2,
             "assists": 1
@@ -15356,7 +15360,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:19.120Z",
+      "updatedUtc": "2026-10-17T12:05:28.342Z",
       "matches": [
         {
           "id": "401884786",
@@ -17591,6 +17595,18 @@
             "assists": 1
           },
           {
+            "id": "359793",
+            "name": "Younes Ebnoutalib",
+            "team": {
+              "id": "125",
+              "name": "Eintracht Frankfurt",
+              "abbreviation": "SGE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
+            },
+            "goals": 5,
+            "assists": 1
+          },
+          {
             "id": "222176",
             "name": "Christopher Nkunku",
             "team": {
@@ -17610,18 +17626,6 @@
               "name": "Bayern Munich",
               "abbreviation": "MUN",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
-            "id": "359793",
-            "name": "Younes Ebnoutalib",
-            "team": {
-              "id": "125",
-              "name": "Eintracht Frankfurt",
-              "abbreviation": "SGE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
             },
             "goals": 4,
             "assists": 1
@@ -18292,15 +18296,15 @@
             "assists": 1
           },
           {
-            "id": "222176",
-            "name": "Christopher Nkunku",
+            "id": "359793",
+            "name": "Younes Ebnoutalib",
             "team": {
-              "id": "11420",
-              "name": "RB Leipzig",
-              "abbreviation": "RBL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+              "id": "125",
+              "name": "Eintracht Frankfurt",
+              "abbreviation": "SGE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
             },
-            "goals": 4,
+            "goals": 5,
             "assists": 1
           }
         ]
@@ -18321,7 +18325,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:18.995Z",
+      "updatedUtc": "2026-10-17T12:05:28.484Z",
       "matches": [
         {
           "id": "401876451",
@@ -20534,18 +20538,6 @@
       "leaders": {
         "scorers": [
           {
-            "id": "259743",
-            "name": "Amine Gouiri",
-            "team": {
-              "id": "176",
-              "name": "Marseille",
-              "abbreviation": "OLM",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
             "id": "306664",
             "name": "Casper Tengstedt",
             "team": {
@@ -20553,6 +20545,18 @@
               "name": "Toulouse",
               "abbreviation": "TOU",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+            },
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "id": "259743",
+            "name": "Amine Gouiri",
+            "team": {
+              "id": "176",
+              "name": "Marseille",
+              "abbreviation": "OLM",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
             },
             "goals": 4,
             "assists": 1
@@ -20810,6 +20814,19 @@
             "assists": 0
           },
           {
+            "id": "297121",
+            "name": "Jacen Russell-Rowe",
+            "team": {
+              "id": "179",
+              "name": "Toulouse",
+              "abbreviation": "TOU",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/297121.png",
+            "goals": 2,
+            "assists": 0
+          },
+          {
             "id": "233199",
             "name": "Matthieu Udol",
             "team": {
@@ -20880,33 +20897,9 @@
             },
             "goals": 1,
             "assists": 2
-          },
-          {
-            "id": "192060",
-            "name": "Corentin Tolisso",
-            "team": {
-              "id": "167",
-              "name": "Lyon",
-              "abbreviation": "LYON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-            },
-            "goals": 1,
-            "assists": 2
           }
         ],
         "assists": [
-          {
-            "id": "156898",
-            "name": "Florian Thauvin",
-            "team": {
-              "id": "175",
-              "name": "Lens",
-              "abbreviation": "RCL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
-            },
-            "goals": 3,
-            "assists": 4
-          },
           {
             "id": "271244",
             "name": "Cristian Cásseres Jr.",
@@ -20918,6 +20911,18 @@
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/271244.png",
             "goals": 0,
+            "assists": 5
+          },
+          {
+            "id": "156898",
+            "name": "Florian Thauvin",
+            "team": {
+              "id": "175",
+              "name": "Lens",
+              "abbreviation": "RCL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+            },
+            "goals": 3,
             "assists": 4
           },
           {
@@ -21126,18 +21131,6 @@
             "assists": 2
           },
           {
-            "id": "259743",
-            "name": "Amine Gouiri",
-            "team": {
-              "id": "176",
-              "name": "Marseille",
-              "abbreviation": "OLM",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
             "id": "306664",
             "name": "Casper Tengstedt",
             "team": {
@@ -21145,6 +21138,18 @@
               "name": "Toulouse",
               "abbreviation": "TOU",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+            },
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "id": "259743",
+            "name": "Amine Gouiri",
+            "team": {
+              "id": "176",
+              "name": "Marseille",
+              "abbreviation": "OLM",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
             },
             "goals": 4,
             "assists": 1
@@ -21275,7 +21280,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-17T06:49:18.999Z",
+      "updatedUtc": "2026-10-17T12:05:28.505Z",
       "matches": [
         {
           "id": "401861118",
@@ -24967,7 +24972,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-17T06:49:19.107Z",
+      "updatedUtc": "2026-10-17T12:05:28.572Z",
       "matches": [
         {
           "id": "761871",
@@ -28117,7 +28122,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-17T06:49:19.116Z",
+      "updatedUtc": "2026-10-17T12:05:28.586Z",
       "matches": [
         {
           "id": "760415",
@@ -31702,16 +31707,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50084975/not-proud-no-regrets-2006-world-cup-final-clash-materazzi",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi.jpg",
           "publishedUtc": "2026-10-02T14:58:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
-          "title": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
-          "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
-          "url": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-02T12:09:38Z",
           "source": "ESPN",
           "transfer": false
         }
