@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-18T15:44:36.539Z",
+  "updatedUtc": "2026-10-18T18:33:40.947Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.405Z",
+      "updatedUtc": "2026-10-18T18:33:40.664Z",
       "matches": [
         {
           "id": "401915418",
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.240Z",
+      "updatedUtc": "2026-10-18T18:33:40.637Z",
       "matches": [
         {
           "id": "401915585",
@@ -6444,7 +6444,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.393Z",
+      "updatedUtc": "2026-10-18T18:33:40.838Z",
       "matches": [
         {
           "id": "401878771",
@@ -6655,12 +6655,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
           },
           "venue": "The City Ground, Nottingham",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
-          "note": "14'"
+          "note": "FT"
         },
         {
           "id": "401879257",
@@ -8106,12 +8106,29 @@
             },
             {
               "team": {
+                "id": "359",
+                "name": "Arsenal",
+                "abbreviation": "ARS",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+              },
+              "rank": 2,
+              "played": 7,
+              "won": 6,
+              "drawn": 0,
+              "lost": 1,
+              "gf": 11,
+              "ga": 5,
+              "gd": 6,
+              "points": 18
+            },
+            {
+              "team": {
                 "id": "331",
                 "name": "Brighton",
                 "abbreviation": "BHA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
               },
-              "rank": 2,
+              "rank": 3,
               "played": 7,
               "won": 5,
               "drawn": 1,
@@ -8120,23 +8137,6 @@
               "ga": 5,
               "gd": 18,
               "points": 16
-            },
-            {
-              "team": {
-                "id": "359",
-                "name": "Arsenal",
-                "abbreviation": "ARS",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-              },
-              "rank": 3,
-              "played": 6,
-              "won": 5,
-              "drawn": 0,
-              "lost": 1,
-              "gf": 10,
-              "ga": 5,
-              "gd": 5,
-              "points": 15
             },
             {
               "team": {
@@ -8384,13 +8384,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
               },
               "rank": 18,
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 2,
-              "lost": 3,
+              "lost": 4,
               "gf": 5,
-              "ga": 8,
-              "gd": -3,
+              "ga": 9,
+              "gd": -4,
               "points": 5
             },
             {
@@ -8432,6 +8432,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50190864/premier-league-live-updates-leeds-united-manchester-united-nottingham-forest-arsenal",
+          "title": "Premier League live updates: Leeds host Man United in rival clash",
+          "description": "Leeds United take on Manchester United in one of England's most heated rivalries as another day of European soccer is underway.",
+          "url": "https://www.espn.com/soccer/story/_/id/50190864/premier-league-live-updates-leeds-united-manchester-united-nottingham-forest-arsenal",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732376_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T12:57:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league",
+          "title": "Chelsea's Emi Martínez has jaw surgery, will be 'back in a few weeks'",
+          "description": "Emi Martínez said he would be \"back in a few weeks\" after undergoing surgery following a head injury suffered during Chelsea's Premier League win over Everton on Saturday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1731940_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T12:28:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50209432/dejan-kulusevski-set-return-tottenham-coventry-squad-500-day-injury-absence",
+          "title": "Dejan Kulusevski set to return to Tottenham squad after 526-day injury absence",
+          "description": "Dejan Kulusevski will return to Tottenham's matchday squad for the first time in more than 500 days for Monday's visit of Coventry.",
+          "url": "https://www.espn.com/soccer/story/_/id/50209432/dejan-kulusevski-set-return-tottenham-coventry-squad-500-day-injury-absence",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732364_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T12:24:54Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
           "title": "Transfer rumors, news: Could Viktor Gyökeres leave Arsenal in January?",
           "description": "Arsenal forward Viktor Gyökeres could leave the club in January, while Manchester United are looking to bolster their squad in January. Transfer Talk has the latest.",
@@ -8440,16 +8470,6 @@
           "publishedUtc": "2026-10-18T10:35:18Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league",
-          "title": "Chelsea's Emi Martínez has surgery, will be 'back in a few weeks'",
-          "description": "Emi Martínez said he would be \"back in a few weeks\" after undergoing surgery following a head injury suffered during Chelsea's Premier League win over Everton on Saturday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1731940_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T02:19:44Z",
-          "source": "ESPN",
-          "transfer": false
         },
         {
           "id": "https://www.espn.com/video/clip/_/id/50205062/liverpool-come-beat-shorthanded-brentford",
@@ -8648,26 +8668,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50201234/neto-was-outstanding-chelsea-vs-everton",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_COM_SOC_Analysis_Hislop3A_Neto_was_outstanding_for_Chelsea_vs_Everton_GLOBAL_2026-10-17/dm_261017_COM_SOC_Analysis_Hislop3A_Neto_was_outstanding_for_Chelsea_vs_Everton_GLOBAL_2026-10-17.jpg",
           "publishedUtc": "2026-10-17T14:29:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50201209/hislop-blames-pickford-chelsea-first-goal-vs-everton",
-          "title": "Hislop blames Pickford for Chelsea's first goal vs. Everton",
-          "description": "Hislop blames Pickford for Chelsea's first goal vs. Everton",
-          "url": "https://www.espn.com/video/clip/_/id/50201209/hislop-blames-pickford-chelsea-first-goal-vs-everton",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_COM_SOC_Analysis_Hislop_blames_Pickford_for_ChelseaE28099s_first_goal_vs_Everton__GLOBAL_2026-10-17/dm_261017_COM_SOC_Analysis_Hislop_blames_Pickford_for_ChelseaE28099s_first_goal_vs_Everton__GLOBAL_2026-10-17.jpg",
-          "publishedUtc": "2026-10-17T14:28:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401878771",
-          "title": "Pedro Neto nets brace as Chelsea end Everton's unbeaten run ",
-          "description": "Pedro Neto scored twice in the second half to guide Chelsea to a 2-0 win at Everton on Saturday in a Premier League match marred by a serious-looking head injury to Chelsea goalkeeper Emi Martínez.\n\n",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401878771",
-          "imageUrl": "sportscenter://x-callback-url/showStory?uid=50192043",
-          "publishedUtc": "2026-10-17T14:18:11Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9417,7 +9417,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.539Z",
+      "updatedUtc": "2026-10-18T18:33:40.884Z",
       "matches": [
         {
           "id": "401882849",
@@ -9796,12 +9796,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
           },
           "venue": "Balaidos, Vigo",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 1
           },
-          "note": "71'"
+          "note": "FT"
         },
         {
           "id": "401882841",
@@ -9820,8 +9820,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
           },
           "venue": "La Rosaleda, Malaga",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 5
+          },
+          "note": "FT"
         },
         {
           "id": "401882839",
@@ -11158,12 +11162,29 @@
             },
             {
               "team": {
+                "id": "89",
+                "name": "Real Sociedad",
+                "abbreviation": "RSO",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+              },
+              "rank": 5,
+              "played": 9,
+              "won": 5,
+              "drawn": 1,
+              "lost": 3,
+              "gf": 17,
+              "ga": 17,
+              "gd": 0,
+              "points": 16
+            },
+            {
+              "team": {
                 "id": "243",
                 "name": "Sevilla",
                 "abbreviation": "SEV",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
               },
-              "rank": 5,
+              "rank": 6,
               "played": 8,
               "won": 4,
               "drawn": 2,
@@ -11175,36 +11196,36 @@
             },
             {
               "team": {
-                "id": "89",
-                "name": "Real Sociedad",
-                "abbreviation": "RSO",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-              },
-              "rank": 6,
-              "played": 8,
-              "won": 4,
-              "drawn": 1,
-              "lost": 3,
-              "gf": 12,
-              "ga": 15,
-              "gd": -3,
-              "points": 13
-            },
-            {
-              "team": {
                 "id": "96",
                 "name": "Alavés",
                 "abbreviation": "ALA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
               },
               "rank": 7,
-              "played": 8,
+              "played": 9,
               "won": 3,
               "drawn": 2,
-              "lost": 3,
-              "gf": 12,
-              "ga": 8,
-              "gd": 4,
+              "lost": 4,
+              "gf": 13,
+              "ga": 10,
+              "gd": 3,
+              "points": 11
+            },
+            {
+              "team": {
+                "id": "85",
+                "name": "Celta Vigo",
+                "abbreviation": "CEL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+              },
+              "rank": 8,
+              "played": 9,
+              "won": 2,
+              "drawn": 5,
+              "lost": 2,
+              "gf": 10,
+              "ga": 7,
+              "gd": 3,
               "points": 11
             },
             {
@@ -11214,7 +11235,7 @@
                 "abbreviation": "DEP",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png"
               },
-              "rank": 8,
+              "rank": 9,
               "played": 9,
               "won": 2,
               "drawn": 5,
@@ -11231,7 +11252,7 @@
                 "abbreviation": "OSA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
               },
-              "rank": 9,
+              "rank": 10,
               "played": 9,
               "won": 3,
               "drawn": 2,
@@ -11248,7 +11269,7 @@
                 "abbreviation": "ATH",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
               },
-              "rank": 10,
+              "rank": 11,
               "played": 7,
               "won": 2,
               "drawn": 3,
@@ -11265,7 +11286,7 @@
                 "abbreviation": "VIL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
               },
-              "rank": 11,
+              "rank": 12,
               "played": 9,
               "won": 2,
               "drawn": 3,
@@ -11274,23 +11295,6 @@
               "ga": 13,
               "gd": 0,
               "points": 9
-            },
-            {
-              "team": {
-                "id": "85",
-                "name": "Celta Vigo",
-                "abbreviation": "CEL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-              },
-              "rank": 12,
-              "played": 8,
-              "won": 1,
-              "drawn": 5,
-              "lost": 2,
-              "gf": 8,
-              "ga": 6,
-              "gd": 2,
-              "points": 8
             },
             {
               "team": {
@@ -11419,13 +11423,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
               },
               "rank": 20,
-              "played": 8,
+              "played": 9,
               "won": 0,
               "drawn": 4,
-              "lost": 4,
-              "gf": 4,
-              "ga": 13,
-              "gd": -9,
+              "lost": 5,
+              "gf": 6,
+              "ga": 18,
+              "gd": -12,
               "points": 4
             }
           ]
@@ -12417,32 +12421,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.437Z",
+      "updatedUtc": "2026-10-18T18:33:40.796Z",
       "matches": [
-        {
-          "id": "401875005",
-          "utc": "2026-10-12T16:30Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "105",
-            "name": "Atalanta",
-            "abbreviation": "ATA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
-          },
-          "away": {
-            "id": "17530",
-            "name": "Venezia",
-            "abbreviation": "VEN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
-          },
-          "venue": "New Balance Arena, Bergamo",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401874763",
           "utc": "2026-10-12T18:45Z",
@@ -12628,8 +12608,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
           },
           "venue": "San Siro, Milano",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401874765",
@@ -14050,6 +14034,26 @@
           "venue": "San Siro, Milano",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401875011",
+          "utc": "2026-12-07T17:30Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "17530",
+            "name": "Venezia",
+            "abbreviation": "VEN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+          },
+          "away": {
+            "id": "3997",
+            "name": "Sassuolo",
+            "abbreviation": "SAS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
+          },
+          "venue": "Stadio Pier Luigi Penzo, Venezia",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14109,12 +14113,29 @@
             },
             {
               "team": {
+                "id": "103",
+                "name": "Milan",
+                "abbreviation": "MIL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+              },
+              "rank": 4,
+              "played": 7,
+              "won": 4,
+              "drawn": 3,
+              "lost": 0,
+              "gf": 14,
+              "ga": 7,
+              "gd": 7,
+              "points": 15
+            },
+            {
+              "team": {
                 "id": "2572",
                 "name": "Como",
                 "abbreviation": "COMO",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
               },
-              "rank": 4,
+              "rank": 5,
               "played": 7,
               "won": 4,
               "drawn": 2,
@@ -14131,7 +14152,7 @@
                 "abbreviation": "CAG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
               },
-              "rank": 5,
+              "rank": 6,
               "played": 6,
               "won": 4,
               "drawn": 1,
@@ -14148,7 +14169,7 @@
                 "abbreviation": "FRO",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
               },
-              "rank": 6,
+              "rank": 7,
               "played": 7,
               "won": 4,
               "drawn": 1,
@@ -14157,23 +14178,6 @@
               "ga": 9,
               "gd": 4,
               "points": 13
-            },
-            {
-              "team": {
-                "id": "103",
-                "name": "Milan",
-                "abbreviation": "MIL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-              },
-              "rank": 7,
-              "played": 6,
-              "won": 3,
-              "drawn": 3,
-              "lost": 0,
-              "gf": 11,
-              "ga": 5,
-              "gd": 6,
-              "points": 12
             },
             {
               "team": {
@@ -14217,13 +14221,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
               },
               "rank": 10,
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 0,
-              "lost": 3,
-              "gf": 8,
-              "ga": 8,
-              "gd": 0,
+              "lost": 4,
+              "gf": 10,
+              "ga": 11,
+              "gd": -1,
               "points": 9
             },
             {
@@ -15379,7 +15383,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.412Z",
+      "updatedUtc": "2026-10-18T18:33:40.764Z",
       "matches": [
         {
           "id": "401884786",
@@ -15998,12 +16002,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
           },
           "venue": "BORUSSIA-PARK, Mönchengladbach",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
-            "away": 1
+            "home": 1,
+            "away": 2
           },
-          "note": "13'"
+          "note": "FT"
         },
         {
           "id": "401884761",
@@ -17313,12 +17317,29 @@
             },
             {
               "team": {
+                "id": "7911",
+                "name": "Hoffenheim",
+                "abbreviation": "TSG",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+              },
+              "rank": 14,
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "gf": 11,
+              "ga": 14,
+              "gd": -3,
+              "points": 6
+            },
+            {
+              "team": {
                 "id": "133",
                 "name": "Schalke",
                 "abbreviation": "S04",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 6,
               "won": 1,
               "drawn": 2,
@@ -17335,7 +17356,7 @@
                 "abbreviation": "SCP",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"
               },
-              "rank": 15,
+              "rank": 16,
               "played": 6,
               "won": 1,
               "drawn": 2,
@@ -17352,7 +17373,7 @@
                 "abbreviation": "FCU",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
               },
-              "rank": 16,
+              "rank": 17,
               "played": 6,
               "won": 1,
               "drawn": 2,
@@ -17364,36 +17385,19 @@
             },
             {
               "team": {
-                "id": "7911",
-                "name": "Hoffenheim",
-                "abbreviation": "TSG",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
-              },
-              "rank": 17,
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "gf": 9,
-              "ga": 13,
-              "gd": -4,
-              "points": 3
-            },
-            {
-              "team": {
                 "id": "268",
                 "name": "Gladbach",
                 "abbreviation": "BMG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
               },
               "rank": 18,
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "gf": 7,
-              "ga": 18,
-              "gd": -11,
+              "lost": 6,
+              "gf": 8,
+              "ga": 20,
+              "gd": -12,
               "points": 0
             }
           ]
@@ -18376,7 +18380,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.410Z",
+      "updatedUtc": "2026-10-18T18:33:40.721Z",
       "matches": [
         {
           "id": "401876451",
@@ -18923,12 +18927,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
           },
           "venue": "Stade Océane, Le Havre",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 3
           },
-          "note": "29'"
+          "note": "FT"
         },
         {
           "id": "401876435",
@@ -18947,12 +18951,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
           },
           "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
+            "home": 1,
             "away": 0
           },
-          "note": "29'"
+          "note": "FT"
         },
         {
           "id": "401876433",
@@ -18971,12 +18975,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
           },
           "venue": "Stade Jean Bouin, Paris",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
-            "away": 0
+            "home": 4,
+            "away": 3
           },
-          "note": "24'"
+          "note": "FT"
         },
         {
           "id": "401876434",
@@ -20102,12 +20106,29 @@
             },
             {
               "team": {
+                "id": "6851",
+                "name": "Paris FC",
+                "abbreviation": "PAR",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+              },
+              "rank": 2,
+              "played": 7,
+              "won": 4,
+              "drawn": 2,
+              "lost": 1,
+              "gf": 12,
+              "ga": 7,
+              "gd": 5,
+              "points": 14
+            },
+            {
+              "team": {
                 "id": "166",
                 "name": "Lille",
                 "abbreviation": "LILL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
               },
-              "rank": 2,
+              "rank": 3,
               "played": 7,
               "won": 4,
               "drawn": 2,
@@ -20124,14 +20145,14 @@
                 "abbreviation": "MON",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
               },
-              "rank": 3,
-              "played": 6,
+              "rank": 4,
+              "played": 7,
               "won": 4,
               "drawn": 2,
-              "lost": 0,
+              "lost": 1,
               "gf": 10,
-              "ga": 5,
-              "gd": 5,
+              "ga": 6,
+              "gd": 4,
               "points": 14
             },
             {
@@ -20141,14 +20162,14 @@
                 "abbreviation": "REN",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
               },
-              "rank": 4,
-              "played": 6,
+              "rank": 5,
+              "played": 7,
               "won": 4,
               "drawn": 1,
-              "lost": 1,
-              "gf": 12,
-              "ga": 10,
-              "gd": 2,
+              "lost": 2,
+              "gf": 15,
+              "ga": 14,
+              "gd": 1,
               "points": 13
             },
             {
@@ -20158,7 +20179,7 @@
                 "abbreviation": "LYON",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
               },
-              "rank": 5,
+              "rank": 6,
               "played": 6,
               "won": 3,
               "drawn": 2,
@@ -20170,19 +20191,19 @@
             },
             {
               "team": {
-                "id": "6851",
-                "name": "Paris FC",
-                "abbreviation": "PAR",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+                "id": "273",
+                "name": "Lorient",
+                "abbreviation": "LOR",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
               },
-              "rank": 6,
-              "played": 6,
+              "rank": 7,
+              "played": 7,
               "won": 3,
               "drawn": 2,
-              "lost": 1,
-              "gf": 8,
-              "ga": 4,
-              "gd": 4,
+              "lost": 2,
+              "gf": 7,
+              "ga": 6,
+              "gd": 1,
               "points": 11
             },
             {
@@ -20192,7 +20213,7 @@
                 "abbreviation": "RCL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
               },
-              "rank": 7,
+              "rank": 8,
               "played": 7,
               "won": 3,
               "drawn": 1,
@@ -20209,7 +20230,7 @@
                 "abbreviation": "OLM",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
               },
-              "rank": 8,
+              "rank": 9,
               "played": 7,
               "won": 3,
               "drawn": 0,
@@ -20226,7 +20247,7 @@
                 "abbreviation": "BRE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
               },
-              "rank": 9,
+              "rank": 10,
               "played": 7,
               "won": 2,
               "drawn": 3,
@@ -20243,7 +20264,7 @@
                 "abbreviation": "TOU",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
               },
-              "rank": 10,
+              "rank": 11,
               "played": 7,
               "won": 2,
               "drawn": 3,
@@ -20255,20 +20276,20 @@
             },
             {
               "team": {
-                "id": "273",
-                "name": "Lorient",
-                "abbreviation": "LOR",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+                "id": "172",
+                "name": "Auxerre",
+                "abbreviation": "AUX",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
               },
-              "rank": 11,
-              "played": 6,
-              "won": 2,
-              "drawn": 2,
-              "lost": 2,
-              "gf": 6,
-              "ga": 6,
-              "gd": 0,
-              "points": 8
+              "rank": 12,
+              "played": 7,
+              "won": 3,
+              "drawn": 0,
+              "lost": 4,
+              "gf": 11,
+              "ga": 17,
+              "gd": -6,
+              "points": 9
             },
             {
               "team": {
@@ -20277,7 +20298,7 @@
                 "abbreviation": "NICE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
               },
-              "rank": 12,
+              "rank": 13,
               "played": 6,
               "won": 2,
               "drawn": 2,
@@ -20294,7 +20315,7 @@
                 "abbreviation": "STR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
               },
-              "rank": 13,
+              "rank": 14,
               "played": 7,
               "won": 2,
               "drawn": 1,
@@ -20311,7 +20332,7 @@
                 "abbreviation": "ANG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 7,
               "won": 2,
               "drawn": 1,
@@ -20328,7 +20349,7 @@
                 "abbreviation": "MNS",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
               },
-              "rank": 15,
+              "rank": 16,
               "played": 7,
               "won": 1,
               "drawn": 3,
@@ -20336,23 +20357,6 @@
               "gf": 10,
               "ga": 15,
               "gd": -5,
-              "points": 6
-            },
-            {
-              "team": {
-                "id": "172",
-                "name": "Auxerre",
-                "abbreviation": "AUX",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
-              },
-              "rank": 16,
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 4,
-              "gf": 8,
-              "ga": 16,
-              "gd": -8,
               "points": 6
             },
             {
@@ -20380,13 +20384,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
               },
               "rank": 18,
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 2,
-              "lost": 4,
-              "gf": 4,
-              "ga": 8,
-              "gd": -4,
+              "lost": 5,
+              "gf": 5,
+              "ga": 11,
+              "gd": -6,
               "points": 2
             }
           ]
@@ -21369,7 +21373,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-18T15:44:36.403Z",
+      "updatedUtc": "2026-10-18T18:33:40.607Z",
       "matches": [
         {
           "id": "401861118",
@@ -25061,7 +25065,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T15:44:36.536Z",
+      "updatedUtc": "2026-10-18T18:33:40.947Z",
       "matches": [
         {
           "id": "761871",
@@ -28267,7 +28271,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-18T15:44:36.489Z",
+      "updatedUtc": "2026-10-18T18:33:40.585Z",
       "matches": [
         {
           "id": "760415",
