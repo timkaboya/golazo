@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-18T18:33:40.947Z",
+  "updatedUtc": "2026-10-18T22:21:29.606Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.664Z",
+      "updatedUtc": "2026-10-18T22:21:29.332Z",
       "matches": [
         {
           "id": "401915418",
@@ -193,8 +193,8 @@
           "phase": "League Phase",
           "home": {
             "id": "510",
-            "name": "VIKING FK",
-            "abbreviation": "Viking FK",
+            "name": "Viking FK",
+            "abbreviation": "VFK",
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
           },
           "away": {
@@ -683,8 +683,8 @@
           },
           "away": {
             "id": "510",
-            "name": "VIKING FK",
-            "abbreviation": "Viking FK",
+            "name": "Viking FK",
+            "abbreviation": "VFK",
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
           },
           "venue": "Villa Park, Birmingham",
@@ -1157,8 +1157,8 @@
           "phase": "League Phase",
           "home": {
             "id": "510",
-            "name": "VIKING FK",
-            "abbreviation": "Viking FK",
+            "name": "Viking FK",
+            "abbreviation": "VFK",
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
           },
           "away": {
@@ -1403,8 +1403,8 @@
           },
           "away": {
             "id": "510",
-            "name": "VIKING FK",
-            "abbreviation": "Viking FK",
+            "name": "Viking FK",
+            "abbreviation": "VFK",
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
           },
           "venue": "Riyadh Air Metropolitano, Madrid",
@@ -1981,8 +1981,8 @@
             {
               "team": {
                 "id": "510",
-                "name": "VIKING FK",
-                "abbreviation": "Viking FK",
+                "name": "Viking FK",
+                "abbreviation": "VFK",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
               },
               "rank": 27,
@@ -2152,6 +2152,16 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50211229/barcelona-eric-garcia-jules-kounde-ruled-psg-injury",
+          "title": "Barcelona's Eric García, Jules Koundé ruled out of PSG clash with injury",
+          "description": "Eric García and Jules Koundé have both been ruled out of Barcelona's Champions League game against Paris Saint-Germain on Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50211229/barcelona-eric-garcia-jules-kounde-ruled-psg-injury",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732490_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T17:05:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
           "title": "Lisandro Martínez's Man United comments 'not that far off' but should not have been made - Peter Schmeichel",
@@ -2379,16 +2389,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50184496/mourinho-subs-spark-real-madrid-comeback-champions-league-glory-appears-far-away",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730867_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-14T23:12:53Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915409",
-          "title": "Aston Villa run riot with 6-0 thrashing of Fenerbahce",
-          "description": "Mason Greenwood endured a nightmare return to English football as Aston Villa ran riot in a 6-0 win against his Fenerbahce side in the Champions League.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915409",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730816_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T22:14:43Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -2726,8 +2726,8 @@
             "name": "Zlatko Tripic",
             "team": {
               "id": "510",
-              "name": "VIKING FK",
-              "abbreviation": "Viking FK",
+              "name": "Viking FK",
+              "abbreviation": "VFK",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
             },
             "goals": 1,
@@ -2824,8 +2824,8 @@
             "name": "Zlatko Tripic",
             "team": {
               "id": "510",
-              "name": "VIKING FK",
-              "abbreviation": "Viking FK",
+              "name": "Viking FK",
+              "abbreviation": "VFK",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
             },
             "goals": 1,
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.637Z",
+      "updatedUtc": "2026-10-18T22:21:29.311Z",
       "matches": [
         {
           "id": "401915585",
@@ -6444,7 +6444,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.838Z",
+      "updatedUtc": "2026-10-18T22:21:29.501Z",
       "matches": [
         {
           "id": "401878771",
@@ -8432,12 +8432,192 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
+          "title": "Arteta: Madueke is loved in the dressing room at Arsenal",
+          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
+          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
+          "publishedUtc": "2026-10-18T22:00:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals",
+          "title": "Roberto De Zerbi on latest Tottenham training ploy: 'We removed phones' from meals",
+          "description": "Roberto De Zerbi has revealed phones were banned from meals during Tottenham's warm weather training camp in Marbella in his latest attempt to turn a vastly-assembled squad into a team.",
+          "url": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724368_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T21:55:30Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke",
+          "title": "Dominic Calvert-Lewin 'showed respect by standing' as others took knee for racism campaign - Daniel Farke",
+          "description": "Leeds boss Daniel Farke has said that striker Dominic Calvert-Lewin showed \"respect\" after not taking the knee prior to Leeds United's draw with Manchester United on Sunday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732437_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T20:21:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree",
+          "title": "Mikel Arteta puts stale Arsenal display down to Nottingham Forest tactics: 'They put a Christmas tree there'",
+          "description": "Mikel Arteta has defended his Arsenal team after they only managed one shot on target in their 1-0 win at Nottingham Forest on Sunday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732537_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T19:28:09Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50210987/arsenal-look-ready-attack-premier-league-title-want-yet",
+          "title": "Arsenal don't look ready to 'attack' the Premier League title like they want to -- yet",
+          "description": "Defending Premier League champions Arsenal put in a weak attacking performance at Nottingham Forest -- but maybe that's just fine.",
+          "url": "https://www.espn.com/soccer/story/_/id/50210987/arsenal-look-ready-attack-premier-league-title-want-yet",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732532_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T19:48:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
+          "title": "Transfer rumors, news: Could Viktor Gyökeres leave Arsenal in January?",
+          "description": "Arsenal forward Viktor Gyökeres could leave the club in January, while Manchester United are looking to bolster their squad in January. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T18:55:48Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50211677/arsenal-fans-frustrated-games-more-difficult-be",
+          "title": "Nicol: Arsenal fans will be frustrated that games are more difficult than they should be",
+          "description": "Nicol: Arsenal fans will be frustrated that games are more difficult than they should be",
+          "url": "https://www.espn.com/video/clip/_/id/50211677/arsenal-fans-frustrated-games-more-difficult-be",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Nicol_Arsenal_fans_will_be_frustrated_that_games_are_more_difficult_than_they_should_be/dm_261018_Nicol_Arsenal_fans_will_be_frustrated_that_games_are_more_difficult_than_they_should_be.jpg",
+          "publishedUtc": "2026-10-18T18:01:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50190864/premier-league-live-updates-leeds-united-manchester-united-nottingham-forest-arsenal",
-          "title": "Premier League live updates: Leeds host Man United in rival clash",
-          "description": "Leeds United take on Manchester United in one of England's most heated rivalries as another day of European soccer is underway.",
+          "title": "Premier League recap: Man United struggle and draw; Arsenal struggle and win",
+          "description": "Arsenal got an important win as they look to keep pace with Manchester City at the top of the Premier League. ESPN's dedicated match blog has all the updates.",
           "url": "https://www.espn.com/soccer/story/_/id/50190864/premier-league-live-updates-leeds-united-manchester-united-nottingham-forest-arsenal",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732376_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T12:57:49Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732512_1296x1296_1-1.jpg",
+          "publishedUtc": "2026-10-18T18:01:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401878769",
+          "title": "Noni Madueke sinks Nottingham Forest with Arsenal's only shot on target",
+          "description": "Noni Madueke climbed off the bench to earn toothless Arsenal a 1-0 win at Nottingham Forest.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401878769",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732513_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T18:08:02Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50211483/diego-gomez-heeds-advice-lionel-messi-brighton-further-reject-ceilings-ambition",
+          "title": "Diego Gómez heeds Lionel Messi's advice as Brighton follow their 'challenge the establishment' mantra",
+          "description": "It was a goal Lionel Messi would have been proud of. But not for the reasons you might think.",
+          "url": "https://www.espn.com/soccer/story/_/id/50211483/diego-gomez-heeds-advice-lionel-messi-brighton-further-reject-ceilings-ambition",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732509_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T19:03:04Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50211373/leeds-draw-feels-fresh-start-man-utd",
+          "title": "Carrick: Leeds draw feels like a 'fresh start' for Man Utd",
+          "description": "Carrick: Leeds draw feels like a 'fresh start' for Man Utd",
+          "url": "https://www.espn.com/video/clip/_/id/50211373/leeds-draw-feels-fresh-start-man-utd",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Carrick_Leeds_draw_feels_like_a_fresh_start_for_Man_Utd/dm_261018_Carrick_Leeds_draw_feels_like_a_fresh_start_for_Man_Utd.jpg",
+          "publishedUtc": "2026-10-18T17:15:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50211094/fabian-hurzeler-brighton-crystal-palace-diego-gomez-premier-league",
+          "title": "Fabian Hürzeler tells Brighton fans: Have a beer and don't look at Premier League table",
+          "description": "Fabian Hürzeler has told Brighton & Hove Albion fans to \"enjoy a beer\" and not look at the Premier League table to celebrate their win over Crystal Palace.",
+          "url": "https://www.espn.com/soccer/story/_/id/50211094/fabian-hurzeler-brighton-crystal-palace-diego-gomez-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732483_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T16:51:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation",
+          "title": "Jordan Henderson not giving up on England after Chelsea revitalisation",
+          "description": "Jordan Henderson has not given up on extending his England career after insisting he will use a new lease of life at Chelsea to prove he can still perform at the highest level.",
+          "url": "https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732470_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T16:30:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50210655/seven-games-seven-points-man-united-sleepwalking-another-lost-season",
+          "title": "Seven games, seven points: Man United are sleepwalking to another lost season",
+          "description": "Manchester United were already suffering from their worst start to a Premier League season since 1986. A 1-1 draw with Leeds won't help.",
+          "url": "https://www.espn.com/soccer/story/_/id/50210655/seven-games-seven-points-man-united-sleepwalking-another-lost-season",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732449_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T19:39:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50210858/michael-carrick-man-united-worst-start-1986-situation-look-great",
+          "title": "Michael Carrick on Man United's worst start since 1986: Situation 'doesn't look great'",
+          "description": "Michael Carrick said Manchester United's situation \"doesn't look great\" after a 1-1 draw at Leeds left the club in the bottom half of the Premier League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50210858/michael-carrick-man-united-worst-start-1986-situation-look-great",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732465_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T18:53:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50210530/question-marks-carrick-manchester-united-performance-vs-leeds",
+          "title": "Nicol: Question marks over Carrick's Manchester United after performance vs. Leeds",
+          "description": "Nicol: Question marks over Carrick's Manchester United after performance vs. Leeds",
+          "url": "https://www.espn.com/video/clip/_/id/50210530/question-marks-carrick-manchester-united-performance-vs-leeds",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Nicol_Question_marks_over_Carricks_Manchester_United_after_performance_vs_Leeds/dm_261018_Nicol_Question_marks_over_Carricks_Manchester_United_after_performance_vs_Leeds.jpg",
+          "publishedUtc": "2026-10-18T15:29:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50210339/pressure-piles-michael-carrick-man-united-draw-leeds",
+          "title": "Michael Carrick fails to relieve pressure as Man United draw at Leeds",
+          "description": "Michael Carrick's future as Manchester United's remains far from secure as his team were held to a 1-1 draw by rivals Leeds United on Sunday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50210339/pressure-piles-michael-carrick-man-united-draw-leeds",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T15:54:17Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50209965/brighton-diego-gomez-scores-longest-range-premier-league-goal-2017",
+          "title": "Brighton beat Crystal Palace after Diego Gómez scores longest-range Premier League goal since 2017",
+          "description": "Diego Gómez's halfway-line strike for Brighton against Crystal Palace was the furthest a Premier League goal has been scored since November 2017.",
+          "url": "https://www.espn.com/soccer/story/_/id/50209965/brighton-diego-gomez-scores-longest-range-premier-league-goal-2017",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732410_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T16:24:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401879260",
+          "title": "Dominic Calvert-Lewin denies Man United a first Premier League win since Aug. 30",
+          "description": "Dominic Calvert-Lewin's second-half equaliser extended Manchester United's winless Premier League run to five matches as they were held 1-1 by rivals Leeds.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401879260",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732437_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T15:12:05Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8460,16 +8640,6 @@
           "publishedUtc": "2026-10-18T12:24:54Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
-          "title": "Transfer rumors, news: Could Viktor Gyökeres leave Arsenal in January?",
-          "description": "Arsenal forward Viktor Gyökeres could leave the club in January, while Manchester United are looking to bolster their squad in January. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T10:35:18Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/video/clip/_/id/50205062/liverpool-come-beat-shorthanded-brentford",
@@ -8498,176 +8668,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50204834/haaland-man-city-hold-resilient-ipswich",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_EPL_Highlight_Haaland_Man_City_hold_off_resilient_Ipswich_20261018_AUS_ONLY/dm_261017_EPL_Highlight_Haaland_Man_City_hold_off_resilient_Ipswich_20261018_AUS_ONLY.jpg",
           "publishedUtc": "2026-10-17T22:19:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50204134/michael-carrick-questions-manchester-united-future-not-important",
-          "title": "Michael Carrick: Questions about Man United future 'not important' amid growing pressure",
-          "description": "Michael Carrick has said his future as Manchester United head coach is \"not important\" ahead of a crucial clash against Leeds United.",
-          "url": "https://www.espn.com/soccer/story/_/id/50204134/michael-carrick-questions-manchester-united-future-not-important",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729888_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T23:08:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50203806/aston-villa-unai-emery-johan-manzambi-progress-newcastle-premier-league",
-          "title": "Aston Villa boss Unai Emery hails Johan Manzambi after winning goal: 'Here he can progress'",
-          "description": "Unai Emery praised Johan Manzambi after his goal helped Aston Villa claim a 1-0 win over Newcastle at St James' Park.",
-          "url": "https://www.espn.com/soccer/story/_/id/50203806/aston-villa-unai-emery-johan-manzambi-progress-newcastle-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732139_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T20:59:59Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50203331/isak-needs-contribute-more-liverpool-winner-vs-brentford",
-          "title": "Nicol: Isak needs to contribute more for Liverpool despite winner vs. Brentford",
-          "description": "Nicol: Isak needs to contribute more for Liverpool despite winner vs. Brentford",
-          "url": "https://www.espn.com/video/clip/_/id/50203331/isak-needs-contribute-more-liverpool-winner-vs-brentford",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_COM_SOC_Analysis_Nicol3A_Isak_needs_to_contribute_more_for_Liverpool_despite_winner_vs_Brentford_/dm_261017_COM_SOC_Analysis_Nicol3A_Isak_needs_to_contribute_more_for_Liverpool_despite_winner_vs_Brentford_.jpg",
-          "publishedUtc": "2026-10-17T19:49:53Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50203316/did-man-city-changes-help-gain-victory-vs-ipswich",
-          "title": "Did Man City's changes help them gain victory vs. Ipswich?",
-          "description": "Did Man City's changes help them gain victory vs. Ipswich?",
-          "url": "https://www.espn.com/video/clip/_/id/50203316/did-man-city-changes-help-gain-victory-vs-ipswich",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_COM_SOC_Analysis_Did_Man_CityE28099s_changes_help_them_gain_victory_vs_Ipswich3F__GLOBAL_2026-10-17/dm_261017_COM_SOC_Analysis_Did_Man_CityE28099s_changes_help_them_gain_victory_vs_Ipswich3F__GLOBAL_2026-10-17.jpg",
-          "publishedUtc": "2026-10-17T19:48:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50190266/premier-league-live-updates-everton-chelsea-liverpool-manchester-city",
-          "title": "Premier League recap: Villa defeat Newcastle, Haaland with brace in Man City win",
-          "description": "Aston Villa were able to get a crucial away win against Newcastle, while there were more goals for Erling Haaland as Manchester City defeated Ipswich Town.",
-          "url": "https://www.espn.com/soccer/story/_/id/50190266/premier-league-live-updates-everton-chelsea-liverpool-manchester-city",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732052_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T19:05:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50202603/manchester-citys-winning-ways-continue-block-noise",
-          "title": "Man City's winning ways continue to block out the noise",
-          "description": "Manchester City face an uncertain future, but Enzo Maresca's side continue to deliver on the pitch despite the distractions.",
-          "url": "https://www.espn.com/soccer/story/_/id/50202603/manchester-citys-winning-ways-continue-block-noise",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732073_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T18:57:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401879258",
-          "title": "Johan Manzambi fires Aston Villa to victory at St. James' Park",
-          "description": "Johan Manzambi scored the only goal of the game as Aston Villa clinched a 1-0 win over Newcastle at St James' Park.\n\n",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401879258",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732049_2_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-17T18:42:47Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50202449/enzo-maresca-plays-fears-erling-haaland-injury-fears-man-city-star-limps-off",
-          "title": "Enzo Maresca plays down Erling Haaland injury fears after Man City star limps off",
-          "description": "Enzo Maresca has played down fears over Erling Haaland's fitness after the striker limped off at the end of Manchester City's 3-2 win over Ipswich.",
-          "url": "https://www.espn.com/soccer/story/_/id/50202449/enzo-maresca-plays-fears-erling-haaland-injury-fears-man-city-star-limps-off",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732069_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T18:54:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50202446/andoni-iraola-questions-var-says-szoboszlai-frimpong-some",
-          "title": "Andoni Iraola questions VAR; says Szoboszlai, Frimpong out 'for some time'",
-          "description": "Andoni Iraola questioned the decision to overturn a penalty awarded to Liverpool in the first half of their 2-1 win at Brentford and shared injury concerns over Dominic Szoboszlai and Jeremie Frimpong after both were forced off.",
-          "url": "https://www.espn.com/soccer/story/_/id/50202446/andoni-iraola-questions-var-says-szoboszlai-frimpong-some",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732067_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-17T18:31:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-          "title": "Premier League VAR review: Should Brentford's Yarmoliuk have been sent off vs. Liverpool?",
-          "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-          "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732031_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T17:19:51Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401879259",
-          "title": "Erling Haaland brace helps Man City hold off Ipswich at defiant Etihad Stadium",
-          "description": "Erling Haaland struck twice as defiant Manchester City marched on at the top of the Premier League by holding on for a 3-2 win over Ipswich.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401879259",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732010_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T16:27:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
-          "title": "Transfer rumors, news: JJ Gabriel move revealed soon amid Barcelona, Real Madrid talks",
-          "description": "JJ Gabriel's next move could be announced soon, while Arsenal and Liverpool will battle to sign Brentford's Kevin Schade. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T16:08:36Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401879262",
-          "title": "Alexander Isak completes Liverpool comeback at nine-man Brentford ",
-          "description": "Alexander Isak marked his return from injury with the winner as Liverpool came from behind to beat nine-man Brentford 2-1.\n\n",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401879262",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732020_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-17T16:19:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401878770",
-          "title": "Alex Iwobi goal earns Alvaro Arbeloa's Fulham their first Premier League win",
-          "description": "Fulham's winless run under Alvaro Arbeloa was finally ended by an entertaining 1-0 victory over Hull at Craven Cottage.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401878770",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732002_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-17T16:04:14Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50201454/jordan-henderson-premier-league-oldest-player-undroppable-chelsea",
-          "title": "Henderson, the Premier League's oldest player, is becoming undroppable for Chelsea",
-          "description": "At 36 years old, Jordan Henderson is the Premier League's elder statesman. He is also one of Chelsea's most important players.",
-          "url": "https://www.espn.com/soccer/story/_/id/50201454/jordan-henderson-premier-league-oldest-player-undroppable-chelsea",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1731966_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T16:17:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
-          "title": "Why are Man City fans bringing inflatable bananas to games?",
-          "description": "Man City fans keep waving hundreds of inflatable bananas, but how do they relate to the club's guilty verdict?",
-          "url": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T14:58:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50201234/neto-was-outstanding-chelsea-vs-everton",
-          "title": "Hislop: Neto was outstanding for Chelsea vs. Everton",
-          "description": "Hislop: Neto was outstanding for Chelsea vs. Everton",
-          "url": "https://www.espn.com/video/clip/_/id/50201234/neto-was-outstanding-chelsea-vs-everton",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_COM_SOC_Analysis_Hislop3A_Neto_was_outstanding_for_Chelsea_vs_Everton_GLOBAL_2026-10-17/dm_261017_COM_SOC_Analysis_Hislop3A_Neto_was_outstanding_for_Chelsea_vs_Everton_GLOBAL_2026-10-17.jpg",
-          "publishedUtc": "2026-10-17T14:29:05Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9417,7 +9417,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.884Z",
+      "updatedUtc": "2026-10-18T22:21:29.543Z",
       "matches": [
         {
           "id": "401882849",
@@ -9844,8 +9844,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
           },
           "venue": "Santiago Bernabéu, Madrid",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401882842",
@@ -11128,12 +11132,29 @@
             },
             {
               "team": {
+                "id": "86",
+                "name": "Real Madrid",
+                "abbreviation": "RMA",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+              },
+              "rank": 3,
+              "played": 9,
+              "won": 7,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 23,
+              "ga": 9,
+              "gd": 14,
+              "points": 21
+            },
+            {
+              "team": {
                 "id": "244",
                 "name": "Betis",
                 "abbreviation": "BET",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
               },
-              "rank": 3,
+              "rank": 4,
               "played": 9,
               "won": 6,
               "drawn": 1,
@@ -11142,23 +11163,6 @@
               "ga": 14,
               "gd": 2,
               "points": 19
-            },
-            {
-              "team": {
-                "id": "86",
-                "name": "Real Madrid",
-                "abbreviation": "RMA",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-              },
-              "rank": 4,
-              "played": 8,
-              "won": 6,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 19,
-              "ga": 8,
-              "gd": 11,
-              "points": 18
             },
             {
               "team": {
@@ -11185,13 +11189,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
               },
               "rank": 6,
-              "played": 8,
+              "played": 9,
               "won": 4,
               "drawn": 2,
-              "lost": 2,
-              "gf": 13,
-              "ga": 12,
-              "gd": 1,
+              "lost": 3,
+              "gf": 14,
+              "ga": 16,
+              "gd": -2,
               "points": 14
             },
             {
@@ -11437,6 +11441,46 @@
       ],
       "news": [
         {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401882839",
+          "title": "Yan Diomande, Kylian Mbappé lead Real Madrid rout of Sevilla",
+          "description": "Kylian Mbappé's brilliant double on Sunday helped Real Madrid prepare for next week's El Clasico with a 4-1 triumph over Sevilla at the Bernabeu.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401882839",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732603_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T21:23:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50213107/real-madrid-vs-sevilla-game-highlights",
+          "title": "Real Madrid vs. Sevilla - Game Highlights",
+          "description": "Watch the Game Highlights from Real Madrid vs. Sevilla, 10/18/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50213107/real-madrid-vs-sevilla-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/87eb218e-c35e-4f43-9b8f-00842b0b6c58/87eb218e-c35e-4f43-9b8f-00842b0b6c58.jpg",
+          "publishedUtc": "2026-10-18T21:08:42Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50211755/malaga-vs-real-sociedad-game-highlights",
+          "title": "Málaga vs. Real Sociedad - Game Highlights",
+          "description": "Watch the Game Highlights from Málaga vs. Real Sociedad, 10/18/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50211755/malaga-vs-real-sociedad-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/ade16562-7791-41d7-92be-eb6cc08ef20b/ade16562-7791-41d7-92be-eb6cc08ef20b.jpg",
+          "publishedUtc": "2026-10-18T18:36:00Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50210979/celta-vigo-vs-alaves-game-highlights",
+          "title": "Celta Vigo vs. Alavés - Game Highlights",
+          "description": "Watch the Game Highlights from Celta Vigo vs. Alavés, 10/18/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50210979/celta-vigo-vs-alaves-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/6287905d-260d-4a57-9532-7241046b8a00/6287905d-260d-4a57-9532-7241046b8a00.jpg",
+          "publishedUtc": "2026-10-18T16:17:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50210012/osasuna-vs-racing-santander-game-highlights",
           "title": "Osasuna vs. Racing Santander - Game Highlights",
           "description": "Watch the Game Highlights from Osasuna vs. Racing Santander, 10/18/2026",
@@ -11633,46 +11677,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50180425/tyler-creator-joins-stars-appear-barcelona-clasico-kit-coldplay-olivia-rodrigo-ed-sheeran",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730559_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-15T13:39:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50180845/tyler-creator-barcelona-jersey-shirt-spotify",
-          "title": "Tyler, The Creator to be the next star on Barcelona's shirt",
-          "description": "American rapper Tyler, The Creator will become the latest artist to feature on the front of Barcelona's jersey when they face Real Madrid in the upcoming Clásico.",
-          "url": "https://www.espn.com/soccer/story/_/id/50180845/tyler-creator-barcelona-jersey-shirt-spotify",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730563_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T08:11:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50182804/real-madrid-vinicius-junior-suspension-red-card-clasico",
-          "title": "Real Madrid's Vinícius Junior gets 4-game ban after red card; will miss Clásico",
-          "description": "Vinícius Junior has been handed a four-game ban for his sending-off in Real Madrid's LaLiga win over Villarreal and will miss this month's Clásico with Barcelona.",
-          "url": "https://www.espn.com/soccer/story/_/id/50182804/real-madrid-vinicius-junior-suspension-red-card-clasico",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730741_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T22:42:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50180336/jose-mourinho-backs-vinicius-junior-rediscover-top-form-real-madrid",
-          "title": "José Mourinho backs Vinícius Júnior to rediscover top form at Real Madrid",
-          "description": "Real Madrid coach José Mourinho believes it's only a question of time before Vinícius Júnior returns to top form.",
-          "url": "https://www.espn.com/soccer/story/_/id/50180336/jose-mourinho-backs-vinicius-junior-rediscover-top-form-real-madrid",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730537_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T17:07:43Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50175667/real-madrid-jose-mourinho-media-snub-villarreal-say",
-          "title": "Real Madrid's Mourinho on media snub post-Villarreal: 'Watch first minute of game'",
-          "description": "José Mourinho has refused to explain why he skipped his post-match news conference after Real Madrid's 1-0 win over Villarreal,",
-          "url": "https://www.espn.com/soccer/story/_/id/50175667/real-madrid-jose-mourinho-media-snub-villarreal-say",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726712_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T18:47:44Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12421,32 +12425,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.796Z",
+      "updatedUtc": "2026-10-18T22:21:29.465Z",
       "matches": [
-        {
-          "id": "401874763",
-          "utc": "2026-10-12T18:45Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "239",
-            "name": "Torino",
-            "abbreviation": "TOR",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
-          },
-          "away": {
-            "id": "118",
-            "name": "Udinese",
-            "abbreviation": "UDI",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-          },
-          "venue": "Stadio Olimpico Grande Torino, Torino",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401874959",
           "utc": "2026-10-16T18:45Z",
@@ -12632,8 +12612,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
           },
           "venue": "Allianz Stadium, Torino",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "note": "FT"
         },
         {
           "id": "401874762",
@@ -14054,6 +14038,26 @@
           "venue": "Stadio Pier Luigi Penzo, Venezia",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401875107",
+          "utc": "2026-12-07T19:45Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "109",
+            "name": "Fiorentina",
+            "abbreviation": "FIO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+          },
+          "away": {
+            "id": "2925",
+            "name": "Cagliari",
+            "abbreviation": "CAG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
+          },
+          "venue": "Stadio Artemio Franchi, Firenze",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14079,12 +14083,29 @@
             },
             {
               "team": {
+                "id": "112",
+                "name": "Lazio",
+                "abbreviation": "LAZ",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+              },
+              "rank": 2,
+              "played": 7,
+              "won": 6,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 14,
+              "ga": 4,
+              "gd": 10,
+              "points": 19
+            },
+            {
+              "team": {
                 "id": "104",
                 "name": "AS Roma",
                 "abbreviation": "ROMA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
               },
-              "rank": 2,
+              "rank": 3,
               "played": 7,
               "won": 5,
               "drawn": 2,
@@ -14093,23 +14114,6 @@
               "ga": 3,
               "gd": 13,
               "points": 17
-            },
-            {
-              "team": {
-                "id": "112",
-                "name": "Lazio",
-                "abbreviation": "LAZ",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-              },
-              "rank": 3,
-              "played": 6,
-              "won": 5,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 11,
-              "ga": 4,
-              "gd": 7,
-              "points": 16
             },
             {
               "team": {
@@ -14187,13 +14191,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
               },
               "rank": 8,
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 2,
-              "lost": 1,
+              "lost": 2,
               "gf": 9,
-              "ga": 5,
-              "gd": 4,
+              "ga": 8,
+              "gd": 1,
               "points": 11
             },
             {
@@ -14404,6 +14408,16 @@
         }
       ],
       "news": [
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401874978",
+          "title": "Ruben Amorim still unbeaten in Serie A after Milan win",
+          "description": "AC Milan held off a fightback from Atalanta to close out a 3-2 win at San Siro and move up into fourth in Serie A with manager Ruben Amorim remaining unbeaten in his first seven league games.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401874978",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732517_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T18:40:07Z",
+          "source": "ESPN",
+          "transfer": true
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
           "title": "Inter Milan rocked as captain Lautaro Martínez set to miss 7 games",
@@ -14621,16 +14635,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49940653/why-3-week-international-break-longest-ever-why-thats-good-thing",
           "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1716998_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-21T07:52:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401874944",
-          "title": "Christian Pulisic starts, gets first Milan goal of 2026 in win",
-          "description": "AC Milan continued their unbeaten run in Serie A with a 3-0 win over Lecce at San Siro on Sunday.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401874944",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0920/r1719672_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-20T23:14:37Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15383,7 +15387,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.764Z",
+      "updatedUtc": "2026-10-18T22:21:29.383Z",
       "matches": [
         {
           "id": "401884786",
@@ -18380,7 +18384,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.721Z",
+      "updatedUtc": "2026-10-18T22:21:29.425Z",
       "matches": [
         {
           "id": "401876451",
@@ -18999,8 +19003,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
           },
           "venue": "Groupama Stadium, Lyon",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401876428",
@@ -20089,12 +20097,29 @@
           "rows": [
             {
               "team": {
+                "id": "167",
+                "name": "Lyon",
+                "abbreviation": "LYON",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+              },
+              "rank": 1,
+              "played": 7,
+              "won": 4,
+              "drawn": 2,
+              "lost": 1,
+              "gf": 13,
+              "ga": 5,
+              "gd": 8,
+              "points": 14
+            },
+            {
+              "team": {
                 "id": "160",
                 "name": "PSG",
                 "abbreviation": "PSG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
               },
-              "rank": 1,
+              "rank": 2,
               "played": 7,
               "won": 4,
               "drawn": 2,
@@ -20111,7 +20136,7 @@
                 "abbreviation": "PAR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
               },
-              "rank": 2,
+              "rank": 3,
               "played": 7,
               "won": 4,
               "drawn": 2,
@@ -20128,7 +20153,7 @@
                 "abbreviation": "LILL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
               },
-              "rank": 3,
+              "rank": 4,
               "played": 7,
               "won": 4,
               "drawn": 2,
@@ -20145,7 +20170,7 @@
                 "abbreviation": "MON",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
               },
-              "rank": 4,
+              "rank": 5,
               "played": 7,
               "won": 4,
               "drawn": 2,
@@ -20162,7 +20187,7 @@
                 "abbreviation": "REN",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
               },
-              "rank": 5,
+              "rank": 6,
               "played": 7,
               "won": 4,
               "drawn": 1,
@@ -20171,23 +20196,6 @@
               "ga": 14,
               "gd": 1,
               "points": 13
-            },
-            {
-              "team": {
-                "id": "167",
-                "name": "Lyon",
-                "abbreviation": "LYON",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-              },
-              "rank": 6,
-              "played": 6,
-              "won": 3,
-              "drawn": 2,
-              "lost": 1,
-              "gf": 11,
-              "ga": 4,
-              "gd": 7,
-              "points": 11
             },
             {
               "team": {
@@ -20299,13 +20307,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
               },
               "rank": 13,
-              "played": 6,
+              "played": 7,
               "won": 2,
               "drawn": 2,
-              "lost": 2,
-              "gf": 5,
-              "ga": 7,
-              "gd": -2,
+              "lost": 3,
+              "gf": 6,
+              "ga": 9,
+              "gd": -3,
               "points": 8
             },
             {
@@ -21373,7 +21381,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-18T18:33:40.607Z",
+      "updatedUtc": "2026-10-18T22:21:29.286Z",
       "matches": [
         {
           "id": "401861118",
@@ -25065,7 +25073,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T18:33:40.947Z",
+      "updatedUtc": "2026-10-18T22:21:29.606Z",
       "matches": [
         {
           "id": "761871",
@@ -25540,8 +25548,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
           },
           "venue": "TQL Stadium, Cincinnati, Ohio",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "note": "HT"
         },
         {
           "id": "761773",
@@ -28271,7 +28283,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-18T18:33:40.585Z",
+      "updatedUtc": "2026-10-18T22:21:29.267Z",
       "matches": [
         {
           "id": "760415",
