@@ -1,10 +1,12 @@
 import { describe, expect, it } from 'vitest';
 import {
   aggregateFootballLeaders,
+  footballScoreboardYears,
   groupMatches,
   mapFootballScoreboard,
   mapFootballLeaders,
   mergeFootballMatches,
+  selectFootballMatchWindow,
   selectKeyIncidents,
   selectRelevantTable,
   selectLandingMatches,
@@ -131,6 +133,38 @@ describe('mergeFootballMatches', () => {
 
     expect(merged.find((item) => item.id === '401861137')).not.toHaveProperty('score');
     expect(merged.find((item) => item.id === 'other')?.status).toBe('finished');
+  });
+});
+
+describe('football score refresh window', () => {
+  const match = (id: string, utc: string) =>
+    ({ id, utc, status: 'upcoming' }) as FootballMatch;
+
+  it('requests each calendar year touched by the rolling window', () => {
+    expect(footballScoreboardYears(new Date('2026-10-19T12:00:00Z'))).toEqual([2026]);
+    expect(footballScoreboardYears(new Date('2026-12-20T12:00:00Z'))).toEqual([2026, 2027]);
+    expect(footballScoreboardYears(new Date('2026-01-10T12:00:00Z'))).toEqual([2025, 2026]);
+  });
+
+  it('keeps recent results and future fixtures while excluding stale season data', () => {
+    const selected = selectFootballMatchWindow([
+      match('too-old', '2026-08-01T12:00:00Z'),
+      match('recent', '2026-10-01T12:00:00Z'),
+      match('next', '2026-10-20T12:00:00Z'),
+      match('too-far', '2027-01-01T12:00:00Z'),
+      match('invalid', 'not-a-date'),
+    ], new Date('2026-10-19T12:00:00Z'));
+
+    expect(selected.map((item) => item.id)).toEqual(['recent', 'next']);
+  });
+
+  it('falls back to ordered provider data and enforces the response limit', () => {
+    const selected = selectFootballMatchWindow([
+      match('later', '2025-02-01T12:00:00Z'),
+      match('earlier', '2025-01-01T12:00:00Z'),
+    ], new Date('2026-10-19T12:00:00Z'), 1, 1, 1);
+
+    expect(selected.map((item) => item.id)).toEqual(['later']);
   });
 });
 

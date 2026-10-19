@@ -1,9 +1,14 @@
 // Cloudflare Pages Function: GET /api/football-scores?league=<allowlisted ESPN code>
-// Returns today's normalized scores for one competition, or all active
-// competitions when league is omitted.
+// Returns a rolling recent/upcoming score window for one competition, or all
+// active competitions when league is omitted.
 
 import { COMPETITIONS } from '../../src/lib/competitions';
-import { mapFootballScoreboard } from '../../src/lib/football-stats';
+import {
+  footballScoreboardYears,
+  mapFootballScoreboard,
+  mergeFootballMatches,
+  selectFootballMatchWindow,
+} from '../../src/lib/football-stats';
 import type { FootballScoresSnapshot } from '../../src/lib/football-types';
 
 const ESPN = 'https://site.api.espn.com/apis/site/v2/sports/soccer';
@@ -40,17 +45,26 @@ export const onRequestGet: PagesFunction = async ({ request }) => {
     });
   }
 
-  const date = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+  const now = new Date();
+  const years = footballScoreboardYears(now);
   const competitions = await Promise.all(
     selected.map(async (competition) => {
-      const url = `${ESPN}/${competition.espn}/scoreboard?dates=${date}&limit=100`;
-      const json = await fetchJson(url).catch(() => null);
-      return json
+      const scoreboards = await Promise.all(
+        years.map((year) =>
+          fetchJson(`${ESPN}/${competition.espn}/scoreboard?dates=${year}&limit=1000`)
+            .catch(() => null)
+        )
+      );
+      const available = scoreboards.filter((scoreboard) => scoreboard !== null);
+      return available.length
         ? {
             slug: competition.slug,
             name: competition.shortName,
             espn: competition.espn,
-            matches: mapFootballScoreboard(json),
+            matches: selectFootballMatchWindow(
+              mergeFootballMatches([], available.flatMap(mapFootballScoreboard)),
+              now
+            ),
           }
         : null;
     })
