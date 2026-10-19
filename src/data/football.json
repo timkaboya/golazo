@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-18T22:21:29.606Z",
+  "updatedUtc": "2026-10-19T04:18:23.703Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.332Z",
+      "updatedUtc": "2026-10-19T04:18:23.386Z",
       "matches": [
         {
           "id": "401915418",
@@ -3140,7 +3140,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.311Z",
+      "updatedUtc": "2026-10-19T04:18:23.443Z",
       "matches": [
         {
           "id": "401915585",
@@ -6444,7 +6444,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.501Z",
+      "updatedUtc": "2026-10-19T04:18:23.328Z",
       "matches": [
         {
           "id": "401878771",
@@ -8432,6 +8432,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds",
+          "title": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "publishedUtc": "2026-10-19T01:59:24Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest",
+          "title": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
+          "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
+          "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
+          "publishedUtc": "2026-10-18T22:24:20Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average",
+          "title": "Leboeuf labels Carrick's Man United as 'average'",
+          "description": "Leboeuf labels Carrick's Man United as 'average'",
+          "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
+          "publishedUtc": "2026-10-18T22:23:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
           "title": "Arteta: Madueke is loved in the dressing room at Arsenal",
           "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
@@ -8638,36 +8668,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50209432/dejan-kulusevski-set-return-tottenham-coventry-squad-500-day-injury-absence",
           "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732364_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-18T12:24:54Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50205062/liverpool-come-beat-shorthanded-brentford",
-          "title": "Liverpool come from behind to beat shorthanded Brentford",
-          "description": "Victor Muñoz and Alexander Isak take advantage of a weakened Brentford defence to score a pair of electric goals and lift Liverpool to a 2-1 comeback victory.",
-          "url": "https://www.espn.com/video/clip/_/id/50205062/liverpool-come-beat-shorthanded-brentford",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_EPL_Highlight_Liverpool_come_from_behind_to_beat_shorthanded_Brentford_20261018_AUS_ONLY/dm_261017_EPL_Highlight_Liverpool_come_from_behind_to_beat_shorthanded_Brentford_20261018_AUS_ONLY.jpg",
-          "publishedUtc": "2026-10-17T22:53:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50204893/arsenal-kai-havertz-mikel-arteta-30-goals-big-believer-goals-season",
-          "title": "Mikel Arteta: 'Big believer' Arsenal's Kai Havertz can score 30 goals a season",
-          "description": "Mikel Arteta has said he is a \"big believer\" that Kai Havertz can be Arsenal's 30-goal-a-season man.",
-          "url": "https://www.espn.com/soccer/story/_/id/50204893/arsenal-kai-havertz-mikel-arteta-30-goals-big-believer-goals-season",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732190_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T22:53:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50204834/haaland-man-city-hold-resilient-ipswich",
-          "title": "Haaland, Man City hold off resilient Ipswich",
-          "description": "Erling Haaland nets a double to extend his lead at the top of the goal-scoring tally as Manchester City take down Ipswich Town 3-2.",
-          "url": "https://www.espn.com/video/clip/_/id/50204834/haaland-man-city-hold-resilient-ipswich",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1017/dm_261017_EPL_Highlight_Haaland_Man_City_hold_off_resilient_Ipswich_20261018_AUS_ONLY/dm_261017_EPL_Highlight_Haaland_Man_City_hold_off_resilient_Ipswich_20261018_AUS_ONLY.jpg",
-          "publishedUtc": "2026-10-17T22:19:34Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9417,7 +9417,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.543Z",
+      "updatedUtc": "2026-10-19T04:18:23.587Z",
       "matches": [
         {
           "id": "401882849",
@@ -11441,6 +11441,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
+          "title": "Mou doesn't understand 'obsession' with elbow from Madrid's Güler",
+          "description": "José Mourinho claimed he hadn't seen \"images\" of an elbow by Arda Güler -- which saw no intervention from the referee -- in Real Madrid's 4-1 win over Sevilla.",
+          "url": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732660_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-18T23:04:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50213693/real-madrid-played-identity-vs-sevilla",
+          "title": "Garcia: Real Madrid played with identity vs. Sevilla",
+          "description": "Garcia: Real Madrid played with identity vs. Sevilla",
+          "url": "https://www.espn.com/video/clip/_/id/50213693/real-madrid-played-identity-vs-sevilla",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Garcia3A_Real_Madrid_played_with_identity_vs_Sevilla_GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Garcia3A_Real_Madrid_played_with_identity_vs_Sevilla_GLOBAL_2026-10-18.jpg",
+          "publishedUtc": "2026-10-18T22:22:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401882839",
           "title": "Yan Diomande, Kylian Mbappé lead Real Madrid rout of Sevilla",
           "description": "Kylian Mbappé's brilliant double on Sunday helped Real Madrid prepare for next week's El Clasico with a 4-1 triumph over Sevilla at the Bernabeu.",
@@ -11657,26 +11677,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg",
           "publishedUtc": "2026-10-16T08:59:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50192030/how-vinicius-junior-ban-helpful-real-madrid",
-          "title": "How Vinícius Júnior's ban could be helpful for Real Madrid",
-          "description": "How Vinícius Júnior's ban could be helpful for Real Madrid",
-          "url": "https://www.espn.com/video/clip/_/id/50192030/how-vinicius-junior-ban-helpful-real-madrid",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_How_Vinicius_Juniors_ban_could_be_helpful_for_Real_Madrid/dm_261015_How_Vinicius_Juniors_ban_could_be_helpful_for_Real_Madrid.jpg",
-          "publishedUtc": "2026-10-15T21:54:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50180425/tyler-creator-joins-stars-appear-barcelona-clasico-kit-coldplay-olivia-rodrigo-ed-sheeran",
-          "title": "Tyler, The Creator joins stars to appear on Barcelona Clásico kit",
-          "description": "It's become a tradition in recent years for Barcelona to add the logo of top music stars to their jerseys when they face Real Madrid in El Clásico.",
-          "url": "https://www.espn.com/soccer/story/_/id/50180425/tyler-creator-joins-stars-appear-barcelona-clasico-kit-coldplay-olivia-rodrigo-ed-sheeran",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730559_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T13:39:06Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12425,7 +12425,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.465Z",
+      "updatedUtc": "2026-10-19T04:18:23.558Z",
       "matches": [
         {
           "id": "401874959",
@@ -15387,7 +15387,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.383Z",
+      "updatedUtc": "2026-10-19T04:18:23.521Z",
       "matches": [
         {
           "id": "401884786",
@@ -18384,7 +18384,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.425Z",
+      "updatedUtc": "2026-10-19T04:18:23.703Z",
       "matches": [
         {
           "id": "401876451",
@@ -21381,7 +21381,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-18T22:21:29.286Z",
+      "updatedUtc": "2026-10-19T04:18:23.424Z",
       "matches": [
         {
           "id": "401861118",
@@ -24088,6 +24088,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
+          "title": "Arteta: Madueke is loved in the dressing room at Arsenal",
+          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
+          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
+          "publishedUtc": "2026-10-18T22:00:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50187548/will-wirtz-gain-confidence-liverpool-victory-vs-lask",
           "title": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
           "description": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
@@ -24313,16 +24323,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401861142",
           "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726973_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-06T21:01:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-          "description": "Cristiano Ronaldo walked out of the Portugal national team's camp after being benched. It is far from the first high-profile row of his two decades at the top.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T20:21:46Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25073,7 +25073,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-18T22:21:29.606Z",
+      "updatedUtc": "2026-10-19T04:18:23.645Z",
       "matches": [
         {
           "id": "761871",
@@ -25548,12 +25548,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
           },
           "venue": "TQL Stadium, Cincinnati, Ohio",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
-            "away": 1
+            "away": 2
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "761773",
@@ -26784,15 +26784,15 @@
                 "abbreviation": "CLB",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
               },
-              "rank": 13,
-              "played": 29,
-              "won": 9,
+              "rank": 11,
+              "played": 30,
+              "won": 10,
               "drawn": 5,
               "lost": 15,
-              "gf": 44,
+              "gf": 46,
               "ga": 47,
-              "gd": -3,
-              "points": 32
+              "gd": -1,
+              "points": 35
             },
             {
               "team": {
@@ -26835,7 +26835,7 @@
                 "abbreviation": "DC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png"
               },
-              "rank": 12,
+              "rank": 13,
               "played": 29,
               "won": 7,
               "drawn": 12,
@@ -26920,7 +26920,7 @@
                 "abbreviation": "NYC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
               },
-              "rank": 11,
+              "rank": 12,
               "played": 30,
               "won": 8,
               "drawn": 10,
@@ -26938,13 +26938,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
               },
               "rank": 9,
-              "played": 28,
+              "played": 29,
               "won": 9,
               "drawn": 9,
-              "lost": 10,
+              "lost": 11,
               "gf": 60,
-              "ga": 68,
-              "gd": -8,
+              "ga": 70,
+              "gd": -10,
               "points": 36
             },
             {
@@ -28283,7 +28283,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-18T22:21:29.267Z",
+      "updatedUtc": "2026-10-19T04:18:23.402Z",
       "matches": [
         {
           "id": "760415",
