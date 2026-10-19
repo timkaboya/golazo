@@ -6,6 +6,7 @@ import {
   mapFootballScoreboard,
   mapFootballLeaders,
   mergeFootballMatches,
+  selectFootballScoreRefresh,
   selectFootballMatchWindow,
   selectKeyIncidents,
   selectRelevantTable,
@@ -165,6 +166,33 @@ describe('football score refresh window', () => {
     ], new Date('2026-10-19T12:00:00Z'), 1, 1, 1);
 
     expect(selected.map((item) => item.id)).toEqual(['later']);
+  });
+
+  it('returns only the live, latest, and next matches needed by the page', () => {
+    const matches = [
+      ...Array.from({ length: 15 }, (_, index) => ({
+        ...match(`finished-${index}`, `2026-10-${String(index + 1).padStart(2, '0')}T12:00:00Z`),
+        status: 'finished' as const,
+      })),
+      { ...match('live', '2026-10-19T12:00:00Z'), status: 'live' as const },
+      ...Array.from({ length: 15 }, (_, index) =>
+        match(`upcoming-${index}`, `2026-10-${String(index + 20).padStart(2, '0')}T12:00:00Z`)
+      ),
+    ];
+
+    const selected = selectFootballScoreRefresh(
+      matches,
+      new Date('2026-10-19T12:00:00Z'),
+      2
+    );
+
+    expect(selected.map((item) => item.id)).toEqual([
+      'finished-13',
+      'finished-14',
+      'live',
+      'upcoming-0',
+      'upcoming-1',
+    ]);
   });
 });
 

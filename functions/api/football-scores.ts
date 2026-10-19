@@ -7,7 +7,7 @@ import {
   footballScoreboardYears,
   mapFootballScoreboard,
   mergeFootballMatches,
-  selectFootballMatchWindow,
+  selectFootballScoreRefresh,
 } from '../../src/lib/football-stats';
 import type { FootballScoresSnapshot } from '../../src/lib/football-types';
 
@@ -61,7 +61,7 @@ export const onRequestGet: PagesFunction = async ({ request }) => {
             slug: competition.slug,
             name: competition.shortName,
             espn: competition.espn,
-            matches: selectFootballMatchWindow(
+            matches: selectFootballScoreRefresh(
               mergeFootballMatches([], available.flatMap(mapFootballScoreboard)),
               now
             ),

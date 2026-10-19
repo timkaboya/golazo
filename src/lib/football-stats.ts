@@ -114,6 +114,15 @@ export function selectFootballMatchWindow<T extends FootballMatch>(
   return (windowed.length ? windowed : ordered).slice(-limit);
 }
 
+export function selectFootballScoreRefresh<T extends FootballMatch>(
+  matches: T[],
+  now = new Date(),
+  limitPerGroup = 12
+): T[] {
+  const groups = groupMatches(selectFootballMatchWindow(matches, now), limitPerGroup);
+  return mergeFootballMatches<T>([], [...groups.live, ...groups.upcoming, ...groups.recent]);
+}
+
 const sortScorers = (a: FootballLeader, b: FootballLeader) =>
   b.goals - a.goals || b.assists - a.assists || a.name.localeCompare(b.name);
 
@@ -194,7 +203,7 @@ export function aggregateFootballLeaders(
   };
 }
 
-export function groupMatches(matches: FootballMatch[], limit = 12) {
+export function groupMatches<T extends FootballMatch>(matches: T[], limit = 12) {
   const ordered = [...matches].sort((a, b) => a.utc.localeCompare(b.utc));
   return {
     live: ordered.filter((match) => match.status === 'live').slice(0, limit),
