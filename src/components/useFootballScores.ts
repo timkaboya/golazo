@@ -38,10 +38,8 @@ export function useFootballScores(league?: string) {
     };
     const onVisibilityChange = () => {
       if (document.visibilityState === 'visible') {
-        if (document.visibilityState === 'visible') {
-          void refresh();
-          start();
-        }
+        void refresh();
+        start();
       } else {
         stop();
       }

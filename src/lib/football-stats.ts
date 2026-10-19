@@ -87,6 +87,42 @@ export function mergeFootballMatches<T extends FootballMatch>(
   return [...byId.values()].sort((a, b) => a.utc.localeCompare(b.utc));
 }
 
+export function footballScoreboardYears(
+  now = new Date(),
+  pastDays = 35,
+  futureDays = 50
+): number[] {
+  const past = new Date(now.getTime() - pastDays * 86400000).getUTCFullYear();
+  const future = new Date(now.getTime() + futureDays * 86400000).getUTCFullYear();
+  return past === future ? [past] : [past, future];
+}
+
+export function selectFootballMatchWindow<T extends FootballMatch>(
+  matches: T[],
+  now = new Date(),
+  pastDays = 35,
+  futureDays = 50,
+  limit = 80
+): T[] {
+  const pastCutoff = now.getTime() - pastDays * 86400000;
+  const futureCutoff = now.getTime() + futureDays * 86400000;
+  const ordered = [...matches].sort((a, b) => a.utc.localeCompare(b.utc));
+  const windowed = ordered.filter((match) => {
+    const kickoff = Date.parse(match.utc);
+    return Number.isFinite(kickoff) && kickoff >= pastCutoff && kickoff <= futureCutoff;
+  });
+  return (windowed.length ? windowed : ordered).slice(-limit);
+}
+
+export function selectFootballScoreRefresh<T extends FootballMatch>(
+  matches: T[],
+  now = new Date(),
+  limitPerGroup = 12
+): T[] {
+  const groups = groupMatches(selectFootballMatchWindow(matches, now), limitPerGroup);
+  return mergeFootballMatches<T>([], [...groups.live, ...groups.upcoming, ...groups.recent]);
+}
+
 const sortScorers = (a: FootballLeader, b: FootballLeader) =>
   b.goals - a.goals || b.assists - a.assists || a.name.localeCompare(b.name);
 
@@ -167,7 +203,7 @@ export function aggregateFootballLeaders(
   };
 }
 
-export function groupMatches(matches: FootballMatch[], limit = 12) {
+export function groupMatches<T extends FootballMatch>(matches: T[], limit = 12) {
   const ordered = [...matches].sort((a, b) => a.utc.localeCompare(b.utc));
   return {
     live: ordered.filter((match) => match.status === 'live').slice(0, limit),

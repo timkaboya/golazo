@@ -18,7 +18,7 @@ interface Props {
 }
 
 const { competition } = Astro.props;
-const { config, matches, tables, news, leaders, updatedUtc } = competition;
+const { config, matches, tables, news, leaders } = competition;
 const matchGroups = groupMatches(matches);
 const transfers = news.filter((story) => story.transfer);
 const cover = news.find((story) => story.imageUrl)?.imageUrl;
@@ -33,9 +33,7 @@ const cover = news.find((story) => story.imageUrl)?.imageUrl;
         <span class="eyebrow">{config.region}</span>
         <h1>{config.name}</h1>
         <p>{config.description}</p>
-        <div class="competition-updated">
-          Verified ESPN snapshot · updated <time datetime={updatedUtc} data-local>{new Date(updatedUtc).toUTCString()}</time>
-        </div>
+        <div class="competition-updated">ESPN scores refresh on page load and every minute while this page is open.</div>
       </div>
     </div>
   </section>

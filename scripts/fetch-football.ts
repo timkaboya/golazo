@@ -2,7 +2,11 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { COMPETITIONS } from '../src/lib/competitions.ts';
-import { mapFootballLeaders, mapFootballScoreboard } from '../src/lib/football-stats.ts';
+import {
+  mapFootballLeaders,
+  mapFootballScoreboard,
+  selectFootballMatchWindow,
+} from '../src/lib/football-stats.ts';
 import type {
   Club,
   CompetitionSnapshot,
@@ -70,16 +74,7 @@ function club(raw: any): Club {
 function mapMatches(json: any, archive: boolean) {
   const sorted = mapFootballScoreboard(json);
   if (archive) return sorted;
-
-  const now = Date.now();
-  const pastCutoff = now - 35 * 86400000;
-  const futureCutoff = now + 50 * 86400000;
-  const windowed = sorted.filter((match) => {
-    const kickoff = Date.parse(match.utc);
-    return kickoff >= pastCutoff && kickoff <= futureCutoff;
-  });
-  if (windowed.length) return windowed.slice(-80);
-  return sorted.slice(-24);
+  return selectFootballMatchWindow(sorted);
 }
 
 function mapTables(json: any): LeagueTable[] {
