@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-20T04:29:37.985Z",
+  "updatedUtc": "2026-10-20T11:19:39.642Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.364Z",
+      "updatedUtc": "2026-10-20T11:19:39.052Z",
       "matches": [
         {
           "id": "401915436",
@@ -2309,6 +2309,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50226678/marc-guehi-future-manchester-city-captain",
+          "title": "Enzo Maresca: Marc Guéhi is a future Manchester City captain",
+          "description": "Enzo Maresca has lauded centre-back Marc Guéhi's leadership qualities and said he sees them as a future captain of Manchester City.",
+          "url": "https://www.espn.com/soccer/story/_/id/50226678/marc-guehi-future-manchester-city-captain",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731101_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T10:50:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50211589/champions-league-power-rankings-md3-no-1-psg-arsenal-barcelona-bayern-munich",
           "title": "Champions League Power Rankings before MD3: Who's No. 1?",
           "description": "It's time for the UEFA Champions League! It has been about six weeks since our last check-in, but our panel of experts and voters will rank the top 10 teams in the field. Where does your club rank?",
@@ -2535,16 +2545,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50185039/man-city-played-psg-hands-ucl-defeat",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_COM_SOC_Analysis_Man_City_played_into_PSGE28099s_hands_in_UCL_defeat__GLOBAL_2026-10-14/dm_261014_COM_SOC_Analysis_Man_City_played_into_PSGE28099s_hands_in_UCL_defeat__GLOBAL_2026-10-14.jpg",
           "publishedUtc": "2026-10-14T22:44:03Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50185037/psg-far-better-team-man-city",
-          "title": "Burley: PSG are a far better team than Man City",
-          "description": "Burley: PSG are a far better team than Man City",
-          "url": "https://www.espn.com/video/clip/_/id/50185037/psg-far-better-team-man-city",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_COM_SOC_Analysis_Burley3A_PSG_are_a_far_better_team_than_Man_City__GLOBAL_2026-10-14/dm_261014_COM_SOC_Analysis_Burley3A_PSG_are_a_far_better_team_than_Man_City__GLOBAL_2026-10-14.jpg",
-          "publishedUtc": "2026-10-14T22:43:19Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3296,7 +3296,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.689Z",
+      "updatedUtc": "2026-10-20T11:19:39.124Z",
       "matches": [
         {
           "id": "401915585",
@@ -6600,7 +6600,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.763Z",
+      "updatedUtc": "2026-10-20T11:19:39.342Z",
       "matches": [
         {
           "id": "401878771",
@@ -8592,12 +8592,92 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-20T10:21:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
+          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T10:21:30Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50221682/man-city-cheated-premier-league-was-built-unfair",
+          "title": "Man City cheated because Premier League was built to be unfair",
+          "description": "The Premier League is unfair: Some teams are allowed to spend more than everyone else. So, of course Man City cheated to win.",
+          "url": "https://www.espn.com/soccer/story/_/id/50221682/man-city-cheated-premier-league-was-built-unfair",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1733134_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T10:20:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50226542/decided-bring-kulusevski-tottenham-fans",
+          "title": "De Zerbi: I decided to bring Kulusevski on for the Tottenham fans",
+          "description": "De Zerbi: I decided to bring Kulusevski on for the Tottenham fans",
+          "url": "https://www.espn.com/video/clip/_/id/50226542/decided-bring-kulusevski-tottenham-fans",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_De_Zerbi3A_I_decided_to_bring_Kulusevski_on_for_the_Tottenham_fans__GLOBAL_2026-10/dm_261020_COM_SOC_Analysis_De_Zerbi3A_I_decided_to_bring_Kulusevski_on_for_the_Tottenham_fans__GLOBAL_2026-10.jpg",
+          "publishedUtc": "2026-10-20T10:16:07Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
+          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunched as an NFL franchise, this is it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733308_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T09:55:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50226329/steven-gerrard-no-regrets-ignoring-real-madrid-inter-milan-bayern-munich-interest",
+          "title": "Steven Gerrard: 'No regrets' over ignoring Real Madrid, Inter Milan, Bayern Munich interest",
+          "description": "Former Liverpool captain Steven Gerrard has said he has \"no regrets\" about turning down moves to other European giants, including Real Madrid, during his playing career.",
+          "url": "https://www.espn.com/soccer/story/_/id/50226329/steven-gerrard-no-regrets-ignoring-real-madrid-inter-milan-bayern-munich-interest",
+          "imageUrl": "https://a.espncdn.com/photo/2025/0310/r1462141_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T09:39:09Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50226146/dejan-kulusevski-explains-why-different-tottenham-injury-hell",
+          "title": "Dejan Kulusevski explains why he is 'different' after Tottenham injury hell",
+          "description": "Dejan Kulusevski has said that he is \"smarter\" after ending a 526-day injury-enforced absence as Tottenham beat Coventry on Monday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50226146/dejan-kulusevski-explains-why-different-tottenham-injury-hell",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733314_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T09:11:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/espn/story/_/id/50225256/ayyoub-bouaddi-carlos-baleba-offer-hope-amidst-gathering-storms-manchester-united-manchester-city",
+          "title": "Ayyoub Bouaddi, Carlos Baleba offer hope amidst gathering storms at Manchester United and Manchester City",
+          "description": "It's been a bruising start to the season for the two Manchester giants, as Manchester United's struggles to rediscover their form under Michael Carrick show little sign of abating, and Manchester City contend with the consequences of their guilty verdict.",
+          "url": "https://www.espn.com/espn/story/_/id/50225256/ayyoub-bouaddi-carlos-baleba-offer-hope-amidst-gathering-storms-manchester-united-manchester-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733290_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T06:47:56Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50222119/maddison-scores-return-spurs-1st-epl-win",
-          "title": "Maddison scores in 'dream' return as Spurs get 1st EPL win of season",
+          "title": "Maddison scores in 'dream' return as Spurs get 1st PL win of season",
           "description": "An emotional James Maddison said it was like a \"dream\" to produce a goal and help Tottenham climb off the bottom of the Premier League with a 3-1 home win.",
           "url": "https://www.espn.com/soccer/story/_/id/50222119/maddison-scores-return-spurs-1st-epl-win",
           "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1733159_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T23:32:14Z",
+          "publishedUtc": "2026-10-20T08:45:56Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8750,86 +8830,6 @@
           "publishedUtc": "2026-10-19T01:59:24Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest",
-          "title": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
-          "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
-          "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
-          "publishedUtc": "2026-10-18T22:24:20Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average",
-          "title": "Leboeuf labels Carrick's Man United as 'average'",
-          "description": "Leboeuf labels Carrick's Man United as 'average'",
-          "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
-          "publishedUtc": "2026-10-18T22:23:21Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
-          "title": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "publishedUtc": "2026-10-18T22:00:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals",
-          "title": "Roberto De Zerbi on latest Tottenham training ploy: 'We removed phones' from meals",
-          "description": "Roberto De Zerbi has revealed phones were banned from meals during Tottenham's warm weather training camp in Marbella in his latest attempt to turn a vastly-assembled squad into a team.",
-          "url": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724368_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T21:55:30Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke",
-          "title": "Dominic Calvert-Lewin 'showed respect by standing' as others took knee for racism campaign - Daniel Farke",
-          "description": "Leeds boss Daniel Farke has said that striker Dominic Calvert-Lewin showed \"respect\" after not taking the knee prior to Leeds United's draw with Manchester United on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732437_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T20:21:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree",
-          "title": "Mikel Arteta puts stale Arsenal display down to Nottingham Forest tactics: 'They put a Christmas tree there'",
-          "description": "Mikel Arteta has defended his Arsenal team after they only managed one shot on target in their 1-0 win at Nottingham Forest on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732537_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T11:00:24Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50210987/arsenal-look-ready-attack-premier-league-title-want-yet",
-          "title": "Arsenal don't look ready to 'attack' the Premier League title like they want to -- yet",
-          "description": "Defending Premier League champions Arsenal put in a weak attacking performance at Nottingham Forest -- but maybe that's just fine.",
-          "url": "https://www.espn.com/soccer/story/_/id/50210987/arsenal-look-ready-attack-premier-league-title-want-yet",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732532_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T19:48:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
-          "title": "Transfer rumors, news: Could Viktor Gyökeres leave Arsenal in January?",
-          "description": "Arsenal forward Viktor Gyökeres could leave the club in January, while Manchester United are looking to bolster their squad in January. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T18:55:48Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9451,6 +9451,18 @@
             "assists": 2
           },
           {
+            "id": "104943",
+            "name": "Andy Robertson",
+            "team": {
+              "id": "367",
+              "name": "Tottenham Hotspur",
+              "abbreviation": "TOT",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
             "id": "241077",
             "name": "Ben White",
             "team": {
@@ -9458,6 +9470,18 @@
               "name": "Arsenal",
               "abbreviation": "ARS",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "240495",
+            "name": "Brandon Thomas-Asante",
+            "team": {
+              "id": "388",
+              "name": "Coventry City",
+              "abbreviation": "COV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
             },
             "goals": 0,
             "assists": 2
@@ -9512,6 +9536,19 @@
             "assists": 2
           },
           {
+            "id": "266599",
+            "name": "Mohammed Kudus",
+            "team": {
+              "id": "367",
+              "name": "Tottenham Hotspur",
+              "abbreviation": "TOT",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/266599.png",
+            "goals": 0,
+            "assists": 2
+          },
+          {
             "id": "318390",
             "name": "Tarik Muharemovic",
             "team": {
@@ -9522,42 +9559,6 @@
             },
             "goals": 0,
             "assists": 2
-          },
-          {
-            "id": "265653",
-            "name": "Morgan Rogers",
-            "team": {
-              "id": "363",
-              "name": "Chelsea",
-              "abbreviation": "CHE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-            },
-            "goals": 4,
-            "assists": 1
-          },
-          {
-            "id": "124091",
-            "name": "Bruno Fernandes",
-            "team": {
-              "id": "360",
-              "name": "Manchester United",
-              "abbreviation": "MAN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "197717",
-            "name": "Dominic Calvert-Lewin",
-            "team": {
-              "id": "357",
-              "name": "Leeds United",
-              "abbreviation": "LEE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
-            },
-            "goals": 3,
-            "assists": 1
           }
         ]
       }
@@ -9577,7 +9578,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.920Z",
+      "updatedUtc": "2026-10-20T11:19:39.510Z",
       "matches": [
         {
           "id": "401882849",
@@ -11605,6 +11606,66 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-20T10:21:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
+          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T10:21:30Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
+          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunched as an NFL franchise, this is it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733308_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T09:55:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50226362/do-real-madrid-look-better-vinicius-junior",
+          "title": "Do Real Madrid look better without Vinícius Júnior?",
+          "description": "Do Real Madrid look better without Vinícius Júnior?",
+          "url": "https://www.espn.com/video/clip/_/id/50226362/do-real-madrid-look-better-vinicius-junior",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_Do_Real_Madrid_look_better_without_VinC3ADcius_JC3BAnior3F__GLOBAL_2026-10-20/dm_261020_COM_SOC_Analysis_Do_Real_Madrid_look_better_without_VinC3ADcius_JC3BAnior3F__GLOBAL_2026-10-20.jpg",
+          "publishedUtc": "2026-10-20T09:49:24Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50226329/steven-gerrard-no-regrets-ignoring-real-madrid-inter-milan-bayern-munich-interest",
+          "title": "Steven Gerrard: 'No regrets' over ignoring Real Madrid, Inter Milan, Bayern Munich interest",
+          "description": "Former Liverpool captain Steven Gerrard has said he has \"no regrets\" about turning down moves to other European giants, including Real Madrid, during his playing career.",
+          "url": "https://www.espn.com/soccer/story/_/id/50226329/steven-gerrard-no-regrets-ignoring-real-madrid-inter-milan-bayern-munich-interest",
+          "imageUrl": "https://a.espncdn.com/photo/2025/0310/r1462141_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T09:39:09Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50226129/mourinho-created-narrative-world-real-madrid",
+          "title": "Gomez: Mourinho has created narrative that 'the world is against' Real Madrid",
+          "description": "Gomez: Mourinho has created narrative that 'the world is against' Real Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50226129/mourinho-created-narrative-world-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Gomez_Mourinho_has_created_narrative_that_the_world_is_against_Real_Madrid/dm_261020_Gomez_Mourinho_has_created_narrative_that_the_world_is_against_Real_Madrid.jpg",
+          "publishedUtc": "2026-10-20T09:04:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50221935/lamine-yamal-bringing-joy-back-football",
           "title": "Rae: Lamine Yamal is bringing joy back to football",
           "description": "Rae: Lamine Yamal is bringing joy back to football",
@@ -11783,66 +11844,6 @@
           "publishedUtc": "2026-10-17T16:08:36Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401882843",
-          "title": "Álex Baena scores late at Espanyol as Atlético maintain pressure on Barça",
-          "description": "Atlético Madrid substitute Álex Baena scored late to secure a 1-0 LaLiga victory at Espanyol.\n\n",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401882843",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732001_2_594x334_16-9.jpg",
-          "publishedUtc": "2026-10-17T15:26:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50201153/espanyol-vs-atletico-madrid-game-highlights",
-          "title": "Espanyol vs. Atletico Madrid - Game Highlights",
-          "description": "Watch the Game Highlights from Espanyol vs. Atletico Madrid, 10/18/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50201153/espanyol-vs-atletico-madrid-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1017/db71eed8-dab2-48e7-90fd-780a807c64b8/db71eed8-dab2-48e7-90fd-780a807c64b8.jpg",
-          "publishedUtc": "2026-10-17T14:08:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50200546/jose-mourinho-praises-vinicius-junior-real-madrid-grit-were-left",
-          "title": "José Mourinho praises Vinícius Júnior's Real Madrid grit: If I were him, I'd have left",
-          "description": "José Mourinho has claimed that if he were Vinícius Júnior, he'd have left Real Madrid last summer, praising the forward's mentality in trying to turn his situation at the club around.",
-          "url": "https://www.espn.com/soccer/story/_/id/50200546/jose-mourinho-praises-vinicius-junior-real-madrid-grit-were-left",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1731916_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T18:22:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50198191/deportivo-la-coruna-vs-levante-game-highlights",
-          "title": "Deportivo La Coruña vs. Levante - Game Highlights",
-          "description": "Watch the Game Highlights from Deportivo La Coruña vs. Levante, 10/16/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50198191/deportivo-la-coruna-vs-levante-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1016/ea96469c-19e5-4106-8dcd-330c2962e3a7/ea96469c-19e5-4106-8dcd-330c2962e3a7.jpg",
-          "publishedUtc": "2026-10-16T21:05:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
-          "title": "Flick confirms Raphinha and de Jong return for Barcelona",
-          "description": "Flick confirms Raphinha and de Jong return for Barcelona",
-          "url": "https://www.espn.com/video/clip/_/id/50197188/flick-confirms-raphinha-de-jong-return-barcelona",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona/dm_261016_Flick_confirms_Raphinha_and_de_Jong_return_for_Barcelona.jpg",
-          "publishedUtc": "2026-10-16T17:17:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50196433/real-madrid-laliga-chief-resign-reference-nazi-propaganda",
-          "title": "Real Madrid want LaLiga chief out after he compared attacks on refs to Nazi propaganda",
-          "description": "Real Madrid want the LaLiga chief to resign after he compared the club's efforts to discredit referees with the propaganda techniques of the German Nazi regime.",
-          "url": "https://www.espn.com/soccer/story/_/id/50196433/real-madrid-laliga-chief-resign-reference-nazi-propaganda",
-          "imageUrl": "https://a.espncdn.com/photo/2024/0705/r1354706_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T15:11:09Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -12016,6 +12017,18 @@
             "assists": 3
           },
           {
+            "id": "125200",
+            "name": "Álvaro García",
+            "team": {
+              "id": "101",
+              "name": "Rayo Vallecano",
+              "abbreviation": "RAY",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+            },
+            "goals": 3,
+            "assists": 2
+          },
+          {
             "id": "273499",
             "name": "Jonathan David",
             "team": {
@@ -12134,18 +12147,6 @@
             },
             "goals": 2,
             "assists": 3
-          },
-          {
-            "id": "125200",
-            "name": "Álvaro García",
-            "team": {
-              "id": "101",
-              "name": "Rayo Vallecano",
-              "abbreviation": "RAY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-            },
-            "goals": 2,
-            "assists": 2
           },
           {
             "id": "310452",
@@ -12439,6 +12440,18 @@
             "assists": 2
           },
           {
+            "id": "125200",
+            "name": "Álvaro García",
+            "team": {
+              "id": "101",
+              "name": "Rayo Vallecano",
+              "abbreviation": "RAY",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+            },
+            "goals": 3,
+            "assists": 2
+          },
+          {
             "id": "273499",
             "name": "Jonathan David",
             "team": {
@@ -12448,18 +12461,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
             },
             "goals": 3,
-            "assists": 2
-          },
-          {
-            "id": "125200",
-            "name": "Álvaro García",
-            "team": {
-              "id": "101",
-              "name": "Rayo Vallecano",
-              "abbreviation": "RAY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-            },
-            "goals": 2,
             "assists": 2
           },
           {
@@ -12589,7 +12590,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.827Z",
+      "updatedUtc": "2026-10-20T11:19:39.421Z",
       "matches": [
         {
           "id": "401874959",
@@ -14581,6 +14582,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-20T10:21:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
+          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunched as an NFL franchise, this is it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733308_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T09:55:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50217568/como-fabregas-champions-league-manchester-united-dream",
           "title": "Como's Fàbregas: Champions League vs. Manchester United a 'dream come true'",
           "description": "Como coach Cesc Fabregas is excited about the \"dream come true\" opportunity to host Manchester United in Wednesday's Champions League group game.",
@@ -14789,26 +14810,6 @@
           "publishedUtc": "2026-09-23T16:22:24Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
-          "title": "Soccer's wildest warmup kits of 2026-27: The good, the bad and the ugly",
-          "description": "Forget home, away and third alternate jerseys -- the prematch warmup kit is where the real fun is to be had. Get a load of this season's best and worst.",
-          "url": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717453_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-22T08:01:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49997462/ruben-amorim-cant-repeat-my-mistakes-man-united",
-          "title": "Ruben Amorim: 'I can't repeat my mistakes' after Man United",
-          "description": "Ruben Amorim has vowed not to repeat the mistakes of his Manchester United tenure at AC Milan.",
-          "url": "https://www.espn.com/soccer/story/_/id/49997462/ruben-amorim-cant-repeat-my-mistakes-man-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0828/r1708048_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-21T11:09:04Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -14824,6 +14825,18 @@
             },
             "goals": 7,
             "assists": 0
+          },
+          {
+            "id": "384482",
+            "name": "Gustavo Varela",
+            "team": {
+              "id": "4007",
+              "name": "Monza",
+              "abbreviation": "MON",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
+            },
+            "goals": 6,
+            "assists": 1
           },
           {
             "id": "259481",
@@ -14882,18 +14895,6 @@
               "name": "Cagliari",
               "abbreviation": "CAG",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
-            },
-            "goals": 4,
-            "assists": 0
-          },
-          {
-            "id": "384482",
-            "name": "Gustavo Varela",
-            "team": {
-              "id": "4007",
-              "name": "Monza",
-              "abbreviation": "MON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
             },
             "goals": 4,
             "assists": 0
@@ -14993,6 +14994,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/262071.png",
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "id": "213725",
+            "name": "Ché Adams",
+            "team": {
+              "id": "239",
+              "name": "Torino",
+              "abbreviation": "TOR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
+            },
             "goals": 3,
             "assists": 0
           },
@@ -15164,18 +15177,6 @@
             },
             "goals": 2,
             "assists": 1
-          },
-          {
-            "id": "323974",
-            "name": "Matìas Soulè",
-            "team": {
-              "id": "104",
-              "name": "AS Roma",
-              "abbreviation": "ROMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-            },
-            "goals": 2,
-            "assists": 1
           }
         ],
         "assists": [
@@ -15235,6 +15236,18 @@
               "name": "Internazionale",
               "abbreviation": "INT",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+            },
+            "goals": 0,
+            "assists": 3
+          },
+          {
+            "id": "364590",
+            "name": "Rafik Belghali",
+            "team": {
+              "id": "239",
+              "name": "Torino",
+              "abbreviation": "TOR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
             },
             "goals": 0,
             "assists": 3
@@ -15356,6 +15369,18 @@
               "name": "Lecce",
               "abbreviation": "LEC",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "235453",
+            "name": "Dany Mota",
+            "team": {
+              "id": "4007",
+              "name": "Monza",
+              "abbreviation": "MON",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
             },
             "goals": 0,
             "assists": 2
@@ -15506,39 +15531,15 @@
             "assists": 2
           },
           {
-            "id": "258158",
-            "name": "Nikola Krstovic",
+            "id": "384482",
+            "name": "Gustavo Varela",
             "team": {
-              "id": "105",
-              "name": "Atalanta",
-              "abbreviation": "ATA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+              "id": "4007",
+              "name": "Monza",
+              "abbreviation": "MON",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
             },
-            "goals": 4,
-            "assists": 1
-          },
-          {
-            "id": "340678",
-            "name": "Diego Moreira",
-            "team": {
-              "id": "103",
-              "name": "AC Milan",
-              "abbreviation": "MIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "360714",
-            "name": "Giorgi Kvernadze",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-            },
-            "goals": 3,
+            "goals": 6,
             "assists": 1
           }
         ]
@@ -15559,7 +15560,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.871Z",
+      "updatedUtc": "2026-10-20T11:19:39.464Z",
       "matches": [
         {
           "id": "401884786",
@@ -17581,6 +17582,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-20T10:21:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50202815/harry-kane-breaks-record-100th-bundesliga-appearance-bayern-munich",
           "title": "Harry Kane breaks another record in 100th Bundesliga appearance for Bayern Munich",
           "description": "Harry Kane scored his 102nd goal in his 100th Bundesliga game on Saturday, the most by any player in the league's history after a century of appearances.",
@@ -17797,16 +17808,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49940653/why-3-week-international-break-longest-ever-why-thats-good-thing",
           "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1716998_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-21T07:52:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49978446/proud-break-bundesliga-100-goal-record",
-          "title": "Kane: 'So proud' to break Bundesliga 100-goal record",
-          "description": "Kane: 'So proud' to break Bundesliga 100-goal record",
-          "url": "https://www.espn.com/video/clip/_/id/49978446/proud-break-bundesliga-100-goal-record",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_COM_SOC_INTERVIEW_Kane_So_proud_to_break_Bundesliga_100-goal_record_2026_9_19/dm_260919_COM_SOC_INTERVIEW_Kane_So_proud_to_break_Bundesliga_100-goal_record_2026_9_19.jpg",
-          "publishedUtc": "2026-09-19T11:42:16Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18556,7 +18557,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.789Z",
+      "updatedUtc": "2026-10-20T11:19:39.369Z",
       "matches": [
         {
           "id": "401876451",
@@ -20578,6 +20579,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-20T10:21:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
+          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunched as an NFL franchise, this is it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733308_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T09:55:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50203117/usmnt-reyna-continues-fine-form-goal-strasbourg-loss-psg",
           "title": "USMNT's Reyna continues resurgence with goal in Strasbourg loss to PSG",
           "description": "United States midfielder Gio Reyna continued his recent impressive form, scoring for Strasbourg against Paris Saint-Germain in the French league on Saturday.",
@@ -20786,26 +20807,6 @@
           "publishedUtc": "2026-09-14T15:47:32Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401876465",
-          "title": "Ferran Torres strikes again to earn PSG first Ligue 1 win",
-          "description": "Ferran Torres scored the only goal of the game as Paris Saint-Germain earned their first Ligue 1 win of the season with a 1-0 victory at Brest.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401876465",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0913/r1716180_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-13T21:16:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49905021/monaco-lamine-camara-turned-page-failed-chelsea-move",
-          "title": "Monaco's Lamine Camara says he has 'turned the page' after failed Chelsea move",
-          "description": "Monaco midfielder Lamine Camara said he has moved on from his collapsed move to Chelsea and is fully focused on playing well for the Ligue 1 leaders.",
-          "url": "https://www.espn.com/soccer/story/_/id/49905021/monaco-lamine-camara-turned-page-failed-chelsea-move",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0911/r1714932_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-11T16:46:26Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -21552,7 +21553,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-20T04:29:37.678Z",
+      "updatedUtc": "2026-10-20T11:19:39.290Z",
       "matches": [
         {
           "id": "401861118",
@@ -24259,6 +24260,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50226129/mourinho-created-narrative-world-real-madrid",
+          "title": "Gomez: Mourinho has created narrative that 'the world is against' Real Madrid",
+          "description": "Gomez: Mourinho has created narrative that 'the world is against' Real Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50226129/mourinho-created-narrative-world-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Gomez_Mourinho_has_created_narrative_that_the_world_is_against_Real_Madrid/dm_261020_Gomez_Mourinho_has_created_narrative_that_the_world_is_against_Real_Madrid.jpg",
+          "publishedUtc": "2026-10-20T09:04:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50221842/hislop-slams-ridiculous-ronaldo-suspension-fine",
           "title": "Hislop slams 'ridiculous' Ronaldo suspension and fine",
           "description": "Hislop slams 'ridiculous' Ronaldo suspension and fine",
@@ -24484,16 +24495,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50119774/harry-kane-eyeing-record-equalling-england-cap-record-peter-shilton-cristiano-ronaldo",
           "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727008_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-06T22:45:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401861137",
-          "title": "Spain rally to beat Croatia, unbeaten run up to 43 games",
-          "description": "Spain preserved a 2½-year unbeaten streak by rallying to beat Croatia 2-1 thanks to a clutch second-half double from super-sub Mikel Merino on Tuesday in Split.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401861137",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727017_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T21:44:57Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25244,7 +25245,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T04:29:37.985Z",
+      "updatedUtc": "2026-10-20T11:19:39.642Z",
       "matches": [
         {
           "id": "761871",
@@ -27451,6 +27452,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-20T10:21:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
+          "title": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+          "description": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+          "url": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso.jpg",
+          "publishedUtc": "2026-10-20T09:08:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50219511/mls-power-rankings-inter-miami-lionel-messi-nashville-analysis-meg-swanick",
           "title": "MLS Power Rankings: Messi's Inter Miami moving up, Nashville still No.1",
           "description": "Nashville are very much still the team to beat, but Inter Miami, St. Louis City SC and Philly are hot on their heels in our latest edition of ESPN's MLS Power Rankings.",
@@ -27667,26 +27688,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50175272/garber-confrontation-messi-leo",
           "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730200_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-13T19:19:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166537/mls-power-rankings-inter-miami-back-winning-ways-nashville-sc-chase-history",
-          "title": "MLS Power Rankings: Miami back to winning ways, as Nashville chase history",
-          "description": "Inter Miami end their winless drought, while Nashville still lead the way in our latest edition of ESPN's MLS Power Rankings.",
-          "url": "https://www.espn.com/soccer/story/_/id/50166537/mls-power-rankings-inter-miami-back-winning-ways-nashville-sc-chase-history",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729744_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T18:23:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50167548/st-louis-unbeaten-20-games-tying-red-bulls-mls-record",
-          "title": "St. Louis unbeaten run up to 20 games, tying Red Bulls' MLS record",
-          "description": "Carlo Holse's hat trick helped St. Louis City SC beat the LA Galaxy 6-2 on Sunday night to extend their unbeaten streak across all competitions to 20 games.",
-          "url": "https://www.espn.com/soccer/story/_/id/50167548/st-louis-unbeaten-20-games-tying-red-bulls-mls-record",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729772_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T18:51:18Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28454,7 +28455,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-20T04:29:37.845Z",
+      "updatedUtc": "2026-10-20T11:19:39.431Z",
       "matches": [
         {
           "id": "760415",
@@ -31833,6 +31834,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
+          "title": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+          "description": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+          "url": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso.jpg",
+          "publishedUtc": "2026-10-20T09:08:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
+          "title": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
+          "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T07:44:27Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50195091/messi-keep-playing-long-finds-joy-pitch",
           "title": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
           "description": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
@@ -32019,26 +32040,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50098546/afc-introduce-nations-league-shake-world-cup-asian-cup-qualification",
           "imageUrl": "https://a.espncdn.com/photo/2026/1004/r1725697_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-04T09:18:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
-          "title": "Garriock: Football Australia 'in favour' of AFC Nations League concept",
-          "description": "Football Australia has given an early thumbs-up to the AFC's proposed Nations League concept, with director Heather Garriock describing it as a 'great concept' to strengthen Asia's position in world football.",
-          "url": "https://www.espn.com/soccer/story/_/id/50121507/football-australia-director-heather-garriock-says-afc-nations-league-great-concept-world-cup-qualification",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727130_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T04:16:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50084975/not-proud-no-regrets-2006-world-cup-final-clash-materazzi",
-          "title": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
-          "description": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
-          "url": "https://www.espn.com/video/clip/_/id/50084975/not-proud-no-regrets-2006-world-cup-final-clash-materazzi",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi.jpg",
-          "publishedUtc": "2026-10-02T14:58:36Z",
           "source": "ESPN",
           "transfer": false
         }
