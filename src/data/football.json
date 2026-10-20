@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-20T11:19:39.642Z",
+  "updatedUtc": "2026-10-20T16:44:29.548Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.052Z",
+      "updatedUtc": "2026-10-20T16:44:29.375Z",
       "matches": [
         {
           "id": "401915436",
@@ -2309,6 +2309,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50227260/lisandro-martinez-marcus-rashford-training-man-united-como-champions-league",
+          "title": "Lisandro Martínez, Marcus Rashford miss Man United training ahead of Como clash",
+          "description": "Lisandro Martínez and Marcus Rashford missed training ahead of the trip to Como as Manchester United's injury problems continued to mount.",
+          "url": "https://www.espn.com/soccer/story/_/id/50227260/lisandro-martinez-marcus-rashford-training-man-united-como-champions-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733350_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T11:51:54Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50227042/mourinho-vinicius-no-player-untouchable-real-madrid",
+          "title": "José Mourinho on Vinícius Jr.: 'No player untouchable at Real Madrid'",
+          "description": "José Mourinho insisted that no player is \"untouchable\" at Real Madrid, as Vinícius Júnior prepares to return to the starting Xl for Wednesday's UCL match.",
+          "url": "https://www.espn.com/soccer/story/_/id/50227042/mourinho-vinicius-no-player-untouchable-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726712_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T12:24:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50226678/marc-guehi-future-manchester-city-captain",
           "title": "Enzo Maresca: Marc Guéhi is a future Manchester City captain",
           "description": "Enzo Maresca has lauded centre-back Marc Guéhi's leadership qualities and said he sees them as a future captain of Manchester City.",
@@ -2525,26 +2545,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50185130/real-madrid-roma-jose-mourinho-uefa-champions-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730910_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-14T23:54:19Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50184899/luis-enrique-psg-lost-city",
-          "title": "Halftime lead worried Luis Enrique in game PSG 'could have lost' to City",
-          "description": "Luis Enrique said PSG only want to be best team \"at the end of the season\" after the back-to-back Champions League winners sealed a 4-2 win at Manchester City.",
-          "url": "https://www.espn.com/soccer/story/_/id/50184899/luis-enrique-psg-lost-city",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730890_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T22:54:56Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50185039/man-city-played-psg-hands-ucl-defeat",
-          "title": "Robson: Man City played into PSG's hands in UCL defeat",
-          "description": "Robson: Man City played into PSG's hands in UCL defeat",
-          "url": "https://www.espn.com/video/clip/_/id/50185039/man-city-played-psg-hands-ucl-defeat",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_COM_SOC_Analysis_Man_City_played_into_PSGE28099s_hands_in_UCL_defeat__GLOBAL_2026-10-14/dm_261014_COM_SOC_Analysis_Man_City_played_into_PSGE28099s_hands_in_UCL_defeat__GLOBAL_2026-10-14.jpg",
-          "publishedUtc": "2026-10-14T22:44:03Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3296,7 +3296,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.124Z",
+      "updatedUtc": "2026-10-20T16:44:29.329Z",
       "matches": [
         {
           "id": "401915585",
@@ -6600,7 +6600,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.342Z",
+      "updatedUtc": "2026-10-20T16:44:29.458Z",
       "matches": [
         {
           "id": "401878771",
@@ -8592,6 +8592,56 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50229182/animal-rights-group-peta-call-crystal-palace-retire-bald-eagle-mascot",
+          "title": "Animal rights group PETA call for Crystal Palace to retire bald eagle mascot",
+          "description": "Animal rights group PETA has urged Crystal Palace to retire the club's bald eagle mascot, Phoenix, with immediate effect.",
+          "url": "https://www.espn.com/soccer/story/_/id/50229182/animal-rights-group-peta-call-crystal-palace-retire-bald-eagle-mascot",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733441_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T16:31:52Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50228936/cesc-fabregas-calls-suggestions-replace-michael-carrick-man-united-disrespectful",
+          "title": "Cesc Fàbregas calls suggestions he could replace Michael Carrick at Man United disrespectful",
+          "description": "Cesc Fabregas has dismissed suggestions he could be in line to replace Michael Carrick as disrespectful.",
+          "url": "https://www.espn.com/soccer/story/_/id/50228936/cesc-fabregas-calls-suggestions-replace-michael-carrick-man-united-disrespectful",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0424/r1648504_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T16:36:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50227941/morgan-rogers-joao-pedro-chelsea-xabi-alonso",
+          "title": "Morgan Rogers: João Pedro's 'hunger' to score makes everyone at Chelsea better",
+          "description": "Morgan Rogers feels João Pedro is at the height of his powers and has hailed his in-form teammate's \"hunger to score\" for Xabi Alonso's Chelsea.",
+          "url": "https://www.espn.com/soccer/story/_/id/50227941/morgan-rogers-joao-pedro-chelsea-xabi-alonso",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733378_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T13:25:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50227575/james-maddison-apologises-coventry-fans-tottenham-goal-celebration",
+          "title": "James Maddison apologises to Coventry fans for Tottenham goal celebration",
+          "description": "James Maddison has apologised to the Coventry City fans for his goal celebration on Monday night.",
+          "url": "https://www.espn.com/soccer/story/_/id/50227575/james-maddison-apologises-coventry-fans-tottenham-goal-celebration",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733365_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T12:42:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
+          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T11:01:13Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
           "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
           "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
@@ -8602,22 +8652,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
-          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T10:21:30Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50221682/man-city-cheated-premier-league-was-built-unfair",
           "title": "Man City cheated because Premier League was built to be unfair",
           "description": "The Premier League is unfair: Some teams are allowed to spend more than everyone else. So, of course Man City cheated to win.",
           "url": "https://www.espn.com/soccer/story/_/id/50221682/man-city-cheated-premier-league-was-built-unfair",
           "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1733134_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T10:20:35Z",
+          "publishedUtc": "2026-10-20T13:41:30Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8634,10 +8674,10 @@
         {
           "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
           "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
-          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunched as an NFL franchise, this is it.",
+          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunch as an NFL franchise, this is it.",
           "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733308_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T09:55:34Z",
+          "publishedUtc": "2026-10-20T13:23:32Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8657,7 +8697,7 @@
           "description": "Dejan Kulusevski has said that he is \"smarter\" after ending a 526-day injury-enforced absence as Tottenham beat Coventry on Monday.",
           "url": "https://www.espn.com/soccer/story/_/id/50226146/dejan-kulusevski-explains-why-different-tottenham-injury-hell",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733314_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T09:11:48Z",
+          "publishedUtc": "2026-10-20T11:02:36Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8788,46 +8828,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50216799/ranking-premier-league-best-long-distance-goals-diego-gomez-strike-brighton",
           "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732815_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-19T10:29:12Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50217021/noni-madueke-arsenal-nottingham-forest-premier-league",
-          "title": "Noni Madueke on Arsenal's late win over stubborn Nottingham Forest: 'Champions' spirit'",
-          "description": "Arsenal forward Noni Madueke has said that the club showed the spirit of champions in their hard-fought Premier League win over Nottingham Forest on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50217021/noni-madueke-arsenal-nottingham-forest-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732827_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T10:18:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50216914/saido-berahino-retires-ex-west-brom-stoke-striker-ends-career-aged-33",
-          "title": "Saido Berahino retires: Ex-West Brom, Stoke striker ends career aged 33",
-          "description": "Former West Brom and Stoke City forward Saido Berahino has announced his retirement from football at the age of 33.",
-          "url": "https://www.espn.com/soccer/story/_/id/50216914/saido-berahino-retires-ex-west-brom-stoke-striker-ends-career-aged-33",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732821_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T08:21:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50216595/harry-maguire-man-united-moved-lisandro-martinez-rant",
-          "title": "Harry Maguire: Man United 'moved on' from Lisandro Martínez rant",
-          "description": "Harry Maguire has insisted that the Manchester United dressing room have left Lisandro Martínez's outburst in the past.",
-          "url": "https://www.espn.com/soccer/story/_/id/50216595/harry-maguire-man-united-moved-lisandro-martinez-rant",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732809_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T07:41:20Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds",
-          "title": "United's form slump continues after draw with Leeds",
-          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
-          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
-          "publishedUtc": "2026-10-19T01:59:24Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9578,7 +9578,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.510Z",
+      "updatedUtc": "2026-10-20T16:44:29.492Z",
       "matches": [
         {
           "id": "401882849",
@@ -11606,6 +11606,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
+          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T11:01:13Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
           "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
           "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
@@ -11616,22 +11626,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
-          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T10:21:30Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
           "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
-          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunched as an NFL franchise, this is it.",
+          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunch as an NFL franchise, this is it.",
           "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733308_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T09:55:34Z",
+          "publishedUtc": "2026-10-20T13:23:32Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11691,7 +11691,7 @@
           "description": "In the tightest Ballon d'Or contest in years, top LaLiga players Lamine Yamal and Kylian Mbappé are among those vying to win soccer's top individual prize.",
           "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
           "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727750_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T15:18:14Z",
+          "publishedUtc": "2026-10-20T13:18:18Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12590,7 +12590,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.421Z",
+      "updatedUtc": "2026-10-20T16:44:29.434Z",
       "matches": [
         {
           "id": "401874959",
@@ -14594,10 +14594,10 @@
         {
           "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
           "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
-          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunched as an NFL franchise, this is it.",
+          "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunch as an NFL franchise, this is it.",
           "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733308_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T09:55:34Z",
+          "publishedUtc": "2026-10-20T13:23:32Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -15560,7 +15560,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.464Z",
+      "updatedUtc": "2026-10-20T16:44:29.409Z",
       "matches": [
         {
           "id": "401884786",
@@ -18165,7 +18165,7 @@
           },
           {
             "id": "359370",
-            "name": "Aleksandar Pavlovic",
+            "name": "Aleksandar Pavlović",
             "team": {
               "id": "132",
               "name": "Bayern Munich",
@@ -18557,7 +18557,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.369Z",
+      "updatedUtc": "2026-10-20T16:44:29.359Z",
       "matches": [
         {
           "id": "401876451",
@@ -21553,7 +21553,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-20T11:19:39.290Z",
+      "updatedUtc": "2026-10-20T16:44:29.342Z",
       "matches": [
         {
           "id": "401861118",
@@ -25245,7 +25245,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T11:19:39.642Z",
+      "updatedUtc": "2026-10-20T16:44:29.548Z",
       "matches": [
         {
           "id": "761871",
@@ -28455,7 +28455,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-20T11:19:39.431Z",
+      "updatedUtc": "2026-10-20T16:44:29.387Z",
       "matches": [
         {
           "id": "760415",
@@ -31849,7 +31849,7 @@
           "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
           "url": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T07:44:27Z",
+          "publishedUtc": "2026-10-20T10:51:10Z",
           "source": "ESPN",
           "transfer": true
         },
