@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-21T00:29:52.624Z",
+  "updatedUtc": "2026-10-21T07:24:53.602Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:51.982Z",
+      "updatedUtc": "2026-10-21T07:24:53.092Z",
       "matches": [
         {
           "id": "401915415",
@@ -2309,22 +2309,112 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo",
+          "title": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T23:28:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
+          "title": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
+          "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733682_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T23:05:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win",
+          "title": "Ngumoha sparks Liverpool's comeback Champions League win",
+          "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
+          "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T23:26:13Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league",
+          "title": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
+          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T22:38:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50232573/leboeuf-hails-ngumoha-liverpool-comeback-vs-villarreal",
+          "title": "Leboeuf hails Ngumoha after Liverpool's comeback vs. Villarreal",
+          "description": "Leboeuf hails Ngumoha after Liverpool's comeback vs. Villarreal",
+          "url": "https://www.espn.com/video/clip/_/id/50232573/leboeuf-hails-ngumoha-liverpool-comeback-vs-villarreal",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_Leboeuf_hails_Ngumoha_after_Liverpools_comeback_vs_Villarreal_20261020_GLOBAL/dm_261020_COM_SOC_Analysis_Leboeuf_hails_Ngumoha_after_Liverpools_comeback_vs_Villarreal_20261020_GLOBAL.jpg",
+          "publishedUtc": "2026-10-20T22:29:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50232381/flick-needs-address-yamal-performance-vs-psg",
+          "title": "Moreno: Flick needs to address Yamal's performance vs. PSG",
+          "description": "Moreno: Flick needs to address Yamal's performance vs. PSG",
+          "url": "https://www.espn.com/video/clip/_/id/50232381/flick-needs-address-yamal-performance-vs-psg",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_Moreno_Flick_needs_to_address_Yamals_performance_vs_PSG_20261020_GLOBAL/dm_261020_COM_SOC_Analysis_Moreno_Flick_needs_to_address_Yamals_performance_vs_PSG_20261020_GLOBAL.jpg",
+          "publishedUtc": "2026-10-20T22:11:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50232091/sure-was-coming",
+          "title": "Álvarez scores first Atleti goal since April: Sure it was coming",
+          "description": "Julián Álvarez scored his first goal for Atlético Madrid in almost six months as they fought back to draw 1-1 at Stuttgart in the Champions League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50232091/sure-was-coming",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733632_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T22:19:14Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50232187/scott-mctominay-scores-ly-brace-napoli-overcome-bodo-glimt",
+          "title": "Scott McTominay scores timely brace as Napoli overcome Bodo/Glimt",
+          "description": "Scott McTominay scored twice for Napoli in a thrilling 4-3 home Champions League win against Bodo/Glimt to help ease the pressure on head coach Max Allegri.",
+          "url": "https://www.espn.com/soccer/story/_/id/50232187/scott-mctominay-scores-ly-brace-napoli-overcome-bodo-glimt",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733645_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T22:02:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50229109/liverpool-villarreal-live-champions-league-latest-updates-commentary-score-result",
-          "title": "Liverpool 4-2 Villarreal - Mac Allister scores brace as Iraola's side come from behind to win",
+          "title": "Liverpool 4-3 Villarreal: Mac Allister scores brace as Iraola's side come from behind to win",
           "description": "Liverpool host Villarreal in the third game week of the Champions League and they look to maintain their unbeaten start to the competition and you can follow all the action with ESPN.",
           "url": "https://www.espn.com/soccer/story/_/id/50229109/liverpool-villarreal-live-champions-league-latest-updates-commentary-score-result",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733581_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T21:25:52Z",
+          "publishedUtc": "2026-10-20T21:51:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
+          "title": "Champions League recap: PSG defeat Barça in classic, 40 goals across nine matches",
+          "description": "Paris Saint-Germain defeated Barcelona in a thrilling encounter on a Tuesday full of goals in the UEFA Champions League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733601_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:31:41Z",
           "source": "ESPN",
           "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50231578/barcelona-psg-thriller-champions-league-proves-two-best",
           "title": "Barcelona, PSG thriller in Champions League proves these are the two best",
-          "description": "Both PSG and Barcelona got their first tastes of adversity this season in Tuesday's Champions League thriller, and it was a treat to watch.",
+          "description": "Both PSG and Barcelona got their first tastes of adversity this season in a Champions League thriller -- and it was a treat for us.",
           "url": "https://www.espn.com/soccer/story/_/id/50231578/barcelona-psg-thriller-champions-league-proves-two-best",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733623_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T21:24:59Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733650_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T23:37:40Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2335,16 +2425,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401915397",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733597_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-20T21:00:26Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
-          "title": "Champions League recap: PSG defeat Barça in classic, 40 goals across nine matches",
-          "description": "Paris Saint-Germain defeated Barcelona in a thrilling encounter on a Tuesday full of goals in the UEFA Champions League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733601_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T21:02:30Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2465,86 +2545,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50219369/psg-match-test-barcelona-streak-hansi-flick",
           "imageUrl": "https://a.espncdn.com/photo/2025/0730/r1525634_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-19T17:17:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50218999/manchester-city-options-injury-setbacks",
-          "title": "Maresca: Manchester City have 'options' despite injury setbacks",
-          "description": "Maresca: Manchester City have 'options' despite injury setbacks",
-          "url": "https://www.espn.com/video/clip/_/id/50218999/manchester-city-options-injury-setbacks",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1019/dm_261019_Maresca_Manchester_City_have_options_despite_injury_setbacks/dm_261019_Maresca_Manchester_City_have_options_despite_injury_setbacks.jpg",
-          "publishedUtc": "2026-10-19T15:39:20Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50217836/psg-barcelona-ucl-match-france-protests",
-          "title": "PSG-Barcelona Champions League match to go ahead despite France protests",
-          "description": "The showpiece UCL match between PSG and Barcelona will go ahead as planned on Tuesday in Paris despite a weekend of violent protests.",
-          "url": "https://www.espn.com/soccer/story/_/id/50217836/psg-barcelona-ucl-match-france-protests",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732873_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T17:54:12Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50217694/psg-luis-enrique-stop-barcelona-lamine-yamal-keep-ball-away",
-          "title": "PSG's Luis Enrique on stopping Barcelona: Keep ball away from Lamine Yamal",
-          "description": "Luis Enrique said Paris Saint-Germain will stop Lamine Yamal by not letting Barcelona have the ball when the two teams meet in a heavyweight UCL clash.",
-          "url": "https://www.espn.com/soccer/story/_/id/50217694/psg-luis-enrique-stop-barcelona-lamine-yamal-keep-ball-away",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0529/r1665375_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T21:02:24Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50217514/antoine-semenyo-two-months-man-city-hopeful-erling-haaland",
-          "title": "Antoine Semenyo out for two months, Man City hopeful over Erling Haaland",
-          "description": "Antoine Semenyo is injured and faces an eight-week absence for Manchester City, Enzo Maresca confirmed.",
-          "url": "https://www.espn.com/soccer/story/_/id/50217514/antoine-semenyo-two-months-man-city-hopeful-erling-haaland",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732848_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T12:43:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50211229/barcelona-eric-garcia-jules-kounde-ruled-psg-injury",
-          "title": "Barcelona's Eric García, Jules Koundé ruled out of PSG clash with injury",
-          "description": "Eric García and Jules Koundé have both been ruled out of Barcelona's Champions League game against Paris Saint-Germain on Tuesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50211229/barcelona-eric-garcia-jules-kounde-ruled-psg-injury",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732490_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T08:16:19Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
-          "title": "Lisandro Martínez's Man United comments 'not that far off' but should not have been made - Peter Schmeichel",
-          "description": "Former Manchester United goalkeeper Peter Schmeichel has said he believes Lisandro Martínez's criticism of the club's hierarchy is \"not that far off.\"",
-          "url": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730746_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T16:59:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50189050/shakhtar-donetsk-aek-athens-ukraine-russia-uefa-champions-league-gab-marcotti",
-          "title": "Shakhtar's Champions League win vs. AEK was more than just a game",
-          "description": "Shakhtar Donetsk haven't played at home since 2014 due to the war, and this season, their Champions League home games are at Chelsea's Stamford Bridge. Wednesday's win was a reminder of how absurd their situation is.",
-          "url": "https://www.espn.com/soccer/story/_/id/50189050/shakhtar-donetsk-aek-athens-ukraine-russia-uefa-champions-league-gab-marcotti",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731171_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T11:55:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
-          "title": "UCL Matchday 2: Viking FK and PSG impress; Man United a mess",
-          "description": "The Chaaaaaampions! Europe's top competition returned with a ton of goals, a ton of big results and plenty to talk about. Let's start with the tiny Norwegian team that gave Bayern Munich a fright.",
-          "url": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731104_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T14:57:12Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3296,7 +3296,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:52.263Z",
+      "updatedUtc": "2026-10-21T07:24:53.271Z",
       "matches": [
         {
           "id": "401915585",
@@ -6600,7 +6600,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:52.431Z",
+      "updatedUtc": "2026-10-21T07:24:53.319Z",
       "matches": [
         {
           "id": "401878771",
@@ -9578,7 +9578,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:52.559Z",
+      "updatedUtc": "2026-10-21T07:24:53.226Z",
       "matches": [
         {
           "id": "401882849",
@@ -12590,7 +12590,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:52.512Z",
+      "updatedUtc": "2026-10-21T07:24:53.411Z",
       "matches": [
         {
           "id": "401874959",
@@ -15560,7 +15560,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:52.391Z",
+      "updatedUtc": "2026-10-21T07:24:53.514Z",
       "matches": [
         {
           "id": "401884786",
@@ -18557,7 +18557,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:52.467Z",
+      "updatedUtc": "2026-10-21T07:24:53.602Z",
       "matches": [
         {
           "id": "401876451",
@@ -21553,7 +21553,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-21T00:29:52.299Z",
+      "updatedUtc": "2026-10-21T07:24:53.449Z",
       "matches": [
         {
           "id": "401861118",
@@ -25245,7 +25245,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-21T00:29:52.623Z",
+      "updatedUtc": "2026-10-21T07:24:53.597Z",
       "matches": [
         {
           "id": "761871",
@@ -28455,7 +28455,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-21T00:29:52.352Z",
+      "updatedUtc": "2026-10-21T07:24:53.431Z",
       "matches": [
         {
           "id": "760415",
