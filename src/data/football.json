@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-20T21:29:02.104Z",
+  "updatedUtc": "2026-10-21T00:29:52.624Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:01.710Z",
+      "updatedUtc": "2026-10-21T00:29:51.982Z",
       "matches": [
         {
           "id": "401915415",
@@ -2309,22 +2309,82 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
-          "title": "Champions League live updates: Dortmund in action as early matches kick off",
-          "description": "Follow live updates, scores and highlights from Tuesday's UEFA Champions League action, featuring PSG vs. Barcelona, Liverpool vs. Villarreal and more.",
-          "url": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733456_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T18:08:28Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50229109/liverpool-villarreal-live-champions-league-latest-updates-commentary-score-result",
+          "title": "Liverpool 4-2 Villarreal - Mac Allister scores brace as Iraola's side come from behind to win",
+          "description": "Liverpool host Villarreal in the third game week of the Champions League and they look to maintain their unbeaten start to the competition and you can follow all the action with ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50229109/liverpool-villarreal-live-champions-league-latest-updates-commentary-score-result",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733581_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:25:52Z",
           "source": "ESPN",
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50229109/liverpool-villarreal-live-champions-league-latest-updates-commentary-score-result",
-          "title": "Liverpool vs. Villarreal LIVE: Champions League updates as Cody Gakpo returns for home side",
-          "description": "Liverpool host Villarreal in the third game week of the Champions League and they look to maintain their unbeaten start to the competition and you can follow all the action with ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50229109/liverpool-villarreal-live-champions-league-latest-updates-commentary-score-result",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733486_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T17:55:09Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50231578/barcelona-psg-thriller-champions-league-proves-two-best",
+          "title": "Barcelona, PSG thriller in Champions League proves these are the two best",
+          "description": "Both PSG and Barcelona got their first tastes of adversity this season in Tuesday's Champions League thriller, and it was a treat to watch.",
+          "url": "https://www.espn.com/soccer/story/_/id/50231578/barcelona-psg-thriller-champions-league-proves-two-best",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733623_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:24:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401915397",
+          "title": "Mac Allister, Ngumoha lead Liverpool rally to stay perfect in UCL",
+          "description": "Teenage winger Rio Ngumoha announced himself to the Champions League as Liverpool extended their 100% record the hard way as they came from two goals down to beat Villarreal 4-3.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401915397",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733597_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:00:26Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
+          "title": "Champions League recap: PSG defeat Barça in classic, 40 goals across nine matches",
+          "description": "Paris Saint-Germain defeated Barcelona in a thrilling encounter on a Tuesday full of goals in the UEFA Champions League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50191262/champions-league-live-updates-liverpool-manchester-city-paris-saint-germain-barcelona",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733601_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:02:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401915401",
+          "title": "Foden hat trick fuels emphatic Man City win as Haaland rested",
+          "description": "Phil Foden scored a hat trick as Manchester City got their Champions League campaign back on track with an emphatic 5-1 win over AEK Athens.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401915401",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733593_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T20:55:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50230366/raya-arsenal-bothered-boring-label",
+          "title": "Raya says Arsenal aren't bothered by 'boring' label: We play to win games",
+          "description": "David Raya said he and his teammates are unconcerned if people label Arsenal \"boring\" as Mikel Arteta suggested only a \"very small minority\" have an issue with the team's style of play.",
+          "url": "https://www.espn.com/soccer/story/_/id/50230366/raya-arsenal-bothered-boring-label",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733567_1024x576_16-9.jpg",
+          "publishedUtc": "2026-10-20T20:04:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board",
+          "title": "Carrick says he feels backed by Man United's board",
+          "description": "Carrick says he feels backed by Man United's board",
+          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
+          "publishedUtc": "2026-10-20T20:01:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50230163/michael-carrick-man-united-coach-future-board",
+          "title": "Michael Carrick: I feel backing of Man United board but need to win games",
+          "description": "Michael Carrick has said he feels the backing of the Manchester United board -- but admits it will only continue if he starts winning games.",
+          "url": "https://www.espn.com/soccer/story/_/id/50230163/michael-carrick-man-united-coach-future-board",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733528_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T20:03:09Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2344,7 +2404,7 @@
           "description": "Cesc Fabregas has dismissed suggestions he could be in line to replace Michael Carrick as disrespectful.",
           "url": "https://www.espn.com/soccer/story/_/id/50228936/cesc-fabregas-calls-suggestions-replace-michael-carrick-man-united-disrespectful",
           "imageUrl": "https://a.espncdn.com/photo/2026/0424/r1648504_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T16:36:35Z",
+          "publishedUtc": "2026-10-20T18:49:37Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2485,66 +2545,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
           "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731104_2_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-15T14:57:12Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50188084/dembele-jokes-holidays-psg-win-man-city",
-          "title": "Dembélé jokes he might ask for more holidays after PSG's win at Man City",
-          "description": "Ousmane Dembélé joked he might ask coach Luis Enrique for more time off after starring in PSG's 4-2 win at Manchester City in the Champions League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50188084/dembele-jokes-holidays-psg-win-man-city",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730795_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T11:54:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50187942/rfef-showed-no-shame-vinicius-ban-timing",
-          "title": "Mourinho: RFEF showed no shame over Vinicius ban timing",
-          "description": "Mourinho: RFEF showed no shame over Vinicius ban timing",
-          "url": "https://www.espn.com/video/clip/_/id/50187942/rfef-showed-no-shame-vinicius-ban-timing",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_COM_SOC_PRESSER_Mourinho_RFEF_showed_no_shame_over_Vinicius_ban_timing_2026_10_15/dm_261015_COM_SOC_PRESSER_Mourinho_RFEF_showed_no_shame_over_Vinicius_ban_timing_2026_10_15.jpg",
-          "publishedUtc": "2026-10-15T10:36:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50187870/vinicius-junior-angry-vows-return-top-real-madrid-form",
-          "title": "Vinícius Júnior 'angry,' vows to return to top Real Madrid form",
-          "description": "Real Madrid forward Vinícius Júnior admits he is \"angry\" with himself and has vowed to return to top form.",
-          "url": "https://www.espn.com/soccer/story/_/id/50187870/vinicius-junior-angry-vows-return-top-real-madrid-form",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731060_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T16:24:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50187548/will-wirtz-gain-confidence-liverpool-victory-vs-lask",
-          "title": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
-          "description": "Will Wirtz gain 'confidence' after Liverpool's victory vs. LASK?",
-          "url": "https://www.espn.com/video/clip/_/id/50187548/will-wirtz-gain-confidence-liverpool-victory-vs-lask",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Will_Wirtz_gain_confidence_after_Liverpools_victory_vs_LASK/dm_261015_Will_Wirtz_gain_confidence_after_Liverpools_victory_vs_LASK.jpg",
-          "publishedUtc": "2026-10-15T07:52:19Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50187541/man-city-antoine-semenyo-missed-chances-psg-beating-up",
-          "title": "Man City's Antoine Semenyo on missed chances against PSG: 'Beating myself up'",
-          "description": "Antoine Semenyo expressed his frustration over his missed chances in Manchester City's defeat to Paris Saint-Germain in the Champions League on Wednesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50187541/man-city-antoine-semenyo-missed-chances-psg-beating-up",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731049_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T07:53:47Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
-          "title": "Who has the most Champions League goals, assists all time?",
-          "description": "Cristiano Ronaldo leads the Champions League in all-time goals and assists. Check out which other soccer stars are behind him.",
-          "url": "https://www.espn.com/soccer/story/_/id/43810752/who-most-champions-league-goals-assists-all",
-          "imageUrl": "https://a.espncdn.com/photo/2018/0411/r355065_608x342_16-9.jpg",
-          "publishedUtc": "2026-10-15T01:28:18Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3296,7 +3296,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:01.780Z",
+      "updatedUtc": "2026-10-21T00:29:52.263Z",
       "matches": [
         {
           "id": "401915585",
@@ -6600,7 +6600,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:01.835Z",
+      "updatedUtc": "2026-10-21T00:29:52.431Z",
       "matches": [
         {
           "id": "401878771",
@@ -8592,6 +8592,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale",
+          "title": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T23:53:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself",
+          "title": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
+          "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
+          "url": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL.jpg",
+          "publishedUtc": "2026-10-20T22:53:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "title": "Transfer rumors, news: Barcelona, Bayern eye Aston Villa's Manzambi",
+          "description": "Both Barcelona and Bayern Munich are competing to sign Aston Villa's Johan Manzambi. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:33:15Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board",
           "title": "Carrick says he feels backed by Man United's board",
           "description": "Carrick says he feels backed by Man United's board",
@@ -8662,16 +8692,6 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
-          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T11:01:13Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
           "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
           "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
@@ -8687,7 +8707,7 @@
           "description": "The Premier League is unfair: Some teams are allowed to spend more than everyone else. So, of course Man City cheated to win.",
           "url": "https://www.espn.com/soccer/story/_/id/50221682/man-city-cheated-premier-league-was-built-unfair",
           "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1733134_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T19:02:21Z",
+          "publishedUtc": "2026-10-20T22:06:03Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8810,26 +8830,6 @@
           "publishedUtc": "2026-10-19T16:55:50Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50218768/marc-guehi-man-city-taking-knee-english-premier-league",
-          "title": "Man City's Marc Guéhi: Taking the knee may have lost its impact, more can be done",
-          "description": "Manchester City defender Marc Guéhi believes the gesture of soccer players taking the knee before matches might have lost its impact and wants to see more done in the sport's fight against racism.",
-          "url": "https://www.espn.com/soccer/story/_/id/50218768/marc-guehi-man-city-taking-knee-english-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732907_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T15:25:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50218158/ronald-araujo-liverpool-barcelona-premier-league-champions-league",
-          "title": "Ronald Araújo: 'Too early' to say if Liverpool stay will become permanent",
-          "description": "Ronald Araújo has said he is \"really happy\" to be at Liverpool but it is \"too early\" to say whether he will make his loan move from Barcelona permanent.",
-          "url": "https://www.espn.com/soccer/story/_/id/50218158/ronald-araujo-liverpool-barcelona-premier-league-champions-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732887_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T14:34:12Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9578,7 +9578,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:01.954Z",
+      "updatedUtc": "2026-10-21T00:29:52.559Z",
       "matches": [
         {
           "id": "401882849",
@@ -11606,12 +11606,22 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
+          "title": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
+          "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
+          "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733682_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T23:05:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "title": "Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty",
-          "description": "Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.",
+          "title": "Transfer rumors, news: Barcelona, Bayern eye Aston Villa's Manzambi",
+          "description": "Both Barcelona and Bayern Munich are competing to sign Aston Villa's Johan Manzambi. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T11:01:13Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:33:15Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -11834,16 +11844,6 @@
           "publishedUtc": "2026-10-17T16:25:20Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
-          "title": "Transfer rumors, news: JJ Gabriel move revealed soon amid Barcelona, Real Madrid talks",
-          "description": "JJ Gabriel's next move could be announced soon, while Arsenal and Liverpool will battle to sign Brentford's Kevin Schade. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T16:08:36Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -12590,7 +12590,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:02.025Z",
+      "updatedUtc": "2026-10-21T00:29:52.512Z",
       "matches": [
         {
           "id": "401874959",
@@ -15560,7 +15560,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:01.867Z",
+      "updatedUtc": "2026-10-21T00:29:52.391Z",
       "matches": [
         {
           "id": "401884786",
@@ -17582,6 +17582,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "title": "Transfer rumors, news: Barcelona, Bayern eye Aston Villa's Manzambi",
+          "description": "Both Barcelona and Bayern Munich are competing to sign Aston Villa's Johan Manzambi. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-20T21:33:15Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50229492/bayern-munich-vincent-kompany-arsenal-champions-league",
           "title": "Bayern Munich coach Vincent Kompany doubtful for Arsenal game due to virus",
           "description": "Bayern Munich coach Vincent Kompany has a viral infection which is affecting his legs and is doubtful to attend Wednesday's Champions League home game against Arsenal.",
@@ -17800,16 +17810,6 @@
           "publishedUtc": "2026-09-22T22:18:45Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
-          "title": "Soccer's wildest warmup kits of 2026-27: The good, the bad and the ugly",
-          "description": "Forget home, away and third alternate jerseys -- the prematch warmup kit is where the real fun is to be had. Get a load of this season's best and worst.",
-          "url": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717453_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-22T08:01:17Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -18557,7 +18557,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:01.993Z",
+      "updatedUtc": "2026-10-21T00:29:52.467Z",
       "matches": [
         {
           "id": "401876451",
@@ -21553,7 +21553,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-20T21:29:01.893Z",
+      "updatedUtc": "2026-10-21T00:29:52.299Z",
       "matches": [
         {
           "id": "401861118",
@@ -25245,7 +25245,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-20T21:29:02.104Z",
+      "updatedUtc": "2026-10-21T00:29:52.623Z",
       "matches": [
         {
           "id": "761871",
@@ -28455,7 +28455,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-20T21:29:01.744Z",
+      "updatedUtc": "2026-10-21T00:29:52.352Z",
       "matches": [
         {
           "id": "760415",
@@ -31939,7 +31939,7 @@
           "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
           "url": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
           "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T16:04:19Z",
+          "publishedUtc": "2026-10-20T22:37:59Z",
           "source": "ESPN",
           "transfer": false
         },
