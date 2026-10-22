@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-22T17:00:42.281Z",
+  "updatedUtc": "2026-10-22T21:25:40.639Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:41.939Z",
+      "updatedUtc": "2026-10-22T21:25:40.371Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,6 +2345,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
+          "title": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
+          "description": "Wayne Rooney has lambasted Manchester United's squad for acting like \"babies\" and urged Bruno Fernandes and Lisandro Martínez to look in the mirror.",
+          "url": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734078_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T19:32:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50242239/kane-trying-stress-monday-ballon-dor",
+          "title": "In-the-dark Kane trying not to 'stress' over Monday's Ballon d'Or reveal",
+          "description": "Bayern striker Harry Kane said he would prefer to know ahead of time whether he has won the Ballon D'Or, adding he is still in the dark over Monday's decision.",
+          "url": "https://www.espn.com/soccer/story/_/id/50242239/kane-trying-stress-monday-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734228_1024x576_16-9.jpg",
+          "publishedUtc": "2026-10-22T17:24:53Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50247677/champions-league-main-characters-harry-kane-virgil-van-dijk-barcelona-real-madrid",
+          "title": "Soccer's main characters after UCL Matchday 3: Kane, Van Dijk, El Clasico",
+          "description": "Champions League Matchday 3 has come and gone, and we have some Main Character energy coming from Harry Kane, Barcelona and Real Madrid ahead of El Clasico, while Liverpool should worry about Virgil van Dijk's form.",
+          "url": "https://www.espn.com/soccer/story/_/id/50247677/champions-league-main-characters-harry-kane-virgil-van-dijk-barcelona-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734501_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T15:20:52Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
           "title": "Fabregas told Como 'not to run' against Manchester United",
           "description": "Fabregas told Como 'not to run' against Manchester United",
@@ -2465,16 +2495,6 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50242239/kane-trying-stress-monday-ballon-dor",
-          "title": "In-the-dark Kane trying not to 'stress' over Monday's Ballon d'Or reveal",
-          "description": "Bayern striker Harry Kane said he would prefer to know ahead of time whether he has won the Ballon D'Or, adding he is still in the dark over Monday's decision.",
-          "url": "https://www.espn.com/soccer/story/_/id/50242239/kane-trying-stress-monday-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734228_1024x576_16-9.jpg",
-          "publishedUtc": "2026-10-21T23:34:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50242382/jamie-carragher-slams-bruno-fernandes-michael-carrick-criticism-absolute-disgrace-man-united",
           "title": "Jamie Carragher slams Bruno Fernandes for Michael Carrick criticism: 'Absolute disgrace'",
           "description": "Carragher was scathing in his criticism of Fernandes after the midfielder appeared to criticise Carrick's tactics in Man United's defeat to Como.",
@@ -2561,26 +2581,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733994_2_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-21T21:48:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50241623/carrick-future-mounting-pressure-loss-vs-como",
-          "title": "Dawson: Carrick's future under mounting pressure after loss vs. Como",
-          "description": "Dawson: Carrick's future under mounting pressure after loss vs. Como",
-          "url": "https://www.espn.com/video/clip/_/id/50241623/carrick-future-mounting-pressure-loss-vs-como",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_Dawson_Carricks_future_under_mounting_pressure_after_loss_vs_Como/dm_261021_Dawson_Carricks_future_under_mounting_pressure_after_loss_vs_Como.jpg",
-          "publishedUtc": "2026-10-21T21:15:59Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915313",
-          "title": "Diomande stunner caps Madrid win against former club Leipzig",
-          "description": "Real Madrid maintained their perfect start in the Champions League with an emphatic 4-1 victory over RB Leipzig on Wednesday.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915313",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734155_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T21:34:22Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:42.063Z",
+      "updatedUtc": "2026-10-22T21:25:40.455Z",
       "matches": [
         {
           "id": "401915560",
@@ -3542,12 +3542,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
           },
           "venue": "Vazgen Sargsyan Republican Stadium, Yerevan",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
-            "away": 0
+            "away": 4
           },
-          "note": "15'"
+          "note": "FT"
         },
         {
           "id": "401915556",
@@ -3566,12 +3566,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
           },
           "venue": "Maksimir Stadium, Zagreb",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
-            "away": 0
+            "home": 2,
+            "away": 4
           },
-          "note": "14'"
+          "note": "FT"
         },
         {
           "id": "401915558",
@@ -3590,12 +3590,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
           },
           "venue": "Groupama Arena, Budapest",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
-            "away": 0
+            "home": 4,
+            "away": 1
           },
-          "note": "15'"
+          "note": "FT"
         },
         {
           "id": "401915547",
@@ -3614,12 +3614,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
           },
           "venue": "Allianz Stadium, Torino",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 2
           },
-          "note": "15'"
+          "note": "FT"
         },
         {
           "id": "401915546",
@@ -3638,12 +3638,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
           },
           "venue": "Municipal Stadium-Poznan, Poznan",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
+            "home": 1,
             "away": 1
           },
-          "note": "15'"
+          "note": "FT"
         },
         {
           "id": "401915559",
@@ -3662,12 +3662,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
           },
           "venue": "Pankritio Stadium, Crete",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
-            "away": 0
+            "away": 2
           },
-          "note": "15'"
+          "note": "FT"
         },
         {
           "id": "401915557",
@@ -3686,12 +3686,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
           },
           "venue": "Merkur Arena, Graz",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
             "away": 0
           },
-          "note": "14'"
+          "note": "FT"
         },
         {
           "id": "401915545",
@@ -3710,12 +3710,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
           },
           "venue": "Merkur Spiel-Arena, Düsseldorf",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
+            "home": 4,
             "away": 0
           },
-          "note": "15'"
+          "note": "FT"
         },
         {
           "id": "401915552",
@@ -3734,8 +3734,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
           },
           "venue": "Vitality Stadium, Bournemouth",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401915553",
@@ -3754,8 +3758,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
           },
           "venue": "Vodafone Park, Istanbul",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401915555",
@@ -3774,8 +3782,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
           },
           "venue": "Celtic Park, Glasgow",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401915542",
@@ -3794,8 +3806,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
           },
           "venue": "Stadion Miejski Bialystok, Bialystok",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "note": "FT"
         },
         {
           "id": "401915540",
@@ -3814,8 +3830,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
           },
           "venue": "Arasen Stadion, Lillestrøm",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 6
+          },
+          "note": "FT"
         },
         {
           "id": "401915541",
@@ -3834,8 +3854,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
           },
           "venue": "Stadion Z'dezele, Celje",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401915554",
@@ -3854,8 +3878,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
           },
           "venue": "Georgios Karaiskakis Stadium, Piraeus",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401915544",
@@ -3874,8 +3902,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
           },
           "venue": "GSP Stadium, Nicosia",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "note": "FT"
         },
         {
           "id": "401915543",
@@ -3894,8 +3926,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
           },
           "venue": "PreZero Arena, Sinsheim",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401915539",
@@ -3914,8 +3950,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
           },
           "venue": "Doosan Arena, Plzen",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401915534",
@@ -5004,20 +5044,20 @@
           "rows": [
             {
               "team": {
-                "id": "111",
-                "name": "Juventus",
-                "abbreviation": "JUV",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+                "id": "1929",
+                "name": "Benfica",
+                "abbreviation": "SLB",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
               },
               "rank": 1,
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "gf": 7,
-              "ga": 1,
-              "gd": 6,
-              "points": 6
+              "gf": 10,
+              "ga": 2,
+              "gd": 8,
+              "points": 9
             },
             {
               "team": {
@@ -5027,48 +5067,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
               },
               "rank": 2,
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "gf": 6,
+              "gf": 8,
               "ga": 0,
-              "gd": 6,
-              "points": 6
-            },
-            {
-              "team": {
-                "id": "1929",
-                "name": "Benfica",
-                "abbreviation": "SLB",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
-              },
-              "rank": 3,
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "gf": 6,
-              "ga": 1,
-              "gd": 5,
-              "points": 6
-            },
-            {
-              "team": {
-                "id": "1895",
-                "name": "Besiktas",
-                "abbreviation": "BES",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
-              },
-              "rank": 4,
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "gf": 7,
-              "ga": 3,
-              "gd": 4,
-              "points": 6
+              "gd": 8,
+              "points": 9
             },
             {
               "team": {
@@ -5077,13 +5083,132 @@
                 "abbreviation": "BOU",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
               },
-              "rank": 5,
-              "played": 2,
-              "won": 2,
+              "rank": 3,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "gf": 5,
+              "gf": 8,
               "ga": 1,
+              "gd": 7,
+              "points": 9
+            },
+            {
+              "team": {
+                "id": "622",
+                "name": "Ferencvaros",
+                "abbreviation": "FER",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
+              },
+              "rank": 4,
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "gf": 9,
+              "ga": 3,
+              "gd": 6,
+              "points": 9
+            },
+            {
+              "team": {
+                "id": "435",
+                "name": "Olympiacos",
+                "abbreviation": "OLY",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+              },
+              "rank": 5,
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "gf": 4,
+              "ga": 1,
+              "gd": 3,
+              "points": 9
+            },
+            {
+              "team": {
+                "id": "5807",
+                "name": "Union SG",
+                "abbreviation": "USG",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+              },
+              "rank": 6,
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 8,
+              "ga": 1,
+              "gd": 7,
+              "points": 7
+            },
+            {
+              "team": {
+                "id": "111",
+                "name": "Juventus",
+                "abbreviation": "JUV",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+              },
+              "rank": 7,
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 9,
+              "ga": 3,
+              "gd": 6,
+              "points": 7
+            },
+            {
+              "team": {
+                "id": "1895",
+                "name": "Besiktas",
+                "abbreviation": "BES",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+              },
+              "rank": 8,
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 9,
+              "ga": 5,
+              "gd": 4,
+              "points": 7
+            },
+            {
+              "team": {
+                "id": "366",
+                "name": "Sunderland",
+                "abbreviation": "SUN",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+              },
+              "rank": 9,
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 4,
+              "ga": 2,
+              "gd": 2,
+              "points": 7
+            },
+            {
+              "team": {
+                "id": "140",
+                "name": "AZ Alkmaar",
+                "abbreviation": "AZ",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+              },
+              "rank": 10,
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "gf": 6,
+              "ga": 2,
               "gd": 4,
               "points": 6
             },
@@ -5094,31 +5219,14 @@
                 "abbreviation": "OMON",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
               },
-              "rank": 6,
-              "played": 2,
+              "rank": 11,
+              "played": 3,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "gf": 4,
-              "ga": 0,
-              "gd": 4,
-              "points": 6
-            },
-            {
-              "team": {
-                "id": "622",
-                "name": "Ferencvaros",
-                "abbreviation": "FER",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
-              },
-              "rank": 7,
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
+              "lost": 1,
               "gf": 5,
-              "ga": 2,
-              "gd": 3,
+              "ga": 4,
+              "gd": 1,
               "points": 6
             },
             {
@@ -5128,83 +5236,15 @@
                 "abbreviation": "LYON",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
               },
-              "rank": 8,
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "gf": 5,
-              "ga": 3,
-              "gd": 2,
-              "points": 6
-            },
-            {
-              "team": {
-                "id": "366",
-                "name": "Sunderland",
-                "abbreviation": "SUN",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-              },
-              "rank": 9,
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "gf": 3,
-              "ga": 1,
-              "gd": 2,
-              "points": 6
-            },
-            {
-              "team": {
-                "id": "435",
-                "name": "Olympiacos",
-                "abbreviation": "OLY",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
-              },
-              "rank": 10,
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "gf": 3,
-              "ga": 1,
-              "gd": 2,
-              "points": 6
-            },
-            {
-              "team": {
-                "id": "433",
-                "name": "Sparta",
-                "abbreviation": "SPP",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
-              },
-              "rank": 11,
-              "played": 2,
-              "won": 1,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 5,
-              "ga": 2,
-              "gd": 3,
-              "points": 4
-            },
-            {
-              "team": {
-                "id": "5807",
-                "name": "Union SG",
-                "abbreviation": "USG",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
-              },
               "rank": 12,
-              "played": 2,
-              "won": 1,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 4,
-              "ga": 1,
-              "gd": 3,
-              "points": 4
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "gf": 5,
+              "ga": 6,
+              "gd": -1,
+              "points": 6
             },
             {
               "team": {
@@ -5214,30 +5254,30 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
               },
               "rank": 13,
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 0,
-              "gf": 2,
-              "ga": 1,
+              "gf": 4,
+              "ga": 3,
               "gd": 1,
-              "points": 4
+              "points": 5
             },
             {
               "team": {
-                "id": "597",
-                "name": "Dinamo Zagreb",
-                "abbreviation": "DZG",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+                "id": "89",
+                "name": "Real Sociedad",
+                "abbreviation": "RSO",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
               },
               "rank": 14,
-              "played": 2,
+              "played": 3,
               "won": 1,
               "drawn": 1,
-              "lost": 0,
-              "gf": 1,
-              "ga": 0,
-              "gd": 1,
+              "lost": 1,
+              "gf": 8,
+              "ga": 3,
+              "gd": 5,
               "points": 4
             },
             {
@@ -5248,99 +5288,99 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
               },
               "rank": 15,
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "gf": 6,
-              "ga": 3,
+              "gf": 8,
+              "ga": 5,
               "gd": 3,
-              "points": 3
+              "points": 4
             },
             {
               "team": {
-                "id": "103",
-                "name": "Milan",
-                "abbreviation": "MIL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+                "id": "433",
+                "name": "Sparta",
+                "abbreviation": "SPP",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
               },
               "rank": 16,
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "gf": 4,
-              "ga": 2,
+              "gf": 5,
+              "ga": 3,
               "gd": 2,
-              "points": 3
+              "points": 4
             },
             {
               "team": {
-                "id": "11505",
-                "name": "Jagiellonia ",
-                "abbreviation": "JAG",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
+                "id": "490",
+                "name": "Levski Sofia",
+                "abbreviation": "LEV",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
               },
               "rank": 17,
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "gf": 4,
+              "gf": 3,
               "ga": 3,
-              "gd": 1,
-              "points": 3
+              "gd": 0,
+              "points": 4
             },
             {
               "team": {
-                "id": "1010",
-                "name": "OFI Crete",
-                "abbreviation": "OFI",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png"
+                "id": "597",
+                "name": "Dinamo Zagreb",
+                "abbreviation": "DZG",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
               },
               "rank": 18,
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
               "gf": 3,
-              "ga": 2,
-              "gd": 1,
-              "points": 3
+              "ga": 4,
+              "gd": -1,
+              "points": 4
             },
             {
               "team": {
-                "id": "21615",
-                "name": "Torreense",
-                "abbreviation": "TOR",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
+                "id": "3746",
+                "name": "Sturm Graz",
+                "abbreviation": "STG",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
               },
               "rank": 19,
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "gf": 3,
+              "gf": 1,
               "ga": 3,
-              "gd": 0,
-              "points": 3
+              "gd": -2,
+              "points": 4
             },
             {
               "team": {
-                "id": "140",
-                "name": "AZ Alkmaar",
-                "abbreviation": "AZ",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+                "id": "147",
+                "name": "NEC",
+                "abbreviation": "NEC",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
               },
               "rank": 20,
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "gf": 2,
-              "ga": 2,
-              "gd": 0,
-              "points": 3
+              "gf": 5,
+              "ga": 8,
+              "gd": -3,
+              "points": 4
             },
             {
               "team": {
@@ -5350,47 +5390,149 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
               },
               "rank": 21,
-              "played": 2,
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "gf": 3,
+              "ga": 6,
+              "gd": -3,
+              "points": 4
+            },
+            {
+              "team": {
+                "id": "441",
+                "name": "Anderlecht",
+                "abbreviation": "AND",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
+              },
+              "rank": 22,
+              "played": 3,
               "won": 1,
               "drawn": 0,
-              "lost": 1,
-              "gf": 1,
+              "lost": 2,
+              "gf": 4,
+              "ga": 3,
+              "gd": 1,
+              "points": 3
+            },
+            {
+              "team": {
+                "id": "7911",
+                "name": "Hoffenheim",
+                "abbreviation": "TSG",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+              },
+              "rank": 23,
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 5,
+              "ga": 5,
+              "gd": 0,
+              "points": 3
+            },
+            {
+              "team": {
+                "id": "103",
+                "name": "Milan",
+                "abbreviation": "MIL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+              },
+              "rank": 24,
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 4,
+              "ga": 5,
+              "gd": -1,
+              "points": 3
+            },
+            {
+              "team": {
+                "id": "85",
+                "name": "Celta Vigo",
+                "abbreviation": "CEL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+              },
+              "rank": 25,
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 3,
               "ga": 4,
+              "gd": -1,
+              "points": 3
+            },
+            {
+              "team": {
+                "id": "1010",
+                "name": "OFI Crete",
+                "abbreviation": "OFI",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png"
+              },
+              "rank": 26,
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 3,
+              "ga": 4,
+              "gd": -1,
+              "points": 3
+            },
+            {
+              "team": {
+                "id": "11505",
+                "name": "Jagiellonia ",
+                "abbreviation": "JAG",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
+              },
+              "rank": 27,
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 4,
+              "ga": 6,
+              "gd": -2,
+              "points": 3
+            },
+            {
+              "team": {
+                "id": "21615",
+                "name": "Torreense",
+                "abbreviation": "TOR",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
+              },
+              "rank": 28,
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 4,
+              "ga": 7,
               "gd": -3,
               "points": 3
             },
             {
               "team": {
-                "id": "987",
-                "name": "Lillestrom",
-                "abbreviation": "LSK",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png"
+                "id": "3362",
+                "name": "NK Celje",
+                "abbreviation": "NKC",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
               },
-              "rank": 22,
-              "played": 2,
+              "rank": 29,
+              "played": 3,
               "won": 0,
               "drawn": 1,
-              "lost": 1,
+              "lost": 2,
               "gf": 2,
-              "ga": 3,
-              "gd": -1,
-              "points": 1
-            },
-            {
-              "team": {
-                "id": "89",
-                "name": "Real Sociedad",
-                "abbreviation": "RSO",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-              },
-              "rank": 23,
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 2,
-              "ga": 3,
-              "gd": -1,
+              "ga": 7,
+              "gd": -5,
               "points": 1
             },
             {
@@ -5400,62 +5542,11 @@
                 "abbreviation": "HBE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
               },
-              "rank": 24,
-              "played": 2,
+              "rank": 30,
+              "played": 3,
               "won": 0,
               "drawn": 1,
-              "lost": 1,
-              "gf": 1,
-              "ga": 2,
-              "gd": -1,
-              "points": 1
-            },
-            {
-              "team": {
-                "id": "490",
-                "name": "Levski Sofia",
-                "abbreviation": "LEV",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
-              },
-              "rank": 25,
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 1,
-              "ga": 2,
-              "gd": -1,
-              "points": 1
-            },
-            {
-              "team": {
-                "id": "3746",
-                "name": "Sturm Graz",
-                "abbreviation": "STG",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
-              },
-              "rank": 26,
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 0,
-              "ga": 3,
-              "gd": -3,
-              "points": 1
-            },
-            {
-              "team": {
-                "id": "147",
-                "name": "NEC",
-                "abbreviation": "NEC",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
-              },
-              "rank": 27,
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
+              "lost": 2,
               "gf": 1,
               "ga": 6,
               "gd": -5,
@@ -5463,53 +5554,53 @@
             },
             {
               "team": {
-                "id": "441",
-                "name": "Anderlecht",
-                "abbreviation": "AND",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
+                "id": "987",
+                "name": "Lillestrom",
+                "abbreviation": "LSK",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png"
               },
-              "rank": 28,
-              "played": 2,
+              "rank": 31,
+              "played": 3,
               "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 1,
-              "ga": 3,
-              "gd": -2,
-              "points": 0
-            },
-            {
-              "team": {
-                "id": "85",
-                "name": "Celta Vigo",
-                "abbreviation": "CEL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-              },
-              "rank": 29,
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 1,
-              "ga": 3,
-              "gd": -2,
-              "points": 0
-            },
-            {
-              "team": {
-                "id": "7911",
-                "name": "Hoffenheim",
-                "abbreviation": "TSG",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
-              },
-              "rank": 30,
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 2,
               "gf": 2,
-              "ga": 5,
-              "gd": -3,
+              "ga": 9,
+              "gd": -7,
+              "points": 1
+            },
+            {
+              "team": {
+                "id": "2990",
+                "name": "Lech Poznan",
+                "abbreviation": "LECH",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+              },
+              "rank": 32,
+              "played": 3,
+              "won": 0,
+              "drawn": 1,
+              "lost": 2,
+              "gf": 1,
+              "ga": 9,
+              "gd": -8,
+              "points": 1
+            },
+            {
+              "team": {
+                "id": "11706",
+                "name": "Viktoria Plzen",
+                "abbreviation": "PLZ",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png"
+              },
+              "rank": 33,
+              "played": 3,
+              "won": 0,
+              "drawn": 0,
+              "lost": 3,
+              "gf": 2,
+              "ga": 7,
+              "gd": -5,
               "points": 0
             },
             {
@@ -5519,47 +5610,13 @@
                 "abbreviation": "OLM",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
               },
-              "rank": 31,
-              "played": 2,
+              "rank": 34,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
+              "lost": 3,
               "gf": 1,
-              "ga": 5,
-              "gd": -4,
-              "points": 0
-            },
-            {
-              "team": {
-                "id": "11706",
-                "name": "Viktoria Plzen",
-                "abbreviation": "PLZ",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png"
-              },
-              "rank": 32,
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 1,
-              "ga": 5,
-              "gd": -4,
-              "points": 0
-            },
-            {
-              "team": {
-                "id": "20024",
-                "name": "Ararat-Armenia",
-                "abbreviation": "ARA",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
-              },
-              "rank": 33,
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 2,
-              "ga": 7,
+              "ga": 6,
               "gd": -5,
               "points": 0
             },
@@ -5570,54 +5627,57 @@
                 "abbreviation": "CEL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
               },
-              "rank": 34,
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 2,
-              "ga": 7,
-              "gd": -5,
-              "points": 0
-            },
-            {
-              "team": {
-                "id": "3362",
-                "name": "NK Celje",
-                "abbreviation": "NKC",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
-              },
               "rank": 35,
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "gf": 0,
-              "ga": 5,
-              "gd": -5,
+              "lost": 3,
+              "gf": 3,
+              "ga": 9,
+              "gd": -6,
               "points": 0
             },
             {
               "team": {
-                "id": "2990",
-                "name": "Lech Poznan",
-                "abbreviation": "LECH",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+                "id": "20024",
+                "name": "Ararat-Armenia",
+                "abbreviation": "ARA",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
               },
               "rank": 36,
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "gf": 0,
-              "ga": 8,
-              "gd": -8,
+              "lost": 3,
+              "gf": 2,
+              "ga": 11,
+              "gd": -9,
               "points": 0
             }
           ]
         }
       ],
       "news": [
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401915553",
+          "title": "Crystal Palace forced to settle for draw at 10-man Besiktas",
+          "description": "Jean-Philippe Mateta scored on his first start since the opening day but Crystal Palace could not capitalise on a Besiktas red card to produce a winner in their 2-2 Europa League draw in Istanbul.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401915553",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734735_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T21:08:20Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401915546",
+          "title": "Sunderland stay unbeaten in Europa League in away draw with Lech Poznan",
+          "description": "Sunderland remain unbeaten in the Europa League thanks to a 1-1 draw against Lech Poznan at the Enea Stadion on Thursday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401915546",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734658_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T19:13:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50241962/ruben-amorim-uninterested-contributing-man-united-discourse-say-ac-milan",
           "title": "Ruben Amorim with 'nothing to say' about Man United on return to England",
@@ -5824,26 +5884,6 @@
           "url": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison.jpg",
           "publishedUtc": "2026-09-16T13:03:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49949298/ac-milan-europa-league-ruben-amorim",
-          "title": "Ruben Amorim: AC Milan's objective is 'obviously to win' Europa League",
-          "description": "AC Milan boss Ruben Amorim has set his intentions on winning the Europa League ahead of the club's first game against Benfica on Wednesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/49949298/ac-milan-europa-league-ruben-amorim",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1717033_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-15T14:32:40Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49949297/deserve-where-the-europa-league",
-          "title": "Le Bris: 'We deserve to be where we are' in the Europa League",
-          "description": "Le Bris: 'We deserve to be where we are' in the Europa League",
-          "url": "https://www.espn.com/video/clip/_/id/49949297/deserve-where-the-europa-league",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Le_Bris_We_deserve_to_be_where_we_are_in_the_Europa_League/dm_260915_Le_Bris_We_deserve_to_be_where_we_are_in_the_Europa_League.jpg",
-          "publishedUtc": "2026-09-15T14:19:52Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -6595,7 +6635,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:42.176Z",
+      "updatedUtc": "2026-10-22T21:25:40.497Z",
       "matches": [
         {
           "id": "401878771",
@@ -8588,13 +8628,43 @@
       "news": [
         {
           "id": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-          "title": "Transfer rumors, news: Man United consider defensive clearout in summer",
-          "description": "Manchester United are considering refreshing their back four, with three senior defender's contracts up at the end of the season. Transfer Talk has the latest.",
+          "title": "Transfer rumors, news: Arsenal want £55M in any Gyökeres deal",
+          "description": "Arsenal has set their valuation for Viktor Gyökeres' transfer fee if the striker does depart in the next year. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T15:05:24Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734700_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T20:14:17Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
+          "title": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
+          "description": "Wayne Rooney has lambasted Manchester United's squad for acting like \"babies\" and urged Bruno Fernandes and Lisandro Martínez to look in the mirror.",
+          "url": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734078_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T19:32:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50250570/erling-haaland-man-city-aston-villa-injuries-premier-league",
+          "title": "Erling Haaland set to return with Man City 'hungry' to continue perfect start",
+          "description": "Manchester City coach Enzo Maresca said Erling Haaland is available for Saturday's trip to Aston Villa, while three other players remain doubtful.",
+          "url": "https://www.espn.com/soccer/story/_/id/50250570/erling-haaland-man-city-aston-villa-injuries-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734595_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T17:48:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
+          "title": "Who's to blame for Man United mess: Carrick, the players ... Ratcliffe?",
+          "description": "The bitter truth about United is that their prolonged and deep-rooted decline can be attributed to much more than their manager. Who deserves the most blame, and why?",
+          "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734576_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T18:41:53Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
@@ -8795,36 +8865,6 @@
           "publishedUtc": "2026-10-21T08:33:46Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale",
-          "title": "Football watchdog chair asserts 'absolute' power to force City sale",
-          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
-          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T23:53:19Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself",
-          "title": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
-          "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
-          "url": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL.jpg",
-          "publishedUtc": "2026-10-20T22:53:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "title": "Transfer rumors, news: Barcelona, Bayern eye Aston Villa's Manzambi",
-          "description": "Both Barcelona and Bayern Munich are competing to sign Aston Villa's Johan Manzambi. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T21:33:15Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9573,7 +9613,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:42.221Z",
+      "updatedUtc": "2026-10-22T21:25:40.595Z",
       "matches": [
         {
           "id": "401882849",
@@ -12589,32 +12629,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:42.100Z",
+      "updatedUtc": "2026-10-22T21:25:40.527Z",
       "matches": [
-        {
-          "id": "401874959",
-          "utc": "2026-10-16T18:45Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "4057",
-            "name": "Frosinone",
-            "abbreviation": "FRO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-          },
-          "away": {
-            "id": "3997",
-            "name": "Sassuolo",
-            "abbreviation": "SAS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
-          },
-          "venue": "Stadio Benito Stirpe, Frosinone",
-          "status": "finished",
-          "score": {
-            "home": 4,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401874760",
           "utc": "2026-10-17T13:00Z",
@@ -14230,6 +14246,26 @@
           "venue": "Stadio Artemio Franchi, Firenze",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401874775",
+          "utc": "2026-12-11T19:45Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "118",
+            "name": "Udinese",
+            "abbreviation": "UDI",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+          },
+          "away": {
+            "id": "4057",
+            "name": "Frosinone",
+            "abbreviation": "FRO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+          },
+          "venue": "Stadio Friuli, Udine",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -15559,7 +15595,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:42.127Z",
+      "updatedUtc": "2026-10-22T21:25:40.438Z",
       "matches": [
         {
           "id": "401884786",
@@ -18556,7 +18592,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:42.043Z",
+      "updatedUtc": "2026-10-22T21:25:40.545Z",
       "matches": [
         {
           "id": "401876451",
@@ -21552,7 +21588,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-22T17:00:41.993Z",
+      "updatedUtc": "2026-10-22T21:25:40.390Z",
       "matches": [
         {
           "id": "401861118",
@@ -25244,7 +25280,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T17:00:42.281Z",
+      "updatedUtc": "2026-10-22T21:25:40.639Z",
       "matches": [
         {
           "id": "761871",
@@ -28458,7 +28494,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-22T17:00:42.012Z",
+      "updatedUtc": "2026-10-22T21:25:40.355Z",
       "matches": [
         {
           "id": "760415",
