@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-22T11:35:18.470Z",
+  "updatedUtc": "2026-10-22T17:00:42.281Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.126Z",
+      "updatedUtc": "2026-10-22T17:00:41.939Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,6 +2345,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
+          "title": "Fabregas told Como 'not to run' against Manchester United",
+          "description": "Fabregas told Como 'not to run' against Manchester United",
+          "url": "https://www.espn.com/video/clip/_/id/50248787/fabregas-told-como-not-run-manchester-united",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Fabregas_told_Como_not_to_run_against_Manchester_United/dm_261022_Fabregas_told_Como_not_to_run_against_Manchester_United.jpg",
+          "publishedUtc": "2026-10-22T13:55:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
+          "title": "Cesc Fàbregas: I told Como players to 'slow down' in closing stages of Man United win",
+          "description": "Como head coach Cesc Fàbregas said he regrets telling his players to ease off towards the end of their famous 4-1 win against misfiring Manchester United.",
+          "url": "https://www.espn.com/soccer/story/_/id/50247630/cesc-fabregas-como-slow-man-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734457_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T11:25:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
           "title": "Who is to blame at Manchester United?",
           "description": "Who is to blame at Manchester United?",
@@ -2370,7 +2390,7 @@
           "description": "Real Madrid coach José Mourinho and Kylian Mbappé have defended Vinícius Júnior after the Brazilian forward drew whistles from the home fans during Wednesday's win over RB Leipzig.",
           "url": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734419_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T09:50:58Z",
+          "publishedUtc": "2026-10-22T14:05:09Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2430,7 +2450,7 @@
           "description": "Kylian Mbappé has warned that \"not much\" should be read into Madrid's dismantling of RB Leipzig ahead of Sunday's Clásico, but Jose Mourinho is surely starting to figure out who his best XI is.",
           "url": "https://www.espn.com/soccer/story/_/id/50242608/valverde-guler-show-why-theyll-key-madrid-sundays-clasico",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734261_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T23:50:25Z",
+          "publishedUtc": "2026-10-22T14:11:49Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2470,7 +2490,7 @@
           "description": "José Mourinho said Real Madrid's fans \"went home happy\" thanks to stunning goals from Yan Diomande and Kylian Mbappé in the team's 4-1 win over RB Leipzig on Wednesday.",
           "url": "https://www.espn.com/soccer/story/_/id/50242047/real-madrid-rb-leipzig-yan-diomande-kylian-mbappe-vinicius-jr",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734202_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T23:19:14Z",
+          "publishedUtc": "2026-10-22T14:06:18Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2561,26 +2581,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401915313",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734155_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-21T21:34:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915312",
-          "title": "Bayern Munich snap Arsenal win streak in thrilling 2-2 draw",
-          "description": "Declan Rice stole the limelight from Harry Kane as Arsenal hit back to snatch a thrilling 2-2 draw against Bayern Munich in a heavyweight clash Wednesday at the Allianz Arena.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915312",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734163_1024x576_16-9.jpg",
-          "publishedUtc": "2026-10-21T21:29:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915394",
-          "title": "Aston Villa beat Viking to continue winning start in Champions League",
-          "description": "Aston Villa maintained their 100% start to the Champions League campaign after they earned a comfortable 3-1 victory over Norwegian side Viking at Villa Park.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915394",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734162_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T21:05:09Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.230Z",
+      "updatedUtc": "2026-10-22T17:00:42.063Z",
       "matches": [
         {
           "id": "401915560",
@@ -3542,8 +3542,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
           },
           "venue": "Vazgen Sargsyan Republican Stadium, Yerevan",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "15'"
         },
         {
           "id": "401915556",
@@ -3562,8 +3566,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
           },
           "venue": "Maksimir Stadium, Zagreb",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "14'"
         },
         {
           "id": "401915558",
@@ -3582,8 +3590,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
           },
           "venue": "Groupama Arena, Budapest",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "15'"
         },
         {
           "id": "401915547",
@@ -3602,8 +3614,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
           },
           "venue": "Allianz Stadium, Torino",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "15'"
         },
         {
           "id": "401915546",
@@ -3622,8 +3638,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
           },
           "venue": "Municipal Stadium-Poznan, Poznan",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "note": "15'"
         },
         {
           "id": "401915559",
@@ -3642,8 +3662,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
           },
           "venue": "Pankritio Stadium, Crete",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "15'"
         },
         {
           "id": "401915557",
@@ -3662,8 +3686,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
           },
           "venue": "Merkur Arena, Graz",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "14'"
         },
         {
           "id": "401915545",
@@ -3682,8 +3710,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
           },
           "venue": "Merkur Spiel-Arena, Düsseldorf",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "15'"
         },
         {
           "id": "401915552",
@@ -6563,7 +6595,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.313Z",
+      "updatedUtc": "2026-10-22T17:00:42.176Z",
       "matches": [
         {
           "id": "401878771",
@@ -8555,6 +8587,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
+          "title": "Transfer rumors, news: Man United consider defensive clearout in summer",
+          "description": "Manchester United are considering refreshing their back four, with three senior defender's contracts up at the end of the season. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T15:05:24Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
+          "title": "Michael Carrick set to lead Man United vs. Bournemouth amid pressure - sources",
+          "description": "Michael Carrick is set to be in charge of Manchester United against Bournemouth this weekend, sources have told ESPN, as he battles to keep his job at Old Trafford.",
+          "url": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T15:57:29Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50247830/bruno-guimaraes-sleepless-nights-arsenal-move",
+          "title": "Bruno Guimarães: I had sleepless nights over Arsenal move",
+          "description": "Bruno Guimarães has admitted he had sleepless nights over his decision to leave Newcastle United for Arsenal.",
+          "url": "https://www.espn.com/soccer/story/_/id/50247830/bruno-guimaraes-sleepless-nights-arsenal-move",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734469_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T14:01:23Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
+          "title": "Enzo Maresca: 'It's my duty' to help Phil Foden rediscover best Man City form",
+          "description": "Manchester City boss Enzo Maresca feels a duty to help Phil Foden return to his best.",
+          "url": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734473_1215x683_16-9.jpg",
+          "publishedUtc": "2026-10-22T12:43:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
           "title": "Who is to blame at Manchester United?",
           "description": "Who is to blame at Manchester United?",
@@ -8567,22 +8639,22 @@
         {
           "id": "https://www.espn.com/soccer/story/_/id/50247083/man-united-players-day-como-thrashing",
           "title": "Man United players get Thursday day off despite Como thrashing - sources",
-          "description": "Manchester United's first-team squad will report back for training on Friday after being given a day off today following the humiliating 4-1 Champions League defeat against Como, sources have told ESPN.",
+          "description": "Manchester United's first-team squad will report back for training on Friday after being given a day off on Thursday following the humiliating 4-1 Champions League defeat against Como, sources have told ESPN.",
           "url": "https://www.espn.com/soccer/story/_/id/50247083/man-united-players-day-como-thrashing",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734431_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T10:20:36Z",
+          "publishedUtc": "2026-10-22T16:01:23Z",
           "source": "ESPN",
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-          "title": "Transfer rumors, news: Man United consider defensive clearout in summer",
-          "description": "Manchester United are considering refreshing their back four, with three senior defender's contracts up at the end of the season. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T07:45:47Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
+          "title": "Kyle Walker: 'No intention' of removing Man City tattoos after radio comments",
+          "description": "Kyle Walker has said he has \"never had any intention\" of removing his Manchester City tattoos, in the wake of comments the full-back made on Wednesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734413_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T16:07:10Z",
           "source": "ESPN",
-          "transfer": true
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50235336/manchester-united-keen-palace-duo-sarr-mateta",
@@ -8700,7 +8772,7 @@
           "description": "Before Raphinha became Barcelona's captain and converted into their main striker, he was Premier League battling relegation at Leeds United. It was the making of him.",
           "url": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1015/soc_raphinha_illustration_1296x729.png",
-          "publishedUtc": "2026-10-21T13:10:54Z",
+          "publishedUtc": "2026-10-22T14:14:04Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8753,46 +8825,6 @@
           "publishedUtc": "2026-10-20T21:33:15Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board",
-          "title": "Carrick says he feels backed by Man United's board",
-          "description": "Carrick says he feels backed by Man United's board",
-          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
-          "publishedUtc": "2026-10-20T20:01:41Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50230163/michael-carrick-man-united-coach-future-board",
-          "title": "Michael Carrick: I feel backing of Man United board but need to win games",
-          "description": "Michael Carrick has said he feels the backing of the Manchester United board -- but admits it will only continue if he starts winning games.",
-          "url": "https://www.espn.com/soccer/story/_/id/50230163/michael-carrick-man-united-coach-future-board",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733528_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T20:03:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50230051/newcastle-aston-villa-botman-jackson-tackle-var-webb",
-          "title": "Referees' boss Webb backs VAR over Newcastle's Botman challenge on Villa's Jackson",
-          "description": "Referees boss Howard Webb believes the video assistant referee was right not to intervene after Newcastle's Sven Botman was shown a yellow card for his tackle on Aston Villa's Nicolas Jackson at the weekend.",
-          "url": "https://www.espn.com/soccer/story/_/id/50230051/newcastle-aston-villa-botman-jackson-tackle-var-webb",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733514_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T18:30:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50229182/animal-rights-group-peta-call-crystal-palace-retire-bald-eagle-mascot",
-          "title": "Animal rights group PETA call for Crystal Palace to retire bald eagle mascot",
-          "description": "Animal rights group PETA has urged Crystal Palace to retire the club's bald eagle mascot, Phoenix, with immediate effect.",
-          "url": "https://www.espn.com/soccer/story/_/id/50229182/animal-rights-group-peta-call-crystal-palace-retire-bald-eagle-mascot",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733441_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-20T16:31:52Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -9541,7 +9573,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.413Z",
+      "updatedUtc": "2026-10-22T17:00:42.221Z",
       "matches": [
         {
           "id": "401882849",
@@ -11578,7 +11610,7 @@
           "description": "Real Madrid coach José Mourinho was keen to point out after his side's win over Leipzig that his team will have 24 hours less rest than Sunday's rivals Barcelona heading into the Clásico.",
           "url": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734427_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T10:27:44Z",
+          "publishedUtc": "2026-10-22T10:31:36Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11588,7 +11620,7 @@
           "description": "Thirteen years after helping turn soccer's biggest rivalry into must-see chaos, Real Madrid coach José Mourinho returns to face Barcelona in El Clásico with something to prove",
           "url": "https://www.espn.com/soccer/story/_/id/50245408/jose-mourinho-el-clasico-unmissable-real-madrid-barcelona-guardiola-messi-ronaldo",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734418_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T09:29:50Z",
+          "publishedUtc": "2026-10-22T14:12:50Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11598,7 +11630,7 @@
           "description": "Kylian Mbappé has warned that \"not much\" should be read into Madrid's dismantling of RB Leipzig ahead of Sunday's Clásico, but Jose Mourinho is surely starting to figure out who his best XI is.",
           "url": "https://www.espn.com/soccer/story/_/id/50242608/valverde-guler-show-why-theyll-key-madrid-sundays-clasico",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734261_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T23:50:25Z",
+          "publishedUtc": "2026-10-22T14:11:49Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11668,7 +11700,7 @@
           "description": "Before Raphinha became Barcelona's captain and converted into their main striker, he was Premier League battling relegation at Leeds United. It was the making of him.",
           "url": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1015/soc_raphinha_illustration_1296x729.png",
-          "publishedUtc": "2026-10-21T13:10:54Z",
+          "publishedUtc": "2026-10-22T14:14:04Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11768,7 +11800,7 @@
           "description": "In the tightest Ballon d'Or contest in years, top LaLiga players Lamine Yamal and Kylian Mbappé are among those vying to win soccer's top individual prize.",
           "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
           "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727750_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T08:29:25Z",
+          "publishedUtc": "2026-10-22T14:14:29Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12557,7 +12589,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.361Z",
+      "updatedUtc": "2026-10-22T17:00:42.100Z",
       "matches": [
         {
           "id": "401874959",
@@ -15527,7 +15559,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.269Z",
+      "updatedUtc": "2026-10-22T17:00:42.127Z",
       "matches": [
         {
           "id": "401884786",
@@ -18524,7 +18556,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.236Z",
+      "updatedUtc": "2026-10-22T17:00:42.043Z",
       "matches": [
         {
           "id": "401876451",
@@ -21520,7 +21552,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-22T11:35:18.166Z",
+      "updatedUtc": "2026-10-22T17:00:41.993Z",
       "matches": [
         {
           "id": "401861118",
@@ -25212,7 +25244,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T11:35:18.470Z",
+      "updatedUtc": "2026-10-22T17:00:42.281Z",
       "matches": [
         {
           "id": "761871",
@@ -25859,26 +25891,6 @@
           "note": "Scheduled"
         },
         {
-          "id": "761897",
-          "utc": "2026-10-25T00:30Z",
-          "phase": "Regular Season",
-          "home": {
-            "id": "184",
-            "name": "Colorado",
-            "abbreviation": "COL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
-          },
-          "away": {
-            "id": "9727",
-            "name": "Vancouver",
-            "abbreviation": "VAN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
-          },
-          "venue": "Dick's Sporting Goods Park, Commerce City, Colorado",
-          "status": "upcoming",
-          "note": "Scheduled"
-        },
-        {
           "id": "761900",
           "utc": "2026-10-25T00:30Z",
           "phase": "Regular Season",
@@ -25919,26 +25931,6 @@
           "note": "Scheduled"
         },
         {
-          "id": "761898",
-          "utc": "2026-10-25T00:30Z",
-          "phase": "Regular Season",
-          "home": {
-            "id": "4771",
-            "name": "Salt Lake",
-            "abbreviation": "RSL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
-          },
-          "away": {
-            "id": "21812",
-            "name": "St. Louis",
-            "abbreviation": "STL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
-          },
-          "venue": "America First Field, Sandy, Utah",
-          "status": "upcoming",
-          "note": "Scheduled"
-        },
-        {
           "id": "761899",
           "utc": "2026-10-25T00:30Z",
           "phase": "Regular Season",
@@ -25955,6 +25947,46 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png"
           },
           "venue": "Sporting Park, Kansas City, Kansas",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "761897",
+          "utc": "2026-10-25T01:30Z",
+          "phase": "Regular Season",
+          "home": {
+            "id": "184",
+            "name": "Colorado",
+            "abbreviation": "COL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
+          },
+          "away": {
+            "id": "9727",
+            "name": "Vancouver",
+            "abbreviation": "VAN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
+          },
+          "venue": "Dick's Sporting Goods Park, Commerce City, Colorado",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "761898",
+          "utc": "2026-10-25T01:30Z",
+          "phase": "Regular Season",
+          "home": {
+            "id": "4771",
+            "name": "Salt Lake",
+            "abbreviation": "RSL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
+          },
+          "away": {
+            "id": "21812",
+            "name": "St. Louis",
+            "abbreviation": "STL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
+          },
+          "venue": "America First Field, Sandy, Utah",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -27428,7 +27460,7 @@
           "description": "St. Louis goalkeeper Roman Bürki was taken to the hospital after taking a knock to the head during the U.S. Open Cup final against the Columbus Crew.",
           "url": "https://www.espn.com/soccer/story/_/id/50243891/st-louis-gk-burki-stretchered-collision-open-cup-final",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734322_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T04:44:36Z",
+          "publishedUtc": "2026-10-22T15:13:33Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -28426,7 +28458,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-22T11:35:18.140Z",
+      "updatedUtc": "2026-10-22T17:00:42.012Z",
       "matches": [
         {
           "id": "760415",
