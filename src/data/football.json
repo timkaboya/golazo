@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-23T00:30:50.860Z",
+  "updatedUtc": "2026-10-23T07:18:55.333Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.191Z",
+      "updatedUtc": "2026-10-23T07:18:55.115Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.310Z",
+      "updatedUtc": "2026-10-23T07:18:55.173Z",
       "matches": [
         {
           "id": "401915560",
@@ -5659,6 +5659,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50252812/bournemouth-ac-milan-europa-league-ruben-amorim-marco-rose",
+          "title": "Rose urges humility after Bournemouth rout Milan as Amorim rues red card",
+          "description": "Marco Rose said his Bournemouth team will stay humble after they dominated AC Milan 3-0 in the Europa League while Ruben Amorim said the match was over as a contest for his team after Mike Maignan's red card in the first half.",
+          "url": "https://www.espn.com/soccer/story/_/id/50252812/bournemouth-ac-milan-europa-league-ruben-amorim-marco-rose",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734777_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T22:37:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50252034/bournemouth-fairytale-condemns-ruben-amorim-another-nightmare-england-ac-milan",
+          "title": "Bournemouth fairytale condemns Ruben Amorim to another nightmare in England",
+          "description": "Bournemouth never wanted this night to end. Ruben Amorim, however, would be happy to forget this evening on the south coast ever happened.",
+          "url": "https://www.espn.com/soccer/story/_/id/50252034/bournemouth-fairytale-condemns-ruben-amorim-another-nightmare-england-ac-milan",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734745_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T21:49:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401915552",
           "title": "Bournemouth notch historic win over Milan after bizarre Maignan red",
           "description": "Bournemouth scaled giddy new heights in their debut Europa League campaign as 10-man AC Milan were convincingly brushed aside 3-0 at the Vitality Stadium on Thursday.",
@@ -5674,7 +5694,7 @@
           "description": "Jean-Philippe Mateta scored on his first start since the opening day but Crystal Palace could not capitalise on a Besiktas red card to produce a winner in their 2-2 Europa League draw in Istanbul.",
           "url": "http://www.espn.com/soccer/report/_/gameId/401915553",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734735_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T21:08:20Z",
+          "publishedUtc": "2026-10-22T21:34:00Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -5864,26 +5884,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49962818/ruben-amorim-ready-adapt-tactics-ac-milan-fall-benfica-defeat",
           "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1717961_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-17T07:49:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915592",
-          "title": "Sunderland mark European return with win over AZ Alkmaar",
-          "description": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915592",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717731_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T08:42:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915586",
-          "title": "Pulisic subs on as Milan humbled by Benfica in Europa League",
-          "description": "AC Milan kicked off their Europa League campaign with a disappointing 2-0 home loss to Portuguese side Benfica.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915586",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717761_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T08:42:17Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -6635,7 +6635,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.387Z",
+      "updatedUtc": "2026-10-23T07:18:55.293Z",
       "matches": [
         {
           "id": "401878771",
@@ -8627,6 +8627,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50252435/carrick-take-stand-drop-fernandes",
+          "title": "Burley: Carrick should take a stand and drop Fernandes",
+          "description": "Burley: Carrick should take a stand and drop Fernandes",
+          "url": "https://www.espn.com/video/clip/_/id/50252435/carrick-take-stand-drop-fernandes",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Burley_Carrick_should_take_a_stand_and_drop_Fernandes/dm_261022_Burley_Carrick_should_take_a_stand_and_drop_Fernandes.jpg",
+          "publishedUtc": "2026-10-22T21:32:25Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
           "title": "Transfer rumors, news: Arsenal want £55M in any Gyökeres deal",
           "description": "Arsenal has set their valuation for Viktor Gyökeres' transfer fee if the striker does depart in the next year. Transfer Talk has the latest.",
@@ -8853,16 +8863,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50225985/martinez-manchester-united-outburst-begs-question-why-do-premier-league-executives-stay-silent",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733311_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-22T05:07:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50235298/alexis-mac-allister-arne-slot-liverpool-andoni-iraola",
-          "title": "Alexis Mac Allister: 'Something wasn't right' under Arne Slot at Liverpool",
-          "description": "Alexis Mac Allister has said that Andoni Iraola fixed the issues within the Liverpool group left behind by his predecessor Arne Slot.",
-          "url": "https://www.espn.com/soccer/story/_/id/50235298/alexis-mac-allister-arne-slot-liverpool-andoni-iraola",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733822_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T08:33:46Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9613,7 +9613,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.585Z",
+      "updatedUtc": "2026-10-23T07:18:55.253Z",
       "matches": [
         {
           "id": "401882849",
@@ -11645,6 +11645,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
+          "title": "Before 'the special one', José Mourinho was 'the Barca one'",
+          "description": "Before 'the special one', José Mourinho was 'the Barca one'",
+          "url": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_When_the_special_one_was_the_Barca_one/dm_261022_When_the_special_one_was_the_Barca_one.jpg",
+          "publishedUtc": "2026-10-22T22:17:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50252567/should-real-madrid-frustrate-barcelona-fouls-el-clasico",
+          "title": "Should Real Madrid frustrate Barcelona with fouls in El Clásico?",
+          "description": "Should Real Madrid frustrate Barcelona with fouls in El Clásico?",
+          "url": "https://www.espn.com/video/clip/_/id/50252567/should-real-madrid-frustrate-barcelona-fouls-el-clasico",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Should_Real_Madrid_frustrate_Barcelona_with_fouls_in_El_Clasico/dm_261022_Should_Real_Madrid_frustrate_Barcelona_with_fouls_in_El_Clasico.jpg",
+          "publishedUtc": "2026-10-22T21:48:39Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
           "title": "José Mourinho complains Real Madrid have 24 hours less rest than Barcelona ahead of El Clásico",
           "description": "Real Madrid coach José Mourinho was keen to point out after his side's win over Leipzig that his team will have 24 hours less rest than Sunday's rivals Barcelona heading into the Clásico.",
@@ -11861,26 +11881,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50213693/real-madrid-played-identity-vs-sevilla",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Garcia3A_Real_Madrid_played_with_identity_vs_Sevilla_GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Garcia3A_Real_Madrid_played_with_identity_vs_Sevilla_GLOBAL_2026-10-18.jpg",
           "publishedUtc": "2026-10-18T22:22:19Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401882839",
-          "title": "Yan Diomande, Kylian Mbappé lead Real Madrid rout of Sevilla",
-          "description": "Kylian Mbappé's brilliant double on Sunday helped Real Madrid prepare for next week's El Clasico with a 4-1 triumph over Sevilla at the Bernabeu.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401882839",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732603_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T21:23:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50213107/real-madrid-vs-sevilla-game-highlights",
-          "title": "Real Madrid vs. Sevilla - Game Highlights",
-          "description": "Watch the Game Highlights from Real Madrid vs. Sevilla, 10/18/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50213107/real-madrid-vs-sevilla-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/87eb218e-c35e-4f43-9b8f-00842b0b6c58/87eb218e-c35e-4f43-9b8f-00842b0b6c58.jpg",
-          "publishedUtc": "2026-10-18T21:08:42Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12629,7 +12629,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.370Z",
+      "updatedUtc": "2026-10-23T07:18:55.161Z",
       "matches": [
         {
           "id": "401874760",
@@ -15595,7 +15595,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.647Z",
+      "updatedUtc": "2026-10-23T07:18:55.194Z",
       "matches": [
         {
           "id": "401884786",
@@ -18592,7 +18592,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.554Z",
+      "updatedUtc": "2026-10-23T07:18:55.262Z",
       "matches": [
         {
           "id": "401876451",
@@ -20614,6 +20614,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "title": "Who will win the Ballon d'Or? Messi, Yamal, Kane -- or someone else?",
+          "description": "There's no consensus pick for this year's Ballon d'Or -- but maybe there should be. Here's who actually deserves to win it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734824_1296x729_16-9.png",
+          "publishedUtc": "2026-10-23T07:09:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50235833/khvicha-kvaratskhelia-ruptured-acl-paris-saint-germain-confirm",
           "title": "PSG star Khvicha Kvaratskhelia ruptures ACL; Dembélé, Marquinhos out 'weeks'",
           "description": "Khvicha Kvaratskhelia ruptured his anterior cruciate ligament injury during Paris Saint-Germain's Champions League victory against Barcelona.",
@@ -20830,16 +20840,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49965677/psg-marseille-fans-travel-ban-ultras-ligue-1-france",
           "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1718146_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-17T16:45:56Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49957535/soccer-hottest-teams-form-analysis-barcelona-arsenal-psg",
-          "title": "World soccer's hottest men's teams right now: Can anyone stop Barcelona?",
-          "description": "Is there any team hotter in world soccer right now than Barcelona? Bill Connelly crunches the numbers to tell us the most in-form European teams heading into the international break.",
-          "url": "https://www.espn.com/soccer/story/_/id/49957535/soccer-hottest-teams-form-analysis-barcelona-arsenal-psg",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717661_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T12:29:29Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21588,7 +21588,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-23T00:30:50.690Z",
+      "updatedUtc": "2026-10-23T07:18:55.332Z",
       "matches": [
         {
           "id": "401861118",
@@ -25280,7 +25280,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T00:30:50.860Z",
+      "updatedUtc": "2026-10-23T07:18:55.329Z",
       "matches": [
         {
           "id": "761871",
@@ -28494,7 +28494,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-23T00:30:50.747Z",
+      "updatedUtc": "2026-10-23T07:18:55.273Z",
       "matches": [
         {
           "id": "760415",
@@ -31873,6 +31873,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
+          "title": "Asian football chief backs Gianni Infantino for another term as FIFA president",
+          "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
+          "url": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T05:13:45Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
           "title": "AFC president unclear on backing for Infantino's FIFA reelection",
           "description": "The president of the AFC gave no hint Thursday about the body's support or opposition to the reelection of Gianni Infantino as FIFA president.",
@@ -32069,16 +32079,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
           "publishedUtc": "2026-10-04T22:20:03Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
-          "title": "Scaloni: Messi's final Argentina match will be unforgettable",
-          "description": "Scaloni: Messi's final Argentina match will be unforgettable",
-          "url": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL.jpg",
-          "publishedUtc": "2026-10-04T14:48:16Z",
           "source": "ESPN",
           "transfer": false
         }
