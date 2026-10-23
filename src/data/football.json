@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-23T07:18:55.333Z",
+  "updatedUtc": "2026-10-23T13:17:26.586Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.115Z",
+      "updatedUtc": "2026-10-23T13:17:26.299Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,6 +2345,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50255867/bruno-fernandes-home-burgled-man-united-loss-como",
+          "title": "Bruno Fernandes' home burgled during Man United loss against Como",
+          "description": "Bruno Fernandes returned from Italy after losing to Como with Manchester United in the early hours of Thursday morning and had to deal with a robbery at his house.",
+          "url": "https://www.espn.com/soccer/story/_/id/50255867/bruno-fernandes-home-burgled-man-united-loss-como",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734927_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T07:41:57Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
           "title": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
           "description": "Wayne Rooney has lambasted Manchester United's squad for acting like \"babies\" and urged Bruno Fernandes and Lisandro Martínez to look in the mirror.",
@@ -2571,16 +2581,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50242182/fabregas-paz-dedicate-como-historic-manchester-united-fans",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734216_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-21T22:50:24Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
-          "title": "Champions League recap: Como stun Man United, Bayern-Arsenal share points",
-          "description": "Como shocked Manchester United, while Bayern Munich and Arsenal played out to an entertaining 2-2 draw on a Wednesday full of UEFA Champions League action.",
-          "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733994_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T21:48:32Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.173Z",
+      "updatedUtc": "2026-10-23T13:17:26.285Z",
       "matches": [
         {
           "id": "401915560",
@@ -5659,6 +5659,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50255952/if-salah-scores-three-hearts-boss-key-conundrum",
+          "title": "'If Mo Salah scores three...' - Hearts boss on puzzle to mark Trabzonspor star",
+          "description": "Wouter Vrancken hailed auxiliary left-back Rogers Mato for the way he stepped into the breach against Mohamed Salah as injury-hit Hearts produced a spirited display in a 2-0 Conference League defeat away to Trabzonspor.",
+          "url": "https://www.espn.com/soccer/story/_/id/50255952/if-salah-scores-three-hearts-boss-key-conundrum",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0817/r1702869_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T08:00:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50252812/bournemouth-ac-milan-europa-league-ruben-amorim-marco-rose",
           "title": "Rose urges humility after Bournemouth rout Milan as Amorim rues red card",
           "description": "Marco Rose said his Bournemouth team will stay humble after they dominated AC Milan 3-0 in the Europa League while Ruben Amorim said the match was over as a contest for his team after Mike Maignan's red card in the first half.",
@@ -5876,16 +5886,6 @@
           "publishedUtc": "2026-09-17T21:05:50Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49962818/ruben-amorim-ready-adapt-tactics-ac-milan-fall-benfica-defeat",
-          "title": "Ruben Amorim ready to 'adapt' tactics after AC Milan fall to Benfica defeat",
-          "description": "AC Milan head coach Ruben Amorim has said he is willing to \"adapt\" his tactics after his side fell to a disappointing 2-0 home loss to Benfica in the Europa League.",
-          "url": "https://www.espn.com/soccer/story/_/id/49962818/ruben-amorim-ready-adapt-tactics-ac-milan-fall-benfica-defeat",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1717961_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T07:49:45Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -5903,6 +5903,18 @@
             "assists": 1
           },
           {
+            "id": "298349",
+            "name": "Nick Woltemade",
+            "team": {
+              "id": "111",
+              "name": "Juventus",
+              "abbreviation": "JUV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
             "id": "359754",
             "name": "Alphadjo Cissè",
             "team": {
@@ -5913,6 +5925,54 @@
             },
             "goals": 3,
             "assists": 0
+          },
+          {
+            "id": "306647",
+            "name": "Dion Drena Beljo",
+            "team": {
+              "id": "597",
+              "name": "Dinamo Zagreb",
+              "abbreviation": "DZG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "id": "265993",
+            "name": "Sergio Gómez",
+            "team": {
+              "id": "89",
+              "name": "Real Sociedad",
+              "abbreviation": "RSO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "id": "297370",
+            "name": "Yéremy Pino",
+            "team": {
+              "id": "384",
+              "name": "Crystal Palace",
+              "abbreviation": "CRY",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "id": "322421",
+            "name": "Bamidele Isa Yusuf",
+            "team": {
+              "id": "622",
+              "name": "Ferencvaros",
+              "abbreviation": "FER",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
+            },
+            "goals": 2,
+            "assists": 2
           },
           {
             "id": "302434",
@@ -5939,6 +5999,31 @@
             "assists": 1
           },
           {
+            "id": "287830",
+            "name": "Reinaldo",
+            "team": {
+              "id": "490",
+              "name": "Levski Sofia",
+              "abbreviation": "LEV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "338959",
+            "name": "Weslley Patati",
+            "team": {
+              "id": "140",
+              "name": "AZ Alkmaar",
+              "abbreviation": "AZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/338959.png",
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "216420",
             "name": "Amir Murillo",
             "team": {
@@ -5948,6 +6033,55 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/216420.png",
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "376110",
+            "name": "Armando González",
+            "team": {
+              "id": "435",
+              "name": "Olympiacos",
+              "abbreviation": "OLY",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "122954",
+            "name": "Bryan Linssen",
+            "team": {
+              "id": "147",
+              "name": "NEC Nijmegen",
+              "abbreviation": "NEC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/122954.png",
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "330077",
+            "name": "Guilherme Smith",
+            "team": {
+              "id": "5807",
+              "name": "Union St.-Gilloise",
+              "abbreviation": "USG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "376147",
+            "name": "Javi Rodríguez",
+            "team": {
+              "id": "85",
+              "name": "Celta Vigo",
+              "abbreviation": "CEL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+            },
             "goals": 2,
             "assists": 0
           },
@@ -5965,13 +6099,86 @@
             "assists": 0
           },
           {
-            "id": "298349",
-            "name": "Nick Woltemade",
+            "id": "174617",
+            "name": "Jonas Hofmann",
             "team": {
-              "id": "111",
-              "name": "Juventus",
-              "abbreviation": "JUV",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+              "id": "131",
+              "name": "Bayer Leverkusen",
+              "abbreviation": "B04",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "245916",
+            "name": "Justin Kluivert",
+            "team": {
+              "id": "349",
+              "name": "AFC Bournemouth",
+              "abbreviation": "BOU",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "306263",
+            "name": "Luka Sucic",
+            "team": {
+              "id": "89",
+              "name": "Real Sociedad",
+              "abbreviation": "RSO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "359742",
+            "name": "Manuel Pozo",
+            "team": {
+              "id": "21615",
+              "name": "Torreense",
+              "abbreviation": "TOR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "332465",
+            "name": "Mexx Meerdink",
+            "team": {
+              "id": "140",
+              "name": "AZ Alkmaar",
+              "abbreviation": "AZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/332465.png",
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "369978",
+            "name": "Mihajlo Cvetkovic",
+            "team": {
+              "id": "441",
+              "name": "Anderlecht",
+              "abbreviation": "AND",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
+            },
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "id": "367926",
+            "name": "Mika Baur",
+            "team": {
+              "id": "256",
+              "name": "Celtic",
+              "abbreviation": "CEL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
             },
             "goals": 2,
             "assists": 0
@@ -6013,6 +6220,19 @@
             "assists": 0
           },
           {
+            "id": "116893",
+            "name": "Tjaronn Chery",
+            "team": {
+              "id": "147",
+              "name": "NEC Nijmegen",
+              "abbreviation": "NEC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/116893.png",
+            "goals": 2,
+            "assists": 0
+          },
+          {
             "id": "382244",
             "name": "Tobias Guddal",
             "team": {
@@ -6025,233 +6245,16 @@
             "assists": 0
           },
           {
-            "id": "297370",
-            "name": "Yéremy Pino",
-            "team": {
-              "id": "384",
-              "name": "Crystal Palace",
-              "abbreviation": "CRY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "322421",
-            "name": "Bamidele Isa Yusuf",
-            "team": {
-              "id": "622",
-              "name": "Ferencvaros",
-              "abbreviation": "FER",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
-            },
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "id": "265953",
-            "name": "Keito Nakamura",
-            "team": {
-              "id": "167",
-              "name": "Lyon",
-              "abbreviation": "LYON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-            },
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "id": "384290",
-            "name": "Ilhan Fakili",
-            "team": {
-              "id": "1895",
-              "name": "Besiktas",
-              "abbreviation": "BES",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "328393",
-            "name": "Josimar Alcócer",
-            "team": {
-              "id": "433",
-              "name": "Sparta Prague",
-              "abbreviation": "SPP",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
-            },
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "id": "347520",
-            "name": "Alejandro Alfaro",
-            "team": {
-              "id": "21615",
-              "name": "Torreense",
-              "abbreviation": "TOR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "250920",
-            "name": "Bruno Wilson",
-            "team": {
-              "id": "20024",
-              "name": "Ararat-Armenia",
-              "abbreviation": "ARA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "367591",
-            "name": "Camilo Durán",
-            "team": {
-              "id": "256",
-              "name": "Celtic",
-              "abbreviation": "CEL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "272585",
-            "name": "Chris Richards",
-            "team": {
-              "id": "384",
-              "name": "Crystal Palace",
-              "abbreviation": "CRY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/272585.png",
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "229443",
-            "name": "Dodi Lukébakio",
+            "id": "220819",
+            "name": "Vangelis Pavlidis",
             "team": {
               "id": "1929",
               "name": "Benfica",
               "abbreviation": "SLB",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
             },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "288340",
-            "name": "Enzo Le Fée",
-            "team": {
-              "id": "366",
-              "name": "Sunderland",
-              "abbreviation": "SUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "102368",
-            "name": "Evanilson",
-            "team": {
-              "id": "349",
-              "name": "AFC Bournemouth",
-              "abbreviation": "BOU",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "324191",
-            "name": "Forson Amankwah",
-            "team": {
-              "id": "13083",
-              "name": "Hapoel Be'er",
-              "abbreviation": "HBE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "184869",
-            "name": "Haris Tabakovic",
-            "team": {
-              "id": "2790",
-              "name": "RB Salzburg",
-              "abbreviation": "SLZ",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "366131",
-            "name": "Jaden Montnor",
-            "team": {
-              "id": "617",
-              "name": "Omonia Nicosia",
-              "abbreviation": "OMON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "252747",
-            "name": "Jørgen Strand Larsen",
-            "team": {
-              "id": "384",
-              "name": "Crystal Palace",
-              "abbreviation": "CRY",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/252747.png",
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "188962",
-            "name": "Jure Balkovec",
-            "team": {
-              "id": "617",
-              "name": "Omonia Nicosia",
-              "abbreviation": "OMON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "370144",
-            "name": "Kajetan Szmyt",
-            "team": {
-              "id": "11505",
-              "name": "Jagiellonia Bialystok",
-              "abbreviation": "JAG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
-            },
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "id": "391034",
-            "name": "Kerim Alajbegovic",
-            "team": {
-              "id": "111",
-              "name": "Juventus",
-              "abbreviation": "JUV",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-            },
-            "goals": 1,
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/220819.png",
+            "goals": 2,
             "assists": 0
           }
         ],
@@ -6265,6 +6268,18 @@
               "abbreviation": "BES",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
             },
+            "goals": 1,
+            "assists": 3
+          },
+          {
+            "id": "229018",
+            "name": "Mikel Oyarzabal",
+            "team": {
+              "id": "89",
+              "name": "Real Sociedad",
+              "abbreviation": "RSO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+            },
             "goals": 0,
             "assists": 3
           },
@@ -6276,6 +6291,30 @@
               "name": "Ferencvaros",
               "abbreviation": "FER",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
+            },
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "id": "139520",
+            "name": "Andrej Kramaric",
+            "team": {
+              "id": "7911",
+              "name": "TSG Hoffenheim",
+              "abbreviation": "TSG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "339191",
+            "name": "Gianluca Prestianni",
+            "team": {
+              "id": "1929",
+              "name": "Benfica",
+              "abbreviation": "SLB",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
             },
             "goals": 1,
             "assists": 2
@@ -6305,13 +6344,38 @@
             "assists": 2
           },
           {
-            "id": "339191",
-            "name": "Gianluca Prestianni",
+            "id": "308980",
+            "name": "Damir Redzic",
             "team": {
-              "id": "1929",
-              "name": "Benfica",
-              "abbreviation": "SLB",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
+              "id": "2790",
+              "name": "RB Salzburg",
+              "abbreviation": "SLZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "287172",
+            "name": "Enric Llansana",
+            "team": {
+              "id": "441",
+              "name": "Anderlecht",
+              "abbreviation": "AND",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/287172.png",
+            "goals": 0,
+            "assists": 2
+          },
+          {
+            "id": "266780",
+            "name": "Javier Vazquez",
+            "team": {
+              "id": "21615",
+              "name": "Torreense",
+              "abbreviation": "TOR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
             },
             "goals": 0,
             "assists": 2
@@ -6330,6 +6394,18 @@
             "assists": 2
           },
           {
+            "id": "238991",
+            "name": "Veljko Birmancevic",
+            "team": {
+              "id": "622",
+              "name": "Ferencvaros",
+              "abbreviation": "FER",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
+            },
+            "goals": 0,
+            "assists": 2
+          },
+          {
             "id": "253991",
             "name": "Kristoffer Zachariassen",
             "team": {
@@ -6337,6 +6413,18 @@
               "name": "Ferencvaros",
               "abbreviation": "FER",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "298349",
+            "name": "Nick Woltemade",
+            "team": {
+              "id": "111",
+              "name": "Juventus",
+              "abbreviation": "JUV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
             },
             "goals": 3,
             "assists": 1
@@ -6366,6 +6454,43 @@
             "assists": 1
           },
           {
+            "id": "287830",
+            "name": "Reinaldo",
+            "team": {
+              "id": "490",
+              "name": "Levski Sofia",
+              "abbreviation": "LEV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "338959",
+            "name": "Weslley Patati",
+            "team": {
+              "id": "140",
+              "name": "AZ Alkmaar",
+              "abbreviation": "AZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/338959.png",
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "372851",
+            "name": "Clement Bischoff",
+            "team": {
+              "id": "147",
+              "name": "NEC Nijmegen",
+              "abbreviation": "NEC",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+            },
+            "goals": 1,
+            "assists": 1
+          },
+          {
             "id": "384290",
             "name": "Ilhan Fakili",
             "team": {
@@ -6373,6 +6498,18 @@
               "name": "Besiktas",
               "abbreviation": "BES",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+            },
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "id": "366131",
+            "name": "Jaden Montnor",
+            "team": {
+              "id": "617",
+              "name": "Omonia Nicosia",
+              "abbreviation": "OMON",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
             },
             "goals": 1,
             "assists": 1
@@ -6390,39 +6527,39 @@
             "assists": 1
           },
           {
-            "id": "122268",
-            "name": "Adam Smith",
-            "team": {
-              "id": "349",
-              "name": "AFC Bournemouth",
-              "abbreviation": "BOU",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "176203",
-            "name": "Adrien Rabiot",
-            "team": {
-              "id": "103",
-              "name": "AC Milan",
-              "abbreviation": "MIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "361258",
-            "name": "Afonso Moreira",
+            "id": "301416",
+            "name": "Malik Tillman",
             "team": {
               "id": "131",
               "name": "Bayer Leverkusen",
               "abbreviation": "B04",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
             },
-            "goals": 0,
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "id": "361211",
+            "name": "Relebohile Mofokeng",
+            "team": {
+              "id": "5807",
+              "name": "Union St.-Gilloise",
+              "abbreviation": "USG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+            },
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "id": "344870",
+            "name": "Valdemar Byskov",
+            "team": {
+              "id": "140",
+              "name": "AZ Alkmaar",
+              "abbreviation": "AZ",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+            },
+            "goals": 1,
             "assists": 1
           },
           {
@@ -6484,138 +6621,6 @@
             },
             "goals": 0,
             "assists": 1
-          },
-          {
-            "id": "122768",
-            "name": "David Bruno",
-            "team": {
-              "id": "21615",
-              "name": "Torreense",
-              "abbreviation": "TOR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "345637",
-            "name": "Davide Bartesaghi",
-            "team": {
-              "id": "103",
-              "name": "AC Milan",
-              "abbreviation": "MIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "199675",
-            "name": "Ewandro",
-            "team": {
-              "id": "617",
-              "name": "Omonia Nicosia",
-              "abbreviation": "OMON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "149981",
-            "name": "Granit Xhaka",
-            "team": {
-              "id": "366",
-              "name": "Sunderland",
-              "abbreviation": "SUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "276440",
-            "name": "Haissem Hassan",
-            "team": {
-              "id": "256",
-              "name": "Celtic",
-              "abbreviation": "CEL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "277525",
-            "name": "Himad Abdelli",
-            "team": {
-              "id": "176",
-              "name": "Marseille",
-              "abbreviation": "OLM",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "266780",
-            "name": "Javier Vazquez",
-            "team": {
-              "id": "21615",
-              "name": "Torreense",
-              "abbreviation": "TOR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "241032",
-            "name": "Jean-Kévin Duverne",
-            "team": {
-              "id": "617",
-              "name": "Omonia Nicosia",
-              "abbreviation": "OMON",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "207720",
-            "name": "Jesus Imaz",
-            "team": {
-              "id": "11505",
-              "name": "Jagiellonia Bialystok",
-              "abbreviation": "JAG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "227697",
-            "name": "Jhon Lucumí",
-            "team": {
-              "id": "111",
-              "name": "Juventus",
-              "abbreviation": "JUV",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-            },
-            "goals": 0,
-            "assists": 1
-          },
-          {
-            "id": "312933",
-            "name": "Jonatan Brunes",
-            "team": {
-              "id": "433",
-              "name": "Sparta Prague",
-              "abbreviation": "SPP",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
-            },
-            "goals": 0,
-            "assists": 1
           }
         ]
       }
@@ -6635,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.293Z",
+      "updatedUtc": "2026-10-23T13:17:26.332Z",
       "matches": [
         {
           "id": "401878771",
@@ -8627,6 +8632,76 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-man-united-no-negotiations-advanced-stage",
+          "title": "Antonio Conte: 'No negotiations at advanced stage' amid Man United link",
+          "description": "Antonio Conte has denied that he is in advanced talks over a new job amid speculation he could replace Michael Carrick at Manchester United.",
+          "url": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-man-united-no-negotiations-advanced-stage",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0128/r1606700_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T12:25:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
+          "title": "Transfer rumors, news: Como's Paz destroyed Man United -- now they want to sign him",
+          "description": "Manchester United are monitoring Como attacking midfielder Nico Paz ahead of next season, while Chelsea are also keen. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733999_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T12:03:57Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50256301/man-united-invite-fans-fill-survey-new-stadium",
+          "title": "Man United invite fans to fill survey on new stadium",
+          "description": "Manchester United are inviting fans to provide fresh input on the design of their proposed new 100,000-capacity stadium.",
+          "url": "https://www.espn.com/soccer/story/_/id/50256301/man-united-invite-fans-fill-survey-new-stadium",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T10:17:35Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50256275/man-united-angry-michael-carrick-marco-rose-bournemouth",
+          "title": "Man United will be 'angry, intense,' Marco Rose warns Bournemouth",
+          "description": "Marco Rose has told his Bournemouth team to be wary of an angry Manchester United side who will be playing as if they have nothing to lose when they meet at Old Trafford.",
+          "url": "https://www.espn.com/soccer/story/_/id/50256275/man-united-angry-michael-carrick-marco-rose-bournemouth",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734938_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T09:56:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50226791/joao-pedro-chelsea-brazil-aims-goals-cole-palmer-morgan-rogers",
+          "title": "João Pedro: I told Cole Palmer 'I didn't want to take his spot' at Chelsea",
+          "description": "João Pedro has said that a \"friendship was born\" when he assured Cole Palmer that he wasn't coming to Chelsea to steal his place in the team.",
+          "url": "https://www.espn.com/soccer/story/_/id/50226791/joao-pedro-chelsea-brazil-aims-goals-cole-palmer-morgan-rogers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733340_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T10:54:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "title": "Who will win the Ballon d'Or? Messi, Yamal, Kane -- or someone else?",
+          "description": "There's no consensus pick for this year's Ballon d'Or -- but maybe there should be. Here's who actually deserves to win it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734824_1296x729_16-9.png",
+          "publishedUtc": "2026-10-23T07:09:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-23T08:57:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50252435/carrick-take-stand-drop-fernandes",
           "title": "Burley: Carrick should take a stand and drop Fernandes",
           "description": "Burley: Carrick should take a stand and drop Fernandes",
@@ -8672,7 +8747,7 @@
           "description": "The bitter truth about United is that their prolonged and deep-rooted decline can be attributed to much more than their manager. Who deserves the most blame, and why?",
           "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734576_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T18:41:53Z",
+          "publishedUtc": "2026-10-23T09:08:25Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8793,76 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50237718/eli-junior-kroupi-bournemouth-injury-training-return-man-united-premier-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733905_2_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-21T14:12:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50229304/ballon-dor-industry-harry-kane-lamine-yamal-kylian-mbappe",
-          "title": "What it takes to win a Ballon d'Or: Trophies, goals and playing the PR game",
-          "description": "It's no longer enough to be the best on-field player in order to have a shot at the Ballon d'Or, soccer's top individual prize. You have to make your case in the media, too -- and it takes a lot of work.",
-          "url": "https://www.espn.com/soccer/story/_/id/50229304/ballon-dor-industry-harry-kane-lamine-yamal-kylian-mbappe",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733865_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T14:07:53Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50236831/var-incorrectly-awarded-erling-haaland-goal-reinstated-premier-league",
-          "title": "VAR who incorrectly awarded Erling Haaland goal reinstated to Premier League",
-          "description": "The VAR who incorrectly awarded Erling Haaland's Manchester derby goal last month has been reinstated to Premier League duty.",
-          "url": "https://www.espn.com/soccer/story/_/id/50236831/var-incorrectly-awarded-erling-haaland-goal-reinstated-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730638_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T12:19:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50236600/ronald-araujo-liverpool-barcelona-villarreal-champions-league",
-          "title": "Ronald Araújo: 'Finding what I needed' at Liverpool",
-          "description": "Ronald Araújo is convinced his loan move to Liverpool from Barcelona was what he needed.",
-          "url": "https://www.espn.com/soccer/story/_/id/50236600/ronald-araujo-liverpool-barcelona-villarreal-champions-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733858_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T11:45:35Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50236138/mohamed-salah-key-rio-ngumoha-development-liverpool-virgil-van-dijk",
-          "title": "Mohamed Salah key in Rio Ngumoha's development at Liverpool - Virgil van Dijk",
-          "description": "Liverpool captain Virgil van Dijk has credited Mohamed Salah with helping the development of Rio Ngumoha and believes there is still \"much more\" to come from the teenager.",
-          "url": "https://www.espn.com/soccer/story/_/id/50236138/mohamed-salah-key-rio-ngumoha-development-liverpool-virgil-van-dijk",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0814/r1701637_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T11:00:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50235945/erik-ten-hag-man-united-gary-neville-roy-keane-wayne-rooney",
-          "title": "Erik ten Hag on former Man United legends' criticism: 'They could help the club and players more'",
-          "description": "Former Manchester United head coach Erik ten Hag has spoken candidly about the impact that the criticism of former club legends has on the club and current players.",
-          "url": "https://www.espn.com/soccer/story/_/id/50235945/erik-ten-hag-man-united-gary-neville-roy-keane-wayne-rooney",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733840_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T10:10:21Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
-          "title": "How Raphinha's latest transformation made him into Barcelona's star striker",
-          "description": "Before Raphinha became Barcelona's captain and converted into their main striker, he was Premier League battling relegation at Leeds United. It was the making of him.",
-          "url": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/soc_raphinha_illustration_1296x729.png",
-          "publishedUtc": "2026-10-22T14:14:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50225985/martinez-manchester-united-outburst-begs-question-why-do-premier-league-executives-stay-silent",
-          "title": "Martinez's Man United outburst raises question: Why do Premier League executives stay silent?",
-          "description": "Manchester United defender Lisandro Martinez publicly targeted the club's hierarchy last week. But why do you never hear from senior executives from Premier League clubs?",
-          "url": "https://www.espn.com/soccer/story/_/id/50225985/martinez-manchester-united-outburst-begs-question-why-do-premier-league-executives-stay-silent",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733311_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T05:07:42Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9613,7 +9618,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.253Z",
+      "updatedUtc": "2026-10-23T13:17:26.459Z",
       "matches": [
         {
           "id": "401882849",
@@ -11645,6 +11650,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
+          "title": "As Anthony Gordon prepares for El Clásico debut, how have other British stars fared?",
+          "description": "As Anthony Gordon prepares for his first El Clásico, we look at how other British stars got on in this storied fixture.",
+          "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734933_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T09:08:25Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50227950/barcelona-real-madrid-laliga-clasico-form-team-news-combined-xi-predictions-odds-all-head-head",
+          "title": "Barcelona-Real Madrid: Clásico form, team news, combined XI, predictions, odds",
+          "description": "Let's run through the head-to-head, form, team news, combined XI and key clashes ahead of the 265th edition of El Clásico between Barcelona and Real Madrid.",
+          "url": "https://www.espn.com/soccer/story/_/id/50227950/barcelona-real-madrid-laliga-clasico-form-team-news-combined-xi-predictions-odds-all-head-head",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/el-clasico-preview_16x9_1296x729.jpg",
+          "publishedUtc": "2026-10-23T07:34:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "title": "Who will win the Ballon d'Or? Messi, Yamal, Kane -- or someone else?",
+          "description": "There's no consensus pick for this year's Ballon d'Or -- but maybe there should be. Here's who actually deserves to win it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734824_1296x729_16-9.png",
+          "publishedUtc": "2026-10-23T07:09:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-23T08:57:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
           "title": "Before 'the special one', José Mourinho was 'the Barca one'",
           "description": "Before 'the special one', José Mourinho was 'the Barca one'",
@@ -11785,16 +11830,6 @@
           "transfer": true
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-20T10:21:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
           "title": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris",
           "description": "If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunch as an NFL franchise, this is it.",
@@ -11851,36 +11886,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50221374/getafe-vs-rayo-vallecano-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/9301127a-6044-4544-a349-ea087383841f/9301127a-6044-4544-a349-ea087383841f.jpg",
           "publishedUtc": "2026-10-19T21:05:07Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
-          "title": "Barcelona's Yamal vs. Real Madrid's Mbappé: Which Clásico star has stronger Ballon d'Or claim?",
-          "description": "In the tightest Ballon d'Or contest in years, top LaLiga players Lamine Yamal and Kylian Mbappé are among those vying to win soccer's top individual prize.",
-          "url": "https://www.espn.com/soccer/story/_/id/50117234/barcelona-lamine-yamal-real-madrid-kylian-mbappe-clasico-star-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1008/r1727750_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T14:14:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
-          "title": "José Mourinho doesn't understand 'obsession' with elbow from Madrid's Güler",
-          "description": "José Mourinho claimed he hadn't seen \"images\" of an elbow by Arda Güler -- which saw no intervention from the referee -- in Real Madrid's 4-1 win over Sevilla.",
-          "url": "https://www.espn.com/soccer/story/_/id/50213726/mourinho-obsession-elbow-madrid-guler",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732660_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T08:14:56Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50213693/real-madrid-played-identity-vs-sevilla",
-          "title": "Garcia: Real Madrid played with identity vs. Sevilla",
-          "description": "Garcia: Real Madrid played with identity vs. Sevilla",
-          "url": "https://www.espn.com/video/clip/_/id/50213693/real-madrid-played-identity-vs-sevilla",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Garcia3A_Real_Madrid_played_with_identity_vs_Sevilla_GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Garcia3A_Real_Madrid_played_with_identity_vs_Sevilla_GLOBAL_2026-10-18.jpg",
-          "publishedUtc": "2026-10-18T22:22:19Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12629,7 +12634,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.161Z",
+      "updatedUtc": "2026-10-23T13:17:26.350Z",
       "matches": [
         {
           "id": "401874760",
@@ -14617,6 +14622,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-23T08:57:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
           "title": "Who are Como? The vacation-destination club that just rocked Man United",
           "description": "Seven years ago, Como were a team of amateurs. Now they're a Champions League club with a brand born from the city's reputation as a holiday hotspot.",
@@ -14643,16 +14658,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50228936/cesc-fabregas-calls-suggestions-replace-michael-carrick-man-united-disrespectful",
           "imageUrl": "https://a.espncdn.com/photo/2026/0424/r1648504_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-20T18:49:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-20T10:21:15Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -15595,7 +15600,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.194Z",
+      "updatedUtc": "2026-10-23T13:17:26.525Z",
       "matches": [
         {
           "id": "401884786",
@@ -17617,6 +17622,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "title": "Who will win the Ballon d'Or? Messi, Yamal, Kane -- or someone else?",
+          "description": "There's no consensus pick for this year's Ballon d'Or -- but maybe there should be. Here's who actually deserves to win it.",
+          "url": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734824_1296x729_16-9.png",
+          "publishedUtc": "2026-10-23T07:09:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-23T08:57:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50229304/ballon-dor-industry-harry-kane-lamine-yamal-kylian-mbappe",
           "title": "What it takes to win a Ballon d'Or: Trophies, goals and playing the PR game",
           "description": "It's no longer enough to be the best on-field player in order to have a shot at the Ballon d'Or, soccer's top individual prize. You have to make your case in the media, too -- and it takes a lot of work.",
@@ -17643,16 +17668,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50229492/bayern-munich-vincent-kompany-arsenal-champions-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733466_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-20T17:35:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-20T10:21:15Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -17835,16 +17850,6 @@
           "publishedUtc": "2026-09-25T10:12:42Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50015083/is-cavan-sullivan-next-michael-olise-comparisons-united-states-top-young-stars",
-          "title": "Is Sullivan the next Olise? Comparisons for USMNT's top young stars",
-          "description": "With the USMNT welcoming a new class of debutantes during this international break, ESPN dives into the numbers of the United States' next prodigies.",
-          "url": "https://www.espn.com/soccer/story/_/id/50015083/is-cavan-sullivan-next-michael-olise-comparisons-united-states-top-young-stars",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0923/r1720961_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-24T07:32:36Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -18592,7 +18597,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.262Z",
+      "updatedUtc": "2026-10-23T13:17:26.496Z",
       "matches": [
         {
           "id": "401876451",
@@ -20624,22 +20629,22 @@
           "transfer": false
         },
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-23T07:22:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50235833/khvicha-kvaratskhelia-ruptured-acl-paris-saint-germain-confirm",
           "title": "PSG star Khvicha Kvaratskhelia ruptures ACL; Dembélé, Marquinhos out 'weeks'",
           "description": "Khvicha Kvaratskhelia ruptured his anterior cruciate ligament injury during Paris Saint-Germain's Champions League victory against Barcelona.",
           "url": "https://www.espn.com/soccer/story/_/id/50235833/khvicha-kvaratskhelia-ruptured-acl-paris-saint-germain-confirm",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733841_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-21T16:31:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-20T10:21:15Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -21588,7 +21593,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-23T07:18:55.332Z",
+      "updatedUtc": "2026-10-23T13:17:26.538Z",
       "matches": [
         {
           "id": "401861118",
@@ -25280,7 +25285,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T07:18:55.329Z",
+      "updatedUtc": "2026-10-23T13:17:26.586Z",
       "matches": [
         {
           "id": "761871",
@@ -27491,6 +27496,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
+          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
+          "publishedUtc": "2026-10-23T08:57:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50243891/st-louis-gk-burki-stretchered-collision-open-cup-final",
           "title": "St. Louis GK Bürki stretchered off after collision in Open Cup final",
           "description": "St. Louis goalkeeper Roman Bürki was taken to the hospital after taking a knock to the head during the U.S. Open Cup final against the Columbus Crew.",
@@ -27507,16 +27522,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50242822/st-louis-city-beats-columbus-open-cup-final",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734362_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-22T04:46:20Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-20T10:21:15Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -28494,7 +28499,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-23T07:18:55.273Z",
+      "updatedUtc": "2026-10-23T13:17:26.544Z",
       "matches": [
         {
           "id": "760415",
@@ -31873,6 +31878,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50256249/lionel-messi-argentina-2026-world-cup-final-spain",
+          "title": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\"",
+          "description": "Lionel Messi has accepted that Argentina's 2026 World Cup extra-time defeat to Spain was a part of his football journey.",
+          "url": "https://www.espn.com/soccer/story/_/id/50256249/lionel-messi-argentina-2026-world-cup-final-spain",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734936_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T10:17:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
           "title": "Asian football chief backs Gianni Infantino for another term as FIFA president",
           "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
@@ -32069,16 +32084,6 @@
           "url": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
           "imageUrl": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-06T11:59:21Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
-          "title": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-          "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
-          "url": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg",
-          "publishedUtc": "2026-10-04T22:20:03Z",
           "source": "ESPN",
           "transfer": false
         }
