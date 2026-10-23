@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-23T13:17:26.586Z",
+  "updatedUtc": "2026-10-23T18:13:27.785Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.299Z",
+      "updatedUtc": "2026-10-23T18:13:27.352Z",
       "matches": [
         {
           "id": "401915415",
@@ -2380,7 +2380,7 @@
           "description": "Champions League Matchday 3 has come and gone, and we have some Main Character energy coming from Harry Kane, Barcelona and Real Madrid ahead of El Clasico, while Liverpool should worry about Virgil van Dijk's form.",
           "url": "https://www.espn.com/soccer/story/_/id/50247677/champions-league-main-characters-harry-kane-virgil-van-dijk-barcelona-real-madrid",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734501_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T15:20:52Z",
+          "publishedUtc": "2026-10-23T11:47:58Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2879,7 +2879,7 @@
           },
           {
             "id": "270821",
-            "name": "Ronald Araújo",
+            "name": "Ronald Araujo",
             "team": {
               "id": "364",
               "name": "Liverpool",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.285Z",
+      "updatedUtc": "2026-10-23T18:13:27.637Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,104 +6640,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.332Z",
+      "updatedUtc": "2026-10-23T18:13:27.785Z",
       "matches": [
-        {
-          "id": "401878771",
-          "utc": "2026-10-17T11:30Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "368",
-            "name": "Everton",
-            "abbreviation": "EVE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-          },
-          "away": {
-            "id": "363",
-            "name": "Chelsea",
-            "abbreviation": "CHE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-          },
-          "venue": "Hill Dickinson Stadium, Liverpool",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879262",
-          "utc": "2026-10-17T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "337",
-            "name": "Brentford",
-            "abbreviation": "BRE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-          },
-          "away": {
-            "id": "364",
-            "name": "Liverpool",
-            "abbreviation": "LIV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
-          },
-          "venue": "Gtech Community Stadium, Brentford",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878770",
-          "utc": "2026-10-17T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "370",
-            "name": "Fulham",
-            "abbreviation": "FUL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
-          },
-          "away": {
-            "id": "306",
-            "name": "Hull",
-            "abbreviation": "HUL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
-          },
-          "venue": "Craven Cottage, London",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879259",
-          "utc": "2026-10-17T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "382",
-            "name": "Man City",
-            "abbreviation": "MNC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-          },
-          "away": {
-            "id": "373",
-            "name": "Ipswich",
-            "abbreviation": "IPS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
-          },
-          "venue": "Etihad Stadium, Manchester",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401879258",
           "utc": "2026-10-17T16:30Z",
@@ -8281,6 +8185,86 @@
           "venue": "Tottenham Hotspur Stadium, London",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401879206",
+          "utc": "2026-12-12T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "370",
+            "name": "Fulham",
+            "abbreviation": "FUL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
+          },
+          "away": {
+            "id": "337",
+            "name": "Brentford",
+            "abbreviation": "BRE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+          },
+          "venue": "Craven Cottage, London",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401878744",
+          "utc": "2026-12-12T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "373",
+            "name": "Ipswich",
+            "abbreviation": "IPS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+          },
+          "away": {
+            "id": "361",
+            "name": "Newcastle",
+            "abbreviation": "NEW",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
+          },
+          "venue": "Portman Road, Ipswich",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401878743",
+          "utc": "2026-12-12T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "364",
+            "name": "Liverpool",
+            "abbreviation": "LIV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+          },
+          "away": {
+            "id": "357",
+            "name": "Leeds",
+            "abbreviation": "LEE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+          },
+          "venue": "Anfield, Liverpool",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401878742",
+          "utc": "2026-12-12T17:30Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "382",
+            "name": "Man City",
+            "abbreviation": "MNC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+          },
+          "away": {
+            "id": "363",
+            "name": "Chelsea",
+            "abbreviation": "CHE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+          },
+          "venue": "Etihad Stadium, Manchester",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -8632,12 +8616,82 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-man-united-no-negotiations-advanced-stage",
-          "title": "Antonio Conte: 'No negotiations at advanced stage' amid Man United link",
+          "id": "https://www.espn.com/soccer/story/_/id/50258511/chelsea-xabi-alonso-thibaut-courtois-mike-penders",
+          "title": "Chelsea's Xabi Alonso: Thibaut Courtois sees himself in Mike Penders",
+          "description": "Xabi Alonso believes understudy goalkeeper Mike Penders is ready for an extended spell in Chelsea's team after consulting on the 21-year-old with Thibaut Courtois.",
+          "url": "https://www.espn.com/soccer/story/_/id/50258511/chelsea-xabi-alonso-thibaut-courtois-mike-penders",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735036_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T16:02:13Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50258389/arsenal-mikel-arteta-bukayo-saka-injury-not-good",
+          "title": "Arsenal's Mikel Arteta admits Bukayo Saka injury signs are 'not good'",
+          "description": "Mikel Arteta did not deny Bukayo Saka's injury could be significant after the winger's struggles appeared to indicate \"not good signs\" for his prognosis.",
+          "url": "https://www.espn.com/soccer/story/_/id/50258389/arsenal-mikel-arteta-bukayo-saka-injury-not-good",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735028_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T15:37:33Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50258264/man-united-boss-michael-carrick-gives-emotional-address-media",
+          "title": "Man United boss Michael Carrick gives emotional address to media",
+          "description": "Man United boss Michael Carrick gives emotional address to media",
+          "url": "https://www.espn.com/video/clip/_/id/50258264/man-united-boss-michael-carrick-gives-emotional-address-media",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_COM_SOC_PRESSER_Man_United_boss_Michael_Carrick_gives_emotional_address_to_media_2026_10_23/dm_261023_COM_SOC_PRESSER_Man_United_boss_Michael_Carrick_gives_emotional_address_to_media_2026_10_23.jpg",
+          "publishedUtc": "2026-10-23T15:12:26Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50258251/highest-earning-premier-league-clubs-pay-18m-towards-independent-regulator-cost",
+          "title": "Highest-earning Premier League clubs to pay up to £1.8m towards independent regulator cost",
+          "description": "The highest-earning Premier League clubs will pay up to £1.8million towards the cost of the independent football regulator (IFR) from next summer -- but could face paying much higher amounts in the years ahead.",
+          "url": "https://www.espn.com/soccer/story/_/id/50258251/highest-earning-premier-league-clubs-pay-18m-towards-independent-regulator-cost",
+          "imageUrl": "https://a.espncdn.com/photo/2025/1006/r1556489_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T15:14:52Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50257971/liverpool-andoni-iraola-urges-rio-ngumoha-not-distracted-noise",
+          "title": "Liverpool's Andoni Iraola urges Rio Ngumoha not to be distracted by 'outside noise'",
+          "description": "Liverpool boss Andoni Iraola has urged Rio Ngumoha not to be distracted by the outside noise following his impressive performance against Villarreal.",
+          "url": "https://www.espn.com/soccer/story/_/id/50257971/liverpool-andoni-iraola-urges-rio-ngumoha-not-distracted-noise",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T14:14:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50257430/carrick-refuses-rule-dropping-bruno-fernandes-man-united-clash-bournemouth",
+          "title": "Carrick refuses to rule out dropping Bruno Fernandes for Man United clash with Bournemouth",
+          "description": "Michael Carrick has refused to rule out dropping Bruno Fernandes for Bournemouth's visit to Old Trafford on Sunday after the Manchester United captain appeared to criticise his tactics following the defeat to Como.",
+          "url": "https://www.espn.com/soccer/story/_/id/50257430/carrick-refuses-rule-dropping-bruno-fernandes-man-united-clash-bournemouth",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734239_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T14:29:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50257324/michael-carrick-pressure-man-united-boss-backs-amid-tension",
+          "title": "Michael Carrick: Under-pressure Man United boss '100%' backs himself amid tension",
+          "description": "Manchester United head coach Michael Carrick started his news conference with a speech that lasted more than five minutes as he tried to rally his players ahead of the crucial Premier League clash against Bournemouth.",
+          "url": "https://www.espn.com/soccer/story/_/id/50257324/michael-carrick-pressure-man-united-boss-backs-amid-tension",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734977_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T13:35:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-fabian-hurzeler-knock-back-man-united-rumours",
+          "title": "Antonio Conte, Fabian Hürzeler distance themselves from Man United job",
           "description": "Antonio Conte has denied that he is in advanced talks over a new job amid speculation he could replace Michael Carrick at Manchester United.",
-          "url": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-man-united-no-negotiations-advanced-stage",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0128/r1606700_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T12:25:51Z",
+          "url": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-fabian-hurzeler-knock-back-man-united-rumours",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734982_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T13:34:24Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8798,76 +8852,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50247083/man-united-players-day-como-thrashing",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734431_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-22T16:01:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
-          "title": "Kyle Walker: 'No intention' of removing Man City tattoos after radio comments",
-          "description": "Kyle Walker has said he has \"never had any intention\" of removing his Manchester City tattoos, in the wake of comments the full-back made on Wednesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734413_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T16:07:10Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50235336/manchester-united-keen-palace-duo-sarr-mateta",
-          "title": "Transfer rumors, news: Arsenal eye move for Brugge's Tresoldi",
-          "description": "Arsenal are monitoring a possible move for Club Brugge striker Nicolò Tresoldi. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50235336/manchester-united-keen-palace-duo-sarr-mateta",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734201_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T21:55:09Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50241962/ruben-amorim-uninterested-contributing-man-united-discourse-say-ac-milan",
-          "title": "Ruben Amorim with 'nothing to say' about Man United on return to England",
-          "description": "Ruben Amorim insisted he had \"nothing to say\" about Manchester United ahead of AC Milan's Europa League clash at Bournemouth on Thursday night.",
-          "url": "https://www.espn.com/soccer/story/_/id/50241962/ruben-amorim-uninterested-contributing-man-united-discourse-say-ac-milan",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734196_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T23:50:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50216946/who-replace-michael-carrick-manchester-united-manager",
-          "title": "Who could replace Carrick after Man United's worst start since 1986?",
-          "description": "Manchester United have struggled this season, but which managers could step in to replace Michael Carrick if the club sacks him?",
-          "url": "https://www.espn.com/soccer/story/_/id/50216946/who-replace-michael-carrick-manchester-united-manager",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732822_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T19:00:56Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50238421/trevoh-chalobah-reveals-chelsea-regret-30-million-como-move",
-          "title": "Trevoh Chalobah reveals Chelsea regret after £30m Como move",
-          "description": "Trevoh Chalobah has revealed his regret at his Chelsea exit and admitted he wanted to be a \"legend\" at Stamford Bridge.",
-          "url": "https://www.espn.com/soccer/story/_/id/50238421/trevoh-chalobah-reveals-chelsea-regret-30-million-como-move",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0805/r1697843_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T15:29:16Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50238163/morgan-gibbs-white-fitness-injury-update-nottingham-forest-ipswich-premier-league",
-          "title": "Morgan Gibbs-White set to be fit for Nottingham Forest's clash with Ipswich",
-          "description": "Morgan Gibbs-White will be back in contention for Nottingham Forest's game at Ipswich on Friday evening.",
-          "url": "https://www.espn.com/soccer/story/_/id/50238163/morgan-gibbs-white-fitness-injury-update-nottingham-forest-ipswich-premier-league",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
-          "publishedUtc": "2026-10-21T15:05:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50237718/eli-junior-kroupi-bournemouth-injury-training-return-man-united-premier-league",
-          "title": "Eli Junior Kroupi returns to Bournemouth training, could face Man United",
-          "description": "Bournemouth have confirmed that Eli Junior Kroupi -- the club's top-scorer last season -- is back in training and could be in contention to face Manchester United on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50237718/eli-junior-kroupi-bournemouth-injury-training-return-man-united-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733905_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T14:12:36Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9618,7 +9602,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.459Z",
+      "updatedUtc": "2026-10-23T18:13:27.582Z",
       "matches": [
         {
           "id": "401882849",
@@ -12634,56 +12618,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.350Z",
+      "updatedUtc": "2026-10-23T18:13:27.572Z",
       "matches": [
-        {
-          "id": "401874760",
-          "utc": "2026-10-17T13:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "17530",
-            "name": "Venezia",
-            "abbreviation": "VEN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
-          },
-          "away": {
-            "id": "114",
-            "name": "Napoli",
-            "abbreviation": "NAP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-          },
-          "venue": "Stadio Pier Luigi Penzo, Venezia",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401874953",
-          "utc": "2026-10-17T16:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "107",
-            "name": "Bologna",
-            "abbreviation": "BOL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-          },
-          "away": {
-            "id": "110",
-            "name": "Inter Milan",
-            "abbreviation": "INT",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-          },
-          "venue": "Renato Dall'Ara, Bologna",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 3
-          },
-          "note": "FT"
-        },
         {
           "id": "401874935",
           "utc": "2026-10-17T18:45Z",
@@ -14271,6 +14207,46 @@
           "venue": "Stadio Friuli, Udine",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401874820",
+          "utc": "2026-12-12T14:00Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "2925",
+            "name": "Cagliari",
+            "abbreviation": "CAG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
+          },
+          "away": {
+            "id": "17530",
+            "name": "Venezia",
+            "abbreviation": "VEN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+          },
+          "venue": "Unipol Domus, Cagliari",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401874982",
+          "utc": "2026-12-12T17:00Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "113",
+            "name": "Lecce",
+            "abbreviation": "LEC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+          },
+          "away": {
+            "id": "3997",
+            "name": "Sassuolo",
+            "abbreviation": "SAS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
+          },
+          "venue": "Via Del Mare, Lecce",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14622,6 +14598,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50249819/yunus-musah-back-ac-milan-back-midfield-back-contention-usmnt",
+          "title": "Musah is back in Milan, back in midfield and back in contention for the USMNT",
+          "description": "Last year, on loan at Atalanta, Yunus Musah wasn't playing much, certainly not in his preferred midfield role. Now back at Milan, that's all changed.",
+          "url": "https://www.espn.com/soccer/story/_/id/50249819/yunus-musah-back-ac-milan-back-midfield-back-contention-usmnt",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734554_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T13:59:46Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
           "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
           "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
@@ -14840,16 +14826,6 @@
           "publishedUtc": "2026-09-26T10:36:01Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-          "title": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
-          "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
-          "url": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-25T10:12:42Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -15600,7 +15576,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.525Z",
+      "updatedUtc": "2026-10-23T18:13:27.646Z",
       "matches": [
         {
           "id": "401884786",
@@ -17622,6 +17598,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50258850/bayern-munich-coach-vincent-kompany-hospital-training",
+          "title": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
+          "description": "Bayern Munich coach Vincent Kompany is undergoing tests in hospital after collapsing during a training session Friday, the German club confirmed.",
+          "url": "https://www.espn.com/soccer/story/_/id/50258850/bayern-munich-coach-vincent-kompany-hospital-training",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735057_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T17:15:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50257787/borussia-dortmund-app-rewards-fans-lock-phones-stadium",
+          "title": "Dortmund's new app rewards fans who lock phones while at stadium",
+          "description": "Dortmund are offering signed jerseys and gift cards for club merchandise to fans who use an app which measures how often they unlock their phones.",
+          "url": "https://www.espn.com/soccer/story/_/id/50257787/borussia-dortmund-app-rewards-fans-lock-phones-stadium",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0224/r1619478_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T14:15:42Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
           "title": "Who will win the Ballon d'Or? Messi, Yamal, Kane -- or someone else?",
           "description": "There's no consensus pick for this year's Ballon d'Or -- but maybe there should be. Here's who actually deserves to win it.",
@@ -17830,26 +17826,6 @@
           "publishedUtc": "2026-09-26T10:36:01Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50028953/extremely-proud-win-ballon-dor",
-          "title": "Kane: I'd be extremely proud to win the Ballon d'Or",
-          "description": "Kane: I'd be extremely proud to win the Ballon d'Or",
-          "url": "https://www.espn.com/video/clip/_/id/50028953/extremely-proud-win-ballon-dor",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0925/dm_260925_Kane_Id_be_extremely_proud_to_win_the_Ballon_dOr/dm_260925_Kane_Id_be_extremely_proud_to_win_the_Ballon_dOr.jpg",
-          "publishedUtc": "2026-09-25T20:15:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-          "title": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
-          "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
-          "url": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-25T10:12:42Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -18597,7 +18573,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.496Z",
+      "updatedUtc": "2026-10-23T18:13:27.670Z",
       "matches": [
         {
           "id": "401876451",
@@ -19385,7 +19361,7 @@
         },
         {
           "id": "401876422",
-          "utc": "2026-10-25T19:45Z",
+          "utc": "2026-10-26T19:30Z",
           "phase": "2026 27 Ligue 1",
           "home": {
             "id": "160",
@@ -20634,7 +20610,7 @@
           "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
           "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
           "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-23T07:22:09Z",
+          "publishedUtc": "2026-10-23T08:57:06Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -21593,7 +21569,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-23T13:17:26.538Z",
+      "updatedUtc": "2026-10-23T18:13:27.627Z",
       "matches": [
         {
           "id": "401861118",
@@ -25285,7 +25261,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T13:17:26.586Z",
+      "updatedUtc": "2026-10-23T18:13:27.721Z",
       "matches": [
         {
           "id": "761871",
@@ -27496,6 +27472,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50259002/lionel-messi-inter-miami-red-bulls-princess-asturias-award",
+          "title": "Miami coach praises Messi's 'commitment' to play after award in Spain",
+          "description": "Inter Miami head coach Cristian \"Kily\" Gonzalez confirmed Lionel Messi will rejoin the team for the match against the New York Red Bulls on Saturday after receiving the Princess of Asturias award for sport in Oviedo, Spain.",
+          "url": "https://www.espn.com/soccer/story/_/id/50259002/lionel-messi-inter-miami-red-bulls-princess-asturias-award",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735071_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T17:33:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
           "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
           "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
@@ -27722,16 +27708,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50186105/inter-miami-cf-vs-new-york-city-fc-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1015/9eeef557-fe49-4344-861a-682623181f13/9eeef557-fe49-4344-861a-682623181f13.jpg",
           "publishedUtc": "2026-10-15T02:16:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50186101/toronto-fc-vs-orlando-city-sc-game-highlights",
-          "title": "Toronto FC vs. Orlando City SC - Game Highlights",
-          "description": "Watch the Game Highlights from Toronto FC vs. Orlando City SC, 10/14/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50186101/toronto-fc-vs-orlando-city-sc-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1015/23ecefc9-3cd9-4d67-838a-7b7cad71e166/23ecefc9-3cd9-4d67-838a-7b7cad71e166.jpg",
-          "publishedUtc": "2026-10-15T02:08:23Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28499,7 +28475,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-23T13:17:26.544Z",
+      "updatedUtc": "2026-10-23T18:13:27.643Z",
       "matches": [
         {
           "id": "760415",
@@ -31893,7 +31869,7 @@
           "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
           "url": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
           "imageUrl": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T05:13:45Z",
+          "publishedUtc": "2026-10-23T16:00:55Z",
           "source": "ESPN",
           "transfer": false
         },
