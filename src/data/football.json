@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-22T21:25:40.639Z",
+  "updatedUtc": "2026-10-23T00:30:50.860Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.371Z",
+      "updatedUtc": "2026-10-23T00:30:50.191Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.455Z",
+      "updatedUtc": "2026-10-23T00:30:50.310Z",
       "matches": [
         {
           "id": "401915560",
@@ -5659,6 +5659,16 @@
       ],
       "news": [
         {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401915552",
+          "title": "Bournemouth notch historic win over Milan after bizarre Maignan red",
+          "description": "Bournemouth scaled giddy new heights in their debut Europa League campaign as 10-man AC Milan were convincingly brushed aside 3-0 at the Vitality Stadium on Thursday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401915552",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734718_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-22T21:21:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401915553",
           "title": "Crystal Palace forced to settle for draw at 10-man Besiktas",
           "description": "Jean-Philippe Mateta scored on his first start since the opening day but Crystal Palace could not capitalise on a Besiktas red card to produce a winner in their 2-2 Europa League draw in Istanbul.",
@@ -5874,16 +5884,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401915586",
           "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717761_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-17T08:42:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
-          "title": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
-          "description": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
-          "url": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison.jpg",
-          "publishedUtc": "2026-09-16T13:03:36Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -6635,7 +6635,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.497Z",
+      "updatedUtc": "2026-10-23T00:30:50.387Z",
       "matches": [
         {
           "id": "401878771",
@@ -9613,7 +9613,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.595Z",
+      "updatedUtc": "2026-10-23T00:30:50.585Z",
       "matches": [
         {
           "id": "401882849",
@@ -12629,7 +12629,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.527Z",
+      "updatedUtc": "2026-10-23T00:30:50.370Z",
       "matches": [
         {
           "id": "401874760",
@@ -15595,7 +15595,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.438Z",
+      "updatedUtc": "2026-10-23T00:30:50.647Z",
       "matches": [
         {
           "id": "401884786",
@@ -18592,7 +18592,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.545Z",
+      "updatedUtc": "2026-10-23T00:30:50.554Z",
       "matches": [
         {
           "id": "401876451",
@@ -21588,7 +21588,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-22T21:25:40.390Z",
+      "updatedUtc": "2026-10-23T00:30:50.690Z",
       "matches": [
         {
           "id": "401861118",
@@ -25280,7 +25280,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-22T21:25:40.639Z",
+      "updatedUtc": "2026-10-23T00:30:50.860Z",
       "matches": [
         {
           "id": "761871",
@@ -28494,7 +28494,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-22T21:25:40.355Z",
+      "updatedUtc": "2026-10-23T00:30:50.747Z",
       "matches": [
         {
           "id": "760415",
