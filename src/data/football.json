@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-24T10:43:48.849Z",
+  "updatedUtc": "2026-10-24T15:45:54.517Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.340Z",
+      "updatedUtc": "2026-10-24T15:45:54.130Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,6 +2345,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50265094/bayern-munich-vincent-kompany-stable-away-weeks-collapsing",
+          "title": "Bayern Munich's Vincent Kompany 'stable,' but could be away for weeks after collapsing",
+          "description": "Bayern Munich coach Vincent Kompany will have more tests to determine why he collapsed during a training session the previous day, the club said Saturday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265094/bayern-munich-vincent-kompany-stable-away-weeks-collapsing",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713698_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T12:55:42Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50255867/bruno-fernandes-home-burgled-man-united-loss-como",
           "title": "Bruno Fernandes' home burgled during Man United loss against Como",
           "description": "Bruno Fernandes returned from Italy after losing to Como with Manchester United in the early hours of Thursday morning and had to deal with a robbery at his house.",
@@ -2571,16 +2581,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50242191/real-madrid-quality-top-was-too-much-rb-leipzig",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Robson3A_Real_MadridE28099s_quality_up_top_was_too_much_for_RB_Leipzig_GLOBAL_2026-10-2/dm_261021_COM_SOC_Analysis_Robson3A_Real_MadridE28099s_quality_up_top_was_too_much_for_RB_Leipzig_GLOBAL_2026-10-2.jpg",
           "publishedUtc": "2026-10-21T22:28:54Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50242182/fabregas-paz-dedicate-como-historic-manchester-united-fans",
-          "title": "Fàbregas, Paz dedicate historic Man United rout to loyal Como fans",
-          "description": "Como's Cesc Fàbregas and Nico Paz dedicated their historic Champions League victory over Manchester United to supporters who stayed loyal through years of hardship.",
-          "url": "https://www.espn.com/soccer/story/_/id/50242182/fabregas-paz-dedicate-como-historic-manchester-united-fans",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734216_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T22:50:24Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.480Z",
+      "updatedUtc": "2026-10-24T15:45:54.317Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,80 +6640,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.521Z",
+      "updatedUtc": "2026-10-24T15:45:54.201Z",
       "matches": [
-        {
-          "id": "401879258",
-          "utc": "2026-10-17T16:30Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "361",
-            "name": "Newcastle",
-            "abbreviation": "NEW",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
-          },
-          "away": {
-            "id": "362",
-            "name": "Aston Villa",
-            "abbreviation": "AVL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-          },
-          "venue": "St. James' Park, Newcastle-upon-Tyne",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879263",
-          "utc": "2026-10-18T13:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "349",
-            "name": "Bournemouth",
-            "abbreviation": "BOU",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
-          },
-          "away": {
-            "id": "366",
-            "name": "Sunderland",
-            "abbreviation": "SUN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-          },
-          "venue": "Vitality Stadium, Bournemouth",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879261",
-          "utc": "2026-10-18T13:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "331",
-            "name": "Brighton",
-            "abbreviation": "BHA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
-          },
-          "away": {
-            "id": "384",
-            "name": "C Palace",
-            "abbreviation": "CRY",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-          },
-          "venue": "American Express Stadium, Falmer",
-          "status": "finished",
-          "score": {
-            "home": 5,
-            "away": 0
-          },
-          "note": "FT"
-        },
         {
           "id": "401879260",
           "utc": "2026-10-18T13:00Z",
@@ -6827,8 +6755,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
           },
           "venue": "Villa Park, Birmingham",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401878768",
@@ -6847,8 +6779,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
           },
           "venue": "Emirates Stadium, London",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "note": "88'"
         },
         {
           "id": "401879255",
@@ -6867,8 +6803,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
           },
           "venue": "Coventry Building Society Arena, Coventry",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "note": "87'"
         },
         {
           "id": "401878767",
@@ -8269,6 +8209,66 @@
           "venue": "Etihad Stadium, Manchester",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401878746",
+          "utc": "2026-12-13T14:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "359",
+            "name": "Arsenal",
+            "abbreviation": "ARS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+          },
+          "away": {
+            "id": "349",
+            "name": "Bournemouth",
+            "abbreviation": "BOU",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+          },
+          "venue": "Emirates Stadium, London",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401878745",
+          "utc": "2026-12-13T14:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "331",
+            "name": "Brighton",
+            "abbreviation": "BHA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+          },
+          "away": {
+            "id": "368",
+            "name": "Everton",
+            "abbreviation": "EVE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+          },
+          "venue": "American Express Stadium, Falmer",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401878741",
+          "utc": "2026-12-13T14:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "366",
+            "name": "Sunderland",
+            "abbreviation": "SUN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+          },
+          "away": {
+            "id": "393",
+            "name": "Nottm Forest",
+            "abbreviation": "NFO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+          },
+          "venue": "Stadium of Light, Sunderland",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -8283,13 +8283,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
               },
               "rank": 1,
-              "played": 7,
+              "played": 8,
               "won": 7,
               "drawn": 0,
-              "lost": 0,
-              "gf": 19,
-              "ga": 7,
-              "gd": 12,
+              "lost": 1,
+              "gf": 20,
+              "ga": 9,
+              "gd": 11,
               "points": 21
             },
             {
@@ -8362,12 +8362,29 @@
             },
             {
               "team": {
+                "id": "362",
+                "name": "Aston Villa",
+                "abbreviation": "AVL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+              },
+              "rank": 6,
+              "played": 8,
+              "won": 3,
+              "drawn": 2,
+              "lost": 3,
+              "gf": 9,
+              "ga": 12,
+              "gd": -3,
+              "points": 11
+            },
+            {
+              "team": {
                 "id": "337",
                 "name": "Brentford",
                 "abbreviation": "BRE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
               },
-              "rank": 6,
+              "rank": 7,
               "played": 7,
               "won": 2,
               "drawn": 4,
@@ -8384,7 +8401,7 @@
                 "abbreviation": "LEE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
               },
-              "rank": 7,
+              "rank": 8,
               "played": 7,
               "won": 2,
               "drawn": 4,
@@ -8401,7 +8418,7 @@
                 "abbreviation": "EVE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
               },
-              "rank": 8,
+              "rank": 9,
               "played": 7,
               "won": 2,
               "drawn": 4,
@@ -8418,7 +8435,7 @@
                 "abbreviation": "IPS",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
               },
-              "rank": 9,
+              "rank": 10,
               "played": 8,
               "won": 3,
               "drawn": 1,
@@ -8435,7 +8452,7 @@
                 "abbreviation": "HUL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
               },
-              "rank": 10,
+              "rank": 11,
               "played": 7,
               "won": 2,
               "drawn": 3,
@@ -8452,30 +8469,13 @@
                 "abbreviation": "NEW",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
               },
-              "rank": 11,
+              "rank": 12,
               "played": 7,
               "won": 2,
               "drawn": 2,
               "lost": 3,
               "gf": 10,
               "ga": 14,
-              "gd": -4,
-              "points": 8
-            },
-            {
-              "team": {
-                "id": "362",
-                "name": "Aston Villa",
-                "abbreviation": "AVL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-              },
-              "rank": 12,
-              "played": 7,
-              "won": 2,
-              "drawn": 2,
-              "lost": 3,
-              "gf": 7,
-              "ga": 11,
               "gd": -4,
               "points": 8
             },
@@ -8619,6 +8619,66 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50220422/premier-league-live-updates-aston-villa-manchester-city-arsenal-everton-chelsea-tottenham-hotspur",
+          "title": "Premier League live updates: Arsenal face Everton after City lose to Villa",
+          "description": "Manchester City suffered their first loss of the season to Aston Villa, with Arsenal looking to take advantage against Everton on another busy weekend of European soccer.",
+          "url": "https://www.espn.com/soccer/story/_/id/50220422/premier-league-live-updates-aston-villa-manchester-city-arsenal-everton-chelsea-tottenham-hotspur",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735412_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T15:29:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50265810/how-teams-stop-erling-haaland",
+          "title": "How can teams stop Erling Haaland?",
+          "description": "How can teams stop Erling Haaland?",
+          "url": "https://www.espn.com/video/clip/_/id/50265810/how-teams-stop-erling-haaland",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_How_can_teams_stop_Erling_Haaland/dm_261024_How_can_teams_stop_Erling_Haaland.jpg",
+          "publishedUtc": "2026-10-24T14:27:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
+          "title": "Man City lose 100% Premier League record with defeat at Aston Villa",
+          "description": "Manchester City suffered defeat for the first time in the Premier League this season when Nicolas Jackson's double earned Aston Villa a 2-1 victory at Villa Park.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735386_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T14:47:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401879256",
+          "title": "Man City beaten by double from Aston Villa's Jackson",
+          "description": "Nicolas Jackson scored twice to lead Aston Villa to a 2-1 win over Manchester City.\n",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401879256",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735387_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T13:54:23Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50265207/michael-carrick-man-united-injury-updates-rashford-mainoo-martinez",
+          "title": "Michael Carrick provides Man United injury updates, demands mental preparation",
+          "description": "Under-fire Michael Carrick says his players must be mentally prepared to move on if misfiring Manchester United are to end their winless run against Bournemouth.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265207/michael-carrick-man-united-injury-updates-rashford-mainoo-martinez",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732389_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T12:47:17Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50264204/transfer-rumors-news-chelsea-bayern-barcelona-battle-brighton-defender",
+          "title": "Transfer rumors, news: Chelsea, Bayern, Barcelona battle for Brighton defender",
+          "description": "Chelsea, Bayern Munich and Barcelona are targeting Brighton & Hove Albion defender Luka Vuskovic. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50264204/transfer-rumors-news-chelsea-bayern-barcelona-battle-brighton-defender",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735361_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T11:06:27Z",
+          "source": "ESPN",
+          "transfer": true
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
           "title": "Nottingham Forest rue 'wrong' red card call, missed chances in Ipswich draw",
@@ -8798,66 +8858,6 @@
           "publishedUtc": "2026-10-22T21:32:25Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-          "title": "Transfer rumors, news: Arsenal want £55M in any Gyökeres deal",
-          "description": "Arsenal has set their valuation for Viktor Gyökeres' transfer fee if the striker does depart in the next year. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734700_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T20:14:17Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
-          "title": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
-          "description": "Wayne Rooney has lambasted Manchester United's squad for acting like \"babies\" and urged Bruno Fernandes and Lisandro Martínez to look in the mirror.",
-          "url": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734078_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T19:32:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50250570/erling-haaland-man-city-aston-villa-injuries-premier-league",
-          "title": "Erling Haaland set to return with Man City 'hungry' to continue perfect start",
-          "description": "Manchester City coach Enzo Maresca said Erling Haaland is available for Saturday's trip to Aston Villa, while three other players remain doubtful.",
-          "url": "https://www.espn.com/soccer/story/_/id/50250570/erling-haaland-man-city-aston-villa-injuries-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734595_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T17:48:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
-          "title": "Who's to blame for Man United mess: Carrick, the players ... Ratcliffe?",
-          "description": "The bitter truth about United is that their prolonged and deep-rooted decline can be attributed to much more than their manager. Who deserves the most blame, and why?",
-          "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734576_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T09:08:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
-          "title": "Michael Carrick set to lead Man United vs. Bournemouth amid pressure - sources",
-          "description": "Michael Carrick is set to be in charge of Manchester United against Bournemouth this weekend, sources have told ESPN, as he battles to keep his job at Old Trafford.",
-          "url": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T15:57:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50247830/bruno-guimaraes-sleepless-nights-arsenal-move",
-          "title": "Bruno Guimarães: I had sleepless nights over Arsenal move",
-          "description": "Bruno Guimarães has admitted he had sleepless nights over his decision to leave Newcastle United for Arsenal.",
-          "url": "https://www.espn.com/soccer/story/_/id/50247830/bruno-guimaraes-sleepless-nights-arsenal-move",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734469_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T14:01:23Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9606,7 +9606,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.697Z",
+      "updatedUtc": "2026-10-24T15:45:54.517Z",
       "matches": [
         {
           "id": "401882849",
@@ -10129,8 +10129,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
           },
           "venue": "Estadio de Vallecas, Madrid",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "note": "FT"
         },
         {
           "id": "401882831",
@@ -10149,8 +10153,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
           },
           "venue": "El Sardineros, Santander",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "note": "72'"
         },
         {
           "id": "401882827",
@@ -11486,12 +11494,29 @@
             },
             {
               "team": {
+                "id": "3751",
+                "name": "Elche",
+                "abbreviation": "ELC",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+              },
+              "rank": 12,
+              "played": 10,
+              "won": 2,
+              "drawn": 4,
+              "lost": 4,
+              "gf": 14,
+              "ga": 17,
+              "gd": -3,
+              "points": 10
+            },
+            {
+              "team": {
                 "id": "102",
                 "name": "Villarreal",
                 "abbreviation": "VIL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
               },
-              "rank": 12,
+              "rank": 13,
               "played": 9,
               "won": 2,
               "drawn": 3,
@@ -11508,7 +11533,7 @@
                 "abbreviation": "ATH",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
               },
-              "rank": 13,
+              "rank": 14,
               "played": 8,
               "won": 2,
               "drawn": 3,
@@ -11516,23 +11541,6 @@
               "gf": 8,
               "ga": 9,
               "gd": -1,
-              "points": 9
-            },
-            {
-              "team": {
-                "id": "101",
-                "name": "Rayo",
-                "abbreviation": "RAY",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-              },
-              "rank": 14,
-              "played": 8,
-              "won": 2,
-              "drawn": 3,
-              "lost": 3,
-              "gf": 12,
-              "ga": 17,
-              "gd": -5,
               "points": 9
             },
             {
@@ -11554,12 +11562,29 @@
             },
             {
               "team": {
+                "id": "101",
+                "name": "Rayo",
+                "abbreviation": "RAY",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+              },
+              "rank": 16,
+              "played": 9,
+              "won": 2,
+              "drawn": 3,
+              "lost": 4,
+              "gf": 12,
+              "ga": 20,
+              "gd": -8,
+              "points": 9
+            },
+            {
+              "team": {
                 "id": "88",
                 "name": "Espanyol",
                 "abbreviation": "ESP",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
               },
-              "rank": 16,
+              "rank": 17,
               "played": 9,
               "won": 2,
               "drawn": 2,
@@ -11576,7 +11601,7 @@
                 "abbreviation": "RAC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
               },
-              "rank": 17,
+              "rank": 18,
               "played": 9,
               "won": 2,
               "drawn": 2,
@@ -11585,23 +11610,6 @@
               "ga": 25,
               "gd": -12,
               "points": 8
-            },
-            {
-              "team": {
-                "id": "3751",
-                "name": "Elche",
-                "abbreviation": "ELC",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
-              },
-              "rank": 18,
-              "played": 9,
-              "won": 1,
-              "drawn": 4,
-              "lost": 4,
-              "gf": 11,
-              "ga": 17,
-              "gd": -6,
-              "points": 7
             },
             {
               "team": {
@@ -11641,6 +11649,66 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50265950/real-madrid-win-trophies-me",
+          "title": "Mourinho: Real Madrid win trophies with me",
+          "description": "Mourinho: Real Madrid win trophies with me",
+          "url": "https://www.espn.com/video/clip/_/id/50265950/real-madrid-win-trophies-me",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_Mourinho_Real_Madrid_win_trophies_with_me/dm_261024_Mourinho_Real_Madrid_win_trophies_with_me.jpg",
+          "publishedUtc": "2026-10-24T14:52:52Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50265693/rayo-vallecano-vs-elche-game-highlights",
+          "title": "Rayo Vallecano vs. Elche - Game Highlights",
+          "description": "Watch the Game Highlights from Rayo Vallecano vs. Elche, 10/24/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50265693/rayo-vallecano-vs-elche-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/30635c7d-fdee-4ef8-a159-755b30a4db48/30635c7d-fdee-4ef8-a159-755b30a4db48.jpg",
+          "publishedUtc": "2026-10-24T14:08:17Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
+          "title": "Anthony Gordon delivers rating out of 10 for his start at Barcelona",
+          "description": "Barcelona and England forward Anthony Gordon has told ESPN he is still a long way from where he wants to be as he prepares for Sunday's Clásico against Real Madrid.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735376_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T12:34:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
+          "title": "As Anthony Gordon prepares for El Clásico debut, how have other British stars fared?",
+          "description": "As Anthony Gordon prepares for his first El Clásico, we look at how other British stars got on in this storied fixture.",
+          "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734933_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T12:20:52Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50265100/barcelona-real-madrid-kylian-mbappe-el-clasico",
+          "title": "Barcelona outline plan to stop Real Madrid's Kylian Mbappé in El Clásico",
+          "description": "Barcelona coach Hansi Flick says his team's positioning and work off the ball is the key to stopping Real Madrid forward Kylian Mbappé in Sunday's Clásico.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265100/barcelona-real-madrid-kylian-mbappe-el-clasico",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0501/r1651868_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T12:10:04Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50264660/jose-mourinho-backs-ahead-el-clasico-vs-barcelona-madrid-mourinho-wins-trophies",
+          "title": "José Mourinho backs himself ahead of El Clasico vs. Barcelona: 'Madrid with Mourinho wins trophies'",
+          "description": "José Mourinho backed himself to deliver at Real Madrid ahead of Sunday's high-stakes El Clásico with LaLiga leaders Barcelona, insisting that \"Madrid with Mourinho wins trophies.\"",
+          "url": "https://www.espn.com/soccer/story/_/id/50264660/jose-mourinho-backs-ahead-el-clasico-vs-barcelona-madrid-mourinho-wins-trophies",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0521/r1661518_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T12:09:52Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/video/clip/_/id/50261693/el-clasico-served-get-taste-laliga-showdown",
           "title": "El Clásico is served! Get a taste of the LaLiga showdown",
@@ -11712,22 +11780,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
-          "title": "As Anthony Gordon prepares for El Clásico debut, how have other British stars fared?",
-          "description": "As Anthony Gordon prepares for his first El Clásico, we look at how other British stars got on in this storied fixture.",
-          "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734933_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T09:08:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50227950/barcelona-real-madrid-laliga-clasico-form-team-news-combined-xi-predictions-odds-all-head-head",
           "title": "Barcelona-Real Madrid: Clásico form, team news, combined XI, predictions, odds",
           "description": "Let's run through the head-to-head, form, team news, combined XI and key clashes ahead of the 265th edition of El Clásico between Barcelona and Real Madrid.",
           "url": "https://www.espn.com/soccer/story/_/id/50227950/barcelona-real-madrid-laliga-clasico-form-team-news-combined-xi-predictions-odds-all-head-head",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/el-clasico-preview_16x9_1296x729.jpg",
-          "publishedUtc": "2026-10-23T07:34:32Z",
+          "publishedUtc": "2026-10-24T08:57:20Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11787,7 +11845,7 @@
           "description": "Thirteen years after helping turn soccer's biggest rivalry into must-see chaos, Real Madrid coach José Mourinho returns to face Barcelona in El Clásico with something to prove",
           "url": "https://www.espn.com/soccer/story/_/id/50245408/jose-mourinho-el-clasico-unmissable-real-madrid-barcelona-guardiola-messi-ronaldo",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734418_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T14:12:50Z",
+          "publishedUtc": "2026-10-24T10:22:24Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11828,56 +11886,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50237026/barcelona-dani-olmo-adductor-injury-one-month-out",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733877_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-21T17:28:24Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50236704/rodri-rested-el-clasico",
-          "title": "Flick: Rodri is rested for El Clasico",
-          "description": "Flick: Rodri is rested for El Clasico",
-          "url": "https://www.espn.com/video/clip/_/id/50236704/rodri-rested-el-clasico",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_Flick_Rodri_is_rested_for_El_Clasico/dm_261021_Flick_Rodri_is_rested_for_El_Clasico.jpg",
-          "publishedUtc": "2026-10-21T12:02:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50236214/sevilla-lodge-complaint-real-madrid-defeat-laliga",
-          "title": "Sevilla lodge official complaint to LaLiga over Real Madrid defeat",
-          "description": "Sevilla have lodged a formal complaint to LaLiga following Sunday's controversial 4-1 league defeat at Real Madrid.",
-          "url": "https://www.espn.com/soccer/story/_/id/50236214/sevilla-lodge-complaint-real-madrid-defeat-laliga",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733849_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T10:55:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50236143/diego-simeone-stresses-julian-alvarez-importance-atletico-goal",
-          "title": "Diego Simeone stresses Julián Álvarez importance to Atlético after goal",
-          "description": "Atlético Madrid coach Diego Simeone celebrated Julián Álvarez's return to scoring and stressed the Argentinian forward's importance in his club's ambitions this season.",
-          "url": "https://www.espn.com/soccer/story/_/id/50236143/diego-simeone-stresses-julian-alvarez-importance-atletico-goal",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733847_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T11:08:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
-          "title": "How Raphinha's latest transformation made him into Barcelona's star striker",
-          "description": "Before Raphinha became Barcelona's captain and converted into their main striker, he was Premier League battling relegation at Leeds United. It was the making of him.",
-          "url": "https://www.espn.com/soccer/story/_/id/50196710/raphinha-latest-transformation-barcelona-star-striker-premier-league-leeds-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/soc_raphinha_illustration_1296x729.png",
-          "publishedUtc": "2026-10-22T14:14:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
-          "title": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
-          "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1020/r1733682_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T08:37:19Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12626,56 +12634,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.592Z",
+      "updatedUtc": "2026-10-24T15:45:54.435Z",
       "matches": [
-        {
-          "id": "401874771",
-          "utc": "2026-10-18T10:30Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "118",
-            "name": "Udinese",
-            "abbreviation": "UDI",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-          },
-          "away": {
-            "id": "113",
-            "name": "Lecce",
-            "abbreviation": "LEC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
-          },
-          "venue": "Stadio Friuli, Udine",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 3
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401874774",
-          "utc": "2026-10-18T13:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "109",
-            "name": "Fiorentina",
-            "abbreviation": "FIO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-          },
-          "away": {
-            "id": "2572",
-            "name": "Como",
-            "abbreviation": "COMO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-          },
-          "venue": "Stadio Artemio Franchi, Firenze",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 3
-          },
-          "note": "FT"
-        },
         {
           "id": "401874978",
           "utc": "2026-10-18T16:00Z",
@@ -12813,8 +12773,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
           },
           "venue": "Unipol Domus, Cagliari",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401874961",
@@ -12833,8 +12797,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
           },
           "venue": "Giuseppe Sinigaglia, Como",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401874948",
@@ -14255,6 +14223,46 @@
           "venue": "Giuseppe Sinigaglia, Como",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401875007",
+          "utc": "2026-12-13T11:30Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "112",
+            "name": "Lazio",
+            "abbreviation": "LAZ",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+          },
+          "away": {
+            "id": "104",
+            "name": "AS Roma",
+            "abbreviation": "ROMA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+          },
+          "venue": "Olimpico, Roma",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401874766",
+          "utc": "2026-12-13T14:00Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "110",
+            "name": "Inter Milan",
+            "abbreviation": "INT",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+          },
+          "away": {
+            "id": "239",
+            "name": "Torino",
+            "abbreviation": "TOR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
+          },
+          "venue": "San Siro, Milano",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14314,12 +14322,29 @@
             },
             {
               "team": {
+                "id": "2572",
+                "name": "Como",
+                "abbreviation": "COMO",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+              },
+              "rank": 4,
+              "played": 8,
+              "won": 5,
+              "drawn": 2,
+              "lost": 1,
+              "gf": 14,
+              "ga": 7,
+              "gd": 7,
+              "points": 17
+            },
+            {
+              "team": {
                 "id": "103",
                 "name": "Milan",
                 "abbreviation": "MIL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
               },
-              "rank": 4,
+              "rank": 5,
               "played": 7,
               "won": 4,
               "drawn": 3,
@@ -14328,23 +14353,6 @@
               "ga": 7,
               "gd": 7,
               "points": 15
-            },
-            {
-              "team": {
-                "id": "2572",
-                "name": "Como",
-                "abbreviation": "COMO",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-              },
-              "rank": 5,
-              "played": 7,
-              "won": 4,
-              "drawn": 2,
-              "lost": 1,
-              "gf": 12,
-              "ga": 7,
-              "gd": 5,
-              "points": 14
             },
             {
               "team": {
@@ -14365,29 +14373,12 @@
             },
             {
               "team": {
-                "id": "2925",
-                "name": "Cagliari",
-                "abbreviation": "CAG",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
-              },
-              "rank": 7,
-              "played": 7,
-              "won": 4,
-              "drawn": 1,
-              "lost": 2,
-              "gf": 6,
-              "ga": 7,
-              "gd": -1,
-              "points": 13
-            },
-            {
-              "team": {
                 "id": "239",
                 "name": "Torino",
                 "abbreviation": "TOR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
               },
-              "rank": 8,
+              "rank": 7,
               "played": 8,
               "won": 4,
               "drawn": 1,
@@ -14395,6 +14386,23 @@
               "gf": 13,
               "ga": 11,
               "gd": 2,
+              "points": 13
+            },
+            {
+              "team": {
+                "id": "2925",
+                "name": "Cagliari",
+                "abbreviation": "CAG",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
+              },
+              "rank": 8,
+              "played": 8,
+              "won": 4,
+              "drawn": 1,
+              "lost": 3,
+              "gf": 6,
+              "ga": 9,
+              "gd": -3,
               "points": 13
             },
             {
@@ -14467,19 +14475,36 @@
             },
             {
               "team": {
+                "id": "107",
+                "name": "Bologna",
+                "abbreviation": "BOL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+              },
+              "rank": 13,
+              "played": 8,
+              "won": 2,
+              "drawn": 2,
+              "lost": 4,
+              "gf": 8,
+              "ga": 10,
+              "gd": -2,
+              "points": 8
+            },
+            {
+              "team": {
                 "id": "3997",
                 "name": "Sassuolo",
                 "abbreviation": "SAS",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
               },
-              "rank": 13,
-              "played": 7,
+              "rank": 14,
+              "played": 8,
               "won": 2,
               "drawn": 2,
-              "lost": 3,
+              "lost": 4,
               "gf": 12,
-              "ga": 14,
-              "gd": -2,
+              "ga": 16,
+              "gd": -4,
               "points": 8
             },
             {
@@ -14489,7 +14514,7 @@
                 "abbreviation": "MON",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 8,
               "won": 2,
               "drawn": 1,
@@ -14498,23 +14523,6 @@
               "ga": 18,
               "gd": -3,
               "points": 7
-            },
-            {
-              "team": {
-                "id": "107",
-                "name": "Bologna",
-                "abbreviation": "BOL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-              },
-              "rank": 15,
-              "played": 7,
-              "won": 1,
-              "drawn": 2,
-              "lost": 4,
-              "gf": 6,
-              "ga": 10,
-              "gd": -4,
-              "points": 5
             },
             {
               "team": {
@@ -14605,6 +14613,16 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50265302/curtis-jones-serie-slow-inter-liverpool",
+          "title": "Curtis Jones: Serie A too slow? Inter arrival explains Liverpool similarity",
+          "description": "Inter Milan midfielder Curtis Jones insists Serie A is no different to the Premier League when it comes to playing for the top clubs.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265302/curtis-jones-serie-slow-inter-liverpool",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735381_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T13:00:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50259678/ac-milan-mike-maignan-red-card-racist-abuse-bournemouth",
           "title": "AC Milan condemn racist abuse of Mike Maignan after red card vs. Bournemouth",
@@ -14822,16 +14840,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
           "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-29T07:38:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50043464/parma-carlos-cuesta-coach-arsenal-assistant-serie-a",
-          "title": "Parma part ways with ex-Arsenal assistant Carlos Cuesta",
-          "description": "Parma parted ways with coach Carlos Cuesta on Sunday after winning only one of their opening five Serie A matches.",
-          "url": "https://www.espn.com/soccer/story/_/id/50043464/parma-carlos-cuesta-coach-arsenal-assistant-serie-a",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0927/r1722502_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-27T18:01:25Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15584,7 +15592,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.542Z",
+      "updatedUtc": "2026-10-24T15:45:54.289Z",
       "matches": [
         {
           "id": "401884775",
@@ -16035,8 +16043,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
           },
           "venue": "WWK Arena, Augsburg",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401884756",
@@ -16055,8 +16067,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
           },
           "venue": "RheinEnergieStadion, Cologne",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401884757",
@@ -16075,8 +16091,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
           },
           "venue": "MEWA ARENA, Mainz",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "note": "FT"
         },
         {
           "id": "401884762",
@@ -16095,8 +16115,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png"
           },
           "venue": "Red Bull Arena, Leipzig",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401884755",
@@ -16115,8 +16139,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
           },
           "venue": "Home Deluxe Arena, Paderborn",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401884763",
@@ -17333,19 +17361,53 @@
             },
             {
               "team": {
+                "id": "11420",
+                "name": "RB Leipzig",
+                "abbreviation": "RBL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+              },
+              "rank": 5,
+              "played": 7,
+              "won": 4,
+              "drawn": 0,
+              "lost": 3,
+              "gf": 20,
+              "ga": 11,
+              "gd": 9,
+              "points": 12
+            },
+            {
+              "team": {
+                "id": "137",
+                "name": "Bremen",
+                "abbreviation": "SVW",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+              },
+              "rank": 6,
+              "played": 7,
+              "won": 3,
+              "drawn": 3,
+              "lost": 1,
+              "gf": 15,
+              "ga": 14,
+              "gd": 1,
+              "points": 12
+            },
+            {
+              "team": {
                 "id": "2950",
                 "name": "Mainz",
                 "abbreviation": "M05",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
               },
-              "rank": 5,
-              "played": 6,
+              "rank": 7,
+              "played": 7,
               "won": 3,
               "drawn": 1,
-              "lost": 2,
-              "gf": 14,
-              "ga": 10,
-              "gd": 4,
+              "lost": 3,
+              "gf": 16,
+              "ga": 13,
+              "gd": 3,
               "points": 10
             },
             {
@@ -17355,48 +17417,31 @@
                 "abbreviation": "ELV",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png"
               },
-              "rank": 6,
-              "played": 6,
+              "rank": 8,
+              "played": 7,
               "won": 3,
               "drawn": 1,
-              "lost": 2,
+              "lost": 3,
               "gf": 12,
-              "ga": 11,
-              "gd": 1,
+              "ga": 15,
+              "gd": -3,
               "points": 10
             },
             {
               "team": {
-                "id": "11420",
-                "name": "RB Leipzig",
-                "abbreviation": "RBL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+                "id": "3841",
+                "name": "Augsburg",
+                "abbreviation": "FCA",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
               },
-              "rank": 7,
-              "played": 6,
-              "won": 3,
-              "drawn": 0,
-              "lost": 3,
-              "gf": 16,
-              "ga": 11,
-              "gd": 5,
-              "points": 9
-            },
-            {
-              "team": {
-                "id": "137",
-                "name": "Bremen",
-                "abbreviation": "SVW",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
-              },
-              "rank": 8,
-              "played": 6,
+              "rank": 9,
+              "played": 7,
               "won": 2,
               "drawn": 3,
-              "lost": 1,
-              "gf": 12,
-              "ga": 12,
-              "gd": 0,
+              "lost": 2,
+              "gf": 17,
+              "ga": 13,
+              "gd": 4,
               "points": 9
             },
             {
@@ -17406,31 +17451,48 @@
                 "abbreviation": "HSV",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
               },
-              "rank": 9,
-              "played": 6,
+              "rank": 10,
+              "played": 7,
               "won": 3,
               "drawn": 0,
-              "lost": 3,
+              "lost": 4,
               "gf": 6,
-              "ga": 15,
-              "gd": -9,
+              "ga": 16,
+              "gd": -10,
               "points": 9
             },
             {
               "team": {
-                "id": "3841",
-                "name": "Augsburg",
-                "abbreviation": "FCA",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
+                "id": "122",
+                "name": "Cologne",
+                "abbreviation": "KOE",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
               },
-              "rank": 10,
-              "played": 6,
+              "rank": 11,
+              "played": 7,
               "won": 2,
               "drawn": 2,
-              "lost": 2,
-              "gf": 16,
-              "ga": 12,
-              "gd": 4,
+              "lost": 3,
+              "gf": 8,
+              "ga": 11,
+              "gd": -3,
+              "points": 8
+            },
+            {
+              "team": {
+                "id": "3307",
+                "name": "Paderborn",
+                "abbreviation": "SCP",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"
+              },
+              "rank": 12,
+              "played": 7,
+              "won": 2,
+              "drawn": 2,
+              "lost": 3,
+              "gf": 6,
+              "ga": 9,
+              "gd": -3,
               "points": 8
             },
             {
@@ -17440,7 +17502,7 @@
                 "abbreviation": "SGE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
               },
-              "rank": 11,
+              "rank": 13,
               "played": 6,
               "won": 2,
               "drawn": 2,
@@ -17452,29 +17514,12 @@
             },
             {
               "team": {
-                "id": "122",
-                "name": "Cologne",
-                "abbreviation": "KOE",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
-              },
-              "rank": 12,
-              "played": 6,
-              "won": 2,
-              "drawn": 1,
-              "lost": 3,
-              "gf": 8,
-              "ga": 11,
-              "gd": -3,
-              "points": 7
-            },
-            {
-              "team": {
                 "id": "7911",
                 "name": "Hoffenheim",
                 "abbreviation": "TSG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
               },
-              "rank": 13,
+              "rank": 14,
               "played": 6,
               "won": 2,
               "drawn": 0,
@@ -17491,7 +17536,7 @@
                 "abbreviation": "VFB",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 7,
               "won": 2,
               "drawn": 0,
@@ -17508,32 +17553,15 @@
                 "abbreviation": "S04",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
               },
-              "rank": 15,
-              "played": 6,
+              "rank": 16,
+              "played": 7,
               "won": 1,
-              "drawn": 2,
+              "drawn": 3,
               "lost": 3,
               "gf": 4,
               "ga": 7,
               "gd": -3,
-              "points": 5
-            },
-            {
-              "team": {
-                "id": "3307",
-                "name": "Paderborn",
-                "abbreviation": "SCP",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"
-              },
-              "rank": 16,
-              "played": 6,
-              "won": 1,
-              "drawn": 2,
-              "lost": 3,
-              "gf": 5,
-              "ga": 9,
-              "gd": -4,
-              "points": 5
+              "points": 6
             },
             {
               "team": {
@@ -17543,14 +17571,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
               },
               "rank": 17,
-              "played": 6,
+              "played": 7,
               "won": 1,
-              "drawn": 2,
+              "drawn": 3,
               "lost": 3,
-              "gf": 5,
-              "ga": 17,
+              "gf": 6,
+              "ga": 18,
               "gd": -12,
-              "points": 5
+              "points": 6
             },
             {
               "team": {
@@ -17573,6 +17601,16 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50265094/bayern-munich-vincent-kompany-stable-away-weeks-collapsing",
+          "title": "Bayern Munich's Vincent Kompany 'stable,' but could be away for weeks after collapsing",
+          "description": "Bayern Munich coach Vincent Kompany will have more tests to determine why he collapsed during a training session the previous day, the club said Saturday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265094/bayern-munich-vincent-kompany-stable-away-weeks-collapsing",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713698_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T14:25:00Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
           "title": "USMNT's Scally scores, helps Gladbach avoid worst-ever Bundesliga start",
@@ -17792,16 +17830,6 @@
           "publishedUtc": "2026-09-29T07:38:13Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50050442/transfer-rumors-news-real-madrid-barcelona-look-haaland-sullivan-amid-man-city-uncertainty",
-          "title": "Transfer rumors, news: Arsenal, Tottenham eye move for Maza",
-          "description": "Both Arsenal and Tottenham Hotspur are competing to sign Bayer Leverkusen's Ibrahim Maza. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50050442/transfer-rumors-news-real-madrid-barcelona-look-haaland-sullivan-amid-man-city-uncertainty",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0928/r1723140_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-28T20:26:54Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -18550,32 +18578,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.732Z",
+      "updatedUtc": "2026-10-24T15:45:54.406Z",
       "matches": [
-        {
-          "id": "401876449",
-          "utc": "2026-09-20T18:45Z",
-          "phase": "2026 27 Ligue 1",
-          "home": {
-            "id": "176",
-            "name": "Marseille",
-            "abbreviation": "OLM",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-          },
-          "away": {
-            "id": "160",
-            "name": "PSG",
-            "abbreviation": "PSG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-          },
-          "venue": "Stade Vélodrome, Marseille",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401876447",
           "utc": "2026-10-09T18:45Z",
@@ -20231,6 +20235,26 @@
           "venue": "Roazhon Park, Rennes",
           "status": "upcoming",
           "note": "TBD"
+        },
+        {
+          "id": "401876372",
+          "utc": "2026-12-13T14:00Z",
+          "phase": "2026 27 Ligue 1",
+          "home": {
+            "id": "273",
+            "name": "Lorient",
+            "abbreviation": "LOR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+          },
+          "away": {
+            "id": "166",
+            "name": "Lille",
+            "abbreviation": "LILL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+          },
+          "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -21522,7 +21546,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-24T10:43:48.557Z",
+      "updatedUtc": "2026-10-24T15:45:54.301Z",
       "matches": [
         {
           "id": "401861118",
@@ -24229,6 +24253,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50265810/how-teams-stop-erling-haaland",
+          "title": "How can teams stop Erling Haaland?",
+          "description": "How can teams stop Erling Haaland?",
+          "url": "https://www.espn.com/video/clip/_/id/50265810/how-teams-stop-erling-haaland",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_How_can_teams_stop_Erling_Haaland/dm_261024_How_can_teams_stop_Erling_Haaland.jpg",
+          "publishedUtc": "2026-10-24T14:27:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50226129/mourinho-created-narrative-world-real-madrid",
           "title": "Gomez: Mourinho has created narrative that 'the world is against' Real Madrid",
           "description": "Gomez: Mourinho has created narrative that 'the world is against' Real Madrid",
@@ -24454,16 +24488,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50119334/harry-kane-england-czechia-nationsl-league-goals-record",
           "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726974_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-07T16:15:56Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50119774/harry-kane-eyeing-record-equalling-england-cap-record-peter-shilton-cristiano-ronaldo",
-          "title": "Harry Kane eyeing 100th England goal after equalling all-time cap record",
-          "description": "Harry Kane said he has further records to break and feels he hasn't yet hit his ceiling after he became England's joint most-capped men's player.",
-          "url": "https://www.espn.com/soccer/story/_/id/50119774/harry-kane-eyeing-record-equalling-england-cap-record-peter-shilton-cristiano-ronaldo",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727008_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T22:45:02Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25214,7 +25238,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T10:43:48.849Z",
+      "updatedUtc": "2026-10-24T15:45:54.270Z",
       "matches": [
         {
           "id": "761871",
@@ -28428,7 +28452,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-24T10:43:48.753Z",
+      "updatedUtc": "2026-10-24T15:45:54.279Z",
       "matches": [
         {
           "id": "760415",
