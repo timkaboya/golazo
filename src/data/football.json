@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-23T23:00:27.073Z",
+  "updatedUtc": "2026-10-24T04:15:23.215Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:26.782Z",
+      "updatedUtc": "2026-10-24T04:15:22.985Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:26.752Z",
+      "updatedUtc": "2026-10-24T04:15:22.900Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:26.962Z",
+      "updatedUtc": "2026-10-24T04:15:23.066Z",
       "matches": [
         {
           "id": "401879258",
@@ -8620,6 +8620,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
+          "title": "Nottingham Forest rue 'wrong' red card call, missed chances in Ipswich draw",
+          "description": "Nottingham Forest lamented the referee's decision not to reduce Ipswich Town to 10 men in the second half, as well a number of missed chances in front of goal, after a 1-1 draw at Portman Road.",
+          "url": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735247_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T23:13:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50261206/roberto-de-zerbi-spurs-medical-staff-injury-crisis",
+          "title": "Roberto De Zerbi defends Spurs' 'high level' medical staff amid injury crisis",
+          "description": "Roberto De Zerbi has defended Tottenham's medical staff despite an ongoing injury crisis.",
+          "url": "https://www.espn.com/soccer/story/_/id/50261206/roberto-de-zerbi-spurs-medical-staff-injury-crisis",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735237_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T22:50:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401879253",
           "title": "Ipswich earn draw with Forest as Delap misfires on return",
           "description": "Liam Delap fired a blank on his return to Ipswich with Nottingham Forest forced to settle for a 1-1 draw despite a dominant display at Portman Road.",
@@ -8838,26 +8858,6 @@
           "publishedUtc": "2026-10-22T14:01:23Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
-          "title": "Enzo Maresca: 'It's my duty' to help Phil Foden rediscover best Man City form",
-          "description": "Manchester City boss Enzo Maresca feels a duty to help Phil Foden return to his best.",
-          "url": "https://www.espn.com/soccer/story/_/id/50248040/enzo-maresca-phil-foden-rediscover-best-man-city-form",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734473_1215x683_16-9.jpg",
-          "publishedUtc": "2026-10-22T12:43:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
-          "title": "Who is to blame at Manchester United?",
-          "description": "Who is to blame at Manchester United?",
-          "url": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Who_is_to_blame_at_Manchester_United/dm_261022_Who_is_to_blame_at_Manchester_United.jpg",
-          "publishedUtc": "2026-10-22T10:28:31Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -9606,7 +9606,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:27.012Z",
+      "updatedUtc": "2026-10-24T04:15:23.158Z",
       "matches": [
         {
           "id": "401882849",
@@ -11642,12 +11642,12 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/video/clip/_/id/50260778/el-clasico-served-get-taste-laliga-showdown",
+          "id": "https://www.espn.com/video/clip/_/id/50261693/el-clasico-served-get-taste-laliga-showdown",
           "title": "El Clásico is served! Get a taste of the LaLiga showdown",
           "description": "El Clásico is served! Get a taste of the LaLiga showdown",
-          "url": "https://www.espn.com/video/clip/_/id/50260778/el-clasico-served-get-taste-laliga-showdown",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_elclasico/dm_261023_elclasico.jpg",
-          "publishedUtc": "2026-10-23T21:49:01Z",
+          "url": "https://www.espn.com/video/clip/_/id/50261693/el-clasico-served-get-taste-laliga-showdown",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_201605091_3707432/ss_20261023_201605091_3707432.jpg",
+          "publishedUtc": "2026-10-24T00:19:46Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12626,7 +12626,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:26.901Z",
+      "updatedUtc": "2026-10-24T04:15:23.121Z",
       "matches": [
         {
           "id": "401874771",
@@ -15584,7 +15584,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:26.931Z",
+      "updatedUtc": "2026-10-24T04:15:23.024Z",
       "matches": [
         {
           "id": "401884775",
@@ -17574,6 +17574,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
+          "title": "USMNT's Scally scores, helps Gladbach avoid worst-ever Bundesliga start",
+          "description": "Borussia Mönchengladbach avoided becoming the first team in Bundesliga history to lose seven straight games to start the season, thanks to a 3-2 win at Stuttgart on Friday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735236_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-23T22:47:13Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50258850/bayern-munich-coach-vincent-kompany-hospital-training",
           "title": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
           "description": "Bayern Munich coach Vincent Kompany is undergoing tests in hospital after collapsing during a training session Friday, the German club confirmed.",
@@ -17792,16 +17802,6 @@
           "publishedUtc": "2026-09-28T20:26:54Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
-          "title": "Barcelona's start to season is best in Europe's top 5 leagues for almost 100 years",
-          "description": "Barcelona have begun the season on fire, scoring 36 goals in their first eight matches. How does that compare to the best starts for all time? (Spoiler: Very well.)",
-          "url": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721963_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-26T10:36:01Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -18549,7 +18549,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:26.846Z",
+      "updatedUtc": "2026-10-24T04:15:23.085Z",
       "matches": [
         {
           "id": "401876449",
@@ -21521,7 +21521,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-23T23:00:26.802Z",
+      "updatedUtc": "2026-10-24T04:15:22.963Z",
       "matches": [
         {
           "id": "401861118",
@@ -25213,7 +25213,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-23T23:00:27.073Z",
+      "updatedUtc": "2026-10-24T04:15:23.215Z",
       "matches": [
         {
           "id": "761871",
@@ -28427,7 +28427,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-23T23:00:26.717Z",
+      "updatedUtc": "2026-10-24T04:15:22.930Z",
       "matches": [
         {
           "id": "760415",
