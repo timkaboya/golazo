@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-24T22:23:26.719Z",
+  "updatedUtc": "2026-10-25T04:18:34.655Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.395Z",
+      "updatedUtc": "2026-10-25T04:18:34.375Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.477Z",
+      "updatedUtc": "2026-10-25T04:18:34.400Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.557Z",
+      "updatedUtc": "2026-10-25T04:18:34.550Z",
       "matches": [
         {
           "id": "401879257",
@@ -8616,6 +8616,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50272717/man-city-beaten-jackson-double-aston-villa",
+          "title": "Man City beaten by Jackson's double for Aston Villa",
+          "description": "Nicolas Jackson nets both goals for Aston Villa to end Manchester City's perfect start to the Premier League season with a 2-1 win at Villa Park.",
+          "url": "https://www.espn.com/video/clip/_/id/50272717/man-city-beaten-jackson-double-aston-villa",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_EPL_Highlight_Man_City_beaten_by_Jacksons_double_for_Aston_Villa_20261025_AUS_ONLY/dm_261024_EPL_Highlight_Man_City_beaten_by_Jacksons_double_for_Aston_Villa_20261025_AUS_ONLY.jpg",
+          "publishedUtc": "2026-10-25T01:57:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50272702/spurs-claim-2nd-ever-premier-league-win-chelsea",
+          "title": "Spurs claim 2nd-ever Premier League win at Chelsea",
+          "description": "A spectacular goal by Mathys Tel seals a 2-0 Spurs victory as Tottenham end their Stamford Bridge hoodoo with their second-ever win at Chelsea in the EPL era.",
+          "url": "https://www.espn.com/video/clip/_/id/50272702/spurs-claim-2nd-ever-premier-league-win-chelsea",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_EPL_Highlight_Spurs_claim_2ndever_Premier_League_win_at_Chelsea_20261025_AUS_ONLY/dm_261024_EPL_Highlight_Spurs_claim_2ndever_Premier_League_win_at_Chelsea_20261025_AUS_ONLY.jpg",
+          "publishedUtc": "2026-10-25T01:57:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50267263/michael-carrick-man-united-different-team-bournemouth",
           "title": "Michael Carrick vows Man United will be 'different team' against Bournemouth",
           "description": "Michael Carrick has promised Manchester United fans they will see \"a different team\" against Bournemouth after the humiliating loss to Como.",
@@ -8834,26 +8854,6 @@
           "publishedUtc": "2026-10-24T11:06:27Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
-          "title": "Nottingham Forest rue 'wrong' red card call, missed chances in Ipswich draw",
-          "description": "Nottingham Forest lamented the referee's decision not to reduce Ipswich Town to 10 men in the second half, as well a number of missed chances in front of goal, after a 1-1 draw at Portman Road.",
-          "url": "https://www.espn.com/soccer/story/_/id/50261284/nottingham-forest-ipswich-town-red-card-issa-diop",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735247_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T23:13:21Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50261206/roberto-de-zerbi-spurs-medical-staff-injury-crisis",
-          "title": "Roberto De Zerbi defends Spurs' 'high level' medical staff amid injury crisis",
-          "description": "Roberto De Zerbi has defended Tottenham's medical staff despite an ongoing injury crisis.",
-          "url": "https://www.espn.com/soccer/story/_/id/50261206/roberto-de-zerbi-spurs-medical-staff-injury-crisis",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735237_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T22:50:36Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -9602,7 +9602,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.665Z",
+      "updatedUtc": "2026-10-25T04:18:34.601Z",
       "matches": [
         {
           "id": "401882843",
@@ -11614,12 +11614,52 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50272689/alex-freeman-adding-banner-2026-goal",
+          "title": "Alex Freeman adding to banner 2026 with goal",
+          "description": "See why Alex Freeman is adding to his stellar year with another sensational goal.",
+          "url": "https://www.espn.com/video/clip/_/id/50272689/alex-freeman-adding-banner-2026-goal",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_USMNT_FREEMAN/dm_261024_USMNT_FREEMAN.jpg",
+          "publishedUtc": "2026-10-25T01:54:18Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50271519/barcelona-making-final-preparations-real-madrid",
+          "title": "Barcelona making final preparations for Real Madrid",
+          "description": "Check out what Barcelona is doing in the final hours before they take on Real Madrid in El Clasico.",
+          "url": "https://www.espn.com/video/clip/_/id/50271519/barcelona-making-final-preparations-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_BarcelonaClasico/dm_261024_BarcelonaClasico.jpg",
+          "publishedUtc": "2026-10-25T00:08:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50270296/julian-alvarez-atletico-madrid-sorry-barcelona-transfer",
+          "title": "Julián Álvarez apologizes to Atlético Madrid fans over bid to join Barcelona",
+          "description": "Julián Álvarez apologized to Atlético Madrid fans for attempting to force a departure from the club in the summer after ending his LaLiga goal drought.",
+          "url": "https://www.espn.com/soccer/story/_/id/50270296/julian-alvarez-atletico-madrid-sorry-barcelona-transfer",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735625_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T22:46:20Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50270579/barcelona-too-much-firepower-real-madrid",
+          "title": "McManaman: Barcelona will have too much firepower for Real Madrid",
+          "description": "McManaman: Barcelona will have too much firepower for Real Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50270579/barcelona-too-much-firepower-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_COM_SOC_Analysis_McManaman_Barcelona_will_have_too_much_firepower_for_Real_Madrid_20261024_GLOB/dm_261024_COM_SOC_Analysis_McManaman_Barcelona_will_have_too_much_firepower_for_Real_Madrid_20261024_GLOB.jpg",
+          "publishedUtc": "2026-10-24T22:25:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401882834",
           "title": "Álvarez's 1st LaLiga home goal in 11 months sees Atlético  close gap to Barça ",
           "description": "Julián Álvarez scored his first LaLiga goal in eight months as Atlético Madrid beat Deportivo 1-0 to climb to within two points of leaders Barcelona.",
           "url": "http://www.espn.com/soccer/report/_/gameId/401882834",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735625_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-24T21:31:59Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735665_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T22:38:40Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11810,46 +11850,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
           "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734824_1296x729_16-9.png",
           "publishedUtc": "2026-10-23T07:09:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-23T08:57:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
-          "title": "Before 'the special one', José Mourinho was 'the Barca one'",
-          "description": "Before 'the special one', José Mourinho was 'the Barca one'",
-          "url": "https://www.espn.com/video/clip/_/id/50252737/before-special-one-jose-mourinho-was-barca-one",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_When_the_special_one_was_the_Barca_one/dm_261022_When_the_special_one_was_the_Barca_one.jpg",
-          "publishedUtc": "2026-10-22T22:17:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50252567/should-real-madrid-frustrate-barcelona-fouls-el-clasico",
-          "title": "Should Real Madrid frustrate Barcelona with fouls in El Clásico?",
-          "description": "Should Real Madrid frustrate Barcelona with fouls in El Clásico?",
-          "url": "https://www.espn.com/video/clip/_/id/50252567/should-real-madrid-frustrate-barcelona-fouls-el-clasico",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Should_Real_Madrid_frustrate_Barcelona_with_fouls_in_El_Clasico/dm_261022_Should_Real_Madrid_frustrate_Barcelona_with_fouls_in_El_Clasico.jpg",
-          "publishedUtc": "2026-10-22T21:48:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
-          "title": "José Mourinho complains Real Madrid have 24 hours less rest than Barcelona ahead of El Clásico",
-          "description": "Real Madrid coach José Mourinho was keen to point out after his side's win over Leipzig that his team will have 24 hours less rest than Sunday's rivals Barcelona heading into the Clásico.",
-          "url": "https://www.espn.com/soccer/story/_/id/50247061/jose-mourinho-real-madrid-barcelona-el-clasico-less-rest",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734427_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T10:31:36Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12598,7 +12598,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.438Z",
+      "updatedUtc": "2026-10-25T04:18:34.521Z",
       "matches": [
         {
           "id": "401874762",
@@ -15556,7 +15556,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.619Z",
+      "updatedUtc": "2026-10-25T04:18:34.476Z",
       "matches": [
         {
           "id": "401884775",
@@ -18546,7 +18546,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.500Z",
+      "updatedUtc": "2026-10-25T04:18:34.452Z",
       "matches": [
         {
           "id": "401876446",
@@ -21514,7 +21514,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-24T22:23:26.584Z",
+      "updatedUtc": "2026-10-25T04:18:34.346Z",
       "matches": [
         {
           "id": "401861118",
@@ -25206,7 +25206,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-24T22:23:26.719Z",
+      "updatedUtc": "2026-10-25T04:18:34.655Z",
       "matches": [
         {
           "id": "761871",
@@ -25777,12 +25777,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
           },
           "venue": "Sports Illustrated Stadium, Harrison, New Jersey",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
+            "home": 2,
             "away": 0
           },
-          "note": "43'"
+          "note": "FT"
         },
         {
           "id": "761893",
@@ -25801,8 +25801,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
           },
           "venue": "Mercedes-Benz Stadium, Atlanta, Georgia",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "note": "FT"
         },
         {
           "id": "761895",
@@ -25821,8 +25825,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
           },
           "venue": "Audi Field, Washington, District of Columbia",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "761892",
@@ -25841,8 +25849,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
           },
           "venue": "Inter&Co Stadium, Orlando, Florida",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "761894",
@@ -25861,8 +25873,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
           },
           "venue": "Subaru Park, Chester, Pennsylvania",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "761900",
@@ -25881,8 +25897,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png"
           },
           "venue": "Toyota Stadium, Toyota Stadium",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "761896",
@@ -25901,8 +25921,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png"
           },
           "venue": "Shell Energy Stadium, Houston, Texas",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "761899",
@@ -25921,8 +25945,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png"
           },
           "venue": "Sporting Park, Kansas City, Kansas",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "761897",
@@ -25941,8 +25969,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
           },
           "venue": "Dick's Sporting Goods Park, Commerce City, Colorado",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "761898",
@@ -25961,8 +25993,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
           },
           "venue": "America First Field, Sandy, Utah",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "761902",
@@ -25981,8 +26017,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
           },
           "venue": "Providence Park, Portland, Oregon",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "note": "77'"
         },
         {
           "id": "761901",
@@ -26001,8 +26041,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png"
           },
           "venue": "Snapdragon Stadium, San Diego, California",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "81'"
         },
         {
           "id": "761904",
@@ -26917,14 +26961,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
               },
               "rank": 4,
-              "played": 30,
-              "won": 14,
+              "played": 31,
+              "won": 15,
               "drawn": 6,
               "lost": 10,
-              "gf": 52,
-              "ga": 44,
-              "gd": 8,
-              "points": 48
+              "gf": 55,
+              "ga": 46,
+              "gd": 9,
+              "points": 51
             },
             {
               "team": {
@@ -26933,7 +26977,7 @@
                 "abbreviation": "CLB",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
               },
-              "rank": 9,
+              "rank": 10,
               "played": 31,
               "won": 11,
               "drawn": 5,
@@ -26950,15 +26994,15 @@
                 "abbreviation": "NE",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
               },
-              "rank": 3,
-              "played": 30,
-              "won": 16,
+              "rank": 2,
+              "played": 31,
+              "won": 17,
               "drawn": 4,
               "lost": 10,
-              "gf": 49,
-              "ga": 41,
-              "gd": 8,
-              "points": 52
+              "gf": 51,
+              "ga": 42,
+              "gd": 9,
+              "points": 55
             },
             {
               "team": {
@@ -26967,15 +27011,15 @@
                 "abbreviation": "RBNY",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
               },
-              "rank": 10,
-              "played": 30,
-              "won": 10,
+              "rank": 9,
+              "played": 31,
+              "won": 11,
               "drawn": 6,
               "lost": 14,
-              "gf": 39,
+              "gf": 41,
               "ga": 56,
-              "gd": -17,
-              "points": 36
+              "gd": -15,
+              "points": 39
             },
             {
               "team": {
@@ -26985,13 +27029,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png"
               },
               "rank": 13,
-              "played": 30,
+              "played": 31,
               "won": 7,
               "drawn": 12,
-              "lost": 11,
+              "lost": 12,
               "gf": 38,
-              "ga": 53,
-              "gd": -15,
+              "ga": 55,
+              "gd": -17,
               "points": 33
             },
             {
@@ -27036,13 +27080,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
               },
               "rank": 6,
-              "played": 30,
+              "played": 31,
               "won": 13,
               "drawn": 7,
-              "lost": 10,
-              "gf": 61,
-              "ga": 48,
-              "gd": 13,
+              "lost": 11,
+              "gf": 62,
+              "ga": 50,
+              "gd": 12,
               "points": 46
             },
             {
@@ -27053,14 +27097,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png"
               },
               "rank": 7,
-              "played": 30,
+              "played": 31,
               "won": 12,
-              "drawn": 5,
+              "drawn": 6,
               "lost": 13,
-              "gf": 58,
-              "ga": 70,
+              "gf": 60,
+              "ga": 72,
               "gd": -12,
-              "points": 41
+              "points": 42
             },
             {
               "team": {
@@ -27070,14 +27114,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
               },
               "rank": 12,
-              "played": 30,
+              "played": 31,
               "won": 8,
-              "drawn": 10,
+              "drawn": 11,
               "lost": 12,
-              "gf": 43,
-              "ga": 41,
+              "gf": 45,
+              "ga": 43,
               "gd": 2,
-              "points": 34
+              "points": 35
             },
             {
               "team": {
@@ -27087,14 +27131,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
               },
               "rank": 8,
-              "played": 30,
-              "won": 10,
+              "played": 31,
+              "won": 11,
               "drawn": 9,
               "lost": 11,
-              "gf": 62,
+              "gf": 64,
               "ga": 71,
-              "gd": -9,
-              "points": 39
+              "gd": -7,
+              "points": 42
             },
             {
               "team": {
@@ -27104,13 +27148,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"
               },
               "rank": 14,
-              "played": 30,
+              "played": 31,
               "won": 8,
               "drawn": 6,
-              "lost": 16,
-              "gf": 37,
-              "ga": 51,
-              "gd": -14,
+              "lost": 17,
+              "gf": 39,
+              "ga": 54,
+              "gd": -15,
               "points": 30
             },
             {
@@ -27137,14 +27181,14 @@
                 "abbreviation": "MIA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
               },
-              "rank": 2,
-              "played": 30,
+              "rank": 3,
+              "played": 31,
               "won": 15,
               "drawn": 10,
-              "lost": 5,
+              "lost": 6,
               "gf": 73,
-              "ga": 51,
-              "gd": 22,
+              "ga": 53,
+              "gd": 20,
               "points": 55
             },
             {
@@ -27176,15 +27220,15 @@
                 "abbreviation": "COL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
               },
-              "rank": 9,
-              "played": 30,
-              "won": 11,
+              "rank": 7,
+              "played": 31,
+              "won": 12,
               "drawn": 6,
               "lost": 13,
-              "gf": 41,
+              "gf": 42,
               "ga": 41,
-              "gd": 0,
-              "points": 39
+              "gd": 1,
+              "points": 42
             },
             {
               "team": {
@@ -27193,15 +27237,15 @@
                 "abbreviation": "DAL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
               },
-              "rank": 3,
-              "played": 30,
-              "won": 14,
+              "rank": 2,
+              "played": 31,
+              "won": 15,
               "drawn": 9,
               "lost": 7,
-              "gf": 55,
+              "gf": 58,
               "ga": 47,
-              "gd": 8,
-              "points": 51
+              "gd": 11,
+              "points": 54
             },
             {
               "team": {
@@ -27211,13 +27255,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png"
               },
               "rank": 15,
-              "played": 30,
+              "played": 31,
               "won": 6,
               "drawn": 4,
-              "lost": 20,
-              "gf": 36,
-              "ga": 75,
-              "gd": -39,
+              "lost": 21,
+              "gf": 37,
+              "ga": 77,
+              "gd": -40,
               "points": 22
             },
             {
@@ -27227,7 +27271,7 @@
                 "abbreviation": "LA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
               },
-              "rank": 8,
+              "rank": 9,
               "played": 31,
               "won": 10,
               "drawn": 10,
@@ -27245,13 +27289,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png"
               },
               "rank": 4,
-              "played": 30,
+              "played": 31,
               "won": 13,
               "drawn": 9,
-              "lost": 8,
+              "lost": 9,
               "gf": 52,
-              "ga": 42,
-              "gd": 10,
+              "ga": 45,
+              "gd": 7,
               "points": 48
             },
             {
@@ -27262,14 +27306,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
               },
               "rank": 10,
-              "played": 30,
-              "won": 10,
+              "played": 31,
+              "won": 11,
               "drawn": 6,
               "lost": 14,
-              "gf": 45,
+              "gf": 48,
               "ga": 48,
-              "gd": -3,
-              "points": 36
+              "gd": 0,
+              "points": 39
             },
             {
               "team": {
@@ -27279,14 +27323,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"
               },
               "rank": 5,
-              "played": 30,
+              "played": 31,
               "won": 13,
-              "drawn": 8,
+              "drawn": 9,
               "lost": 9,
               "gf": 41,
               "ga": 39,
               "gd": 2,
-              "points": 47
+              "points": 48
             },
             {
               "team": {
@@ -27295,7 +27339,7 @@
                 "abbreviation": "POR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
               },
-              "rank": 11,
+              "rank": 12,
               "played": 30,
               "won": 9,
               "drawn": 7,
@@ -27312,7 +27356,7 @@
                 "abbreviation": "SEA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png"
               },
-              "rank": 7,
+              "rank": 8,
               "played": 30,
               "won": 11,
               "drawn": 9,
@@ -27330,13 +27374,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
               },
               "rank": 1,
-              "played": 30,
+              "played": 31,
               "won": 16,
               "drawn": 7,
-              "lost": 7,
+              "lost": 8,
               "gf": 63,
-              "ga": 31,
-              "gd": 32,
+              "ga": 32,
+              "gd": 31,
               "points": 55
             },
             {
@@ -27346,15 +27390,15 @@
                 "abbreviation": "MIN",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png"
               },
-              "rank": 13,
-              "played": 30,
+              "rank": 11,
+              "played": 31,
               "won": 8,
-              "drawn": 10,
+              "drawn": 11,
               "lost": 12,
               "gf": 47,
               "ga": 55,
               "gd": -8,
-              "points": 34
+              "points": 35
             },
             {
               "team": {
@@ -27381,14 +27425,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png"
               },
               "rank": 14,
-              "played": 30,
-              "won": 7,
+              "played": 31,
+              "won": 8,
               "drawn": 10,
               "lost": 13,
-              "gf": 38,
-              "ga": 56,
-              "gd": -18,
-              "points": 31
+              "gf": 40,
+              "ga": 57,
+              "gd": -17,
+              "points": 34
             },
             {
               "team": {
@@ -27397,14 +27441,14 @@
                 "abbreviation": "STL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
               },
-              "rank": 2,
-              "played": 30,
+              "rank": 3,
+              "played": 31,
               "won": 14,
               "drawn": 9,
-              "lost": 7,
+              "lost": 8,
               "gf": 56,
-              "ga": 41,
-              "gd": 15,
+              "ga": 44,
+              "gd": 12,
               "points": 51
             },
             {
@@ -27414,7 +27458,7 @@
                 "abbreviation": "SD",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png"
               },
-              "rank": 12,
+              "rank": 13,
               "played": 30,
               "won": 8,
               "drawn": 10,
@@ -27429,12 +27473,42 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50260337/nashville-sc-1st-mls-supporters-shield-title",
-          "title": "Nashville SC wins 1st MLS Supporters' Shield title, eyes points record",
-          "description": "Nashville SC clinched the 2026 MLS Supporters' Shield title after a 2-0 victory at CF Montréal on Saturday, winning the trophy for the first time in club history.",
-          "url": "https://www.espn.com/soccer/story/_/id/50260337/nashville-sc-1st-mls-supporters-shield-title",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735553_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-24T21:05:29Z",
+          "id": "http://www.espn.com/soccer/report/_/gameId/761895",
+          "title": "Evander stunner helps Cincinnati beat D.C. United",
+          "description": "Evander had a goal and an assist, Tom Barlow also scored and Cincinnati beat D.C. United 2-0 on Saturday night.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/761895",
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761895.png?templateId=espn.applewatch.awayhome.1",
+          "publishedUtc": "2026-10-25T02:01:58Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/761891",
+          "title": "Forsberg caps Red Bulls win over Inter Miami",
+          "description": "Emil Forsberg scored an insurance goal early in second-half stoppage time and the New York Red Bulls beat Inter Miami 2-0 on Saturday to stay above the playoff line.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/761891",
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761891.png?templateId=espn.applewatch.awayhome.1",
+          "publishedUtc": "2026-10-25T00:15:14Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50271291/lionel-messi-red-bull-new-york-vs-inter-miami-casemiro",
+          "title": "Lionel Messi comes off bench as Casemiro own goal sees Red Bulls beat Miami",
+          "description": "Lionel Messi came off the bench early in the second half but couldn't prevent Inter Miami's three-game win streak coming to an end with a 2-0 loss at Red Bull New York on Saturday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50271291/lionel-messi-red-bull-new-york-vs-inter-miami-casemiro",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735701_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T00:31:37Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50271403/new-york-red-bulls-vs-inter-miami-cf-game-highlights",
+          "title": "New York Red Bulls vs. Inter Miami CF - Game Highlights",
+          "description": "Watch the Game Highlights from New York Red Bulls vs. Inter Miami CF, 10/24/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50271403/new-york-red-bulls-vs-inter-miami-cf-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/a0d7db68-61f1-407a-813b-6d87f0cc9b45/a0d7db68-61f1-407a-813b-6d87f0cc9b45.jpg",
+          "publishedUtc": "2026-10-24T23:52:16Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -27444,7 +27518,27 @@
           "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
           "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
           "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T19:18:18Z",
+          "publishedUtc": "2026-10-24T23:40:45Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/761890",
+          "title": "Amundsen scores twice as Crew beat Toronto for 5th win in last 6 games",
+          "description": "Malte Amundsen scored two goals. his first career multi-goal game in MLS, Gonzalo Tapia and Brooks Lennon each added a goal, and the Columbus Crew beat Toronto FC 4-1 on Saturday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/761890",
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761890.png?templateId=espn.applewatch.awayhome.1",
+          "publishedUtc": "2026-10-24T22:18:07Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50260337/nashville-sc-1st-mls-supporters-shield-title",
+          "title": "Nashville SC wins 1st MLS Supporters' Shield title, eyes points record",
+          "description": "Nashville SC clinched the 2026 MLS Supporters' Shield title after a 2-0 victory at CF Montréal on Saturday, winning the trophy for the first time in club history.",
+          "url": "https://www.espn.com/soccer/story/_/id/50260337/nashville-sc-1st-mls-supporters-shield-title",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735553_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-24T21:05:29Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -27615,56 +27709,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50193530/usmnt-players-beefing-online-again-list-most-memorable-pettiest-fights",
           "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731470_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-16T11:12:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50195091/messi-keep-playing-long-finds-joy-pitch",
-          "title": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
-          "description": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
-          "url": "https://www.espn.com/video/clip/_/id/50195091/messi-keep-playing-long-finds-joy-pitch",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Gomez_Messi_will_keep_playing_as_long_as_he_finds_joy_on_the_pitch/dm_261016_Gomez_Messi_will_keep_playing_as_long_as_he_finds_joy_on_the_pitch.jpg",
-          "publishedUtc": "2026-10-16T10:46:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50189867/usa-cavan-sullivan-mls-record-goal-contributions",
-          "title": "U.S. prodigy Cavan Sullivan sets MLS record, laments 'terrible' performance",
-          "description": "U.S. teen prodigy Cavan Sullivan made more history on Wednesday, but the Philadelphia Union midfielder insisted he was less than happy with his performance.",
-          "url": "https://www.espn.com/soccer/story/_/id/50189867/usa-cavan-sullivan-mls-record-goal-contributions",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731231_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T17:44:18Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50187102/lafc-vs-austin-fc-game-highlights",
-          "title": "LAFC vs. Austin FC - Game Highlights",
-          "description": "Watch the Game Highlights from LAFC vs. Austin FC, 10/14/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50187102/lafc-vs-austin-fc-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1015/7c855da7-6770-4d61-88e4-8b64639f661b/7c855da7-6770-4d61-88e4-8b64639f661b.jpg",
-          "publishedUtc": "2026-10-15T04:45:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/761867",
-          "title": "Ferreira, De Sousa Brito help Dallas end Sounders' unbeaten run with 1-0 victory",
-          "description": "Kaick Ferreira scored in the second half to give FC Dallas a 1-0 victory over Seattle Sounders on Wednesday night.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/761867",
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761867.png?templateId=espn.applewatch.awayhome.1",
-          "publishedUtc": "2026-10-15T03:44:26Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50185774/st-louis-unbeaten-run-record-21-whitecaps",
-          "title": "St. Louis City unbeaten run reaches record 21 after draw with Whitecaps",
-          "description": "St. Louis City set a new record for consecutive games without a loss after a 0-0 draw with the Vancouver on Wednesday earned them a 21st unbeaten game in a row.",
-          "url": "https://www.espn.com/soccer/story/_/id/50185774/st-louis-unbeaten-run-record-21-whitecaps",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731017_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T02:58:34Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28432,7 +28476,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-24T22:23:26.516Z",
+      "updatedUtc": "2026-10-25T04:18:34.325Z",
       "matches": [
         {
           "id": "760415",
@@ -31816,7 +31860,7 @@
           "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
           "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
           "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T19:18:18Z",
+          "publishedUtc": "2026-10-24T23:40:45Z",
           "source": "ESPN",
           "transfer": false
         },
