@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-25T18:54:02.069Z",
+  "updatedUtc": "2026-10-26T04:15:44.934Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:02.027Z",
+      "updatedUtc": "2026-10-26T04:15:44.661Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:01.880Z",
+      "updatedUtc": "2026-10-26T04:15:44.633Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,32 +6640,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:01.944Z",
+      "updatedUtc": "2026-10-26T04:15:44.814Z",
       "matches": [
-        {
-          "id": "401879257",
-          "utc": "2026-10-19T19:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "367",
-            "name": "Spurs",
-            "abbreviation": "TOT",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
-          },
-          "away": {
-            "id": "388",
-            "name": "Coventry",
-            "abbreviation": "COV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
-          },
-          "venue": "Tottenham Hotspur Stadium, London",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401879253",
           "utc": "2026-10-23T19:00Z",
@@ -8285,6 +8261,26 @@
           "venue": "Selhurst Park, London",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401879205",
+          "utc": "2026-12-14T20:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "306",
+            "name": "Hull",
+            "abbreviation": "HUL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+          },
+          "away": {
+            "id": "367",
+            "name": "Spurs",
+            "abbreviation": "TOT",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+          },
+          "venue": "The MKM Stadium, Hull",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -8636,6 +8632,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50282426/do-man-united-need-make-decision-carrick-future",
+          "title": "Do Man United need to make a decision on Carrick's future?",
+          "description": "Do Man United need to make a decision on Carrick's future?",
+          "url": "https://www.espn.com/video/clip/_/id/50282426/do-man-united-need-make-decision-carrick-future",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25.jpg",
+          "publishedUtc": "2026-10-25T23:38:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50282328/man-united-howe-nagelsmann-replace-carrick",
+          "title": "Sources: United consider Howe, Nagelsmann to replace under-fire Carrick",
+          "description": "Manchester United are weighing up replacements with Michael Carrick's future as head coach in serious doubt, sources told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50282328/man-united-howe-nagelsmann-replace-carrick",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1012/r1729888_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T23:40:24Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50281593/carrick-woes-deepen-bournemouth-smash-united",
+          "title": "Carrick woes deepen as Bournemouth smash United",
+          "description": "The pressure on Michael Carrick continues to grow as Manchester United fall to a dispiriting 3-0 loss to Bournemouth at Old Trafford.",
+          "url": "https://www.espn.com/video/clip/_/id/50281593/carrick-woes-deepen-bournemouth-smash-united",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY.jpg",
+          "publishedUtc": "2026-10-25T22:31:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401878764",
           "title": "Sunderland stay bottom of PL table after goalless draw with Leeds",
           "description": "Sunderland and Leeds were forced to share the spoils in a goalless stalemate at the Stadium of Light.",
@@ -8671,7 +8697,7 @@
           "description": "Man United can dismiss Michael Carrick, but whoever replaces him will face the same problems: a squad that continues to fail the club and its fans.",
           "url": "https://www.espn.com/soccer/story/_/id/50278354/manchester-united-stuck-their-underperforming-players-no-matter-whos-manager",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735997_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T18:02:50Z",
+          "publishedUtc": "2026-10-25T19:12:59Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8842,36 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50276044/bruno-fernandes-left-man-united-bournemouth",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735857_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-25T13:22:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50272717/man-city-beaten-jackson-double-aston-villa",
-          "title": "Man City beaten by Jackson's double for Aston Villa",
-          "description": "Nicolas Jackson nets both goals for Aston Villa to end Manchester City's perfect start to the Premier League season with a 2-1 win at Villa Park.",
-          "url": "https://www.espn.com/video/clip/_/id/50272717/man-city-beaten-jackson-double-aston-villa",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_EPL_Highlight_Man_City_beaten_by_Jacksons_double_for_Aston_Villa_20261025_AUS_ONLY/dm_261024_EPL_Highlight_Man_City_beaten_by_Jacksons_double_for_Aston_Villa_20261025_AUS_ONLY.jpg",
-          "publishedUtc": "2026-10-25T01:57:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50272702/spurs-claim-2nd-ever-premier-league-win-chelsea",
-          "title": "Spurs claim 2nd-ever Premier League win at Chelsea",
-          "description": "A spectacular goal by Mathys Tel seals a 2-0 Spurs victory as Tottenham end their Stamford Bridge hoodoo with their second-ever win at Chelsea in the EPL era.",
-          "url": "https://www.espn.com/video/clip/_/id/50272702/spurs-claim-2nd-ever-premier-league-win-chelsea",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_EPL_Highlight_Spurs_claim_2ndever_Premier_League_win_at_Chelsea_20261025_AUS_ONLY/dm_261024_EPL_Highlight_Spurs_claim_2ndever_Premier_League_win_at_Chelsea_20261025_AUS_ONLY.jpg",
-          "publishedUtc": "2026-10-25T01:57:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50267263/michael-carrick-man-united-different-team-bournemouth",
-          "title": "Michael Carrick vows Man United will be 'different team' against Bournemouth",
-          "description": "Michael Carrick has promised Manchester United fans they will see \"a different team\" against Bournemouth after the humiliating loss to Como.",
-          "url": "https://www.espn.com/soccer/story/_/id/50267263/michael-carrick-man-united-different-team-bournemouth",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735496_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-24T21:37:11Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9622,7 +9618,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:01.916Z",
+      "updatedUtc": "2026-10-26T04:15:44.934Z",
       "matches": [
         {
           "id": "401882843",
@@ -10049,12 +10045,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
           },
           "venue": "Reale Arena, San Sebastian",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 2,
             "away": 1
           },
-          "note": "64'"
+          "note": "FT"
         },
         {
           "id": "401882832",
@@ -10073,8 +10069,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
           },
           "venue": "Spotify Camp Nou, Barcelona",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401882828",
@@ -11309,13 +11309,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
               },
               "rank": 1,
-              "played": 9,
+              "played": 10,
               "won": 9,
               "drawn": 0,
-              "lost": 0,
-              "gf": 39,
-              "ga": 9,
-              "gd": 30,
+              "lost": 1,
+              "gf": 40,
+              "ga": 11,
+              "gd": 29,
               "points": 27
             },
             {
@@ -11343,14 +11343,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
               },
               "rank": 3,
-              "played": 9,
-              "won": 7,
+              "played": 10,
+              "won": 8,
               "drawn": 0,
               "lost": 2,
-              "gf": 23,
-              "ga": 9,
-              "gd": 14,
-              "points": 21
+              "gf": 25,
+              "ga": 10,
+              "gd": 15,
+              "points": 24
             },
             {
               "team": {
@@ -11377,14 +11377,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
               },
               "rank": 5,
-              "played": 9,
-              "won": 5,
+              "played": 10,
+              "won": 6,
               "drawn": 1,
               "lost": 3,
-              "gf": 17,
-              "ga": 17,
-              "gd": 0,
-              "points": 16
+              "gf": 19,
+              "ga": 18,
+              "gd": 1,
+              "points": 19
             },
             {
               "team": {
@@ -11530,13 +11530,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
               },
               "rank": 14,
-              "played": 9,
+              "played": 10,
               "won": 2,
               "drawn": 4,
-              "lost": 3,
-              "gf": 15,
-              "ga": 17,
-              "gd": -2,
+              "lost": 4,
+              "gf": 16,
+              "ga": 19,
+              "gd": -3,
               "points": 10
             },
             {
@@ -11646,6 +11646,126 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50283410/real-madrid-take-clasico",
+          "title": "Real Madrid take the Clásico",
+          "description": "Alex Kirkland recaps Real Madrid's performance against rivals Barcelona.",
+          "url": "https://www.espn.com/video/clip/_/id/50283410/real-madrid-take-clasico",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_16x9_Real_Madrid_IA/dm_261025_16x9_Real_Madrid_IA.jpg",
+          "publishedUtc": "2026-10-26T01:04:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50282662/pedri-barcelona-stupid-mistakes-loss-real-madrid",
+          "title": "Pedri says Barcelona paid for stupid mistakes in loss to Real Madrid",
+          "description": "Midfielder Pedri lamented stupid makes and slowness on the ball as Barcelona's perfect start to the LaLiga season was ended by Real Madrid in the Clásico at Spotify Camp Nou on Sunday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50282662/pedri-barcelona-stupid-mistakes-loss-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736234_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T23:57:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50282227/jose-mourinho-barcelona-real-madrid-play-win-league",
+          "title": "José Mourinho not satisfied with just beating Barcelona: 'Real Madrid play to win the league'",
+          "description": "José Mourinho said he's setting his sights even higher after Real Madrid beat Barcelona 2-1 in Sunday's Clásico, saying \"Real Madrid play to win the league, not to win at Camp Nou.\"",
+          "url": "https://www.espn.com/soccer/story/_/id/50282227/jose-mourinho-barcelona-real-madrid-play-win-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736220_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T23:45:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50282182/real-madrid-el-clasico-victory-vs-barcelona-good-laliga",
+          "title": "McManaman: Real Madrid's El Clásico victory vs. Barcelona is good for LaLiga",
+          "description": "McManaman: Real Madrid's El Clásico victory vs. Barcelona is good for LaLiga",
+          "url": "https://www.espn.com/video/clip/_/id/50282182/real-madrid-el-clasico-victory-vs-barcelona-good-laliga",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_Analysis_McManaman3A_Real_Madrid1155/dm_261025_COM_SOC_Analysis_McManaman3A_Real_Madrid1155.jpg",
+          "publishedUtc": "2026-10-25T23:16:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50282143/jose-mourinho-primes-real-madrid-statement-clasico-win-barcelona-blow-laliga-title-race-wide-open",
+          "title": "Mourinho primes Madrid for statement win over Barça to blow LaLiga title race wide open",
+          "description": "Real Madrid haven't convinced this season, but José Mourinho's game plan overwhelmed Barça, and Los Blancos' 2-1 win brings them into the title race.",
+          "url": "https://www.espn.com/soccer/story/_/id/50282143/jose-mourinho-primes-real-madrid-statement-clasico-win-barcelona-blow-laliga-title-race-wide-open",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736215_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-26T00:13:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50281913/kylian-mbappe-double-wins-el-clasico-real-madrid",
+          "title": "Kylian Mbappé double wins El Clasico for Real Madrid",
+          "description": "Kylian Mbappé double wins El Clasico for Real Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50281913/kylian-mbappe-double-wins-el-clasico-real-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_Kylian_Mbappe_double_wins_El_Clasico_for_Real_Madrid/dm_261025_Kylian_Mbappe_double_wins_El_Clasico_for_Real_Madrid.jpg",
+          "publishedUtc": "2026-10-25T22:57:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50278896/barcelona-real-madrid-laliga-kylian-mbappe-jude-bellingham-raphinha",
+          "title": "Barcelona vs. Real Madrid player ratings as Kylian Mbappé sinks out-of-sorts hosts",
+          "description": "A brace from Kylian Mbappé -- the latter his 100th goal for the club -- claimed a famous victory for Real Madrid over Barcelona at the Spotify Camp Nou.",
+          "url": "https://www.espn.com/soccer/story/_/id/50278896/barcelona-real-madrid-laliga-kylian-mbappe-jude-bellingham-raphinha",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736170_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T22:39:08Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50281290/mbappe-brace-powers-real-madrid-win-barca",
+          "title": "Mbappé's brace powers Real Madrid to the win over Barca",
+          "description": "Mbappé's brace powers Real Madrid to the win over Barca",
+          "url": "https://www.espn.com/video/clip/_/id/50281290/mbappe-brace-powers-real-madrid-win-barca",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/b88457ba3822438581321ab4b5b9100b1096/b88457ba3822438581321ab4b5b9100b1096.jpg",
+          "publishedUtc": "2026-10-25T22:16:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401882832",
+          "title": "Mbappé double gives Madrid Clasico win over Barcelona",
+          "description": "Real Madrid cut the gap on LaLiga leaders Barcelona to three points after Kylian Mbappé struck a late winner in a 2-1 win at the Nou Camp on Sunday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401882832",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736144_1024x576_16-9.jpg",
+          "publishedUtc": "2026-10-25T22:13:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50246032/kylian-mbappe-scores-100th-goal-real-madrid-dramatic-clasico-win",
+          "title": "Kylian Mbappé scores 100th goal for Real Madrid in dramatic Clásico win",
+          "description": "Kylian Mbappé has scored his 100th goal for Real Madrid.",
+          "url": "https://www.espn.com/soccer/story/_/id/50246032/kylian-mbappe-scores-100th-goal-real-madrid-dramatic-clasico-win",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736100_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T23:26:54Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50275230/real-madrid-goalkeeper-thibaut-courtois-clasico-vs-barcelona-flu",
+          "title": "Real Madrid goalkeeper Thibaut Courtois out of Clasico with flu",
+          "description": "Real Madrid goalkeeper Thibaut Courtois will miss the team's Clásico clash with Barcelona with flu.",
+          "url": "https://www.espn.com/soccer/story/_/id/50275230/real-madrid-goalkeeper-thibaut-courtois-clasico-vs-barcelona-flu",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713669_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T19:31:20Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50279148/real-sociedad-vs-levante-game-highlights",
+          "title": "Real Sociedad vs. Levante - Game Highlights",
+          "description": "Watch the Game Highlights from Real Sociedad vs. Levante, 10/25/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50279148/real-sociedad-vs-levante-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/1f659ce6-5a20-4edc-9595-d3ea72b9ccff/1f659ce6-5a20-4edc-9595-d3ea72b9ccff.jpg",
+          "publishedUtc": "2026-10-25T19:29:18Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50278064/celta-vigo-vs-real-betis-game-highlights",
           "title": "Celta Vigo vs. Real Betis - Game Highlights",
           "description": "Watch the Game Highlights from Celta Vigo vs. Real Betis, 10/25/2026",
@@ -11682,16 +11802,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
           "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734933_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-25T12:07:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50275230/real-madrid-goalkeeper-thibaut-courtois-clasico-vs-barcelona-flu",
-          "title": "Real Madrid goalkeeper Thibaut Courtois out of Clasico with flu",
-          "description": "Real Madrid goalkeeper Thibaut Courtois will miss the team's Clásico clash with Barcelona with flu, the club said on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50275230/real-madrid-goalkeeper-thibaut-courtois-clasico-vs-barcelona-flu",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713669_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T12:23:23Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11774,116 +11884,6 @@
           "publishedUtc": "2026-10-24T16:18:49Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50266146/el-clasico-best-game-football-offers",
-          "title": "Flick: El Clásico is the best game football offers",
-          "description": "Flick: El Clásico is the best game football offers",
-          "url": "https://www.espn.com/video/clip/_/id/50266146/el-clasico-best-game-football-offers",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_Flick_El_Clasico_is_the_best_game_football_offers/dm_261024_Flick_El_Clasico_is_the_best_game_football_offers.jpg",
-          "publishedUtc": "2026-10-24T15:47:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50265950/real-madrid-win-trophies-me",
-          "title": "Mourinho: Real Madrid win trophies with me",
-          "description": "Mourinho: Real Madrid win trophies with me",
-          "url": "https://www.espn.com/video/clip/_/id/50265950/real-madrid-win-trophies-me",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_Mourinho_Real_Madrid_win_trophies_with_me/dm_261024_Mourinho_Real_Madrid_win_trophies_with_me.jpg",
-          "publishedUtc": "2026-10-24T14:52:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50265693/rayo-vallecano-vs-elche-game-highlights",
-          "title": "Rayo Vallecano vs. Elche - Game Highlights",
-          "description": "Watch the Game Highlights from Rayo Vallecano vs. Elche, 10/24/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50265693/rayo-vallecano-vs-elche-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/30635c7d-fdee-4ef8-a159-755b30a4db48/30635c7d-fdee-4ef8-a159-755b30a4db48.jpg",
-          "publishedUtc": "2026-10-24T14:08:17Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
-          "title": "Anthony Gordon delivers rating out of 10 for his start at Barcelona",
-          "description": "Barcelona and England forward Anthony Gordon has told ESPN he is still a long way from where he wants to be as he prepares for Sunday's Clásico against Real Madrid.",
-          "url": "https://www.espn.com/soccer/story/_/id/50265160/anthony-gordon-barcelona-real-madrid-clasico",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735376_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-24T15:17:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50265100/barcelona-real-madrid-kylian-mbappe-el-clasico",
-          "title": "Barcelona outline plan to stop Real Madrid's Kylian Mbappé in El Clásico",
-          "description": "Barcelona coach Hansi Flick says his team's positioning and work off the ball is the key to stopping Real Madrid forward Kylian Mbappé in Sunday's Clásico.",
-          "url": "https://www.espn.com/soccer/story/_/id/50265100/barcelona-real-madrid-kylian-mbappe-el-clasico",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0501/r1651868_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-24T12:10:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50264660/jose-mourinho-backs-ahead-el-clasico-vs-barcelona-madrid-mourinho-wins-trophies",
-          "title": "José Mourinho backs himself ahead of El Clasico vs. Barcelona: 'Madrid with Mourinho wins trophies'",
-          "description": "José Mourinho backed himself to deliver at Real Madrid ahead of Sunday's high-stakes El Clásico with LaLiga leaders Barcelona, insisting that \"Madrid with Mourinho wins trophies.\"",
-          "url": "https://www.espn.com/soccer/story/_/id/50264660/jose-mourinho-backs-ahead-el-clasico-vs-barcelona-madrid-mourinho-wins-trophies",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0521/r1661518_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-24T12:09:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50261693/el-clasico-served-get-taste-laliga-showdown",
-          "title": "El Clásico is served! Get a taste of the LaLiga showdown",
-          "description": "El Clásico is served! Get a taste of the LaLiga showdown",
-          "url": "https://www.espn.com/video/clip/_/id/50261693/el-clasico-served-get-taste-laliga-showdown",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_201605091_3707432/ss_20261023_201605091_3707432.jpg",
-          "publishedUtc": "2026-10-24T00:19:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50260417/alaves-vs-malaga-game-highlights",
-          "title": "Alavés vs. Málaga - Game Highlights",
-          "description": "Watch the Game Highlights from Alavés vs. Málaga, 10/23/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50260417/alaves-vs-malaga-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1023/952cc53d-7a6a-4a43-bed7-681021c5f810/952cc53d-7a6a-4a43-bed7-681021c5f810.jpg",
-          "publishedUtc": "2026-10-23T21:00:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50260129/will-carrick-survive-weekend-man-united-head-coach",
-          "title": "Will Carrick survive the weekend as Man United head coach?",
-          "description": "Will Carrick survive the weekend as Man United head coach?",
-          "url": "https://www.espn.com/video/clip/_/id/50260129/will-carrick-survive-weekend-man-united-head-coach",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_COM_SOC_Analysis_Will_Carrick_survive_the_weekend_as_Man_United_head_coach3F__GLOBAL_2026-10-23/dm_261023_COM_SOC_Analysis_Will_Carrick_survive_the_weekend_as_Man_United_head_coach3F__GLOBAL_2026-10-23.jpg",
-          "publishedUtc": "2026-10-23T19:54:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50260126/is-el-clasico-more-important-barcelona-real-madrid",
-          "title": "Is El Clásico more important for Barcelona or Real Madrid?",
-          "description": "Is El Clásico more important for Barcelona or Real Madrid?",
-          "url": "https://www.espn.com/video/clip/_/id/50260126/is-el-clasico-more-important-barcelona-real-madrid",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_COM_SOC_Analysis_Is_El_ClC3A1sico_more_important_for_Barcelona_or_Real_Madrid3F_GLOBAL_2026-10-23/dm_261023_COM_SOC_Analysis_Is_El_ClC3A1sico_more_important_for_Barcelona_or_Real_Madrid3F_GLOBAL_2026-10-23.jpg",
-          "publishedUtc": "2026-10-23T19:53:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
-          "title": "Transfer rumors, news: Barcelona to end up signing Sullivan?",
-          "description": "Cavan Sullivan has a pre-contract agreement with Manchester City, but could Barcelona swoop up and sign the young American prospect? Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735106_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-23T18:39:43Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -12630,32 +12630,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:02.008Z",
+      "updatedUtc": "2026-10-26T04:15:44.746Z",
       "matches": [
-        {
-          "id": "401874784",
-          "utc": "2026-10-19T18:45Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "115",
-            "name": "Parma",
-            "abbreviation": "PAR",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
-          },
-          "away": {
-            "id": "239",
-            "name": "Torino",
-            "abbreviation": "TOR",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
-          },
-          "venue": "Ennio Tardini, Parma",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 3
-          },
-          "note": "FT"
-        },
         {
           "id": "401874957",
           "utc": "2026-10-23T18:45Z",
@@ -12865,12 +12841,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
           },
           "venue": "Via Del Mare, Lecce",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
             "away": 2
           },
-          "note": "88'"
+          "note": "FT"
         },
         {
           "id": "401874779",
@@ -12889,8 +12865,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
           },
           "venue": "Stadio Friuli, Udine",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401874980",
@@ -14271,6 +14251,26 @@
           "venue": "New Balance Arena, Bergamo",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401874783",
+          "utc": "2026-12-14T19:45Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "111",
+            "name": "Juventus",
+            "abbreviation": "JUV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+          },
+          "away": {
+            "id": "4007",
+            "name": "Monza",
+            "abbreviation": "MON",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
+          },
+          "venue": "Allianz Stadium, Torino",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14330,12 +14330,29 @@
             },
             {
               "team": {
+                "id": "103",
+                "name": "Milan",
+                "abbreviation": "MIL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+              },
+              "rank": 4,
+              "played": 8,
+              "won": 5,
+              "drawn": 3,
+              "lost": 0,
+              "gf": 16,
+              "ga": 7,
+              "gd": 9,
+              "points": 18
+            },
+            {
+              "team": {
                 "id": "2572",
                 "name": "Como",
                 "abbreviation": "COMO",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
               },
-              "rank": 4,
+              "rank": 5,
               "played": 8,
               "won": 5,
               "drawn": 2,
@@ -14344,23 +14361,6 @@
               "ga": 7,
               "gd": 7,
               "points": 17
-            },
-            {
-              "team": {
-                "id": "103",
-                "name": "Milan",
-                "abbreviation": "MIL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-              },
-              "rank": 5,
-              "played": 7,
-              "won": 4,
-              "drawn": 3,
-              "lost": 0,
-              "gf": 14,
-              "ga": 7,
-              "gd": 7,
-              "points": 15
             },
             {
               "team": {
@@ -14381,12 +14381,29 @@
             },
             {
               "team": {
+                "id": "111",
+                "name": "Juventus",
+                "abbreviation": "JUV",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+              },
+              "rank": 7,
+              "played": 8,
+              "won": 4,
+              "drawn": 2,
+              "lost": 2,
+              "gf": 11,
+              "ga": 8,
+              "gd": 3,
+              "points": 14
+            },
+            {
+              "team": {
                 "id": "239",
                 "name": "Torino",
                 "abbreviation": "TOR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
               },
-              "rank": 7,
+              "rank": 8,
               "played": 8,
               "won": 4,
               "drawn": 1,
@@ -14403,7 +14420,7 @@
                 "abbreviation": "CAG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
               },
-              "rank": 8,
+              "rank": 9,
               "played": 8,
               "won": 4,
               "drawn": 1,
@@ -14412,23 +14429,6 @@
               "ga": 9,
               "gd": -3,
               "points": 13
-            },
-            {
-              "team": {
-                "id": "111",
-                "name": "Juventus",
-                "abbreviation": "JUV",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-              },
-              "rank": 9,
-              "played": 7,
-              "won": 3,
-              "drawn": 2,
-              "lost": 2,
-              "gf": 9,
-              "ga": 8,
-              "gd": 1,
-              "points": 11
             },
             {
               "team": {
@@ -14472,13 +14472,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
               },
               "rank": 12,
-              "played": 7,
+              "played": 8,
               "won": 3,
               "drawn": 0,
-              "lost": 4,
+              "lost": 5,
               "gf": 9,
-              "ga": 12,
-              "gd": -3,
+              "ga": 14,
+              "gd": -5,
               "points": 9
             },
             {
@@ -14557,13 +14557,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
               },
               "rank": 17,
-              "played": 7,
+              "played": 8,
               "won": 1,
               "drawn": 1,
-              "lost": 5,
+              "lost": 6,
               "gf": 9,
-              "ga": 16,
-              "gd": -7,
+              "ga": 18,
+              "gd": -9,
               "points": 4
             },
             {
@@ -14621,6 +14621,16 @@
         }
       ],
       "news": [
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401874772",
+          "title": "McKennie scores 1st goal since April in much-needed Juventus win",
+          "description": "Weston McKennie opened the scoring for Juventus in a 2-0 win over Lecce on Sunday to help the Serie A side course correct after a pair of disappointing results.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401874772",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736020_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T19:45:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50274938/transfer-rumors-news-arsenal-manchester-united-liverpool-track-bayern-munich-star-karl",
           "title": "Transfer rumors, news: Man United to offload Yoro to Milan?",
@@ -14840,16 +14850,6 @@
           "publishedUtc": "2026-10-04T18:14:16Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50079765/pulisic-admits-wants-stay-ac-milan-lack-minutes",
-          "title": "Pulisic admits he wants to stay at AC Milan despite lack of minutes",
-          "description": "Pulisic admits he wants to stay at AC Milan despite lack of minutes",
-          "url": "https://www.espn.com/video/clip/_/id/50079765/pulisic-admits-wants-stay-ac-milan-lack-minutes",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1001/dm_261001_COM_SOC_Presser_Pulisic_admits_he_wants_to_stay_at_AC_Milan_despite_lack_of_minutes_20260901_GLO/dm_261001_COM_SOC_Presser_Pulisic_admits_he_wants_to_stay_at_AC_Milan_despite_lack_of_minutes_20260901_GLO.jpg",
-          "publishedUtc": "2026-10-01T22:17:58Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -15600,7 +15600,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:01.948Z",
+      "updatedUtc": "2026-10-26T04:15:44.779Z",
       "matches": [
         {
           "id": "401884775",
@@ -17622,6 +17622,16 @@
       ],
       "news": [
         {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401884759",
+          "title": "Bayern Munich hold off Freiburg in first game without Kompany",
+          "description": "Bayern Munich returned to the top of the Bundesliga table thanks to a 3-1 away win at Freiburg on Sunday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401884759",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736014_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T18:45:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50265094/bayern-munich-vincent-kompany-stable-away-weeks-collapsing",
           "title": "Bayern Munich's Vincent Kompany 'stable,' could be away for weeks after collapse",
           "description": "Bayern Munich coach Vincent Kompany will have more tests to determine why he collapsed during a training session the previous day, the club said Saturday.",
@@ -17838,16 +17848,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
           "imageUrl": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-12T13:39:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "title": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-29T07:38:13Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18598,7 +18598,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:01.981Z",
+      "updatedUtc": "2026-10-26T04:15:44.700Z",
       "matches": [
         {
           "id": "401876446",
@@ -20616,6 +20616,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50279147/luis-enrique-khvicha-kvaratskhelia-back-stronger-psg-acl",
+          "title": "Luis Enrique: Khvicha Kvaratskhelia will be back stronger for PSG after ACL injury",
+          "description": "Paris Saint-Germain boss Luis Enrique says winger Khvicha Kvaratskhelia will come back stronger after he suffered an anterior cruciate ligament injury.",
+          "url": "https://www.espn.com/soccer/story/_/id/50279147/luis-enrique-khvicha-kvaratskhelia-back-stronger-psg-acl",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736040_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-25T19:37:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50258584/psg-lyon-match-moved-monday-paris-protests-nfl-game",
           "title": "PSG-Lyon match moved to Monday amid Paris protests, NFL game",
           "description": "Paris Saint-Germain's clash with Lyon in Ligue 1 has been moved from Sunday to Monday evening at the request of Paris police.",
@@ -20832,16 +20842,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401876449",
           "imageUrl": "https://a.espncdn.com/photo/2026/0920/r1719673_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-20T21:22:21Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49966527/weekend-predictions-madrid-derby-heats-laliga-brighton-stun-arsenal",
-          "title": "Weekend predictions: Madrid derby heats up LaLiga, Brighton to stun Arsenal?",
-          "description": "It's another big weekend of matches in Europe which will include heated derbies, top-of-the-table matchups and other rivalries.",
-          "url": "https://www.espn.com/soccer/story/_/id/49966527/weekend-predictions-madrid-derby-heats-laliga-brighton-stun-arsenal",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1718195_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T19:37:26Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21590,7 +21590,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-25T18:54:02.035Z",
+      "updatedUtc": "2026-10-26T04:15:44.603Z",
       "matches": [
         {
           "id": "401861118",
@@ -25282,7 +25282,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-25T18:54:02.069Z",
+      "updatedUtc": "2026-10-26T04:15:44.889Z",
       "matches": [
         {
           "id": "761871",
@@ -26141,8 +26141,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
           },
           "venue": "BMO Stadium, Los Angeles, California",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "761907",
@@ -27348,14 +27352,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
               },
               "rank": 9,
-              "played": 31,
+              "played": 32,
               "won": 10,
-              "drawn": 10,
+              "drawn": 11,
               "lost": 11,
-              "gf": 43,
-              "ga": 52,
+              "gf": 45,
+              "ga": 54,
               "gd": -9,
-              "points": 40
+              "points": 41
             },
             {
               "team": {
@@ -27484,14 +27488,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
               },
               "rank": 6,
-              "played": 31,
+              "played": 32,
               "won": 12,
-              "drawn": 10,
+              "drawn": 11,
               "lost": 9,
-              "gf": 48,
-              "ga": 33,
+              "gf": 50,
+              "ga": 35,
               "gd": 15,
-              "points": 46
+              "points": 47
             },
             {
               "team": {
@@ -27548,6 +27552,16 @@
         }
       ],
       "news": [
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/761904",
+          "title": "LAFC clinches playoffs with derby draw, Galaxy cling to last spot",
+          "description": "Leo Walta scored the tying goal in the 62nd minute as LAFC clinched a playoff spot by rallying from two goals down in the second half for a 2-2 draw with the LA Galaxy on Sunday night.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/761904",
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761904.png?templateId=espn.applewatch.awayhome.1",
+          "publishedUtc": "2026-10-26T03:43:24Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/video/clip/_/id/50272944/philadelphia-union-vs-new-england-revolution-game-highlights",
           "title": "Philadelphia Union vs. New England Revolution - Game Highlights",
@@ -27775,16 +27789,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50206540/orlando-city-sc-vs-dc-united-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/9713ea68-5ef0-4d12-9ada-7f5c2f329237/9713ea68-5ef0-4d12-9ada-7f5c2f329237.jpg",
           "publishedUtc": "2026-10-18T05:29:53Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50206491/new-england-revolution-vs-chicago-fire-fc-game-highlights",
-          "title": "New England Revolution vs. Chicago Fire FC - Game Highlights",
-          "description": "Watch the Game Highlights from New England Revolution vs. Chicago Fire FC, 10/17/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50206491/new-england-revolution-vs-chicago-fire-fc-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/b2286031-5279-49dc-8e88-47241831d38f/b2286031-5279-49dc-8e88-47241831d38f.jpg",
-          "publishedUtc": "2026-10-18T05:21:49Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28551,7 +28555,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-25T18:54:01.965Z",
+      "updatedUtc": "2026-10-26T04:15:44.579Z",
       "matches": [
         {
           "id": "760415",
