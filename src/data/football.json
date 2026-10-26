@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-26T04:15:44.934Z",
+  "updatedUtc": "2026-10-26T04:22:27.667Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.661Z",
+      "updatedUtc": "2026-10-26T04:22:27.390Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.633Z",
+      "updatedUtc": "2026-10-26T04:22:27.363Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.814Z",
+      "updatedUtc": "2026-10-26T04:22:27.562Z",
       "matches": [
         {
           "id": "401879253",
@@ -9618,7 +9618,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.934Z",
+      "updatedUtc": "2026-10-26T04:22:27.614Z",
       "matches": [
         {
           "id": "401882843",
@@ -11646,32 +11646,12 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/video/clip/_/id/50283410/real-madrid-take-clasico",
-          "title": "Real Madrid take the Clásico",
-          "description": "Alex Kirkland recaps Real Madrid's performance against rivals Barcelona.",
-          "url": "https://www.espn.com/video/clip/_/id/50283410/real-madrid-take-clasico",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_16x9_Real_Madrid_IA/dm_261025_16x9_Real_Madrid_IA.jpg",
-          "publishedUtc": "2026-10-26T01:04:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50282662/pedri-barcelona-stupid-mistakes-loss-real-madrid",
-          "title": "Pedri says Barcelona paid for stupid mistakes in loss to Real Madrid",
-          "description": "Midfielder Pedri lamented stupid makes and slowness on the ball as Barcelona's perfect start to the LaLiga season was ended by Real Madrid in the Clásico at Spotify Camp Nou on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50282662/pedri-barcelona-stupid-mistakes-loss-real-madrid",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736234_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T23:57:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50282227/jose-mourinho-barcelona-real-madrid-play-win-league",
           "title": "José Mourinho not satisfied with just beating Barcelona: 'Real Madrid play to win the league'",
           "description": "José Mourinho said he's setting his sights even higher after Real Madrid beat Barcelona 2-1 in Sunday's Clásico, saying \"Real Madrid play to win the league, not to win at Camp Nou.\"",
           "url": "https://www.espn.com/soccer/story/_/id/50282227/jose-mourinho-barcelona-real-madrid-play-win-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736220_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T23:45:49Z",
+          "publishedUtc": "2026-10-25T23:36:09Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11688,10 +11668,10 @@
         {
           "id": "https://www.espn.com/soccer/story/_/id/50282143/jose-mourinho-primes-real-madrid-statement-clasico-win-barcelona-blow-laliga-title-race-wide-open",
           "title": "Mourinho primes Madrid for statement win over Barça to blow LaLiga title race wide open",
-          "description": "Real Madrid haven't convinced this season, but José Mourinho's game plan overwhelmed Barça, and Los Blancos' 2-1 win brings them into the title race.",
+          "description": "Real Madrid haven't convinced this season, but José Mourinho's game plan overwhelmed Barça, and Los Blancos's 2-1 win brings them into the title race.",
           "url": "https://www.espn.com/soccer/story/_/id/50282143/jose-mourinho-primes-real-madrid-statement-clasico-win-barcelona-blow-laliga-title-race-wide-open",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736215_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T00:13:01Z",
+          "publishedUtc": "2026-10-25T23:09:01Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11882,6 +11862,26 @@
           "url": "https://www.espn.com/video/clip/_/id/50266487/racing-santander-vs-espanyol-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/4636736f-4a63-47c2-874d-64bcb53bb050/4636736f-4a63-47c2-874d-64bcb53bb050.jpg",
           "publishedUtc": "2026-10-24T16:18:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50266146/el-clasico-best-game-football-offers",
+          "title": "Flick: El Clásico is the best game football offers",
+          "description": "Flick: El Clásico is the best game football offers",
+          "url": "https://www.espn.com/video/clip/_/id/50266146/el-clasico-best-game-football-offers",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_Flick_El_Clasico_is_the_best_game_football_offers/dm_261024_Flick_El_Clasico_is_the_best_game_football_offers.jpg",
+          "publishedUtc": "2026-10-24T15:47:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50265950/real-madrid-win-trophies-me",
+          "title": "Mourinho: Real Madrid win trophies with me",
+          "description": "Mourinho: Real Madrid win trophies with me",
+          "url": "https://www.espn.com/video/clip/_/id/50265950/real-madrid-win-trophies-me",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_Mourinho_Real_Madrid_win_trophies_with_me/dm_261024_Mourinho_Real_Madrid_win_trophies_with_me.jpg",
+          "publishedUtc": "2026-10-24T14:52:52Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12630,7 +12630,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.746Z",
+      "updatedUtc": "2026-10-26T04:22:27.520Z",
       "matches": [
         {
           "id": "401874957",
@@ -15600,7 +15600,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.779Z",
+      "updatedUtc": "2026-10-26T04:22:27.486Z",
       "matches": [
         {
           "id": "401884775",
@@ -18598,7 +18598,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.700Z",
+      "updatedUtc": "2026-10-26T04:22:27.452Z",
       "matches": [
         {
           "id": "401876446",
@@ -21590,7 +21590,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-26T04:15:44.603Z",
+      "updatedUtc": "2026-10-26T04:22:27.413Z",
       "matches": [
         {
           "id": "401861118",
@@ -25282,7 +25282,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T04:15:44.889Z",
+      "updatedUtc": "2026-10-26T04:22:27.667Z",
       "matches": [
         {
           "id": "761871",
@@ -27553,16 +27553,6 @@
       ],
       "news": [
         {
-          "id": "http://www.espn.com/soccer/report/_/gameId/761904",
-          "title": "LAFC clinches playoffs with derby draw, Galaxy cling to last spot",
-          "description": "Leo Walta scored the tying goal in the 62nd minute as LAFC clinched a playoff spot by rallying from two goals down in the second half for a 2-2 draw with the LA Galaxy on Sunday night.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/761904",
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761904.png?templateId=espn.applewatch.awayhome.1",
-          "publishedUtc": "2026-10-26T03:43:24Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
           "id": "https://www.espn.com/video/clip/_/id/50272944/philadelphia-union-vs-new-england-revolution-game-highlights",
           "title": "Philadelphia Union vs. New England Revolution - Game Highlights",
           "description": "Watch the Game Highlights from Philadelphia Union vs. New England Revolution, 10/24/2026",
@@ -27789,6 +27779,16 @@
           "url": "https://www.espn.com/video/clip/_/id/50206540/orlando-city-sc-vs-dc-united-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/9713ea68-5ef0-4d12-9ada-7f5c2f329237/9713ea68-5ef0-4d12-9ada-7f5c2f329237.jpg",
           "publishedUtc": "2026-10-18T05:29:53Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50206491/new-england-revolution-vs-chicago-fire-fc-game-highlights",
+          "title": "New England Revolution vs. Chicago Fire FC - Game Highlights",
+          "description": "Watch the Game Highlights from New England Revolution vs. Chicago Fire FC, 10/17/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50206491/new-england-revolution-vs-chicago-fire-fc-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/b2286031-5279-49dc-8e88-47241831d38f/b2286031-5279-49dc-8e88-47241831d38f.jpg",
+          "publishedUtc": "2026-10-18T05:21:49Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28555,7 +28555,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-26T04:15:44.579Z",
+      "updatedUtc": "2026-10-26T04:22:27.341Z",
       "matches": [
         {
           "id": "760415",
