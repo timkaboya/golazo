@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-27T11:57:36.004Z",
+  "updatedUtc": "2026-10-27T17:54:00.915Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:35.565Z",
+      "updatedUtc": "2026-10-27T17:54:00.618Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,12 +2345,22 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50299296/uefa-bans-lens-fans-liverpool-flares-club-brugge",
+          "title": "Lens fans banned from Liverpool match for throwing flares vs. Brugge",
+          "description": "Fans of Ligue 1 club Lens were banned from buying tickets for a Champions League game at Liverpool by a UEFA disciplinary ruling Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50299296/uefa-bans-lens-fans-liverpool-flares-club-brugge",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737062_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T17:36:00Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
           "title": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
           "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
           "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T01:48:19Z",
+          "publishedUtc": "2026-10-27T14:04:40Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2571,16 +2581,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50242200/moreno-praises-kane-outstanding-performance-vs-arsenal",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Moreno_praises_KaneE2801111/dm_261021_COM_SOC_Analysis_Moreno_praises_KaneE2801111.jpg",
           "publishedUtc": "2026-10-21T22:31:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50242197/draw-damages-bayern-munich-more-arsenal",
-          "title": "Klinsmann: Draw damages Bayern Munich more than Arsenal",
-          "description": "Klinsmann: Draw damages Bayern Munich more than Arsenal",
-          "url": "https://www.espn.com/video/clip/_/id/50242197/draw-damages-bayern-munich-more-arsenal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Klinsmann3A_Draw_damages_Bayern_Munich_more_than_Arsenal__GLOBAL_2026-10-21/dm_261021_COM_SOC_Analysis_Klinsmann3A_Draw_damages_Bayern_Munich_more_than_Arsenal__GLOBAL_2026-10-21.jpg",
-          "publishedUtc": "2026-10-22T00:35:41Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:35.679Z",
+      "updatedUtc": "2026-10-27T17:54:00.596Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:35.778Z",
+      "updatedUtc": "2026-10-27T17:54:00.798Z",
       "matches": [
         {
           "id": "401879253",
@@ -8632,6 +8632,86 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50299184/gary-neville-really-surprised-happy-michael-carrick-set-continue-man-united-boss",
+          "title": "Gary Neville: 'Really surprised' but 'happy' Michael Carrick set to continue as Man United boss",
+          "description": "Michael Carrick faces a tough ask to get Manchester United's misfiring players to turn his team's fortunes around, according to former club captain Gary Neville.",
+          "url": "https://www.espn.com/soccer/story/_/id/50299184/gary-neville-really-surprised-happy-michael-carrick-set-continue-man-united-boss",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T17:11:00Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50298444/xabi-alonso-confirms-joao-pedro-a-weeks-chelsea",
+          "title": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
+          "description": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
+          "url": "https://www.espn.com/video/clip/_/id/50298444/xabi-alonso-confirms-joao-pedro-a-weeks-chelsea",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027.jpg",
+          "publishedUtc": "2026-10-27T15:56:16Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50298418/xabi-alonso-joao-pedro-chelsea-absence-looking-solutions-not-excuses",
+          "title": "Xabi Alonso on João Pedro's Chelsea absence: Looking for solutions, not excuses",
+          "description": "Xabi Alonso said Chelsea will look for \"solutions, not excuses\" after João Pedro was ruled out for several weeks with a thigh injury.",
+          "url": "https://www.espn.com/soccer/story/_/id/50298418/xabi-alonso-joao-pedro-chelsea-absence-looking-solutions-not-excuses",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737023_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T16:08:25Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50297244/wayne-rooney-blasts-man-united-players-amid-growing-crisis",
+          "title": "Wayne Rooney blasts Man United players amid growing crisis",
+          "description": "Manchester United's players need a \"firework up their a----\" and reminding what it means to play for the club, according to Wayne Rooney.",
+          "url": "https://www.espn.com/soccer/story/_/id/50297244/wayne-rooney-blasts-man-united-players-amid-growing-crisis",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736965_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T14:00:12Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
+          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T13:23:18Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50297039/gianluigi-donnarumma-mistakes-man-city-boss-enzo-maresca",
+          "title": "Gianluigi Donnarumma 'making mistakes,' defended by Man City boss Enzo Maresca",
+          "description": "Manchester City boss Enzo Maresca has defended goalkeeper Gianluigi Donnarumma and defender Marc Guéhi following criticism of their form.",
+          "url": "https://www.espn.com/soccer/story/_/id/50297039/gianluigi-donnarumma-mistakes-man-city-boss-enzo-maresca",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713461_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T15:40:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50296960/liverpool-florian-wirtz-fit-face-chelsea-carabao-cup",
+          "title": "Liverpool 'optimistic' Florian Wirtz will be fit to face Chelsea",
+          "description": "Liverpool boss Andoni Iraola has said he is \"optimistic\" Florian Wirtz will be fit to feature in Wednesday's Carabao Cup clash with Chelsea.",
+          "url": "https://www.espn.com/soccer/story/_/id/50296960/liverpool-florian-wirtz-fit-face-chelsea-carabao-cup",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0824/r1706182_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T15:39:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50296572/carrick-lead-man-united-chelsea-uncertain-future-sources",
+          "title": "Michael Carrick to lead Man United vs. Chelsea amid uncertain future - sources",
+          "description": "Manchester United head coach Michael Carrick took training on Tuesday and now expects to be in charge against Chelsea on Saturday, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50296572/carrick-lead-man-united-chelsea-uncertain-future-sources",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735932_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T12:56:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
           "title": "Man United tight-lipped with Carrick back at Carrington on Tuesday",
           "description": "Michael Carrick has taken first-team training at Manchester United Tuesday despite ongoing uncertainty over his future as manager at Old Trafford.",
@@ -8657,19 +8737,9 @@
           "description": "How much did Premier League teams spend for points -- after Man City cheated? We find out which clubs were wasteful and which spent smart.",
           "url": "https://www.espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
           "imageUrl": "https://a.espncdn.com/photo/2024/0521/r1335942_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T08:49:20Z",
+          "publishedUtc": "2026-10-27T12:50:58Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
-          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T08:45:19Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/espn/story/_/id/50295147/is-too-soon-chelsea-regret-getting-rid-aston-villa-nicolas-jackson",
@@ -8697,7 +8767,7 @@
           "description": "Harry Kane thanked Tottenham for helping him fulfil his dreams and paid tribute to his international teammates after becoming the first Englishman in 25 years to win the Ballon d'Or.",
           "url": "https://www.espn.com/soccer/story/_/id/50292020/harry-kane-tottenham-england-thomas-tuchel-ballon-dor",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736751_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T08:50:59Z",
+          "publishedUtc": "2026-10-27T15:42:30Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8798,76 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50216946/who-replace-michael-carrick-manchester-united-manager",
           "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732822_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-26T09:54:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50285669/jermaine-pennant-attacked-dog-needs-50-stitches",
-          "title": "Jermaine Pennant rescued by pet after dog attack: 'He saved my life'",
-          "description": "Jermaine Pennant says he needed more than 50 stitches to his leg after he was the victim of a dog attack.",
-          "url": "https://www.espn.com/soccer/story/_/id/50285669/jermaine-pennant-attacked-dog-needs-50-stitches",
-          "imageUrl": "https://a.espncdn.com/photo/2017/0807/r241271_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T08:25:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50285656/pierre-sage-no-noise-crystal-palace-job-pressure",
-          "title": "Pierre Sage: 'No noise inside' Crystal Palace despite job pressure",
-          "description": "Crystal Palace boss Pierre Sage insisted there was \"no noise inside\" the club after their frustrating 2-0 loss to Newcastle raised more questions about his job security.",
-          "url": "https://www.espn.com/soccer/story/_/id/50285656/pierre-sage-no-noise-crystal-palace-job-pressure",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736384_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T08:45:22Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50282426/do-man-united-need-make-decision-carrick-future",
-          "title": "Do Man United need to make a decision on Carrick's future?",
-          "description": "Do Man United need to make a decision on Carrick's future?",
-          "url": "https://www.espn.com/video/clip/_/id/50282426/do-man-united-need-make-decision-carrick-future",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25.jpg",
-          "publishedUtc": "2026-10-25T23:38:41Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50282328/man-united-howe-nagelsmann-replace-carrick",
-          "title": "Sources: United consider Howe, Nagelsmann to replace under-fire Carrick",
-          "description": "Manchester United are weighing up replacements with Michael Carrick's future as head coach in serious doubt, sources told ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50282328/man-united-howe-nagelsmann-replace-carrick",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736535_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T00:01:40Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50281593/carrick-woes-deepen-bournemouth-smash-united",
-          "title": "Carrick woes deepen as Bournemouth smash United",
-          "description": "The pressure on Michael Carrick continues to grow as Manchester United fall to a dispiriting 3-0 loss to Bournemouth at Old Trafford.",
-          "url": "https://www.espn.com/video/clip/_/id/50281593/carrick-woes-deepen-bournemouth-smash-united",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY.jpg",
-          "publishedUtc": "2026-10-25T22:31:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401878764",
-          "title": "Sunderland stay bottom of PL table after goalless draw with Leeds",
-          "description": "Sunderland and Leeds were forced to share the spoils in a goalless stalemate at the Stadium of Light.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401878764",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736009_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T18:37:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50278421/harry-maguire-man-united-fully-michael-carrick",
-          "title": "Harry Maguire: Man United players are 'fully behind' Michael Carrick",
-          "description": "Harry Maguire has said that he and his teammates are \"fully behind\" Michael Carrick after Manchester United slumped to a 3-0 home defeat to Bournemouth on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50278421/harry-maguire-man-united-fully-michael-carrick",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735998_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T18:09:13Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9616,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:35.951Z",
+      "updatedUtc": "2026-10-27T17:54:00.847Z",
       "matches": [
         {
           "id": "401882843",
@@ -11648,6 +11648,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50295834/why-real-madrid-kylian-mbappe-barcelona-lamine-yamal-lost-ballon-dor-harry-kane",
+          "title": "Why Real Madrid's Mbappé, Barcelona's Yamal lost Ballon d'Or",
+          "description": "Kylian Mbappé and Lamine Yamal both achieved greatness last season, but it still wasn't enough for either of them to claim soccer's top individual prize.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295834/why-real-madrid-kylian-mbappe-barcelona-lamine-yamal-lost-ballon-dor-harry-kane",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736954_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T14:04:11Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
+          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T13:23:18Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50290210/if-clasico-win-indication-jose-mourinho-real-madrid-just-special-again",
           "title": "If Clásico win is any indication, Mourinho's Madrid might just be special again",
           "description": "José Mourinho hasn't hit the ground running in Madrid, but the Clásico win over Barcelona showed that The Special One still has some magic left in him.",
@@ -11658,14 +11678,14 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
-          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T08:45:19Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50295111/real-madrid-kylian-mbappe-chinese-brands-dictator-comment",
+          "title": "Kylian Mbappé dropped by Chinese brands after alleged dictator comment",
+          "description": "Kylian Mbappé's face appears in ads across China, but now companies are cutting ties with him after he made comments apparently referring to Mao Zedong.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295111/real-madrid-kylian-mbappe-chinese-brands-dictator-comment",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0921/r1719974_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T15:57:16Z",
           "source": "ESPN",
-          "transfer": true
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/video/clip/_/id/50291020/sevilla-vs-osasuna-game-highlights",
@@ -11866,26 +11886,6 @@
           "publishedUtc": "2026-10-25T17:17:11Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50277107/athletic-club-vs-getafe-game-highlights",
-          "title": "Athletic Club vs. Getafe - Game Highlights",
-          "description": "Watch the Game Highlights from Athletic Club vs. Getafe, 10/25/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50277107/athletic-club-vs-getafe-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/1af601a9-adb6-4223-848d-0ac939161866/1af601a9-adb6-4223-848d-0ac939161866.jpg",
-          "publishedUtc": "2026-10-25T15:03:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50276655/liverpool-loanee-harvey-elliott-sent-two-yellows-minute",
-          "title": "Liverpool loanee Harvey Elliott sent off for two yellows inside a minute",
-          "description": "Liverpool loanee Harvey Elliott was sent off for two yellow card in under a minute during Valencia's 2-1 defeat to Villareal in LaLiga on Saturday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50276655/liverpool-loanee-harvey-elliott-sent-two-yellows-minute",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735887_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T14:59:57Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -12631,7 +12631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:35.896Z",
+      "updatedUtc": "2026-10-27T17:54:00.756Z",
       "matches": [
         {
           "id": "401874957",
@@ -12890,8 +12890,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
           },
           "venue": "Mapei Stadium, Reggio Emilia",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "note": "23'"
         },
         {
           "id": "401874780",
@@ -14623,6 +14627,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50298045/ac-milan-ruben-amorim-injuries-bologna-match",
+          "title": "Milan boss Ruben Amorim faces injury headache ahead of pre-derby Bologna game",
+          "description": "A growing injury list has left AC Milan head coach Ruben Amorim facing a difficult week leading up to the weekend's derby against Inter Milan.",
+          "url": "https://www.espn.com/soccer/story/_/id/50298045/ac-milan-ruben-amorim-injuries-bologna-match",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737008_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T15:24:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50288088/napoli-appeal-allegri-2-match-ban-insulting-ref",
           "title": "Napoli to appeal Allegri's two-match ban for insulting ref in Roma draw",
           "description": "Napoli have confirmed they will appeal against the two-match ban which was given to boss Massimiliano Allegri following their 3-3 draw with Roma.",
@@ -14851,16 +14865,6 @@
           "publishedUtc": "2026-10-06T20:21:46Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
-          "title": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
-          "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T18:14:16Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -15611,7 +15615,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:35.843Z",
+      "updatedUtc": "2026-10-27T17:54:00.714Z",
       "matches": [
         {
           "id": "401884775",
@@ -17648,7 +17652,7 @@
           "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
           "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T01:48:19Z",
+          "publishedUtc": "2026-10-27T14:04:40Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -17658,7 +17662,7 @@
           "description": "Harry Kane has become the first Englishman to win the Ballon d'Or in 25 years after beating Kylian Mbappé and Lamine Yamal to the award in London on Saturday.",
           "url": "https://www.espn.com/soccer/story/_/id/50236983/harry-kane-2026-ballon-dor-kylian-mbappe-lamine-yamal",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736762_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T00:05:01Z",
+          "publishedUtc": "2026-10-27T15:43:33Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -18619,7 +18623,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:35.815Z",
+      "updatedUtc": "2026-10-27T17:54:00.665Z",
       "matches": [
         {
           "id": "401876446",
@@ -19306,26 +19310,6 @@
           "note": "Scheduled"
         },
         {
-          "id": "401876418",
-          "utc": "2026-10-31T19:45Z",
-          "phase": "2026 27 Ligue 1",
-          "home": {
-            "id": "167",
-            "name": "Lyon",
-            "abbreviation": "LYON",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-          },
-          "away": {
-            "id": "7868",
-            "name": "Angers",
-            "abbreviation": "ANG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-          },
-          "venue": "Groupama Stadium, Lyon",
-          "status": "upcoming",
-          "note": "Scheduled"
-        },
-        {
           "id": "401876413",
           "utc": "2026-10-31T19:45Z",
           "phase": "2026 27 Ligue 1",
@@ -19362,6 +19346,26 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
           },
           "venue": "Stade de la Meinau, Strasbourg",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401876418",
+          "utc": "2026-11-01T16:15Z",
+          "phase": "2026 27 Ligue 1",
+          "home": {
+            "id": "167",
+            "name": "Lyon",
+            "abbreviation": "LYON",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+          },
+          "away": {
+            "id": "7868",
+            "name": "Angers",
+            "abbreviation": "ANG",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
+          },
+          "venue": "Groupama Stadium, Lyon",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -20641,6 +20645,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50297566/psg-khvicha-kvaratskhelia-successful-knee-surgery",
+          "title": "PSG's Khvicha Kvaratskhelia undergoes successful knee surgery",
+          "description": "Khvicha Kvaratskhelia has undergone successful surgery on his serious knee injury, Paris Saint-Germain confirmed.",
+          "url": "https://www.espn.com/soccer/story/_/id/50297566/psg-khvicha-kvaratskhelia-successful-knee-surgery",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717441_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T15:37:31Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50297412/ligue-1-reschedules-matches-public-protests-france",
+          "title": "Ligue 1 reschedules matches amid public protests on streets in France",
+          "description": "Ligue 1 is moving scheduled games from Saturday at the request of public authorities amid weekend protests across the country.",
+          "url": "https://www.espn.com/soccer/story/_/id/50297412/ligue-1-reschedules-matches-public-protests-france",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1019/r1732873_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T14:34:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401876422",
           "title": "PSG beat Lyon in rescheduled match to top Ligue 1",
           "description": "Senny Mayulu and Mika Godts both came off the bench to score late goals as Paris Saint-Germain moved top of Ligue 1 with a 2-0 win over Lyon on Monday.",
@@ -20849,26 +20873,6 @@
           "publishedUtc": "2026-09-20T21:12:31Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49981457/liam-rosenior-taunts-strasbourg-fans-causes-melee-disrespected-my-family",
-          "title": "Liam Rosenior taunts Strasbourg fans, causes melee: 'They disrespected my family'",
-          "description": "Liam Rosenior has caused controversy after he went over to celebrate Paris FC's 2-1 home win over his former club Strasbourg in front of the travelling fans, leading to a physical confrontation between players and staff from both teams.",
-          "url": "https://www.espn.com/soccer/story/_/id/49981457/liam-rosenior-taunts-strasbourg-fans-causes-melee-disrespected-my-family",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0919/r1719062_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-19T19:00:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49975052/usa-folarin-balogun-monaco-transfer-everton",
-          "title": "USMNT's Balogun makes season debut for Monaco after failed transfer",
-          "description": "United States striker Folarin Balogun made his first appearance of the season for AS Monaco in its 2-1 win over Lens on Friday.",
-          "url": "https://www.espn.com/soccer/story/_/id/49975052/usa-folarin-balogun-monaco-transfer-everton",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0918/r1718778_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-18T22:01:19Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -21617,7 +21621,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-27T11:57:35.857Z",
+      "updatedUtc": "2026-10-27T17:54:00.552Z",
       "matches": [
         {
           "id": "401861118",
@@ -24324,6 +24328,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50298641/switzerland-granit-xhaka-breel-embolo-covid-19-documents",
+          "title": "Xhaka, Embolo to return for Switzerland after fake COVID-19 documents case",
+          "description": "Granit Xhaka was restored as captain of Switzerland on Tuesday after missing four games because he admitted using fake vaccination certificates during the COVID-19 pandemic.",
+          "url": "https://www.espn.com/soccer/story/_/id/50298641/switzerland-granit-xhaka-breel-embolo-covid-19-documents",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737043_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T16:32:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50295274/ballon-dor-win-wildest-dreams",
           "title": "Kane: Ballon d'Or win beyond wildest dreams",
           "description": "Kane: Ballon d'Or win beyond wildest dreams",
@@ -24549,16 +24563,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50120362/england-keep-their-winning-mentality",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Nicol_England_must_keep_their_winning_mentality/dm_261006_Nicol_England_must_keep_their_winning_mentality.jpg",
           "publishedUtc": "2026-10-06T22:29:57Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50120290/thomas-tuchel-england-squad-competition-czechia-nations-league",
-          "title": "Thomas Tuchel: Competition for England places stronger than ever",
-          "description": "Thomas Tuchel has said competition for places has never been stronger in his time as England manager after Tuesday's 3-0 win over Czechia at Wembley.",
-          "url": "https://www.espn.com/soccer/story/_/id/50120290/thomas-tuchel-england-squad-competition-czechia-nations-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727031_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T22:23:36Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25309,7 +25313,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T11:57:36.004Z",
+      "updatedUtc": "2026-10-27T17:54:00.915Z",
       "matches": [
         {
           "id": "761871",
@@ -28582,7 +28586,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-27T11:57:35.866Z",
+      "updatedUtc": "2026-10-27T17:54:00.529Z",
       "matches": [
         {
           "id": "760415",
@@ -31966,7 +31970,7 @@
           "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
           "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T01:48:19Z",
+          "publishedUtc": "2026-10-27T14:04:40Z",
           "source": "ESPN",
           "transfer": false
         },
