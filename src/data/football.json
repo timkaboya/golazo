@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-27T04:41:11.664Z",
+  "updatedUtc": "2026-10-27T11:57:36.004Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.391Z",
+      "updatedUtc": "2026-10-27T11:57:35.565Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,6 +2345,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+          "title": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
+          "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T01:48:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50265094/bayern-munich-vincent-kompany-stable-away-weeks-collapsing",
           "title": "Bayern Munich's Vincent Kompany 'stable,' could be away for weeks after collapse",
           "description": "Bayern Munich coach Vincent Kompany will have more tests to determine why he collapsed during a training session the previous day, the club said Saturday.",
@@ -2571,16 +2581,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50242197/draw-damages-bayern-munich-more-arsenal",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Klinsmann3A_Draw_damages_Bayern_Munich_more_than_Arsenal__GLOBAL_2026-10-21/dm_261021_COM_SOC_Analysis_Klinsmann3A_Draw_damages_Bayern_Munich_more_than_Arsenal__GLOBAL_2026-10-21.jpg",
           "publishedUtc": "2026-10-22T00:35:41Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50242191/real-madrid-quality-top-was-too-much-rb-leipzig",
-          "title": "Robson: Real Madrid's quality up top was too much for RB Leipzig",
-          "description": "Robson: Real Madrid's quality up top was too much for RB Leipzig",
-          "url": "https://www.espn.com/video/clip/_/id/50242191/real-madrid-quality-top-was-too-much-rb-leipzig",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Robson3A_Real_MadridE28099s_quality_up_top_was_too_much_for_RB_Leipzig_GLOBAL_2026-10-2/dm_261021_COM_SOC_Analysis_Robson3A_Real_MadridE28099s_quality_up_top_was_too_much_for_RB_Leipzig_GLOBAL_2026-10-2.jpg",
-          "publishedUtc": "2026-10-21T22:28:54Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.370Z",
+      "updatedUtc": "2026-10-27T11:57:35.679Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.556Z",
+      "updatedUtc": "2026-10-27T11:57:35.778Z",
       "matches": [
         {
           "id": "401879253",
@@ -8632,6 +8632,56 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
+          "title": "Man United tight-lipped with Carrick back at Carrington on Tuesday",
+          "description": "Michael Carrick has taken first-team training at Manchester United Tuesday despite ongoing uncertainty over his future as manager at Old Trafford.",
+          "url": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736508_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T11:20:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/espn/story/_/id/50295832/alex-iwobi-equals-mohamed-salah-premier-league-appearance-mark-closes-toures",
+          "title": "Alex Iwobi equals Mohamed Salah's Premier League appearance mark, closes in on Toure's",
+          "description": "Nigeria midfielder Alex Iwobi has drawn level with Egypt's Mohamed Salah as the African player with the second-most appearances in Premier League history, a mark that puts the Nigerian just 25 games short of holder Kolo Toure.",
+          "url": "https://www.espn.com/espn/story/_/id/50295832/alex-iwobi-equals-mohamed-salah-premier-league-appearance-mark-closes-toures",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736913_3_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T10:33:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
+          "title": "Ranked: Every Premier League team's money-per-points (after Man City cheated)",
+          "description": "How much did Premier League teams spend for points -- after Man City cheated? We find out which clubs were wasteful and which spent smart.",
+          "url": "https://www.espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
+          "imageUrl": "https://a.espncdn.com/photo/2024/0521/r1335942_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T08:49:20Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
+          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T08:45:19Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/espn/story/_/id/50295147/is-too-soon-chelsea-regret-getting-rid-aston-villa-nicolas-jackson",
+          "title": "Is it too soon for Chelsea to regret getting rid of Aston Villa's Nicolas Jackson?",
+          "description": "Nicolas Jackson scored twice to beat Manchester City 2-1 this past weekend, ending their perfect start to the Premier League season while hauling Villa up the table after a slow start.",
+          "url": "https://www.espn.com/espn/story/_/id/50295147/is-too-soon-chelsea-regret-getting-rid-aston-villa-nicolas-jackson",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735387_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T07:59:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
           "title": "Manchester City charges: Features, explainers, what's next after guilty verdict",
           "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
@@ -8647,7 +8697,7 @@
           "description": "Harry Kane thanked Tottenham for helping him fulfil his dreams and paid tribute to his international teammates after becoming the first Englishman in 25 years to win the Ballon d'Or.",
           "url": "https://www.espn.com/soccer/story/_/id/50292020/harry-kane-tottenham-england-thomas-tuchel-ballon-dor",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736751_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T23:58:01Z",
+          "publishedUtc": "2026-10-27T08:50:59Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8658,16 +8708,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50291823/who-replace-carrick-sacked-manchester-united-head-coach",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_COM_SOC_Analysis_Who_will_replace_Carrick_if_heE28099s_sacked_as_Manchester_United_head_coach3F_GLOBAL_2/dm_261026_COM_SOC_Analysis_Who_will_replace_Carrick_if_heE28099s_sacked_as_Manchester_United_head_coach3F_GLOBAL_2.jpg",
           "publishedUtc": "2026-10-26T23:21:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
-          "title": "Man United tight-lipped after Carrick's Monday visit to Carrington",
-          "description": "Michael Carrick has left Carrington after Manchester United chief executive Omar Berrada and director of football Jason Wilcox held talks over his future.",
-          "url": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736508_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T00:33:35Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8828,46 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50278421/harry-maguire-man-united-fully-michael-carrick",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735998_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-25T18:09:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50278357/brighton-fabian-hurzeler-digs-liverpool-one-team-tried-create",
-          "title": "Brighton's Fabian Hürzeler digs at Liverpool - 'one team' tried to create",
-          "description": "Brighton & Hove Albion boss Fabian Hurzeler appeared to take a swipe at Liverpool's approach in their 2-0 win over his side at Anfield, claiming there was \"one team\" who tried to create.",
-          "url": "https://www.espn.com/soccer/story/_/id/50278357/brighton-fabian-hurzeler-digs-liverpool-one-team-tried-create",
-          "imageUrl": "https://a.espncdn.com/photo/2025/0315/r1464558_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T18:37:18Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50278354/manchester-united-stuck-their-underperforming-players-no-matter-whos-manager",
-          "title": "Man United are stuck with their underperforming players no matter who's manager",
-          "description": "Man United can dismiss Michael Carrick, but whoever replaces him will face the same problems: a squad that continues to fail the club and its fans.",
-          "url": "https://www.espn.com/soccer/story/_/id/50278354/manchester-united-stuck-their-underperforming-players-no-matter-whos-manager",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735997_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T13:23:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50278114/michael-carrick-unsure-man-united-future-bournemouth",
-          "title": "Michael Carrick unsure on Man United future after wretched Bournemouth defeat",
-          "description": "Manager Michael Carrick admitted he's in the dark over his future after Manchester United were thrashed by Bournemouth on Sunday to leave him on the brink of the sack at Old Trafford.",
-          "url": "https://www.espn.com/soccer/story/_/id/50278114/michael-carrick-unsure-man-united-future-bournemouth",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735977_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T18:20:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50278246/gary-neville-michael-carrick-exit-probably-necessary-manchester-united",
-          "title": "Gary Neville: Michael Carrick exit 'probably necessary' for Man United",
-          "description": "Gary Neville said Michael Carrick's departure from Manchester United is \"probably necessary\" with the club in an \"absolute mess\".",
-          "url": "https://www.espn.com/soccer/story/_/id/50278246/gary-neville-michael-carrick-exit-probably-necessary-manchester-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735996_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T18:10:09Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9616,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.600Z",
+      "updatedUtc": "2026-10-27T11:57:35.951Z",
       "matches": [
         {
           "id": "401882843",
@@ -11648,6 +11648,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50290210/if-clasico-win-indication-jose-mourinho-real-madrid-just-special-again",
+          "title": "If Clásico win is any indication, Mourinho's Madrid might just be special again",
+          "description": "José Mourinho hasn't hit the ground running in Madrid, but the Clásico win over Barcelona showed that The Special One still has some magic left in him.",
+          "url": "https://www.espn.com/soccer/story/_/id/50290210/if-clasico-win-indication-jose-mourinho-real-madrid-just-special-again",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736644_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T08:53:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
+          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T08:45:19Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50291020/sevilla-vs-osasuna-game-highlights",
           "title": "Sevilla vs. Osasuna - Game Highlights",
           "description": "Watch the Game Highlights from Sevilla vs. Osasuna, 10/27/2026",
@@ -11866,26 +11886,6 @@
           "publishedUtc": "2026-10-25T14:59:57Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
-          "title": "As Anthony Gordon prepares for El Clásico debut, how have other British stars fared?",
-          "description": "As Anthony Gordon prepares for his first El Clásico, we look at how other British stars got on in this storied fixture.",
-          "url": "https://www.espn.com/soccer/story/_/id/50239093/anthony-gordon-el-clasico-debut-barcelona-real-madrid",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734933_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T12:07:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50272689/alex-freeman-adding-banner-2026-goal",
-          "title": "Alex Freeman adding to banner 2026 with goal",
-          "description": "See why Alex Freeman is adding to his stellar year with another sensational goal.",
-          "url": "https://www.espn.com/video/clip/_/id/50272689/alex-freeman-adding-banner-2026-goal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_USMNT_FREEMAN/dm_261024_USMNT_FREEMAN.jpg",
-          "publishedUtc": "2026-10-25T01:54:18Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -12143,6 +12143,18 @@
             "assists": 1
           },
           {
+            "id": "365821",
+            "name": "Isaac Romero",
+            "team": {
+              "id": "243",
+              "name": "Sevilla",
+              "abbreviation": "SEV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
             "id": "300912",
             "name": "Abde Ezzalzouli",
             "team": {
@@ -12235,19 +12247,6 @@
               "abbreviation": "RMA",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
             },
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "336809",
-            "name": "Cucho Hernández",
-            "team": {
-              "id": "244",
-              "name": "Real Betis",
-              "abbreviation": "BET",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/336809.png",
             "goals": 2,
             "assists": 2
           }
@@ -12405,6 +12404,18 @@
               "name": "Real Madrid",
               "abbreviation": "RMA",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+            },
+            "goals": 1,
+            "assists": 3
+          },
+          {
+            "id": "277307",
+            "name": "Youssouf Fofana",
+            "team": {
+              "id": "243",
+              "name": "Sevilla",
+              "abbreviation": "SEV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
             },
             "goals": 1,
             "assists": 3
@@ -12601,18 +12612,6 @@
             },
             "goals": 2,
             "assists": 2
-          },
-          {
-            "id": "402479",
-            "name": "Yan Diomande",
-            "team": {
-              "id": "86",
-              "name": "Real Madrid",
-              "abbreviation": "RMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-            },
-            "goals": 2,
-            "assists": 2
           }
         ]
       }
@@ -12632,7 +12631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.518Z",
+      "updatedUtc": "2026-10-27T11:57:35.896Z",
       "matches": [
         {
           "id": "401874957",
@@ -15612,7 +15611,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.479Z",
+      "updatedUtc": "2026-10-27T11:57:35.843Z",
       "matches": [
         {
           "id": "401884775",
@@ -17634,6 +17633,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50295274/ballon-dor-win-wildest-dreams",
+          "title": "Kane: Ballon d'Or win beyond wildest dreams",
+          "description": "Kane: Ballon d'Or win beyond wildest dreams",
+          "url": "https://www.espn.com/video/clip/_/id/50295274/ballon-dor-win-wildest-dreams",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Presser_Kane_Ballon_dOr_win_beyond_wildest_dreams_20261027_GLOBAL/dm_261027_COM_SOC_Presser_Kane_Ballon_dOr_win_beyond_wildest_dreams_20261027_GLOBAL.jpg",
+          "publishedUtc": "2026-10-27T08:32:23Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
           "title": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
           "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
@@ -17862,16 +17871,6 @@
           "publishedUtc": "2026-10-09T10:49:13Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50123519/england-teammates-praise-kane-definitely-possible-win-ballon-dor",
-          "title": "England teammates praise Kane, 'it's definitely possible' he could win the Ballon d'Or",
-          "description": "England teammates praise Kane, 'it's definitely possible' he could win the Ballon d'Or",
-          "url": "https://www.espn.com/video/clip/_/id/50123519/england-teammates-praise-kane-definitely-possible-win-ballon-dor",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_England_teammates_praise_Kane_its_definitely_possible_he_could_win_the_Ballon_dOr/dm_261007_England_teammates_praise_Kane_its_definitely_possible_he_could_win_the_Ballon_dOr.jpg",
-          "publishedUtc": "2026-10-07T08:48:11Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -18620,7 +18619,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.437Z",
+      "updatedUtc": "2026-10-27T11:57:35.815Z",
       "matches": [
         {
           "id": "401876446",
@@ -19267,28 +19266,8 @@
           "note": "Scheduled"
         },
         {
-          "id": "401876420",
-          "utc": "2026-10-30T20:05Z",
-          "phase": "2026 27 Ligue 1",
-          "home": {
-            "id": "166",
-            "name": "Lille",
-            "abbreviation": "LILL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
-          },
-          "away": {
-            "id": "175",
-            "name": "Lens",
-            "abbreviation": "RCL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
-          },
-          "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
-          "status": "upcoming",
-          "note": "Scheduled"
-        },
-        {
           "id": "401876416",
-          "utc": "2026-10-31T16:15Z",
+          "utc": "2026-10-30T18:00Z",
           "phase": "2026 27 Ligue 1",
           "home": {
             "id": "2502",
@@ -19307,22 +19286,22 @@
           "note": "Scheduled"
         },
         {
-          "id": "401876419",
-          "utc": "2026-10-31T19:45Z",
+          "id": "401876420",
+          "utc": "2026-10-30T20:05Z",
           "phase": "2026 27 Ligue 1",
           "home": {
-            "id": "273",
-            "name": "Lorient",
-            "abbreviation": "LOR",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+            "id": "166",
+            "name": "Lille",
+            "abbreviation": "LILL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
           },
           "away": {
-            "id": "6997",
-            "name": "Brest",
-            "abbreviation": "BRE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+            "id": "175",
+            "name": "Lens",
+            "abbreviation": "RCL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
           },
-          "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
+          "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -19423,6 +19402,26 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
           },
           "venue": "Stade Vélodrome, Marseille",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401876419",
+          "utc": "2026-11-02T19:45Z",
+          "phase": "2026 27 Ligue 1",
+          "home": {
+            "id": "273",
+            "name": "Lorient",
+            "abbreviation": "LOR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+          },
+          "away": {
+            "id": "6997",
+            "name": "Brest",
+            "abbreviation": "BRE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+          },
+          "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -21442,6 +21441,18 @@
             "assists": 2
           },
           {
+            "id": "353363",
+            "name": "Mika Godts",
+            "team": {
+              "id": "160",
+              "name": "Paris Saint-Germain",
+              "abbreviation": "PSG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "229744",
             "name": "Ousmane Dembélé",
             "team": {
@@ -21587,18 +21598,6 @@
             },
             "goals": 0,
             "assists": 2
-          },
-          {
-            "id": "303787",
-            "name": "Sebastian Nanasi",
-            "team": {
-              "id": "180",
-              "name": "Strasbourg",
-              "abbreviation": "STR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
-            },
-            "goals": 0,
-            "assists": 2
           }
         ]
       }
@@ -21618,7 +21617,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-27T04:41:11.342Z",
+      "updatedUtc": "2026-10-27T11:57:35.857Z",
       "matches": [
         {
           "id": "401861118",
@@ -24325,6 +24324,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50295274/ballon-dor-win-wildest-dreams",
+          "title": "Kane: Ballon d'Or win beyond wildest dreams",
+          "description": "Kane: Ballon d'Or win beyond wildest dreams",
+          "url": "https://www.espn.com/video/clip/_/id/50295274/ballon-dor-win-wildest-dreams",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Presser_Kane_Ballon_dOr_win_beyond_wildest_dreams_20261027_GLOBAL/dm_261027_COM_SOC_Presser_Kane_Ballon_dOr_win_beyond_wildest_dreams_20261027_GLOBAL.jpg",
+          "publishedUtc": "2026-10-27T08:32:23Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50291678/why-harry-kane-was-rightful-winner-ballon-dor",
           "title": "Why Harry Kane was the rightful winner of the Ballon d'Or",
           "description": "Why Harry Kane was the rightful winner of the Ballon d'Or",
@@ -24552,16 +24561,6 @@
           "publishedUtc": "2026-10-06T22:23:36Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50119771/englands-uefa-nations-league-takeaways-harry-kane-makes-history-thomas-tuchel-steadies-ship",
-          "title": "England's Nations League takeaways: Kane makes history, Tuchel steadies ship",
-          "description": "England bounced back from defeat to Spain with three straight wins, giving Thomas Tuchel plenty to build on as the Nations League heads toward a decisive November window.",
-          "url": "https://www.espn.com/soccer/story/_/id/50119771/englands-uefa-nations-league-takeaways-harry-kane-makes-history-thomas-tuchel-steadies-ship",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726999_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T22:07:34Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -25310,7 +25309,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T04:41:11.664Z",
+      "updatedUtc": "2026-10-27T11:57:36.004Z",
       "matches": [
         {
           "id": "761871",
@@ -27581,6 +27580,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/espn/story/_/id/50285674/bafana-boss-pitso-mosimane-latest-south-africa-squad-shows-favouritism-fears-were-unfounded",
+          "title": "Bafana boss Pitso Mosimane's latest South Africa squad shows favouritism fears were unfounded",
+          "description": "Mosimane has made several changes from his first preliminary squad, which he announced almost immediately after taking charge at the beginning of September.",
+          "url": "https://www.espn.com/espn/story/_/id/50285674/bafana-boss-pitso-mosimane-latest-south-africa-squad-shows-favouritism-fears-were-unfounded",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736386_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T07:10:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50290177/lionel-messi-watches-messi-cup",
           "title": "Lionel Messi watches on at the Messi Cup",
           "description": "Lionel Messi watches on at the Messi Cup",
@@ -27607,16 +27616,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50285261/mls-power-rankings-revs-jump-eight-places-playoffs-loom",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736378_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-26T13:00:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/espn/story/_/id/50285674/bafana-boss-pitso-mosimane-latest-south-africa-squad-shows-favouritism-fears-were-unfounded",
-          "title": "Bafana boss Pitso Mosimane's latest South Africa squad shows favouritism fears were unfounded",
-          "description": "Mosimane has made several changes from his first preliminary squad, which he announced almost immediately after taking charge at the beginning of September.",
-          "url": "https://www.espn.com/espn/story/_/id/50285674/bafana-boss-pitso-mosimane-latest-south-africa-squad-shows-favouritism-fears-were-unfounded",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736386_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T08:36:59Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -28583,7 +28582,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-27T04:41:11.318Z",
+      "updatedUtc": "2026-10-27T11:57:35.866Z",
       "matches": [
         {
           "id": "760415",
