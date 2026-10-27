@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-26T23:42:14.496Z",
+  "updatedUtc": "2026-10-27T04:41:11.664Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.188Z",
+      "updatedUtc": "2026-10-27T04:41:11.391Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.118Z",
+      "updatedUtc": "2026-10-27T04:41:11.370Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.375Z",
+      "updatedUtc": "2026-10-27T04:41:11.556Z",
       "matches": [
         {
           "id": "401879253",
@@ -8632,6 +8632,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+          "title": "Manchester City charges: Features, explainers, what's next after guilty verdict",
+          "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
+          "url": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T01:07:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50292020/harry-kane-tottenham-england-thomas-tuchel-ballon-dor",
+          "title": "Harry Kane thanks Tottenham, pays tribute to England after Ballon d'Or win",
+          "description": "Harry Kane thanked Tottenham for helping him fulfil his dreams and paid tribute to his international teammates after becoming the first Englishman in 25 years to win the Ballon d'Or.",
+          "url": "https://www.espn.com/soccer/story/_/id/50292020/harry-kane-tottenham-england-thomas-tuchel-ballon-dor",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736751_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-26T23:58:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50291823/who-replace-carrick-sacked-manchester-united-head-coach",
           "title": "Who will replace Carrick if he's sacked as Manchester United head coach?",
           "description": "Who will replace Carrick if he's sacked as Manchester United head coach?",
@@ -8643,11 +8663,11 @@
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
-          "title": "Man United head coach Michael Carrick leaves Carrington amid doubts over his future",
+          "title": "Man United tight-lipped after Carrick's Monday visit to Carrington",
           "description": "Michael Carrick has left Carrington after Manchester United chief executive Omar Berrada and director of football Jason Wilcox held talks over his future.",
           "url": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736508_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T20:45:49Z",
+          "publishedUtc": "2026-10-27T00:33:35Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8777,7 +8797,7 @@
           "description": "Manchester United are weighing up replacements with Michael Carrick's future as head coach in serious doubt, sources told ESPN.",
           "url": "https://www.espn.com/soccer/story/_/id/50282328/man-united-howe-nagelsmann-replace-carrick",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736535_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T16:48:58Z",
+          "publishedUtc": "2026-10-27T00:01:40Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8848,26 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50278246/gary-neville-michael-carrick-exit-probably-necessary-manchester-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735996_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-25T18:10:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50278243/not-expecting-lose-my-job",
-          "title": "Carrick: I'm not expecting to lose my job",
-          "description": "Carrick: I'm not expecting to lose my job",
-          "url": "https://www.espn.com/video/clip/_/id/50278243/not-expecting-lose-my-job",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_PRESSER_Carrick_Im_not_expecting_to_lose_my_job__2026_10_25/dm_261025_COM_SOC_PRESSER_Carrick_Im_not_expecting_to_lose_my_job__2026_10_25.jpg",
-          "publishedUtc": "2026-10-25T17:51:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50277814/iraola-era-liverpool-lift-thanks-big-money-forwards",
-          "title": "Iraola era at Liverpool finally has liftoff thanks to big-money forwards",
-          "description": "Two years ago, the Arne Slot project took off with a win over Brighton. Has the same thing just happened for Andoni Iraola?",
-          "url": "https://www.espn.com/soccer/story/_/id/50277814/iraola-era-liverpool-lift-thanks-big-money-forwards",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1735899_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T17:50:41Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9616,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.437Z",
+      "updatedUtc": "2026-10-27T04:41:11.600Z",
       "matches": [
         {
           "id": "401882843",
@@ -12632,7 +12632,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.290Z",
+      "updatedUtc": "2026-10-27T04:41:11.518Z",
       "matches": [
         {
           "id": "401874957",
@@ -15612,7 +15612,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.341Z",
+      "updatedUtc": "2026-10-27T04:41:11.479Z",
       "matches": [
         {
           "id": "401884775",
@@ -17634,6 +17634,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+          "title": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
+          "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T01:48:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50236983/harry-kane-2026-ballon-dor-kylian-mbappe-lamine-yamal",
+          "title": "Harry Kane wins 2026 Ballon d'Or ahead of Kylian Mbappé, Lamine Yamal; first Englishman in 25 years",
+          "description": "Harry Kane has become the first Englishman to win the Ballon d'Or in 25 years after beating Kylian Mbappé and Lamine Yamal to the award in London on Saturday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50236983/harry-kane-2026-ballon-dor-kylian-mbappe-lamine-yamal",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736762_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T00:05:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50291678/why-harry-kane-was-rightful-winner-ballon-dor",
+          "title": "Why Harry Kane was the rightful winner of the Ballon d'Or",
+          "description": "Why Harry Kane was the rightful winner of the Ballon d'Or",
+          "url": "https://www.espn.com/video/clip/_/id/50291678/why-harry-kane-was-rightful-winner-ballon-dor",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_COM_SOC_Analysis_Why_Harry_Kane_was_the_rightful_winner_of_the_Ballon_dOr_20261026_GLOBAL/dm_261026_COM_SOC_Analysis_Why_Harry_Kane_was_the_rightful_winner_of_the_Ballon_dOr_20261026_GLOBAL.jpg",
+          "publishedUtc": "2026-10-26T23:08:43Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50291642/harry-kane-crowned-2026-men-ballon-dor-winner",
+          "title": "Harry Kane is crowned the 2026 Men's Ballon d'Or winner",
+          "description": "Harry Kane is crowned the 2026 Men's Ballon d'Or winner",
+          "url": "https://www.espn.com/video/clip/_/id/50291642/harry-kane-crowned-2026-men-ballon-dor-winner",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_COM_SOC_Analysis_Harry_Kane_is_crowned_t1209/dm_261026_COM_SOC_Analysis_Harry_Kane_is_crowned_t1209.jpg",
+          "publishedUtc": "2026-10-27T00:09:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
           "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
           "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
@@ -17830,36 +17870,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50123519/england-teammates-praise-kane-definitely-possible-win-ballon-dor",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_England_teammates_praise_Kane_its_definitely_possible_he_could_win_the_Ballon_dOr/dm_261007_England_teammates_praise_Kane_its_definitely_possible_he_could_win_the_Ballon_dOr.jpg",
           "publishedUtc": "2026-10-07T08:48:11Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
-          "title": "Tuchel: There are no words left to describe Kane",
-          "description": "Tuchel: There are no words left to describe Kane",
-          "url": "https://www.espn.com/video/clip/_/id/50109199/there-no-words-left-describe-kane",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane/dm_261005_Tuchel_There_are_no_words_left_to_describe_Kane.jpg",
-          "publishedUtc": "2026-10-05T13:50:37Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
-          "title": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
-          "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-04T18:14:16Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-          "title": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-          "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-          "url": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-          "imageUrl": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-12T13:39:08Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18610,7 +18620,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.251Z",
+      "updatedUtc": "2026-10-27T04:41:11.437Z",
       "matches": [
         {
           "id": "401876446",
@@ -20636,7 +20646,8 @@
           "title": "PSG beat Lyon in rescheduled match to top Ligue 1",
           "description": "Senny Mayulu and Mika Godts both came off the bench to score late goals as Paris Saint-Germain moved top of Ligue 1 with a 2-0 win over Lyon on Monday.",
           "url": "http://www.espn.com/soccer/report/_/gameId/401876422",
-          "publishedUtc": "2026-10-26T21:40:01Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736692_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-26T22:12:05Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -21607,7 +21618,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-26T23:42:14.161Z",
+      "updatedUtc": "2026-10-27T04:41:11.342Z",
       "matches": [
         {
           "id": "401861118",
@@ -24314,6 +24325,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50291678/why-harry-kane-was-rightful-winner-ballon-dor",
+          "title": "Why Harry Kane was the rightful winner of the Ballon d'Or",
+          "description": "Why Harry Kane was the rightful winner of the Ballon d'Or",
+          "url": "https://www.espn.com/video/clip/_/id/50291678/why-harry-kane-was-rightful-winner-ballon-dor",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_COM_SOC_Analysis_Why_Harry_Kane_was_the_rightful_winner_of_the_Ballon_dOr_20261026_GLOBAL/dm_261026_COM_SOC_Analysis_Why_Harry_Kane_was_the_rightful_winner_of_the_Ballon_dOr_20261026_GLOBAL.jpg",
+          "publishedUtc": "2026-10-26T23:08:43Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50291642/harry-kane-crowned-2026-men-ballon-dor-winner",
+          "title": "Harry Kane is crowned the 2026 Men's Ballon d'Or winner",
+          "description": "Harry Kane is crowned the 2026 Men's Ballon d'Or winner",
+          "url": "https://www.espn.com/video/clip/_/id/50291642/harry-kane-crowned-2026-men-ballon-dor-winner",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_COM_SOC_Analysis_Harry_Kane_is_crowned_t1209/dm_261026_COM_SOC_Analysis_Harry_Kane_is_crowned_t1209.jpg",
+          "publishedUtc": "2026-10-27T00:09:40Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50265810/how-teams-stop-erling-haaland",
           "title": "How can teams stop Erling Haaland?",
           "description": "How can teams stop Erling Haaland?",
@@ -24531,26 +24562,6 @@
           "publishedUtc": "2026-10-06T22:07:34Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50119999/international-break-too-much-players",
-          "title": "Hislop: International break has been 'too much' for players",
-          "description": "Hislop: International break has been 'too much' for players",
-          "url": "https://www.espn.com/video/clip/_/id/50119999/international-break-too-much-players",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_International_break_has_been_too_much_for_players/dm_261006_Hislop_International_break_has_been_too_much_for_players.jpg",
-          "publishedUtc": "2026-10-06T22:30:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50119334/harry-kane-england-czechia-nationsl-league-goals-record",
-          "title": "Harry Kane reaches new milestones in landmark England outing",
-          "description": "Harry Kane scored twice to take his international goal tally to 91 as he made a record-tying 125th England appearance in Tuesday's 3-0 win over Czechia at Wembley.",
-          "url": "https://www.espn.com/soccer/story/_/id/50119334/harry-kane-england-czechia-nationsl-league-goals-record",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726974_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T16:15:56Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -25299,7 +25310,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-26T23:42:14.496Z",
+      "updatedUtc": "2026-10-27T04:41:11.664Z",
       "matches": [
         {
           "id": "761871",
@@ -28572,7 +28583,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-26T23:42:14.141Z",
+      "updatedUtc": "2026-10-27T04:41:11.318Z",
       "matches": [
         {
           "id": "760415",
@@ -31951,6 +31962,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+          "title": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
+          "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
+          "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T01:48:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50290177/lionel-messi-watches-messi-cup",
           "title": "Lionel Messi watches on at the Messi Cup",
           "description": "Lionel Messi watches on at the Messi Cup",
@@ -32147,16 +32168,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
           "imageUrl": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
           "publishedUtc": "2026-10-21T17:12:04Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50120434/messi-world-cup-final-run-underlines-legacy",
-          "title": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-          "description": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-          "url": "https://www.espn.com/video/clip/_/id/50120434/messi-world-cup-final-run-underlines-legacy",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy.jpg",
-          "publishedUtc": "2026-10-06T22:29:48Z",
           "source": "ESPN",
           "transfer": false
         }
