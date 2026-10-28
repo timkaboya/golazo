@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-28T12:35:25.985Z",
+  "updatedUtc": "2026-10-28T19:25:39.928Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.644Z",
+      "updatedUtc": "2026-10-28T19:25:39.090Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.685Z",
+      "updatedUtc": "2026-10-28T19:25:39.227Z",
       "matches": [
         {
           "id": "401915560",
@@ -3958,6 +3958,26 @@
           "note": "FT"
         },
         {
+          "id": "401915551",
+          "utc": "2026-11-04T15:30Z",
+          "phase": "League Phase",
+          "home": {
+            "id": "169",
+            "name": "Rennes",
+            "abbreviation": "REN",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+          },
+          "away": {
+            "id": "435",
+            "name": "Olympiacos",
+            "abbreviation": "OLY",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+          },
+          "venue": "Roazhon Park, Rennes",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
           "id": "401915534",
           "utc": "2026-11-05T17:45Z",
           "phase": "League Phase",
@@ -4114,26 +4134,6 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
           },
           "venue": "Generali Arena, Prague",
-          "status": "upcoming",
-          "note": "Scheduled"
-        },
-        {
-          "id": "401915551",
-          "utc": "2026-11-05T17:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "169",
-            "name": "Rennes",
-            "abbreviation": "REN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-          },
-          "away": {
-            "id": "435",
-            "name": "Olympiacos",
-            "abbreviation": "OLY",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
-          },
-          "venue": "Roazhon Park, Rennes",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -5659,6 +5659,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50307450/uefa-moves-europa-league-game-date-rennes-protests",
+          "title": "UEFA moves Europa League game date in Rennes amid protests",
+          "description": "The prospect of a general strike in France next week amid national protests has pushed UEFA to change a Europa League match date in Rennes.",
+          "url": "https://www.espn.com/soccer/story/_/id/50307450/uefa-moves-europa-league-game-date-rennes-protests",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732486_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T13:45:33Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50259678/ac-milan-mike-maignan-red-card-racist-abuse-bournemouth",
           "title": "AC Milan condemn racist abuse of Mike Maignan after red card vs. Bournemouth",
           "description": "AC Milan have condemned what they called \"serious and unacceptable racist abuse\" directed at goalkeeper Mike Maignan on social media following his red card in Thursday's Europa League loss to Bournemouth.",
@@ -5874,16 +5884,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49968164/marco-rose-proud-bournemouth-football-european-debut-win-real-sociedad",
           "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1718306_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-17T22:50:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915583",
-          "title": "Bournemouth make statement in European debut ",
-          "description": "First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915583",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0917/r1718259_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-17T21:16:45Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.927Z",
+      "updatedUtc": "2026-10-28T19:25:39.220Z",
       "matches": [
         {
           "id": "401879253",
@@ -8632,12 +8632,12 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/video/clip/_/id/50305840/joao-pedro-not-ready-next-games",
-          "title": "Alonso: João Pedro 'not ready for the next games'",
-          "description": "Alonso: João Pedro 'not ready for the next games'",
-          "url": "https://www.espn.com/video/clip/_/id/50305840/joao-pedro-not-ready-next-games",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/dm_261028_Alonso_Joao_Pedro_not_ready_for_the_next_games/dm_261028_Alonso_Joao_Pedro_not_ready_for_the_next_games.jpg",
-          "publishedUtc": "2026-10-28T08:45:20Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
+          "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
+          "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes have held clear-the-air talks.",
+          "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T16:16:52Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8647,9 +8647,19 @@
           "description": "Paris Saint-Germain winger Désiré Doué is being watched by three Premier League clubs and Bayern Munich. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730790_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T08:30:14Z",
+          "publishedUtc": "2026-10-28T12:01:41Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50305840/joao-pedro-not-ready-next-games",
+          "title": "Alonso: João Pedro 'not ready for the next games'",
+          "description": "Alonso: João Pedro 'not ready for the next games'",
+          "url": "https://www.espn.com/video/clip/_/id/50305840/joao-pedro-not-ready-next-games",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/dm_261028_Alonso_Joao_Pedro_not_ready_for_the_next_games/dm_261028_Alonso_Joao_Pedro_not_ready_for_the_next_games.jpg",
+          "publishedUtc": "2026-10-28T08:45:20Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/49637958/arteta-alonso-iraola-tiny-basque-club-shaped-premier-league-top-bosses",
@@ -8858,16 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50287279/man-united-crisis-again-where-glazers",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736473_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-26T14:55:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-26T13:29:44Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9616,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.880Z",
+      "updatedUtc": "2026-10-28T19:25:39.417Z",
       "matches": [
         {
           "id": "401882843",
@@ -11648,12 +11648,22 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50306327/barcelona-fined-julian-alvarez-approach-atletico-madrid",
+          "title": "Barcelona fined €602 over Julián Álvarez approach",
+          "description": "Barcelona have been fined €602 ($669) by the Royal Spanish Football Federation [RFEF] for approaching Julián Álvarez before notifying Atlético Madrid of their interest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50306327/barcelona-fined-julian-alvarez-approach-atletico-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737418_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T16:59:18Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50306336/laliga-chief-javier-tebas-holds-crisis-talks-chinese-ambassador-mbappe-mao-controversy",
           "title": "LaLiga chief Javier Tebas holds talks with Chinese ambassador over Mbappé-Mao controversy",
           "description": "LaLiga president Javier Tebas has met with China's Ambassador to Spain, Yao Jing, to \"find solutions\" to the Kylian Mbappé alleged dictator comment.",
           "url": "https://www.espn.com/soccer/story/_/id/50306336/laliga-chief-javier-tebas-holds-crisis-talks-chinese-ambassador-mbappe-mao-controversy",
           "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737420_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T10:38:03Z",
+          "publishedUtc": "2026-10-28T17:43:48Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11874,16 +11884,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401882832",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736144_1024x576_16-9.jpg",
           "publishedUtc": "2026-10-25T22:13:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50246032/kylian-mbappe-scores-100th-goal-real-madrid-dramatic-clasico-win",
-          "title": "Kylian Mbappé scores 100th goal for Real Madrid in dramatic Clásico win",
-          "description": "Kylian Mbappé has scored his 100th goal for Real Madrid.",
-          "url": "https://www.espn.com/soccer/story/_/id/50246032/kylian-mbappe-scores-100th-goal-real-madrid-dramatic-clasico-win",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736100_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T23:26:54Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12631,7 +12631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.782Z",
+      "updatedUtc": "2026-10-28T19:25:39.357Z",
       "matches": [
         {
           "id": "401874957",
@@ -12962,8 +12962,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
           },
           "venue": "San Siro, Milano",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "note": "FT"
         },
         {
           "id": "401874965",
@@ -12982,8 +12986,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
           },
           "venue": "Ennio Tardini, Parma",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401874773",
@@ -13002,8 +13010,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
           },
           "venue": "Stadio Pier Luigi Penzo, Venezia",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401874988",
@@ -14292,12 +14304,29 @@
           "rows": [
             {
               "team": {
+                "id": "110",
+                "name": "Inter Milan",
+                "abbreviation": "INT",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+              },
+              "rank": 1,
+              "played": 9,
+              "won": 8,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 25,
+              "ga": 10,
+              "gd": 15,
+              "points": 25
+            },
+            {
+              "team": {
                 "id": "112",
                 "name": "Lazio",
                 "abbreviation": "LAZ",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
               },
-              "rank": 1,
+              "rank": 2,
               "played": 9,
               "won": 8,
               "drawn": 1,
@@ -14306,23 +14335,6 @@
               "ga": 7,
               "gd": 15,
               "points": 25
-            },
-            {
-              "team": {
-                "id": "110",
-                "name": "Inter Milan",
-                "abbreviation": "INT",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-              },
-              "rank": 2,
-              "played": 8,
-              "won": 7,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 23,
-              "ga": 10,
-              "gd": 13,
-              "points": 22
             },
             {
               "team": {
@@ -14366,13 +14378,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
               },
               "rank": 5,
-              "played": 8,
+              "played": 9,
               "won": 5,
               "drawn": 3,
-              "lost": 0,
-              "gf": 16,
-              "ga": 7,
-              "gd": 9,
+              "lost": 1,
+              "gf": 18,
+              "ga": 11,
+              "gd": 7,
               "points": 18
             },
             {
@@ -14462,12 +14474,29 @@
             },
             {
               "team": {
+                "id": "107",
+                "name": "Bologna",
+                "abbreviation": "BOL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+              },
+              "rank": 11,
+              "played": 9,
+              "won": 3,
+              "drawn": 2,
+              "lost": 4,
+              "gf": 12,
+              "ga": 12,
+              "gd": 0,
+              "points": 11
+            },
+            {
+              "team": {
                 "id": "105",
                 "name": "Atalanta",
                 "abbreviation": "ATA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
               },
-              "rank": 11,
+              "rank": 12,
               "played": 8,
               "won": 3,
               "drawn": 1,
@@ -14484,7 +14513,7 @@
                 "abbreviation": "LEC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
               },
-              "rank": 12,
+              "rank": 13,
               "played": 8,
               "won": 3,
               "drawn": 0,
@@ -14493,23 +14522,6 @@
               "ga": 14,
               "gd": -5,
               "points": 9
-            },
-            {
-              "team": {
-                "id": "107",
-                "name": "Bologna",
-                "abbreviation": "BOL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-              },
-              "rank": 13,
-              "played": 8,
-              "won": 2,
-              "drawn": 2,
-              "lost": 4,
-              "gf": 8,
-              "ga": 10,
-              "gd": -2,
-              "points": 8
             },
             {
               "team": {
@@ -14570,14 +14582,31 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
               },
               "rank": 17,
-              "played": 8,
+              "played": 9,
               "won": 1,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 6,
               "gf": 9,
               "ga": 18,
               "gd": -9,
-              "points": 4
+              "points": 5
+            },
+            {
+              "team": {
+                "id": "115",
+                "name": "Parma",
+                "abbreviation": "PAR",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
+              },
+              "rank": 18,
+              "played": 9,
+              "won": 1,
+              "drawn": 2,
+              "lost": 6,
+              "gf": 5,
+              "ga": 15,
+              "gd": -10,
+              "points": 5
             },
             {
               "team": {
@@ -14586,7 +14615,7 @@
                 "abbreviation": "FIO",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
               },
-              "rank": 18,
+              "rank": 19,
               "played": 8,
               "won": 1,
               "drawn": 1,
@@ -14598,36 +14627,19 @@
             },
             {
               "team": {
-                "id": "115",
-                "name": "Parma",
-                "abbreviation": "PAR",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
-              },
-              "rank": 19,
-              "played": 8,
-              "won": 1,
-              "drawn": 1,
-              "lost": 6,
-              "gf": 5,
-              "ga": 15,
-              "gd": -10,
-              "points": 4
-            },
-            {
-              "team": {
                 "id": "17530",
                 "name": "Venezia",
                 "abbreviation": "VEN",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
               },
               "rank": 20,
-              "played": 8,
+              "played": 9,
               "won": 1,
               "drawn": 0,
-              "lost": 7,
+              "lost": 8,
               "gf": 6,
-              "ga": 17,
-              "gd": -11,
+              "ga": 19,
+              "gd": -13,
               "points": 3
             }
           ]
@@ -14635,12 +14647,22 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50308537/mussolini-great-grandson-scores-first-goal-lazio-serie-a",
+          "title": "Mussolini's great-grandson scores first goal for Lazio",
+          "description": "Romano Floriani Mussolini, the great-grandson of former Italian dictator Benito Mussolini, scored his first goal for Lazio on Tuesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50308537/mussolini-great-grandson-scores-first-goal-lazio-serie-a",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737518_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T15:21:00Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50305893/usmnt-christian-pulisic-set-sign-new-ac-milan-contract-sources",
           "title": "Sources: USMNT's Christian Pulisic set to sign new AC Milan contract",
           "description": "United States star Christian Pulisic is set to sign a new contract with AC Milan through to 2031, sources have told ESPN.",
           "url": "https://www.espn.com/soccer/story/_/id/50305893/usmnt-christian-pulisic-set-sign-new-ac-milan-contract-sources",
           "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737410_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T11:38:39Z",
+          "publishedUtc": "2026-10-28T17:24:14Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -14710,7 +14732,7 @@
           "description": "Napoli's stuttering start in Serie A continued as Roma twice fought back to secure a 3-3 draw in a dramatic Derby del Sole.",
           "url": "https://www.espn.com/soccer/story/_/id/50267803/napoli-scott-mctominay-bags-brace-derby-day-thriller-roma",
           "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735526_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-24T18:27:19Z",
+          "publishedUtc": "2026-10-28T18:46:12Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -14861,16 +14883,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50141921/england-djed-spence-inter-milan-debut-serie-a",
           "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728331_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-09T18:44:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50127190/scott-mctominay-back-napoli-training-heart-procedure",
-          "title": "Scott McTominay back in Napoli training after heart procedure",
-          "description": "Scott McTominay has returned to training with Napoli for the first time since undergoing a heart procedure last month.",
-          "url": "https://www.espn.com/soccer/story/_/id/50127190/scott-mctominay-back-napoli-training-heart-procedure",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-07T20:07:18Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15623,7 +15635,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.740Z",
+      "updatedUtc": "2026-10-28T19:25:39.545Z",
       "matches": [
         {
           "id": "401884775",
@@ -18631,7 +18643,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.827Z",
+      "updatedUtc": "2026-10-28T19:25:39.928Z",
       "matches": [
         {
           "id": "401876446",
@@ -21629,7 +21641,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-28T12:35:25.621Z",
+      "updatedUtc": "2026-10-28T19:25:39.542Z",
       "matches": [
         {
           "id": "401861118",
@@ -25321,7 +25333,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T12:35:25.985Z",
+      "updatedUtc": "2026-10-28T19:25:39.553Z",
       "matches": [
         {
           "id": "761871",
@@ -28594,7 +28606,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-28T12:35:25.584Z",
+      "updatedUtc": "2026-10-28T19:25:39.699Z",
       "matches": [
         {
           "id": "760415",
@@ -31972,6 +31984,16 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50309762/wc-coach-okada-leaves-japan-post-infantino-support",
+          "title": "Two-time WC coach Okada leaves Japan post over AFC support of Infantino",
+          "description": "Two-time World Cup coach Takeshi Okada resigned as Japanese federation VP in protest over AFC support of FIFA during Gianni Infantino's re-election campaign.",
+          "url": "https://www.espn.com/soccer/story/_/id/50309762/wc-coach-okada-leaves-japan-post-infantino-support",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737632_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T18:57:38Z",
+          "source": "ESPN",
+          "transfer": true
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
           "title": "Vozinha's Ballon d'Or night a perfect moment for soccer's dreamers",
