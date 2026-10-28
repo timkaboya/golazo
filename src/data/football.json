@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-28T19:25:39.928Z",
+  "updatedUtc": "2026-10-28T23:57:47.734Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.090Z",
+      "updatedUtc": "2026-10-28T23:57:47.446Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.227Z",
+      "updatedUtc": "2026-10-28T23:57:47.426Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.220Z",
+      "updatedUtc": "2026-10-28T23:57:47.620Z",
       "matches": [
         {
           "id": "401879253",
@@ -8632,24 +8632,34 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
-          "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
-          "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes have held clear-the-air talks.",
-          "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T16:16:52Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50312020/man-city-never-practiced-penalties-shootout-win",
+          "title": "Enzo Maresca: Man City 'never practiced penalties' before shootout win",
+          "description": "Man City boss Enzo Maresca said his players had not practiced penalties after edging past Brighton in a Carabao Cup shootout on Wednesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50312020/man-city-never-practiced-penalties-shootout-win",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729308_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T23:43:15Z",
           "source": "ESPN",
           "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
-          "title": "Transfer rumors, news: Arsenal, Chelsea, City tracking PSG star Doué",
-          "description": "Paris Saint-Germain winger Désiré Doué is being watched by three Premier League clubs and Bayern Munich. Transfer Talk has the latest.",
+          "title": "Transfer rumors, news: Juventus eye move for USMNT's Balogun",
+          "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked with a move to Juventus. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730790_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T12:01:41Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737670_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T20:05:27Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
+          "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
+          "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes have held clear-the-air talks.",
+          "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T16:57:15Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/video/clip/_/id/50305840/joao-pedro-not-ready-next-games",
@@ -8858,16 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50288415/virgil-van-dijk-mohamed-salah-liverpool-step-up",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736545_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-26T17:05:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50287279/man-united-crisis-again-where-glazers",
-          "title": "Man United are in crisis (again), but where are the Glazers?",
-          "description": "Manchester United are in crisis -- again -- and the people with ultimate control of one of the world's most historic soccer clubs are nowhere to be seen.",
-          "url": "https://www.espn.com/soccer/story/_/id/50287279/man-united-crisis-again-where-glazers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736473_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T14:55:36Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9616,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.417Z",
+      "updatedUtc": "2026-10-28T23:57:47.667Z",
       "matches": [
         {
           "id": "401882843",
@@ -12631,7 +12631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.357Z",
+      "updatedUtc": "2026-10-28T23:57:47.572Z",
       "matches": [
         {
           "id": "401874957",
@@ -13034,8 +13034,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
           },
           "venue": "Stadio Luigi Ferraris, Genova",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401874799",
@@ -13054,8 +13058,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
           },
           "venue": "U-Power Stadium, Monza",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "note": "FT"
         },
         {
           "id": "401874976",
@@ -14406,19 +14414,36 @@
             },
             {
               "team": {
+                "id": "114",
+                "name": "Napoli",
+                "abbreviation": "NAP",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+              },
+              "rank": 7,
+              "played": 9,
+              "won": 4,
+              "drawn": 2,
+              "lost": 3,
+              "gf": 17,
+              "ga": 11,
+              "gd": 6,
+              "points": 14
+            },
+            {
+              "team": {
                 "id": "111",
                 "name": "Juventus",
                 "abbreviation": "JUV",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
               },
-              "rank": 7,
-              "played": 8,
+              "rank": 8,
+              "played": 9,
               "won": 4,
               "drawn": 2,
-              "lost": 2,
+              "lost": 3,
               "gf": 11,
-              "ga": 8,
-              "gd": 3,
+              "ga": 10,
+              "gd": 1,
               "points": 14
             },
             {
@@ -14428,7 +14453,7 @@
                 "abbreviation": "TOR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
               },
-              "rank": 8,
+              "rank": 9,
               "played": 9,
               "won": 4,
               "drawn": 1,
@@ -14445,7 +14470,7 @@
                 "abbreviation": "CAG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
               },
-              "rank": 9,
+              "rank": 10,
               "played": 9,
               "won": 4,
               "drawn": 1,
@@ -14454,23 +14479,6 @@
               "ga": 13,
               "gd": -5,
               "points": 13
-            },
-            {
-              "team": {
-                "id": "114",
-                "name": "Napoli",
-                "abbreviation": "NAP",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-              },
-              "rank": 10,
-              "played": 8,
-              "won": 3,
-              "drawn": 2,
-              "lost": 3,
-              "gf": 13,
-              "ga": 10,
-              "gd": 3,
-              "points": 11
             },
             {
               "team": {
@@ -14508,12 +14516,29 @@
             },
             {
               "team": {
+                "id": "3263",
+                "name": "Genoa",
+                "abbreviation": "GEN",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+              },
+              "rank": 13,
+              "played": 9,
+              "won": 3,
+              "drawn": 1,
+              "lost": 5,
+              "gf": 8,
+              "ga": 13,
+              "gd": -5,
+              "points": 10
+            },
+            {
+              "team": {
                 "id": "113",
                 "name": "Lecce",
                 "abbreviation": "LEC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
               },
-              "rank": 13,
+              "rank": 14,
               "played": 8,
               "won": 3,
               "drawn": 0,
@@ -14530,7 +14555,7 @@
                 "abbreviation": "SAS",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 9,
               "won": 2,
               "drawn": 2,
@@ -14547,31 +14572,14 @@
                 "abbreviation": "MON",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
               },
-              "rank": 15,
-              "played": 8,
-              "won": 2,
-              "drawn": 1,
-              "lost": 5,
-              "gf": 15,
-              "ga": 18,
-              "gd": -3,
-              "points": 7
-            },
-            {
-              "team": {
-                "id": "3263",
-                "name": "Genoa",
-                "abbreviation": "GEN",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
-              },
               "rank": 16,
-              "played": 8,
+              "played": 9,
               "won": 2,
               "drawn": 1,
-              "lost": 5,
-              "gf": 6,
-              "ga": 13,
-              "gd": -7,
+              "lost": 6,
+              "gf": 16,
+              "ga": 22,
+              "gd": -6,
               "points": 7
             },
             {
@@ -14646,6 +14654,26 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
+          "title": "Transfer rumors, news: Juventus eye move for USMNT's Balogun",
+          "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked with a move to Juventus. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737670_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T20:05:27Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401874993",
+          "title": "Bologna storm back to hand Milan, Amorim first Serie A loss",
+          "description": "Samuel Mbangula fired a hat trick as Bologna beat AC Milan 4-2 to hand the hosts a first Serie A loss of the season.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401874993",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737648_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T20:59:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50308537/mussolini-great-grandson-scores-first-goal-lazio-serie-a",
           "title": "Mussolini's great-grandson scores first goal for Lazio",
@@ -14863,26 +14891,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401874789",
           "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729307_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-11T18:37:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50146796/ruben-amorim-says-man-united-struggles-prepared-ac-milan-challenge",
-          "title": "Ruben Amorim says Man United struggles prepared him for AC Milan challenge",
-          "description": "Ruben Amorim believes the ups and downs of his management career have prepared him well for the task of leading AC Milan.",
-          "url": "https://www.espn.com/soccer/story/_/id/50146796/ruben-amorim-says-man-united-struggles-prepared-ac-milan-challenge",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1717033_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-10T12:37:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50141921/england-djed-spence-inter-milan-debut-serie-a",
-          "title": "England's Djed Spence ready for long-awaited Inter Milan debut",
-          "description": "England defender Djed Spence could be handed his long-awaited debut for Inter Milan against Parma on Saturday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50141921/england-djed-spence-inter-milan-debut-serie-a",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728331_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T18:44:23Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15635,7 +15643,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.545Z",
+      "updatedUtc": "2026-10-28T23:57:47.529Z",
       "matches": [
         {
           "id": "401884775",
@@ -18643,7 +18651,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.928Z",
+      "updatedUtc": "2026-10-28T23:57:47.494Z",
       "matches": [
         {
           "id": "401876446",
@@ -20666,11 +20674,11 @@
       "news": [
         {
           "id": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
-          "title": "Transfer rumors, news: Arsenal, Chelsea, City tracking PSG star Doué",
-          "description": "Paris Saint-Germain winger Désiré Doué is being watched by three Premier League clubs and Bayern Munich. Transfer Talk has the latest.",
+          "title": "Transfer rumors, news: Juventus eye move for USMNT's Balogun",
+          "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked with a move to Juventus. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730790_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T12:01:41Z",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737670_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T20:05:27Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -21641,7 +21649,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-28T19:25:39.542Z",
+      "updatedUtc": "2026-10-28T23:57:47.391Z",
       "matches": [
         {
           "id": "401861118",
@@ -25333,7 +25341,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-28T19:25:39.553Z",
+      "updatedUtc": "2026-10-28T23:57:47.734Z",
       "matches": [
         {
           "id": "761871",
@@ -26216,8 +26224,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png"
           },
           "venue": "Bank of America Stadium, Charlotte, North Carolina",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "17'"
         },
         {
           "id": "761908",
@@ -26236,8 +26248,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
           },
           "venue": "Nu Stadium, Miami, Florida",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "17'"
         },
         {
           "id": "761909",
@@ -26256,8 +26272,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
           },
           "venue": "Gillette Stadium, Foxborough, Massachusetts",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "16'"
         },
         {
           "id": "761905",
@@ -26276,8 +26296,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"
           },
           "venue": "Citi Field, New York, New York",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "17'"
         },
         {
           "id": "761906",
@@ -26296,8 +26320,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png"
           },
           "venue": "BMO Field, Toronto",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "17'"
         },
         {
           "id": "761910",
@@ -27604,6 +27632,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50311129/mls-sprint-season-kick-feb-19-miami",
+          "title": "MLS sprint season to kick off on Feb. 19 in Miami",
+          "description": "The 2027 MLS sprint season will kick off with a standalone match between Inter Miami and FC Cincinnati on Feb. 19 at Nu Stadium in Miami, Florida.",
+          "url": "https://www.espn.com/soccer/story/_/id/50311129/mls-sprint-season-kick-feb-19-miami",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737748_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-28T23:13:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/espn/story/_/id/50285674/bafana-boss-pitso-mosimane-latest-south-africa-squad-shows-favouritism-fears-were-unfounded",
           "title": "Bafana boss Pitso Mosimane's latest South Africa squad shows favouritism fears were unfounded",
           "description": "Mosimane has made several changes from his first preliminary squad, which he announced almost immediately after taking charge at the beginning of September.",
@@ -27830,16 +27868,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50206824/messi-magic-inter-miami-star-scores-twice-four-minute-span",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/3efb4af4-16da-44a2-80f3-ae03f7cf4e92/3efb4af4-16da-44a2-80f3-ae03f7cf4e92.jpg",
           "publishedUtc": "2026-10-18T02:06:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50206341/lionel-messi-goals-inter-miami-atlanta-united-mls",
-          "title": "Lionel Messi scores twice, takes season tally to 25 in Miami win at Atlanta",
-          "description": "Lionel Messi scored two scintillating second-half solo goals to take his MLS-leading tally to 25 as Inter Miami brushed aside hosts Atlanta United 3-1 on Saturday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50206341/lionel-messi-goals-inter-miami-atlanta-united-mls",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732270_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T02:49:49Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28606,7 +28634,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-28T19:25:39.699Z",
+      "updatedUtc": "2026-10-28T23:57:47.364Z",
       "matches": [
         {
           "id": "760415",
