@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-27T22:03:38.471Z",
+  "updatedUtc": "2026-10-28T05:15:23.425Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.186Z",
+      "updatedUtc": "2026-10-28T05:15:23.058Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.149Z",
+      "updatedUtc": "2026-10-28T05:15:23.206Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.314Z",
+      "updatedUtc": "2026-10-28T05:15:23.355Z",
       "matches": [
         {
           "id": "401879253",
@@ -8632,6 +8632,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/46093270/is-fleetwood-town-defeat-arsenal-biggest-upset-league-cup-history",
+          "title": "Is Fleetwood Town's defeat of Arsenal the biggest upset in League Cup history?",
+          "description": "Arsenal aren't the only Premier League side to suffer Cup humiliation; ESPN takes a look at all the famous \"giant killings\" in England's League Cup.",
+          "url": "https://www.espn.com/soccer/story/_/id/46093270/is-fleetwood-town-defeat-arsenal-biggest-upset-league-cup-history",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737269_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T23:20:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "title": "Transfer rumors, news: Dortmund's Nmecha among Liverpool's midfield targets",
+          "description": "Several midfielders across Europe are reportedly linked with a move to Liverpool. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737159_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T20:47:00Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50299369/wayne-rooney-son-kai-hits-four-manchester-united-18s-vs-burnley",
           "title": "Wayne Rooney's son, Kai scores, 4 goals for Man United under-18s vs. Burnley",
           "description": "Kai Rooney scored four goals as Manchester United's Under-18s thrashed Burnley 6-0 on Tuesday.",
@@ -8680,16 +8700,6 @@
           "publishedUtc": "2026-10-27T14:00:12Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
-          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T13:23:18Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50297039/gianluigi-donnarumma-mistakes-man-city-boss-enzo-maresca",
@@ -8858,16 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50286162/gary-neville-man-united-players-not-professional-michael-carrick-premier-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736397_2_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-26T12:29:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50286089/new-england-no-1-james-trafford-tipped-leeds-boss",
-          "title": "New England No.1? James Trafford tipped by Leeds boss",
-          "description": "Daniel Farke praised James Trafford's potential following a solid display in Leeds' 0-0 draw against Sunderland.",
-          "url": "https://www.espn.com/soccer/story/_/id/50286089/new-england-no-1-james-trafford-tipped-leeds-boss",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736395_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T10:34:00Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9616,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.416Z",
+      "updatedUtc": "2026-10-28T05:15:23.278Z",
       "matches": [
         {
           "id": "401882843",
@@ -11648,6 +11648,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50301676/espanyol-watt-owners-sack-gonzalez-loss-4th-tier-side",
+          "title": "Espanyol, with Watt among owners, sack González after loss to 4th-tier side",
+          "description": "Espanyol, the LaLiga side whose ownership group includes former NFL star J.J. Watt, have sacked coach Manolo González following Tuesday's Copa del Rey exit to fourth-tier side Sestao River.",
+          "url": "https://www.espn.com/soccer/story/_/id/50301676/espanyol-watt-owners-sack-gonzalez-loss-4th-tier-side",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737240_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T22:59:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50301141/yamal-excited-ballon-dor-miss",
+          "title": "Yamal excited despite Ballon d'Or miss: 'Good things take time'",
+          "description": "Barcelona star Lamine Yamal won best young talent for a third-straight year at Monday's Ballon d'Or, but the 19-year-old has his sights set on the big prize.",
+          "url": "https://www.espn.com/soccer/story/_/id/50301141/yamal-excited-ballon-dor-miss",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732115_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T21:46:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50295834/why-real-madrid-kylian-mbappe-barcelona-lamine-yamal-lost-ballon-dor-harry-kane",
           "title": "Why Real Madrid's Mbappé, Barcelona's Yamal lost Ballon d'Or",
           "description": "Kylian Mbappé and Lamine Yamal both achieved greatness last season, but it still wasn't enough for either of them to claim soccer's top individual prize.",
@@ -11656,16 +11676,6 @@
           "publishedUtc": "2026-10-27T14:04:11Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "title": "Transfer rumors, news: Real Madrid eye Liverpool's Alexis Mac Allister",
-          "description": "Liverpool midfielder Alexis Mac Allister has admirers at Real Madrid, while the Reds line up potential replacements. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713962_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T13:23:18Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50290210/if-clasico-win-indication-jose-mourinho-real-madrid-just-special-again",
@@ -11874,16 +11884,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50279148/real-sociedad-vs-levante-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/1f659ce6-5a20-4edc-9595-d3ea72b9ccff/1f659ce6-5a20-4edc-9595-d3ea72b9ccff.jpg",
           "publishedUtc": "2026-10-25T19:29:18Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50278064/celta-vigo-vs-real-betis-game-highlights",
-          "title": "Celta Vigo vs. Real Betis - Game Highlights",
-          "description": "Watch the Game Highlights from Celta Vigo vs. Real Betis, 10/25/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50278064/celta-vigo-vs-real-betis-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/689dc805-0155-4b3c-95bd-2f9f5e12a3e5/689dc805-0155-4b3c-95bd-2f9f5e12a3e5.jpg",
-          "publishedUtc": "2026-10-25T17:17:11Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12631,7 +12631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.357Z",
+      "updatedUtc": "2026-10-28T05:15:23.238Z",
       "matches": [
         {
           "id": "401874957",
@@ -15623,7 +15623,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.257Z",
+      "updatedUtc": "2026-10-28T05:15:23.323Z",
       "matches": [
         {
           "id": "401884775",
@@ -17645,6 +17645,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
+          "title": "Ballon d'or winner Harry Kane gets hero's welcome on Bayern Munich return",
+          "description": "After an historic Ballon d'Or win and an emotional speech, Harry Kane arrived back in Germany on Tuesday to a hero's welcome at Bayern Munich.",
+          "url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737178_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T21:16:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "title": "Transfer rumors, news: Dortmund's Nmecha among Liverpool's midfield targets",
+          "description": "Several midfielders across Europe are reportedly linked with a move to Liverpool. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737159_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-27T20:47:00Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50299531/bayern-munich-vincent-kompany-coach-collapse-virus",
           "title": "Bayern Munich's Vincent Kompany improving 'day by day,' but no return date yet",
           "description": "Bayern Munich assistant coach Aaron Danks said head coach Vincent Kompany is in good spirits and improving \"day by day\" after being hospitalized last week.",
@@ -17861,26 +17881,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50147624/bayern-munich-manuel-neuer-augsburg-robin-fellhauer-scores-fastest-goal-bundesliga-history",
           "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728660_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-10T19:54:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
-          "title": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
-          "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-10T13:47:47Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50139237/jamal-musiala-fight-way-back-injury-bayern-munich-boss-vincent-kompany",
-          "title": "Jamal Musiala will 'fight his way back' from injury - Bayern Munich boss Vincent Kompany",
-          "description": "Vincent Kompany has backed Bayern Munich playmaker Jamal Musiala to overcome his latest injury setback after he was hurt on international duty with Germany.",
-          "url": "https://www.espn.com/soccer/story/_/id/50139237/jamal-musiala-fight-way-back-injury-bayern-munich-boss-vincent-kompany",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/r1728180_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-09T17:51:41Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18631,7 +18631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.220Z",
+      "updatedUtc": "2026-10-28T05:15:23.375Z",
       "matches": [
         {
           "id": "401876446",
@@ -21629,7 +21629,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-27T22:03:38.159Z",
+      "updatedUtc": "2026-10-28T05:15:23.299Z",
       "matches": [
         {
           "id": "401861118",
@@ -25321,7 +25321,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-27T22:03:38.471Z",
+      "updatedUtc": "2026-10-28T05:15:23.424Z",
       "matches": [
         {
           "id": "761871",
@@ -28594,7 +28594,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-27T22:03:38.087Z",
+      "updatedUtc": "2026-10-28T05:15:23.377Z",
       "matches": [
         {
           "id": "760415",
