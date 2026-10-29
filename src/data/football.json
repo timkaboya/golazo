@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-29T19:29:39.160Z",
+  "updatedUtc": "2026-10-29T23:53:25.188Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:38.805Z",
+      "updatedUtc": "2026-10-29T23:53:25.188Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:38.834Z",
+      "updatedUtc": "2026-10-29T23:53:20.276Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:39.034Z",
+      "updatedUtc": "2026-10-29T23:53:20.254Z",
       "matches": [
         {
           "id": "401879253",
@@ -8632,6 +8632,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50323003/carrick-only-manchester-united-club-no-solution",
+          "title": "Nicol: Carrick only at Manchester United because club has no solution",
+          "description": "Nicol: Carrick only at Manchester United because club has no solution",
+          "url": "https://www.espn.com/video/clip/_/id/50323003/carrick-only-manchester-united-club-no-solution",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1029/dm_261029_Nicol_Carrick_only_at_Manchester_United_because_club_has_no_solution/dm_261029_Nicol_Carrick_only_at_Manchester_United_because_club_has_no_solution.jpg",
+          "publishedUtc": "2026-10-29T23:22:48Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
+          "title": "Transfer rumors, news: Liverpool in contact over Monaco's Camara",
+          "description": "Liverpool have reached out to representatives of Lamine Camara and will explore a transfer next summer. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1738253_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-29T20:20:34Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50319628/crystal-palace-ismaila-sarr-injury-pierre-sage-premier-league",
           "title": "Crystal Palace's Ismaïla Sarr set to be sidelined for weeks, Pierre Sage confirms",
           "description": "Ismaïla Sarr is likely to remain sidelined with a groin issue until after the international break, Crystal Palace boss Pierre Sage has confirmed.",
@@ -8690,16 +8710,6 @@
           "publishedUtc": "2026-10-29T13:07:10Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
-          "title": "Transfer rumors, news: Everton eye loan for Man United's Rashford",
-          "description": "Everton are weighing up a January loan for Manchester United forward Marcus Rashford. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730241_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-29T12:52:08Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50317190/gary-neville-glazers-man-united-ownership-joel-glazer-avram-glazer",
@@ -8858,16 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50297039/gianluigi-donnarumma-mistakes-man-city-boss-enzo-maresca",
           "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713461_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-27T15:40:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50296960/liverpool-florian-wirtz-fit-face-chelsea-carabao-cup",
-          "title": "Liverpool 'optimistic' Florian Wirtz will be fit to face Chelsea",
-          "description": "Liverpool boss Andoni Iraola has said he is \"optimistic\" Florian Wirtz will be fit to feature in Wednesday's Carabao Cup clash with Chelsea.",
-          "url": "https://www.espn.com/soccer/story/_/id/50296960/liverpool-florian-wirtz-fit-face-chelsea-carabao-cup",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0824/r1706182_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T15:39:40Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9616,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:39.088Z",
+      "updatedUtc": "2026-10-29T23:53:20.414Z",
       "matches": [
         {
           "id": "401882843",
@@ -12631,32 +12631,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:38.974Z",
+      "updatedUtc": "2026-10-29T23:53:20.501Z",
       "matches": [
-        {
-          "id": "401874958",
-          "utc": "2026-10-24T13:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "2925",
-            "name": "Cagliari",
-            "abbreviation": "CAG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
-          },
-          "away": {
-            "id": "107",
-            "name": "Bologna",
-            "abbreviation": "BOL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-          },
-          "venue": "Unipol Domus, Cagliari",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401874961",
           "utc": "2026-10-24T13:00Z",
@@ -13058,12 +13034,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
           },
           "venue": "Stadio Benito Stirpe, Frosinone",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 5,
             "away": 1
           },
-          "note": "90'+6'"
+          "note": "FT"
         },
         {
           "id": "401874969",
@@ -13082,8 +13058,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
           },
           "venue": "Stadio Artemio Franchi, Firenze",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401874798",
@@ -14304,6 +14284,26 @@
           "venue": "Stadio Benito Stirpe, Frosinone",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401874996",
+          "utc": "2026-12-18T19:45Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "113",
+            "name": "Lecce",
+            "abbreviation": "LEC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+          },
+          "away": {
+            "id": "110",
+            "name": "Inter Milan",
+            "abbreviation": "INT",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+          },
+          "venue": "Via Del Mare, Lecce",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14403,14 +14403,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
               },
               "rank": 6,
-              "played": 8,
-              "won": 4,
+              "played": 9,
+              "won": 5,
               "drawn": 2,
               "lost": 2,
-              "gf": 17,
-              "ga": 13,
-              "gd": 4,
-              "points": 14
+              "gf": 22,
+              "ga": 14,
+              "gd": 8,
+              "points": 17
             },
             {
               "team": {
@@ -14505,14 +14505,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
               },
               "rank": 12,
-              "played": 8,
+              "played": 9,
               "won": 3,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 4,
-              "gf": 14,
-              "ga": 15,
+              "gf": 16,
+              "ga": 17,
               "gd": -1,
-              "points": 10
+              "points": 11
             },
             {
               "team": {
@@ -14539,13 +14539,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
               },
               "rank": 14,
-              "played": 8,
+              "played": 9,
               "won": 3,
               "drawn": 0,
-              "lost": 5,
-              "gf": 9,
-              "ga": 14,
-              "gd": -5,
+              "lost": 6,
+              "gf": 10,
+              "ga": 19,
+              "gd": -9,
               "points": 9
             },
             {
@@ -14601,12 +14601,29 @@
             },
             {
               "team": {
+                "id": "109",
+                "name": "Fiorentina",
+                "abbreviation": "FIO",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+              },
+              "rank": 18,
+              "played": 9,
+              "won": 1,
+              "drawn": 2,
+              "lost": 6,
+              "gf": 11,
+              "ga": 21,
+              "gd": -10,
+              "points": 5
+            },
+            {
+              "team": {
                 "id": "115",
                 "name": "Parma",
                 "abbreviation": "PAR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
               },
-              "rank": 18,
+              "rank": 19,
               "played": 9,
               "won": 1,
               "drawn": 2,
@@ -14615,23 +14632,6 @@
               "ga": 15,
               "gd": -10,
               "points": 5
-            },
-            {
-              "team": {
-                "id": "109",
-                "name": "Fiorentina",
-                "abbreviation": "FIO",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-              },
-              "rank": 19,
-              "played": 8,
-              "won": 1,
-              "drawn": 1,
-              "lost": 6,
-              "gf": 9,
-              "ga": 19,
-              "gd": -10,
-              "points": 4
             },
             {
               "team": {
@@ -14654,6 +14654,16 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50317859/milan-inter-new-stadium-generali-naming-rights-new-san-siro",
+          "title": "Sources: New Milan, Inter stadium gets $725M naming rights deal with Generali",
+          "description": "AC Milan and Inter Milan have agreed a naming rights deal with Italian insurance giant Generali for the new San Siro.",
+          "url": "https://www.espn.com/soccer/story/_/id/50317859/milan-inter-new-stadium-generali-naming-rights-new-san-siro",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1738250_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-29T20:42:17Z",
+          "source": "ESPN",
+          "transfer": true
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
           "title": "Man City, Bayern among the good, bad and lucky in Europe's top leagues",
@@ -14881,16 +14891,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50179920/transfer-rumors-news-real-madrid-barcelona-chase-spurs-defender-porro",
           "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730855_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-14T21:46:58Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
-          "title": "Transfer rumors, news: Arsenal, Chelsea, Liverpool want Roma youngster",
-          "description": "AS Roma's Emanuele Lulli has caught the eye of Arsenal, Chelsea and Liverpool. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729418_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-11T22:08:12Z",
           "source": "ESPN",
           "transfer": true
         }
@@ -15643,7 +15643,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:38.923Z",
+      "updatedUtc": "2026-10-29T23:53:20.437Z",
       "matches": [
         {
           "id": "401884775",
@@ -18651,7 +18651,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:39.002Z",
+      "updatedUtc": "2026-10-29T23:53:20.530Z",
       "matches": [
         {
           "id": "401876446",
@@ -20673,6 +20673,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
+          "title": "Transfer rumors, news: Liverpool in contact over Monaco's Camara",
+          "description": "Liverpool have reached out to representatives of Lamine Camara and will explore a transfer next summer. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1738253_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-29T20:20:34Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50320065/psg-luis-enrique-vitinha-ballon-dor",
           "title": "PSG's Luis Enrique: Vitinha deserved higher Ballon d'Or ranking",
           "description": "Paris Saint-Germain boss Luis Enrique does not believe star midfielder Vitinha got the recognition he deserved in the Ballon d'Or rankings.",
@@ -20891,16 +20901,6 @@
           "publishedUtc": "2026-09-22T12:02:31Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
-          "title": "Soccer's wildest warmup kits of 2026-27: The good, the bad and the ugly",
-          "description": "Forget home, away and third alternate jerseys -- the prematch warmup kit is where the real fun is to be had. Get a load of this season's best and worst.",
-          "url": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0916/r1717453_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-22T08:01:17Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -21649,7 +21649,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-29T19:29:38.881Z",
+      "updatedUtc": "2026-10-29T23:53:20.552Z",
       "matches": [
         {
           "id": "401861118",
@@ -25341,7 +25341,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-29T19:29:39.160Z",
+      "updatedUtc": "2026-10-29T23:53:20.488Z",
       "matches": [
         {
           "id": "761871",
@@ -28670,7 +28670,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-29T19:29:38.847Z",
+      "updatedUtc": "2026-10-29T23:53:20.515Z",
       "matches": [
         {
           "id": "760415",
