@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-30T12:37:26.986Z",
+  "updatedUtc": "2026-10-30T19:06:52.800Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.660Z",
+      "updatedUtc": "2026-10-30T19:06:52.520Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.632Z",
+      "updatedUtc": "2026-10-30T19:06:52.496Z",
       "matches": [
         {
           "id": "401915560",
@@ -4333,7 +4333,7 @@
             "abbreviation": "HBE",
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
           },
-          "venue": "Vodafone Park, Istanbul",
+          "venue": "Batumi Stadium (Adjarabet Arena), Batumi",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -6640,128 +6640,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.865Z",
+      "updatedUtc": "2026-10-30T19:06:52.619Z",
       "matches": [
-        {
-          "id": "401879256",
-          "utc": "2026-10-24T11:30Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "362",
-            "name": "Aston Villa",
-            "abbreviation": "AVL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-          },
-          "away": {
-            "id": "382",
-            "name": "Man City",
-            "abbreviation": "MNC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-          },
-          "venue": "Villa Park, Birmingham",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878768",
-          "utc": "2026-10-24T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "359",
-            "name": "Arsenal",
-            "abbreviation": "ARS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-          },
-          "away": {
-            "id": "368",
-            "name": "Everton",
-            "abbreviation": "EVE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-          },
-          "venue": "Emirates Stadium, London",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879255",
-          "utc": "2026-10-24T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "388",
-            "name": "Coventry",
-            "abbreviation": "COV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
-          },
-          "away": {
-            "id": "370",
-            "name": "Fulham",
-            "abbreviation": "FUL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
-          },
-          "venue": "Coventry Building Society Arena, Coventry",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401878767",
-          "utc": "2026-10-24T16:30Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "363",
-            "name": "Chelsea",
-            "abbreviation": "CHE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-          },
-          "away": {
-            "id": "367",
-            "name": "Spurs",
-            "abbreviation": "TOT",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
-          },
-          "venue": "Stamford Bridge, London",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401879254",
-          "utc": "2026-10-25T14:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "384",
-            "name": "C Palace",
-            "abbreviation": "CRY",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-          },
-          "away": {
-            "id": "361",
-            "name": "Newcastle",
-            "abbreviation": "NEW",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
-          },
-          "venue": "Selhurst Park, London",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401878766",
           "utc": "2026-10-25T14:00Z",
@@ -8277,6 +8157,106 @@
           "venue": "Gtech Community Stadium, Brentford",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401878740",
+          "utc": "2026-12-19T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "349",
+            "name": "Bournemouth",
+            "abbreviation": "BOU",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+          },
+          "away": {
+            "id": "388",
+            "name": "Coventry",
+            "abbreviation": "COV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+          },
+          "venue": "Vitality Stadium, Bournemouth",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879201",
+          "utc": "2026-12-19T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "357",
+            "name": "Leeds",
+            "abbreviation": "LEE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+          },
+          "away": {
+            "id": "370",
+            "name": "Fulham",
+            "abbreviation": "FUL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
+          },
+          "venue": "Elland Road, Leeds",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879199",
+          "utc": "2026-12-19T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "382",
+            "name": "Man City",
+            "abbreviation": "MNC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+          },
+          "away": {
+            "id": "306",
+            "name": "Hull",
+            "abbreviation": "HUL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+          },
+          "venue": "Etihad Stadium, Manchester",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879198",
+          "utc": "2026-12-19T15:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "393",
+            "name": "Nottm Forest",
+            "abbreviation": "NFO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+          },
+          "away": {
+            "id": "368",
+            "name": "Everton",
+            "abbreviation": "EVE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+          },
+          "venue": "The City Ground, Nottingham",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879200",
+          "utc": "2026-12-19T17:30Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "364",
+            "name": "Liverpool",
+            "abbreviation": "LIV",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+          },
+          "away": {
+            "id": "367",
+            "name": "Spurs",
+            "abbreviation": "TOT",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+          },
+          "venue": "Anfield, Liverpool",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -8628,22 +8608,42 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
-          "title": "Michael Owen: I didn't get enough credit for winning Ballon d'Or",
-          "description": "Michael Owen has said that he doesn't believe he got the sort of credit that \"others would\" for winning the Ballon d'Or when he triumphed in 2001.",
-          "url": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738497_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T10:24:43Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50329062/virgil-van-dijk-liverpool-take-risk-andoni-iraola-playstyle",
+          "title": "Virgil van Dijk: Liverpool must 'take that risk' under Andoni Iraola playing style",
+          "description": "Andoni Iraola's brand of risk-reward football is starting to take hold at Liverpool and captain Virgil van Dijk has said the players are becoming increasingly confident at committing to the game plan.",
+          "url": "https://www.espn.com/soccer/story/_/id/50329062/virgil-van-dijk-liverpool-take-risk-andoni-iraola-playstyle",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738605_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T17:30:15Z",
           "source": "ESPN",
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
-          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
-          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
-          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T09:15:58Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50321217/man-city-premier-league-red-cartel-allegation-liverpool-man-united-arsenal",
+          "title": "Are Man City fans right about a Premier League 'Red Cartel' that's out to get them?",
+          "description": "Man City fans have insisted for years that the likes of Liverpool, Man United and Arsenal have been conspiring against them, which is why City have been punished. Is it an attempt to deflect blame, or a justified feeling?",
+          "url": "https://www.espn.com/soccer/story/_/id/50321217/man-city-premier-league-red-cartel-allegation-liverpool-man-united-arsenal",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738598_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T17:01:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50328774/enzo-maresca-gianluigi-donnarumma-man-city-not-undroppable-brighton-premier-league",
+          "title": "Enzo Maresca: Gianluigi Donnarumma not 'undroppable' but will be first name on team sheet",
+          "description": "Enzo Maresca insists Gianluigi Donnarumma is not undroppable -- but he will be the first name on the Manchester City team sheet this weekend.",
+          "url": "https://www.espn.com/soccer/story/_/id/50328774/enzo-maresca-gianluigi-donnarumma-man-city-not-undroppable-brighton-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738583_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T16:22:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50328857/junior-kroupi-not-yet-ready-start-according-bournemouth-boss-marco-rose",
+          "title": "Junior Kroupi not yet ready to start, according to Bournemouth boss Marco Rose",
+          "description": "Marco Rose will hold Bournemouth forward Junior Kroupi back for a little longer despite more minutes in midweek.",
+          "url": "https://www.espn.com/soccer/story/_/id/50328857/junior-kroupi-not-yet-ready-start-according-bournemouth-boss-marco-rose",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738591_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T16:23:36Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8653,9 +8653,99 @@
           "description": "Leeds United striker Dominic Calvert-Lewin is being considered by Manchester United. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
           "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738490_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T09:05:32Z",
+          "publishedUtc": "2026-10-30T15:59:22Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50328614/chelsea-boss-xabi-alonso-no-discussion-estevao-loan-move",
+          "title": "Chelsea boss Xabi Alonso: 'No discussion' over Estêvão loan move",
+          "description": "Xabi Alonso has said there have been \"no discussions\" about sending Estêvão on loan despite the Brazil star's limited minutes this term.",
+          "url": "https://www.espn.com/soccer/story/_/id/50328614/chelsea-boss-xabi-alonso-no-discussion-estevao-loan-move",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738585_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T15:57:29Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50328381/arteta-explains-reaction-dowman-red-card",
+          "title": "Arteta explains reaction to Dowman red card",
+          "description": "Arteta explains reaction to Dowman red card",
+          "url": "https://www.espn.com/video/clip/_/id/50328381/arteta-explains-reaction-dowman-red-card",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1030/dm_261030_Arteta_explains_reaction_to_Dowman_red_card/dm_261030_Arteta_explains_reaction_to_Dowman_red_card.jpg",
+          "publishedUtc": "2026-10-30T14:59:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50328026/mikel-arteta-max-dowman-arsenal-red-card-liverpool-fleetwood",
+          "title": "Mikel Arteta warning to Max Dowman after red card: 'We are not in Disneyland'",
+          "description": "Mikel Arteta has said Arsenal are \"very disappointed\" after their appeal over Max Dowman's red card at Fleetwood Town was dismissed but warned the teenager must adapt to top level football because \"otherwise we are in Disneyland.\"",
+          "url": "https://www.espn.com/soccer/story/_/id/50328026/mikel-arteta-max-dowman-arsenal-red-card-liverpool-fleetwood",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738547_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T15:59:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50328247/james-maddison-available-tottenham-clash-crystal-palace",
+          "title": "James Maddison available for Tottenham's clash with Crystal Palace",
+          "description": "Tottenham playmaker James Maddison is available for Saturday's visit of Crystal Palace despite an injury scare during the victory at Chelsea.",
+          "url": "https://www.espn.com/soccer/story/_/id/50328247/james-maddison-available-tottenham-clash-crystal-palace",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0512/r1657090_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T15:26:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50328168/youri-tielemans-backs-michael-carrick-man-united-want-big-change",
+          "title": "Youri Tielemans backs Michael Carrick at Man United: 'We don't want a big change'",
+          "description": "Youri Tielemans insisted the Manchester United squad were happy for Michael Carrick to stay as manager amid the club's worst run since 2015.",
+          "url": "https://www.espn.com/soccer/story/_/id/50328168/youri-tielemans-backs-michael-carrick-man-united-want-big-change",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T14:51:45Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50327948/andoni-iraola-too-early-call-liverpool-premier-league-title-challengers",
+          "title": "Andoni Iraola: 'Too early' to call Liverpool Premier League title challengers",
+          "description": "Andoni Iraola has admitted it is \"too early\" to say whether Liverpool will be in a title race this season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50327948/andoni-iraola-too-early-call-liverpool-premier-league-title-challengers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738546_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T14:21:07Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
+          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
+          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T12:06:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50327134/pedro-porro-tottenham-hotspur-premier-league-laliga-real-madrid-barcelona",
+          "title": "Tottenham's Pedro Porro keen on future LaLiga return",
+          "description": "Pedro Porro has denied receiving offers from Barcelona and Real Madrid this summer but the Tottenham right-back has said that he would like to return to play in Spain one day.",
+          "url": "https://www.espn.com/soccer/story/_/id/50327134/pedro-porro-tottenham-hotspur-premier-league-laliga-real-madrid-barcelona",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738504_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T15:26:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
+          "title": "Michael Owen: I didn't get enough credit for winning Ballon d'Or",
+          "description": "Michael Owen has said that he doesn't believe he got the sort of credit that \"others would\" for winning the Ballon d'Or when he triumphed in 2001.",
+          "url": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738497_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T10:24:43Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50326324/man-united-munich-air-disaster-memorial-vandalised",
@@ -8754,116 +8844,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50317190/gary-neville-glazers-man-united-ownership-joel-glazer-avram-glazer",
           "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1738010_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-29T11:58:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50316630/xabi-alonso-estevao-chelsea-brazil-english-premier-league",
-          "title": "Xabi Alonso: Estêvão will 'have his moment' at Chelsea",
-          "description": "Chelsea coach Xabi Alonso insists Estêvão will have \"his moment\" this season, with the teenage winger having only played 172 minutes.",
-          "url": "https://www.espn.com/soccer/story/_/id/50316630/xabi-alonso-estevao-chelsea-brazil-english-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1737998_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-29T11:09:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50312020/man-city-never-practiced-penalties-shootout-win",
-          "title": "Enzo Maresca: Man City 'never practiced penalties' before shootout win",
-          "description": "Man City boss Enzo Maresca said his players had not practiced penalties after edging past Brighton in a Carabao Cup shootout on Wednesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50312020/man-city-never-practiced-penalties-shootout-win",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729308_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T23:43:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
-          "title": "Transfer rumors, news: Juventus eye move for USMNT's Balogun",
-          "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked with a move to Juventus. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737670_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T20:05:27Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
-          "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
-          "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes have held clear-the-air talks.",
-          "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T16:57:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
-          "title": "Ranked: Every Premier League team's money-per-points (after Man City cheated)",
-          "description": "How much did Premier League teams spend for points -- after Man City cheated? We find out which clubs were wasteful and which spent smart.",
-          "url": "https://www.espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
-          "imageUrl": "https://a.espncdn.com/photo/2024/0521/r1335942_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-29T00:02:24Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50305840/joao-pedro-not-ready-next-games",
-          "title": "Alonso: João Pedro 'not ready for the next games'",
-          "description": "Alonso: João Pedro 'not ready for the next games'",
-          "url": "https://www.espn.com/video/clip/_/id/50305840/joao-pedro-not-ready-next-games",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/dm_261028_Alonso_Joao_Pedro_not_ready_for_the_next_games/dm_261028_Alonso_Joao_Pedro_not_ready_for_the_next_games.jpg",
-          "publishedUtc": "2026-10-28T08:45:20Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49637958/arteta-alonso-iraola-tiny-basque-club-shaped-premier-league-top-bosses",
-          "title": "Arteta, Alonso, Iraola: Three Premier League managers all come from one tiny club",
-          "description": "Whether it be the Premier League, Champions League or World Cup, hiring a coach from Spain's northern coast is bringing clubs guaranteed success.",
-          "url": "https://www.espn.com/soccer/story/_/id/49637958/arteta-alonso-iraola-tiny-basque-club-shaped-premier-league-top-bosses",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0817/r1702904_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T10:01:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/46093270/is-fleetwood-town-defeat-arsenal-biggest-upset-league-cup-history",
-          "title": "Is Fleetwood Town's defeat of Arsenal the biggest upset in League Cup history?",
-          "description": "Arsenal aren't the only Premier League side to suffer Cup humiliation; ESPN takes a look at all the famous \"giant killings\" in England's League Cup.",
-          "url": "https://www.espn.com/soccer/story/_/id/46093270/is-fleetwood-town-defeat-arsenal-biggest-upset-league-cup-history",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737269_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T23:20:21Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "title": "Transfer rumors, news: Dortmund's Nmecha among Liverpool's midfield targets",
-          "description": "Several midfielders across Europe are reportedly linked with a move to Liverpool. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737159_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T20:47:00Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50299369/wayne-rooney-son-kai-hits-four-manchester-united-18s-vs-burnley",
-          "title": "Wayne Rooney's son, Kai scores, 4 goals for Man United under-18s vs. Burnley",
-          "description": "Kai Rooney scored four goals as Manchester United's Under-18s thrashed Burnley 6-0 on Tuesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50299369/wayne-rooney-son-kai-hits-four-manchester-united-18s-vs-burnley",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737065_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T18:37:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50299184/gary-neville-really-surprised-happy-michael-carrick-set-continue-man-united-boss",
-          "title": "Gary Neville: 'Really surprised' but 'happy' Michael Carrick set to continue as Man United boss",
-          "description": "Michael Carrick faces a tough ask to get Manchester United's misfiring players to turn his team's fortunes around, according to former club captain Gary Neville.",
-          "url": "https://www.espn.com/soccer/story/_/id/50299184/gary-neville-really-surprised-happy-michael-carrick-set-continue-man-united-boss",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T17:11:00Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9612,32 +9592,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.915Z",
+      "updatedUtc": "2026-10-30T19:06:52.728Z",
       "matches": [
-        {
-          "id": "401882843",
-          "utc": "2026-10-17T12:00Z",
-          "phase": "2026 27 Laliga",
-          "home": {
-            "id": "88",
-            "name": "Espanyol",
-            "abbreviation": "ESP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
-          },
-          "away": {
-            "id": "1068",
-            "name": "Atlético",
-            "abbreviation": "ATM",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
-          },
-          "venue": "RCDE Stadium, Barcelona",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401882837",
           "utc": "2026-10-17T14:15Z",
@@ -11095,6 +11051,30 @@
           "note": "TBD"
         },
         {
+          "id": "401882849",
+          "utc": "2026-12-09T19:00Z",
+          "phase": "2026 27 Laliga",
+          "home": {
+            "id": "101",
+            "name": "Rayo",
+            "abbreviation": "RAY",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+          },
+          "away": {
+            "id": "93",
+            "name": "Athletic",
+            "abbreviation": "ATH",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
+          },
+          "venue": "Estadio de Vallecas, Madrid",
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "ABN"
+        },
+        {
           "id": "401882776",
           "utc": "2026-12-13T20:00Z",
           "phase": "2026 27 Laliga",
@@ -11644,6 +11624,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50327622/barcelona-flick-yamal-ballon-dor-setback-reacted-well",
+          "title": "Barcelona's Flick on Yamal's Ballon d'Or setback: He reacted well",
+          "description": "Barcelona coach Hansi Flick said Lamine Yamal has reacted like a champion to missing out on the Ballon d'Or to Bayern Munich striker Harry Kane.",
+          "url": "https://www.espn.com/soccer/story/_/id/50327622/barcelona-flick-yamal-ballon-dor-setback-reacted-well",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736915_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T15:38:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
           "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
           "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
@@ -11659,7 +11649,7 @@
           "description": "Pedro Porro has denied receiving offers from Barcelona and Real Madrid this summer but the Tottenham right-back has said that he would like to return to play in Spain one day.",
           "url": "https://www.espn.com/soccer/story/_/id/50327134/pedro-porro-tottenham-hotspur-premier-league-laliga-real-madrid-barcelona",
           "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738504_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T12:02:15Z",
+          "publishedUtc": "2026-10-30T15:26:57Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11669,7 +11659,7 @@
           "description": "Local police have identified the Barcelona supporter that hit Real Madrid midfielder Eduardo Camavinga with a flag during last weekend's Clasico at the Camp Nou.",
           "url": "https://www.espn.com/soccer/story/_/id/50326620/fan-struck-real-madrid-eduardo-camavinga-clasico-identified-police",
           "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738494_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T10:00:12Z",
+          "publishedUtc": "2026-10-30T16:29:54Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11870,16 +11860,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50282227/jose-mourinho-barcelona-real-madrid-play-win-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736220_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-25T23:45:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50282182/real-madrid-el-clasico-victory-vs-barcelona-good-laliga",
-          "title": "McManaman: Real Madrid's El Clásico victory vs. Barcelona is good for LaLiga",
-          "description": "McManaman: Real Madrid's El Clásico victory vs. Barcelona is good for LaLiga",
-          "url": "https://www.espn.com/video/clip/_/id/50282182/real-madrid-el-clasico-victory-vs-barcelona-good-laliga",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_Analysis_McManaman3A_Real_Madrid1155/dm_261025_COM_SOC_Analysis_McManaman3A_Real_Madrid1155.jpg",
-          "publishedUtc": "2026-10-25T23:16:06Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12627,56 +12607,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.799Z",
+      "updatedUtc": "2026-10-30T19:06:52.575Z",
       "matches": [
-        {
-          "id": "401874961",
-          "utc": "2026-10-24T13:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "2572",
-            "name": "Como",
-            "abbreviation": "COMO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-          },
-          "away": {
-            "id": "3997",
-            "name": "Sassuolo",
-            "abbreviation": "SAS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
-          },
-          "venue": "Giuseppe Sinigaglia, Como",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401874948",
-          "utc": "2026-10-24T16:00Z",
-          "phase": "2026 27 Italian Serie A",
-          "home": {
-            "id": "114",
-            "name": "Napoli",
-            "abbreviation": "NAP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-          },
-          "away": {
-            "id": "104",
-            "name": "AS Roma",
-            "abbreviation": "ROMA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-          },
-          "venue": "Stadio Diego Armando Maradona, Napoli",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 3
-          },
-          "note": "FT"
-        },
         {
           "id": "401874955",
           "utc": "2026-10-24T18:45Z",
@@ -14300,6 +14232,46 @@
           "venue": "Via Del Mare, Lecce",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401874973",
+          "utc": "2026-12-19T14:00Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "3997",
+            "name": "Sassuolo",
+            "abbreviation": "SAS",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
+          },
+          "away": {
+            "id": "115",
+            "name": "Parma",
+            "abbreviation": "PAR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
+          },
+          "venue": "Mapei Stadium, Reggio Emilia",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401875044",
+          "utc": "2026-12-19T17:00Z",
+          "phase": "2026 27 Italian Serie A",
+          "home": {
+            "id": "103",
+            "name": "Milan",
+            "abbreviation": "MIL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+          },
+          "away": {
+            "id": "2572",
+            "name": "Como",
+            "abbreviation": "COMO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+          },
+          "venue": "San Siro, Milano",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -14651,6 +14623,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50319610/usmnt-christian-pulisic-new-contract-ac-milan-analysis-club-career",
+          "title": "Pulisic staying in Milan reflects his club career: Good, but not quite great",
+          "description": "Christian Pulisic's new contract with AC Milan means he'll spend the rest of his prime with the Italian giants. Could he have achieved more elsewhere?",
+          "url": "https://www.espn.com/soccer/story/_/id/50319610/usmnt-christian-pulisic-new-contract-ac-milan-analysis-club-career",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1738177_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T14:09:57Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50308383/usmnt-star-christian-pulisic-signs-new-ac-milan-contract",
+          "title": "USMNT star Christian Pulisic signs new AC Milan contract through 2031",
+          "description": "United States star Christian Pulisic has signed a new contract with AC Milan through 2031.",
+          "url": "https://www.espn.com/soccer/story/_/id/50308383/usmnt-star-christian-pulisic-signs-new-ac-milan-contract",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737505_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T16:33:25Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
           "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
           "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
@@ -14662,11 +14654,11 @@
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50326721/ruben-amorim-gerry-cardinale-ac-milan-chief-makes-top-gun-vow",
-          "title": "Ruben Amorim 'not in danger' - AC Milan chief makes Top Gun vow",
-          "description": "Ruben Amorim has been backed by AC Milan's owner who used a famous Top Gun reference.",
+          "title": "Ruben Amorim 'not in danger' - AC Milan chief makes 'Top Gun' vow",
+          "description": "AC Milan coach Ruben Amorim has been backed by the club's owner via a famous \"Top Gun\" reference.",
           "url": "https://www.espn.com/soccer/story/_/id/50326721/ruben-amorim-gerry-cardinale-ac-milan-chief-makes-top-gun-vow",
           "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1717033_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T10:10:15Z",
+          "publishedUtc": "2026-10-30T15:31:20Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -14869,26 +14861,6 @@
           "publishedUtc": "2026-10-20T13:23:32Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50217568/como-fabregas-champions-league-manchester-united-dream",
-          "title": "Como's Fàbregas: Champions League vs. Manchester United a 'dream come true'",
-          "description": "Como coach Cesc Fabregas is excited about the \"dream come true\" opportunity to host Manchester United in Wednesday's Champions League group game.",
-          "url": "https://www.espn.com/soccer/story/_/id/50217568/como-fabregas-champions-league-manchester-united-dream",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0424/r1648504_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-19T12:20:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401874978",
-          "title": "Ruben Amorim still unbeaten in Serie A after Milan win",
-          "description": "AC Milan held off a fightback from Atalanta to close out a 3-2 win at San Siro and move up into fourth in Serie A with manager Ruben Amorim remaining unbeaten in his first seven league games.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401874978",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1018/r1732517_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-18T18:40:07Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -15639,7 +15611,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.754Z",
+      "updatedUtc": "2026-10-30T19:06:52.644Z",
       "matches": [
         {
           "id": "401884775",
@@ -17661,6 +17633,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50328630/vincent-kompany-sit-bayern-dortmund-leaving-hospital",
+          "title": "Kompany to sit out Bayern-Dortmund after leaving hospital",
+          "description": "Vincent Kompany won't be on the sidelines for Bayern's match against Borussia Dortmund following his hospitalization last week.",
+          "url": "https://www.espn.com/soccer/story/_/id/50328630/vincent-kompany-sit-bayern-dortmund-leaving-hospital",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0909/r1713698_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T16:26:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
           "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
           "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
@@ -17889,16 +17871,6 @@
           "publishedUtc": "2026-10-17T18:40:59Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-          "title": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
-          "description": "Florian Wirtz could end up returning to the Bundesliga, as Bayern Munich are keeping a close eye on his situation at Liverpool. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731333_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T20:54:08Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -18647,7 +18619,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.717Z",
+      "updatedUtc": "2026-10-30T19:06:52.690Z",
       "matches": [
         {
           "id": "401876446",
@@ -19290,8 +19262,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
           },
           "venue": "Stade Océane, Le Havre",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "47'"
         },
         {
           "id": "401876416",
@@ -19310,8 +19286,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
           },
           "venue": "Allianz Riviera, Nice",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "note": "47'"
         },
         {
           "id": "401876420",
@@ -21645,7 +21625,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-30T12:37:26.606Z",
+      "updatedUtc": "2026-10-30T19:06:52.580Z",
       "matches": [
         {
           "id": "401861118",
@@ -25337,7 +25317,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T12:37:26.986Z",
+      "updatedUtc": "2026-10-30T19:06:52.800Z",
       "matches": [
         {
           "id": "761871",
@@ -28666,7 +28646,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-30T12:37:26.869Z",
+      "updatedUtc": "2026-10-30T19:06:52.524Z",
       "matches": [
         {
           "id": "760415",
