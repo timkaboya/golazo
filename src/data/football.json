@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-30T05:26:06.265Z",
+  "updatedUtc": "2026-10-30T12:37:26.986Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:05.658Z",
+      "updatedUtc": "2026-10-30T12:37:26.660Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:05.516Z",
+      "updatedUtc": "2026-10-30T12:37:26.632Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,32 +6640,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:05.646Z",
+      "updatedUtc": "2026-10-30T12:37:26.865Z",
       "matches": [
-        {
-          "id": "401879253",
-          "utc": "2026-10-23T19:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "373",
-            "name": "Ipswich",
-            "abbreviation": "IPS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
-          },
-          "away": {
-            "id": "393",
-            "name": "Nottm Forest",
-            "abbreviation": "NFO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
-          },
-          "venue": "Portman Road, Ipswich",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 1
-          },
-          "note": "FT"
-        },
         {
           "id": "401879256",
           "utc": "2026-10-24T11:30Z",
@@ -8281,6 +8257,26 @@
           "venue": "The MKM Stadium, Hull",
           "status": "upcoming",
           "note": "Scheduled"
+        },
+        {
+          "id": "401879203",
+          "utc": "2026-12-19T12:30Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "337",
+            "name": "Brentford",
+            "abbreviation": "BRE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+          },
+          "away": {
+            "id": "361",
+            "name": "Newcastle",
+            "abbreviation": "NEW",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
+          },
+          "venue": "Gtech Community Stadium, Brentford",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -8632,6 +8628,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
+          "title": "Michael Owen: I didn't get enough credit for winning Ballon d'Or",
+          "description": "Michael Owen has said that he doesn't believe he got the sort of credit that \"others would\" for winning the Ballon d'Or when he triumphed in 2001.",
+          "url": "https://www.espn.com/soccer/story/_/id/50326763/michael-owen-ballon-dor-liverpool-2001",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738497_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T10:24:43Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
+          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
+          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T09:15:58Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
+          "title": "Transfer rumors, news: Man United eye move for Calvert-Lewin in January",
+          "description": "Leeds United striker Dominic Calvert-Lewin is being considered by Manchester United. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738490_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T09:05:32Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50326324/man-united-munich-air-disaster-memorial-vandalised",
+          "title": "Man United Munich air disaster memorial vandalised",
+          "description": "A memorial for the 1958 Munich air disaster has been vandalised.",
+          "url": "https://www.espn.com/soccer/story/_/id/50326324/man-united-munich-air-disaster-memorial-vandalised",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738489_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T08:56:03Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50323003/carrick-only-manchester-united-club-no-solution",
           "title": "Nicol: Carrick only at Manchester United because club has no solution",
           "description": "Nicol: Carrick only at Manchester United because club has no solution",
@@ -8828,46 +8864,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50299184/gary-neville-really-surprised-happy-michael-carrick-set-continue-man-united-boss",
           "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-27T17:11:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50298444/xabi-alonso-confirms-joao-pedro-a-weeks-chelsea",
-          "title": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
-          "description": "Xabi Alonso confirms João Pedro will be 'out a few weeks' for Chelsea",
-          "url": "https://www.espn.com/video/clip/_/id/50298444/xabi-alonso-confirms-joao-pedro-a-weeks-chelsea",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027/dm_261027_COM_SOC_Presser_Xabi_Alonso_confirms_Joao_Pedro_will_be_out_a_few_weeks_for_Chelsea__20261027.jpg",
-          "publishedUtc": "2026-10-27T15:56:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50298418/xabi-alonso-joao-pedro-chelsea-absence-looking-solutions-not-excuses",
-          "title": "Xabi Alonso on João Pedro's Chelsea absence: Looking for solutions, not excuses",
-          "description": "Xabi Alonso said Chelsea will look for \"solutions, not excuses\" after João Pedro was ruled out for several weeks with a thigh injury.",
-          "url": "https://www.espn.com/soccer/story/_/id/50298418/xabi-alonso-joao-pedro-chelsea-absence-looking-solutions-not-excuses",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737023_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T16:08:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50297244/wayne-rooney-blasts-man-united-players-amid-growing-crisis",
-          "title": "Wayne Rooney blasts Man United players amid growing crisis",
-          "description": "Manchester United's players need a \"firework up their a----\" and reminding what it means to play for the club, according to Wayne Rooney.",
-          "url": "https://www.espn.com/soccer/story/_/id/50297244/wayne-rooney-blasts-man-united-players-amid-growing-crisis",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736965_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T14:00:12Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50297039/gianluigi-donnarumma-mistakes-man-city-boss-enzo-maresca",
-          "title": "Gianluigi Donnarumma 'making mistakes,' defended by Man City boss Enzo Maresca",
-          "description": "Manchester City boss Enzo Maresca has defended goalkeeper Gianluigi Donnarumma and defender Marc Guéhi following criticism of their form.",
-          "url": "https://www.espn.com/soccer/story/_/id/50297039/gianluigi-donnarumma-mistakes-man-city-boss-enzo-maresca",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713461_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T15:40:55Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9616,7 +9612,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:05.929Z",
+      "updatedUtc": "2026-10-30T12:37:26.915Z",
       "matches": [
         {
           "id": "401882843",
@@ -11648,6 +11644,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
+          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
+          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T12:06:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50327134/pedro-porro-tottenham-hotspur-premier-league-laliga-real-madrid-barcelona",
+          "title": "Tottenham's Pedro Porro keen on future LaLiga return",
+          "description": "Pedro Porro has denied receiving offers from Barcelona and Real Madrid this summer but the Tottenham right-back has said that he would like to return to play in Spain one day.",
+          "url": "https://www.espn.com/soccer/story/_/id/50327134/pedro-porro-tottenham-hotspur-premier-league-laliga-real-madrid-barcelona",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738504_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T12:02:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50326620/fan-struck-real-madrid-eduardo-camavinga-clasico-identified-police",
+          "title": "Fan who struck Real Madrid's Eduardo Camavinga in Clásico identified by police",
+          "description": "Local police have identified the Barcelona supporter that hit Real Madrid midfielder Eduardo Camavinga with a flag during last weekend's Clasico at the Camp Nou.",
+          "url": "https://www.espn.com/soccer/story/_/id/50326620/fan-struck-real-madrid-eduardo-camavinga-clasico-identified-police",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738494_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T10:00:12Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
           "title": "Man City, Bayern among the good, bad and lucky in Europe's top leagues",
           "description": "We're a quarter of the way through the 2026-27 European season -- long enough to separate fact from fiction when it comes to from. Who's been lucky? Who's been good? Who's been both, or neither?",
@@ -11854,36 +11880,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50282182/real-madrid-el-clasico-victory-vs-barcelona-good-laliga",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_Analysis_McManaman3A_Real_Madrid1155/dm_261025_COM_SOC_Analysis_McManaman3A_Real_Madrid1155.jpg",
           "publishedUtc": "2026-10-25T23:16:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50282143/jose-mourinho-primes-real-madrid-statement-clasico-win-barcelona-blow-laliga-title-race-wide-open",
-          "title": "Mourinho primes Madrid for statement win over Barça to blow LaLiga title race wide open",
-          "description": "Real Madrid haven't convinced this season, but José Mourinho's game plan overwhelmed Barça, and Los Blancos' 2-1 win brings them into the title race.",
-          "url": "https://www.espn.com/soccer/story/_/id/50282143/jose-mourinho-primes-real-madrid-statement-clasico-win-barcelona-blow-laliga-title-race-wide-open",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736215_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T00:13:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50281913/kylian-mbappe-double-wins-el-clasico-real-madrid",
-          "title": "Kylian Mbappé double wins El Clasico for Real Madrid",
-          "description": "Kylian Mbappé double wins El Clasico for Real Madrid",
-          "url": "https://www.espn.com/video/clip/_/id/50281913/kylian-mbappe-double-wins-el-clasico-real-madrid",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_Kylian_Mbappe_double_wins_El_Clasico_for_Real_Madrid/dm_261025_Kylian_Mbappe_double_wins_El_Clasico_for_Real_Madrid.jpg",
-          "publishedUtc": "2026-10-25T22:57:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50278896/barcelona-real-madrid-laliga-kylian-mbappe-jude-bellingham-raphinha",
-          "title": "Barcelona vs. Real Madrid player ratings as Kylian Mbappé sinks out-of-sorts hosts",
-          "description": "A brace from Kylian Mbappé -- the latter his 100th goal for the club -- claimed a famous victory for Real Madrid over Barcelona at the Spotify Camp Nou.",
-          "url": "https://www.espn.com/soccer/story/_/id/50278896/barcelona-real-madrid-laliga-kylian-mbappe-jude-bellingham-raphinha",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1025/r1736170_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-25T22:39:08Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12631,7 +12627,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:05.779Z",
+      "updatedUtc": "2026-10-30T12:37:26.799Z",
       "matches": [
         {
           "id": "401874961",
@@ -14655,6 +14651,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
+          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
+          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T12:06:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50326721/ruben-amorim-gerry-cardinale-ac-milan-chief-makes-top-gun-vow",
+          "title": "Ruben Amorim 'not in danger' - AC Milan chief makes Top Gun vow",
+          "description": "Ruben Amorim has been backed by AC Milan's owner who used a famous Top Gun reference.",
+          "url": "https://www.espn.com/soccer/story/_/id/50326721/ruben-amorim-gerry-cardinale-ac-milan-chief-makes-top-gun-vow",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0915/r1717033_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T10:10:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50317859/milan-inter-new-stadium-generali-naming-rights-new-san-siro",
           "title": "Sources: New Milan, Inter stadium gets $725M naming rights deal with Generali",
           "description": "AC Milan and Inter Milan have agreed a naming rights deal with Italian insurance giant Generali for the new San Siro.",
@@ -14873,26 +14889,6 @@
           "publishedUtc": "2026-10-18T18:40:07Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
-          "title": "Inter Milan rocked as captain Lautaro Martínez set to miss 7 games",
-          "description": "Inter Milan captain Lautaro Martínez will likely miss his team's next seven matches, including the derby against city rival AC Milan, with a hamstring injury.",
-          "url": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731694_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-16T16:48:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50179920/transfer-rumors-news-real-madrid-barcelona-chase-spurs-defender-porro",
-          "title": "Transfer rumors, news: Liverpool eye move for Juventus' Kalulu",
-          "description": "Liverpool are reportedly linked with a move for Juventus defender Pierre Kalulu. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50179920/transfer-rumors-news-real-madrid-barcelona-chase-spurs-defender-porro",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730855_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-14T21:46:58Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -14910,6 +14906,18 @@
             "assists": 1
           },
           {
+            "id": "319265",
+            "name": "Antonio Raimondo",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 8,
+            "assists": 0
+          },
+          {
             "id": "259481",
             "name": "Donyell Malen",
             "team": {
@@ -14921,18 +14929,6 @@
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259481.png",
             "goals": 7,
             "assists": 1
-          },
-          {
-            "id": "319265",
-            "name": "Antonio Raimondo",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-            },
-            "goals": 7,
-            "assists": 0
           },
           {
             "id": "258158",
@@ -15009,6 +15005,18 @@
             "assists": 2
           },
           {
+            "id": "236038",
+            "name": "Giacomo Calo",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
             "id": "134947",
             "name": "Kevin De Bruyne",
             "team": {
@@ -15057,6 +15065,18 @@
             "assists": 0
           },
           {
+            "id": "360714",
+            "name": "Giorgi Kvernadze",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 3,
+            "assists": 3
+          },
+          {
             "id": "337970",
             "name": "Nico Paz",
             "team": {
@@ -15076,30 +15096,6 @@
               "name": "AC Milan",
               "abbreviation": "MIL",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "236038",
-            "name": "Giacomo Calo",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "360714",
-            "name": "Giorgi Kvernadze",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
             },
             "goals": 3,
             "assists": 1
@@ -15276,6 +15272,18 @@
             "assists": 5
           },
           {
+            "id": "238296",
+            "name": "Romano Schmid",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 2,
+            "assists": 4
+          },
+          {
             "id": "319167",
             "name": "Andy Diouf",
             "team": {
@@ -15283,6 +15291,18 @@
               "name": "Internazionale",
               "abbreviation": "INT",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+            },
+            "goals": 0,
+            "assists": 4
+          },
+          {
+            "id": "356536",
+            "name": "Farès Ghedjemis",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
             },
             "goals": 0,
             "assists": 4
@@ -15324,6 +15344,18 @@
             "assists": 3
           },
           {
+            "id": "360714",
+            "name": "Giorgi Kvernadze",
+            "team": {
+              "id": "4057",
+              "name": "Frosinone",
+              "abbreviation": "FRO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+            },
+            "goals": 3,
+            "assists": 3
+          },
+          {
             "id": "337970",
             "name": "Nico Paz",
             "team": {
@@ -15348,15 +15380,27 @@
             "assists": 3
           },
           {
-            "id": "238296",
-            "name": "Romano Schmid",
+            "id": "296319",
+            "name": "Charles De Ketelaere",
             "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+              "id": "105",
+              "name": "Atalanta",
+              "abbreviation": "ATA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
             },
-            "goals": 2,
+            "goals": 1,
+            "assists": 3
+          },
+          {
+            "id": "288488",
+            "name": "Nicola Zalewski",
+            "team": {
+              "id": "105",
+              "name": "Atalanta",
+              "abbreviation": "ATA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+            },
+            "goals": 1,
             "assists": 3
           },
           {
@@ -15381,18 +15425,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
             },
             "goals": 1,
-            "assists": 3
-          },
-          {
-            "id": "356536",
-            "name": "Farès Ghedjemis",
-            "team": {
-              "id": "4057",
-              "name": "Frosinone",
-              "abbreviation": "FRO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-            },
-            "goals": 0,
             "assists": 3
           },
           {
@@ -15430,6 +15462,18 @@
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/323113.png",
             "goals": 4,
+            "assists": 2
+          },
+          {
+            "id": "367861",
+            "name": "Álex Jiménez",
+            "team": {
+              "id": "109",
+              "name": "Fiorentina",
+              "abbreviation": "FIO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+            },
+            "goals": 2,
             "assists": 2
           },
           {
@@ -15488,18 +15532,6 @@
               "name": "Como",
               "abbreviation": "COMO",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "296319",
-            "name": "Charles De Ketelaere",
-            "team": {
-              "id": "105",
-              "name": "Atalanta",
-              "abbreviation": "ATA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
             },
             "goals": 0,
             "assists": 2
@@ -15588,42 +15620,6 @@
             },
             "goals": 0,
             "assists": 2
-          },
-          {
-            "id": "260004",
-            "name": "Ivan Ilic",
-            "team": {
-              "id": "113",
-              "name": "Lecce",
-              "abbreviation": "LEC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "233654",
-            "name": "Keinan Davis",
-            "team": {
-              "id": "118",
-              "name": "Udinese",
-              "abbreviation": "UDI",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "297220",
-            "name": "Lorenzo Colombo",
-            "team": {
-              "id": "3263",
-              "name": "Genoa",
-              "abbreviation": "GEN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
-            },
-            "goals": 0,
-            "assists": 2
           }
         ]
       }
@@ -15643,7 +15639,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:06.265Z",
+      "updatedUtc": "2026-10-30T12:37:26.754Z",
       "matches": [
         {
           "id": "401884775",
@@ -17665,6 +17661,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
+          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
+          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T12:06:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
           "title": "Man City, Bayern among the good, bad and lucky in Europe's top leagues",
           "description": "We're a quarter of the way through the 2026-27 European season -- long enough to separate fact from fiction when it comes to from. Who's been lucky? Who's been good? Who's been both, or neither?",
@@ -17891,16 +17897,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
           "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731333_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-15T20:54:08Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50172307/borussia-dortmund-niko-kovac-contract-extension-2029",
-          "title": "Borussia Dortmund extend head coach Niko Kovač's contract through to 2029",
-          "description": "Borussia Dortmund have handed head coach Niko Kovač a contact extension through June 2029 as a reward for stabilizing the team.",
-          "url": "https://www.espn.com/soccer/story/_/id/50172307/borussia-dortmund-niko-kovac-contract-extension-2029",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730054_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-13T10:49:28Z",
           "source": "ESPN",
           "transfer": true
         }
@@ -18651,7 +18647,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:06.227Z",
+      "updatedUtc": "2026-10-30T12:37:26.717Z",
       "matches": [
         {
           "id": "401876446",
@@ -20673,6 +20669,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
+          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
+          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T12:06:05Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
           "title": "Transfer rumors, news: Liverpool in contact over Monaco's Camara",
           "description": "Liverpool have reached out to representatives of Lamine Camara and will explore a transfer next summer. Transfer Talk has the latest.",
@@ -20891,16 +20897,6 @@
           "publishedUtc": "2026-09-26T10:36:01Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50004516/kylian-mbappe-liverpool-transfer-talks-mum-went-anfield-fell-love",
-          "title": "Kylian Mbappé on past Liverpool transfer talks: 'Mum went to Anfield and fell in love'",
-          "description": "Kylian Mbappé has described how his mother \"fell in love\" with Anfield and was keen for him to sign for Liverpool before he decided to join PSG.",
-          "url": "https://www.espn.com/soccer/story/_/id/50004516/kylian-mbappe-liverpool-transfer-talks-mum-went-anfield-fell-love",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0922/r1720348_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-22T12:02:31Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -21649,7 +21645,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-30T05:26:06.137Z",
+      "updatedUtc": "2026-10-30T12:37:26.606Z",
       "matches": [
         {
           "id": "401861118",
@@ -22679,7 +22675,7 @@
             "abbreviation": "SUI",
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
           },
-          "venue": "Stadion Stozice, Ljubljana",
+          "venue": "Ljudski vrt, Maribor",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -25341,7 +25337,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T05:26:05.893Z",
+      "updatedUtc": "2026-10-30T12:37:26.986Z",
       "matches": [
         {
           "id": "761871",
@@ -28670,7 +28666,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-30T05:26:05.874Z",
+      "updatedUtc": "2026-10-30T12:37:26.869Z",
       "matches": [
         {
           "id": "760415",
