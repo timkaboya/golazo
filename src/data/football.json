@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-10-30T23:35:26.794Z",
+  "updatedUtc": "2026-10-31T05:10:39.405Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.378Z",
+      "updatedUtc": "2026-10-31T05:10:39.050Z",
       "matches": [
         {
           "id": "401915415",
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.399Z",
+      "updatedUtc": "2026-10-31T05:10:39.036Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.359Z",
+      "updatedUtc": "2026-10-31T05:10:39.141Z",
       "matches": [
         {
           "id": "401878766",
@@ -9592,7 +9592,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.461Z",
+      "updatedUtc": "2026-10-31T05:10:39.335Z",
       "matches": [
         {
           "id": "401882837",
@@ -12611,7 +12611,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.516Z",
+      "updatedUtc": "2026-10-31T05:10:39.265Z",
       "matches": [
         {
           "id": "401875036",
@@ -15611,7 +15611,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.534Z",
+      "updatedUtc": "2026-10-31T05:10:39.207Z",
       "matches": [
         {
           "id": "401884769",
@@ -18587,7 +18587,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.743Z",
+      "updatedUtc": "2026-10-31T05:10:39.297Z",
       "matches": [
         {
           "id": "401876446",
@@ -20621,6 +20621,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+          "title": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
+          "description": "Right back Achraf Hakimi claimed a first career hat trick and provided two assists as Luis Enrique became the winningest coach in Paris Saint-Germain history on Friday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738690_1296x729_16-9.jpg",
+          "publishedUtc": "2026-10-30T22:30:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
           "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
           "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
@@ -20837,16 +20847,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
           "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
           "publishedUtc": "2026-09-29T07:38:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
-          "title": "Barcelona's start to season is best in Europe's top 5 leagues for almost 100 years",
-          "description": "Barcelona have begun the season on fire, scoring 36 goals in their first eight matches. How does that compare to the best starts for all time? (Spoiler: Very well.)",
-          "url": "https://www.espn.com/soccer/story/_/id/50004145/why-barcelona-start-season-laliga-champions-league-best-europe-top-5-leagues-almost-100-years",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0926/r1721963_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-26T10:36:01Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21597,7 +21597,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-10-30T23:35:26.794Z",
+      "updatedUtc": "2026-10-31T05:10:39.213Z",
       "matches": [
         {
           "id": "401861118",
@@ -25289,7 +25289,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-10-30T23:35:26.778Z",
+      "updatedUtc": "2026-10-31T05:10:39.405Z",
       "matches": [
         {
           "id": "761871",
@@ -28618,7 +28618,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-10-30T23:35:26.726Z",
+      "updatedUtc": "2026-10-31T05:10:39.171Z",
       "matches": [
         {
           "id": "760415",
