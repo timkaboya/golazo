@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-02T23:24:15.622Z",
+  "updatedUtc": "2026-11-03T06:19:31.356Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.615Z",
+      "updatedUtc": "2026-11-03T06:19:31.016Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,6 +2345,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50362045/martinez-leave-manchester-united-head-down",
+          "title": "Melchiot: Martínez would leave Manchester United with his head down",
+          "description": "Melchiot: Martínez would leave Manchester United with his head down",
+          "url": "https://www.espn.com/video/clip/_/id/50362045/martinez-leave-manchester-united-head-down",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down.jpg",
+          "publishedUtc": "2026-11-02T23:54:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50360679/flick-100-convinced-barcelona-win-champions-league-laliga",
           "title": "Flick '100% convinced' Barcelona can win Champions League and LaLiga",
           "description": "Flick '100% convinced' Barcelona can win Champions League and LaLiga",
@@ -2360,7 +2370,7 @@
           "description": "Carrick 'can't wait' for Roma game and disregards sack talk",
           "url": "https://www.espn.com/video/clip/_/id/50360639/carrick-wait-roma-game-disregards-sack-talk",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk.jpg",
-          "publishedUtc": "2026-11-02T20:25:28Z",
+          "publishedUtc": "2026-11-02T23:54:07Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2571,16 +2581,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734022_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-22T07:47:14Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50246174/youri-tielemans-everything-missing-man-united-loss-como",
-          "title": "Youri Tielemans: 'Everything was missing' in Man United's loss to Como",
-          "description": "Youri Tielemans admitted \"everything was missing\" in Manchester United's humiliating defeat to Como.",
-          "url": "https://www.espn.com/soccer/story/_/id/50246174/youri-tielemans-everything-missing-man-united-loss-como",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734412_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T07:59:15Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.478Z",
+      "updatedUtc": "2026-11-03T06:19:31.040Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.328Z",
+      "updatedUtc": "2026-11-03T06:19:31.243Z",
       "matches": [
         {
           "id": "401879248",
@@ -8632,12 +8632,22 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50361954/moyes-2nd-everton-win-newcastle",
+          "title": "Moyes after 2nd Everton win over Newcastle: 'Not an easy thing'",
+          "description": "David Moyes hailed a \"great result\" for Everton as they secured back-to-back wins over Newcastle United with a 1-0 triumph at St James' Park on Monday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50361954/moyes-2nd-everton-win-newcastle",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740279_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T00:08:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "http://www.espn.com/soccer/report/_/gameId/401878762",
           "title": "Barry leads Everton to second win over Newcastle in four days",
           "description": "Thierno Barry's second-half strike helped Everton return to winning ways in the Premier League with a 1-0 victory over Newcastle at St James' Park.",
           "url": "http://www.espn.com/soccer/report/_/gameId/401878762",
           "imageUrl": "https://a.espncdn.com/photo/2026/1102/r1740227_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T22:29:21Z",
+          "publishedUtc": "2026-11-02T23:06:16Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8657,7 +8667,7 @@
           "description": "Jack Grealish was not named in Everton's squad for Monday's Premier League match at Newcastle United due to a fitness issue.",
           "url": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
           "imageUrl": "https://a.espncdn.com/photo/2026/0803/r1697241_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T22:38:52Z",
+          "publishedUtc": "2026-11-02T23:59:11Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8858,16 +8868,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50349655/kai-havertz-becomes-all-record-german-goalscorer-premier-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1101/r1739602_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-01T19:05:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-          "title": "Premier League VAR review: Liverpool denied a penalty vs. Arsenal?",
-          "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-          "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1101/r1739598_1296x864_3-2.png",
-          "publishedUtc": "2026-11-01T21:00:44Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9617,7 +9617,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.415Z",
+      "updatedUtc": "2026-11-03T06:19:31.282Z",
       "matches": [
         {
           "id": "401882830",
@@ -12631,7 +12631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.437Z",
+      "updatedUtc": "2026-11-03T06:19:31.182Z",
       "matches": [
         {
           "id": "401874980",
@@ -15651,7 +15651,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.571Z",
+      "updatedUtc": "2026-11-03T06:19:31.108Z",
       "matches": [
         {
           "id": "401884769",
@@ -18658,7 +18658,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.515Z",
+      "updatedUtc": "2026-11-03T06:19:31.139Z",
       "matches": [
         {
           "id": "401876446",
@@ -21691,7 +21691,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-02T23:24:15.622Z",
+      "updatedUtc": "2026-11-03T06:19:31.286Z",
       "matches": [
         {
           "id": "401861118",
@@ -25383,7 +25383,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-02T23:24:15.577Z",
+      "updatedUtc": "2026-11-03T06:19:31.356Z",
       "matches": [
         {
           "id": "761871",
@@ -28772,7 +28772,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-02T23:24:15.585Z",
+      "updatedUtc": "2026-11-03T06:19:30.996Z",
       "matches": [
         {
           "id": "760415",
@@ -32151,12 +32151,12 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50358121/uefa-await-fifa-answers-gianni-infantino-queries-deadline-looms",
-          "title": "UEFA awaits FIFA answers to Gianni Infantino queries as deadline looms - report",
-          "description": "UEFA is still waiting to receive answers to a series of questions it posed to FIFA related to Gianni Infantino's presidency, with only hours to go until the deadline for a response passes.",
-          "url": "https://www.espn.com/soccer/story/_/id/50358121/uefa-await-fifa-answers-gianni-infantino-queries-deadline-looms",
+          "id": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
+          "title": "Reports: FIFA to open World Cup private equity plan files following UEFA demands",
+          "description": "FIFA has agreed to grant access to confidential documents detailing its aborted plan to sell a stake in the World Cup to private investors, according to multiple reports.",
+          "url": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
           "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713266_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T16:30:37Z",
+          "publishedUtc": "2026-11-03T00:45:24Z",
           "source": "ESPN",
           "transfer": false
         },
