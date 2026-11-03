@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-03T06:19:31.356Z",
+  "updatedUtc": "2026-11-03T16:02:32.810Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.016Z",
+      "updatedUtc": "2026-11-03T16:02:32.546Z",
       "matches": [
         {
           "id": "401915415",
@@ -2345,6 +2345,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50367841/maxime-esteve-erling-haaland-etihad-best-striker",
+          "title": "RB Leipzig's Maxime Estève on his plan to stop 'best striker' Erling Haaland",
+          "description": "RB Leipzig's Maxime Estève has opened up about how he plans to try and stop Erling Haaland and banishing the memories of a painful defeat to Man City when he was at Burnley.",
+          "url": "https://www.espn.com/soccer/story/_/id/50367841/maxime-esteve-erling-haaland-etihad-best-striker",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740443_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T12:19:12Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50367435/barcelona-lift-ban-supporters-group-aston-villa",
+          "title": "Barcelona lift ban on supporters' group for Aston Villa clash",
+          "description": "Barcelona has lifted a ban on different supporters' groups ahead of Tuesday's Champions League home game against Aston Villa following a positive meeting.",
+          "url": "https://www.espn.com/soccer/story/_/id/50367435/barcelona-lift-ban-supporters-group-aston-villa",
+          "imageUrl": "https://a.espncdn.com/photo/2023/0615/r1186743_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T10:19:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50362560/man-city-relegated-premier-league-win-champions-league-how-play-out",
+          "title": "Man City relegated from Premier League but win Champions League? How it could play out",
+          "description": "What would happen to Man City's superstar players if they get relegated from the Premier League but qualify for Champions League?",
+          "url": "https://www.espn.com/soccer/story/_/id/50362560/man-city-relegated-premier-league-win-champions-league-how-play-out",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740300_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T09:02:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50360697/liverpool-attack-struggle-iraola-isak-wirtz-barcola-premier-league-champions-league",
+          "title": "Liverpool's $500m forward line is failing. Can they turn it around?",
+          "description": "Liverpool's star-studded, expensively assembled attack has scored fewer Premier League goals this season than Ipswich. That needs to improve immediately.",
+          "url": "https://www.espn.com/soccer/story/_/id/50360697/liverpool-attack-struggle-iraola-isak-wirtz-barcola-premier-league-champions-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740417_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T09:37:03Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50362045/martinez-leave-manchester-united-head-down",
           "title": "Melchiot: Martínez would leave Manchester United with his head down",
           "description": "Melchiot: Martínez would leave Manchester United with his head down",
@@ -2541,46 +2581,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50247189/who-blame-manchester-united",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/dm_261022_Who_is_to_blame_at_Manchester_United/dm_261022_Who_is_to_blame_at_Manchester_United.jpg",
           "publishedUtc": "2026-10-22T10:28:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50246739/bruno-fernandes-frank-lebouef",
-          "title": "Frank Leboeuf blasts Bruno Fernandes for 'betrayal': 'Start running and stop talking'",
-          "description": "France legend Frank Leboeuf has slammed Manchester United midfielder Bruno Fernandes for his criticism of Michael Carrick following the club's after a humiliating 4-1 defeat to Como in the Champions League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50246739/bruno-fernandes-frank-lebouef",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734416_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T09:54:03Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
-          "title": "José Mourinho, Kylian Mbappé defend Vinícius Júnior after whistles from Real Madrid fans",
-          "description": "Real Madrid coach José Mourinho and Kylian Mbappé have defended Vinícius Júnior after the Brazilian forward drew whistles from the home fans during Wednesday's win over RB Leipzig.",
-          "url": "https://www.espn.com/soccer/story/_/id/50246766/jose-mourinho-kylian-mbappe-defend-vinicius-junior-whistles-real-madrid-fans",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734419_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T14:05:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50246580/declan-rice-harry-kane-deserves-ballon-dor",
-          "title": "Declan Rice: Harry Kane 'deserves' Ballon d'Or: 'It's his time'",
-          "description": "Declan Rice has backed England teammate Harry Kane to win the Ballon d'Or on Monday, saying it's \"his time.\"",
-          "url": "https://www.espn.com/soccer/story/_/id/50246580/declan-rice-harry-kane-deserves-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734417_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T09:08:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
-          "title": "Who are Como? The vacation-destination club that just rocked Man United",
-          "description": "Seven years ago, Como were a team of amateurs. Now they're a Champions League club with a brand born from the city's reputation as a holiday hotspot.",
-          "url": "https://www.espn.com/soccer/story/_/id/50239096/who-como-1907-vacation-destination-club-just-rocked-manchester-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734022_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-22T07:47:14Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3331,7 +3331,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.040Z",
+      "updatedUtc": "2026-11-03T16:02:32.528Z",
       "matches": [
         {
           "id": "401915560",
@@ -6640,7 +6640,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.243Z",
+      "updatedUtc": "2026-11-03T16:02:32.680Z",
       "matches": [
         {
           "id": "401879248",
@@ -8632,12 +8632,52 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50361954/moyes-2nd-everton-win-newcastle",
-          "title": "Moyes after 2nd Everton win over Newcastle: 'Not an easy thing'",
+          "id": "https://www.espn.com/soccer/story/_/id/50366900/transfer-rumors-news-real-madrid-tracking-arsenal-calafiori",
+          "title": "Transfer rumors, news: Real Madrid tracking Arsenal's Calafiori",
+          "description": "Real Madrid are monitoring Arsenal defender Riccardo Calafiori as a primary target to strengthen their left back position. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50366900/transfer-rumors-news-real-madrid-tracking-arsenal-calafiori",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728635_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T12:43:04Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50367571/boy-14-arrested-coventry-bradley-lowery-taunt-sunderland-fans",
+          "title": "Boy, 14, arrested for Bradley Lowery taunt at Sunderland fans",
+          "description": "A 14-year-old boy has been arrested after social media footage appeared to show a Coventry fan taunting Sunderland supporters about Bradley Lowery.",
+          "url": "https://www.espn.com/soccer/story/_/id/50367571/boy-14-arrested-coventry-bradley-lowery-taunt-sunderland-fans",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1101/r1739530_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T10:53:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50362560/man-city-relegated-premier-league-win-champions-league-how-play-out",
+          "title": "Man City relegated from Premier League but win Champions League? How it could play out",
+          "description": "What would happen to Man City's superstar players if they get relegated from the Premier League but qualify for Champions League?",
+          "url": "https://www.espn.com/soccer/story/_/id/50362560/man-city-relegated-premier-league-win-champions-league-how-play-out",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740300_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T09:02:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50360697/liverpool-attack-struggle-iraola-isak-wirtz-barcola-premier-league-champions-league",
+          "title": "Liverpool's $500m forward line is failing. Can they turn it around?",
+          "description": "Liverpool's star-studded, expensively assembled attack has scored fewer Premier League goals this season than Ipswich. That needs to improve immediately.",
+          "url": "https://www.espn.com/soccer/story/_/id/50360697/liverpool-attack-struggle-iraola-isak-wirtz-barcola-premier-league-champions-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740417_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T09:37:03Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50361954/moyes-second-everton-win-newcastle",
+          "title": "Moyes after second Everton win over Newcastle: 'Not an easy thing'",
           "description": "David Moyes hailed a \"great result\" for Everton as they secured back-to-back wins over Newcastle United with a 1-0 triumph at St James' Park on Monday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50361954/moyes-2nd-everton-win-newcastle",
+          "url": "https://www.espn.com/soccer/story/_/id/50361954/moyes-second-everton-win-newcastle",
           "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740279_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T00:08:34Z",
+          "publishedUtc": "2026-11-03T07:38:20Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8663,11 +8703,11 @@
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
-          "title": "Jack Grealish, 'not match fit,' left out as Everton beat Newcastle again",
+          "title": "There is a way back for Jack Grealish after another Everton omission - David Moyes",
           "description": "Jack Grealish was not named in Everton's squad for Monday's Premier League match at Newcastle United due to a fitness issue.",
           "url": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
           "imageUrl": "https://a.espncdn.com/photo/2026/0803/r1697241_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T23:59:11Z",
+          "publishedUtc": "2026-11-03T07:42:57Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8830,46 +8870,6 @@
           "publishedUtc": "2026-11-01T19:40:59Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50349936/arsenal-showed-takes-champions",
-          "title": "Nicol: Arsenal showed what it takes to be champions",
-          "description": "Nicol: Arsenal showed what it takes to be champions",
-          "url": "https://www.espn.com/video/clip/_/id/50349936/arsenal-showed-takes-champions",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/dm_261101_COM_SOC_ANALYSIS_Nicol_Arsenal_showed_what_it_takes_to_be_champions_2026_11_1/dm_261101_COM_SOC_ANALYSIS_Nicol_Arsenal_showed_what_it_takes_to_be_champions_2026_11_1.jpg",
-          "publishedUtc": "2026-11-01T19:38:11Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50349875/what-went-wrong-liverpool-attack-arsenal",
-          "title": "What went wrong for Liverpool in attack against Arsenal?",
-          "description": "What went wrong for Liverpool in attack against Arsenal?",
-          "url": "https://www.espn.com/video/clip/_/id/50349875/what-went-wrong-liverpool-attack-arsenal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/dm_261101_COM_SOC_ANALYSIS_What_went_wrong_for_Liverpool_in_attack_against_Arsenal_2026_11_1/dm_261101_COM_SOC_ANALYSIS_What_went_wrong_for_Liverpool_in_attack_against_Arsenal_2026_11_1.jpg",
-          "publishedUtc": "2026-11-01T19:30:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50348895/liverpool-arsenal-live-analysis-reaction-statistics-premier-league",
-          "title": "Arsenal hold on for a big win at Liverpool, one Iraola & Co. can learn from",
-          "description": "Arsenal's defense held firm against the Reds' expensive attack to notch a famous win at Anfield for the first time since 2012. However, there were positive signs for Liverpool when it came to their intensity and effort.",
-          "url": "https://www.espn.com/soccer/story/_/id/50348895/liverpool-arsenal-live-analysis-reaction-statistics-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1101/r1739556_3_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-01T21:00:14Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50349655/kai-havertz-becomes-all-record-german-goalscorer-premier-league",
-          "title": "Kai Havertz becomes all-time record German goalscorer in Premier League",
-          "description": "Kai Havertz's winning goal in Arsenal's 1-0 triumph at Liverpool on Sunday made him the record German goalscorer in the Premier League.",
-          "url": "https://www.espn.com/soccer/story/_/id/50349655/kai-havertz-becomes-all-record-german-goalscorer-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1101/r1739602_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-01T19:05:35Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -8978,6 +8978,18 @@
               "name": "Manchester United",
               "abbreviation": "MAN",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "id": "301166",
+            "name": "Thierno Barry",
+            "team": {
+              "id": "368",
+              "name": "Everton",
+              "abbreviation": "EVE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
             },
             "goals": 4,
             "assists": 0
@@ -9135,18 +9147,6 @@
               "name": "Brentford",
               "abbreviation": "BRE",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "id": "301166",
-            "name": "Thierno Barry",
-            "team": {
-              "id": "368",
-              "name": "Everton",
-              "abbreviation": "EVE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
             },
             "goals": 3,
             "assists": 0
@@ -9617,7 +9617,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.282Z",
+      "updatedUtc": "2026-11-03T16:02:32.755Z",
       "matches": [
         {
           "id": "401882830",
@@ -11649,6 +11649,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50367435/barcelona-lift-ban-supporters-group-aston-villa",
+          "title": "Barcelona lift ban on supporters' group for Aston Villa clash",
+          "description": "Barcelona has lifted a ban on different supporters' groups ahead of Tuesday's Champions League home game against Aston Villa following a positive meeting.",
+          "url": "https://www.espn.com/soccer/story/_/id/50367435/barcelona-lift-ban-supporters-group-aston-villa",
+          "imageUrl": "https://a.espncdn.com/photo/2023/0615/r1186743_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T10:19:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50361314/deportivo-la-coruna-vs-osasuna-game-highlights",
           "title": "Deportivo La Coruña vs. Osasuna - Game Highlights",
           "description": "Watch the Game Highlights from Deportivo La Coruña vs. Osasuna, 11/03/2026",
@@ -11877,16 +11887,6 @@
           "publishedUtc": "2026-10-30T16:29:54Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
-          "title": "Man City, Bayern among the good, bad and lucky in Europe's top leagues",
-          "description": "We're a quarter of the way through the 2026-27 European season -- long enough to separate fact from fiction when it comes to from. Who's been lucky? Who's been good? Who's been both, or neither?",
-          "url": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1738028_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-29T16:26:42Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -11928,6 +11928,18 @@
             "assists": 7
           },
           {
+            "id": "207288",
+            "name": "Ante Budimir",
+            "team": {
+              "id": "97",
+              "name": "Osasuna",
+              "abbreviation": "OSA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
+            },
+            "goals": 8,
+            "assists": 0
+          },
+          {
             "id": "390389",
             "name": "Yassir Zabiri",
             "team": {
@@ -11950,18 +11962,6 @@
             },
             "goals": 7,
             "assists": 2
-          },
-          {
-            "id": "207288",
-            "name": "Ante Budimir",
-            "team": {
-              "id": "97",
-              "name": "Osasuna",
-              "abbreviation": "OSA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
-            },
-            "goals": 7,
-            "assists": 0
           },
           {
             "id": "301684",
@@ -12631,7 +12631,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.182Z",
+      "updatedUtc": "2026-11-03T16:02:32.708Z",
       "matches": [
         {
           "id": "401874980",
@@ -15101,6 +15101,18 @@
             "assists": 0
           },
           {
+            "id": "376473",
+            "name": "Franco Mastantuono",
+            "team": {
+              "id": "109",
+              "name": "Fiorentina",
+              "abbreviation": "FIO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
             "id": "219713",
             "name": "Lautaro Martínez",
             "team": {
@@ -15223,18 +15235,6 @@
             "assists": 0
           },
           {
-            "id": "376473",
-            "name": "Franco Mastantuono",
-            "team": {
-              "id": "109",
-              "name": "Fiorentina",
-              "abbreviation": "FIO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
             "id": "170785",
             "name": "Hakan Çalhanoglu",
             "team": {
@@ -15247,6 +15247,18 @@
             "assists": 0
           },
           {
+            "id": "312757",
+            "name": "Mateo Pellegrino",
+            "team": {
+              "id": "109",
+              "name": "Fiorentina",
+              "abbreviation": "FIO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "360235",
             "name": "Niccolò Pisilli",
             "team": {
@@ -15254,18 +15266,6 @@
               "name": "AS Roma",
               "abbreviation": "ROMA",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-            },
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "id": "309273",
-            "name": "Rasmus Højlund",
-            "team": {
-              "id": "114",
-              "name": "Napoli",
-              "abbreviation": "NAP",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
             },
             "goals": 3,
             "assists": 0
@@ -15526,6 +15526,18 @@
             "assists": 2
           },
           {
+            "id": "367743",
+            "name": "Alieu Njie",
+            "team": {
+              "id": "109",
+              "name": "Fiorentina",
+              "abbreviation": "FIO",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+            },
+            "goals": 2,
+            "assists": 2
+          },
+          {
             "id": "271769",
             "name": "Carlos Augusto",
             "team": {
@@ -15574,6 +15586,18 @@
             "assists": 2
           },
           {
+            "id": "323118",
+            "name": "Giovanni Fabbian",
+            "team": {
+              "id": "115",
+              "name": "Parma",
+              "abbreviation": "PAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "204441",
             "name": "Nicolò Barella",
             "team": {
@@ -15608,30 +15632,6 @@
             },
             "goals": 1,
             "assists": 2
-          },
-          {
-            "id": "192146",
-            "name": "Álex Valle",
-            "team": {
-              "id": "2572",
-              "name": "Como",
-              "abbreviation": "COMO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "id": "218439",
-            "name": "Alfonso Pedraza",
-            "team": {
-              "id": "112",
-              "name": "Lazio",
-              "abbreviation": "LAZ",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-            },
-            "goals": 0,
-            "assists": 2
           }
         ]
       }
@@ -15651,7 +15651,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.108Z",
+      "updatedUtc": "2026-11-03T16:02:32.636Z",
       "matches": [
         {
           "id": "401884769",
@@ -18658,7 +18658,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.139Z",
+      "updatedUtc": "2026-11-03T16:02:32.615Z",
       "matches": [
         {
           "id": "401876446",
@@ -20716,6 +20716,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/espn/story/_/id/50366716/achraf-hakimi-historic-hat-trick-all-secures-another-african-player-year-gong",
+          "title": "Achraf Hakimi's historic hat-trick all but secures another African player of the year gong",
+          "description": "The Morocco captain scored a hat-trick and registered two assists as Paris Saint-Germain came back from a goal down to demolish Le Havre 5-1.",
+          "url": "https://www.espn.com/espn/story/_/id/50366716/achraf-hakimi-historic-hat-trick-all-secures-another-african-player-year-gong",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738690_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T07:44:35Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
           "title": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
           "description": "Right back Achraf Hakimi claimed a first career hat trick and provided two assists as Luis Enrique became the winningest coach in Paris Saint-Germain history on Friday.",
@@ -20934,16 +20944,6 @@
           "publishedUtc": "2026-10-05T12:27:57Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "title": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "publishedUtc": "2026-09-29T07:38:13Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -21093,6 +21093,18 @@
             "assists": 1
           },
           {
+            "id": "192015",
+            "name": "Ludovic Ajorque",
+            "team": {
+              "id": "6997",
+              "name": "Brest",
+              "abbreviation": "BRE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
             "id": "243844",
             "name": "Sebastian Szymanski",
             "team": {
@@ -21196,18 +21208,6 @@
               "name": "Marseille",
               "abbreviation": "OLM",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "192015",
-            "name": "Ludovic Ajorque",
-            "team": {
-              "id": "6997",
-              "name": "Brest",
-              "abbreviation": "BRE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
             },
             "goals": 3,
             "assists": 1
@@ -21691,7 +21691,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-03T06:19:31.286Z",
+      "updatedUtc": "2026-11-03T16:02:32.570Z",
       "matches": [
         {
           "id": "401861118",
@@ -24398,6 +24398,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50367900/scott-mctominay-returns-scotland-squad-heart-surgery",
+          "title": "Scott McTominay returns to Scotland squad months after undergoing heart surgery",
+          "description": "Scott McTominay has returned to the Scotland squad for this month's Nations League double-header against North Macedonia and Switzerland.",
+          "url": "https://www.espn.com/soccer/story/_/id/50367900/scott-mctominay-returns-scotland-squad-heart-surgery",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735526_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-03T12:13:39Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50298641/switzerland-granit-xhaka-breel-embolo-covid-19-documents",
           "title": "Xhaka, Embolo to return for Switzerland after fake COVID-19 documents case",
           "description": "Granit Xhaka was restored as captain of Switzerland on Tuesday after missing four games because he admitted using fake vaccination certificates during the COVID-19 pandemic.",
@@ -24623,16 +24633,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50120362/england-keep-their-winning-mentality",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Nicol_England_must_keep_their_winning_mentality/dm_261006_Nicol_England_must_keep_their_winning_mentality.jpg",
           "publishedUtc": "2026-10-06T22:29:57Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50120290/thomas-tuchel-england-squad-competition-czechia-nations-league",
-          "title": "Thomas Tuchel: Competition for England places stronger than ever",
-          "description": "Thomas Tuchel has said competition for places has never been stronger in his time as England manager after Tuesday's 3-0 win over Czechia at Wembley.",
-          "url": "https://www.espn.com/soccer/story/_/id/50120290/thomas-tuchel-england-squad-competition-czechia-nations-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1727031_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-06T22:23:36Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25383,7 +25383,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-03T06:19:31.356Z",
+      "updatedUtc": "2026-11-03T16:02:32.810Z",
       "matches": [
         {
           "id": "761871",
@@ -28772,7 +28772,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-03T06:19:30.996Z",
+      "updatedUtc": "2026-11-03T16:02:32.512Z",
       "matches": [
         {
           "id": "760415",
