@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-04T05:54:10.057Z",
+  "updatedUtc": "2026-11-04T14:14:09.634Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:09.653Z",
+      "updatedUtc": "2026-11-04T14:14:09.384Z",
       "matches": [
         {
           "id": "401915415",
@@ -2381,6 +2381,86 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50378443/yaya-toure-slovan-bratislava-champions-league-consecutive-defeats",
+          "title": "Yaya Touré oversees unwanted Champions League record for consecutive defeats",
+          "description": "Yaya Touré's tough season as the first African coach in the Champions League has seen his Slovan Bratislava team set an unwanted record of games lost.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378443/yaya-toure-slovan-bratislava-champions-league-consecutive-defeats",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740947_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T13:24:26Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+          "title": "Man United fans throwing tennis balls is part of soccer's rich history of supporter protests",
+          "description": "After Manchester United's match was disrupted by tennis balls thrown onto the pitch, here are some of the various ways fans have made themselves heard.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740923_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T13:42:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50378043/barcelona-rodri-ruled-atletico-madrid-clash-hamstring-injury",
+          "title": "Barcelona's Rodri ruled out of Atlético Madrid clash with hamstring injury",
+          "description": "Rodri will miss Barcelona's top of the table clash with Atlético Madrid this weekend with a hamstring injury, the LaLiga leaders confirmed Wednesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378043/barcelona-rodri-ruled-atletico-madrid-clash-hamstring-injury",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740934_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T12:39:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50378007/hero-matheus-cunha-roma-win-turning-point-manchester-united",
+          "title": "Two-goal hero Matheus Cunha hopes Roma win is turning point for Man United",
+          "description": "Manchester United's Matheus Cunha said he thinks Tuesday's Champions League comeback win over AS Roma will mark a turning point for his struggling side.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378007/hero-matheus-cunha-roma-win-turning-point-manchester-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740724_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T13:43:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50377376/man-united-diogo-dalot-michael-carrick-premier-league-champions-league-pressure",
+          "title": "Diogo Dalot: 'Everyone' at Man United should be feeling under pressure",
+          "description": "Diogo Dalot has said that everyone at Manchester United should be feeling under pressure, not just head coach Michael Carrick, after a disappointing start to the season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50377376/man-united-diogo-dalot-michael-carrick-premier-league-champions-league-pressure",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740904_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T12:00:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50377193/aston-villa-barcelona-unai-emery-man-united",
+          "title": "Outclassed by Barcelona, but Unai Emery's Aston Villa have plenty for Man United to envy",
+          "description": "ESPN's Tom Hamilton explains why Aston Villa's defeat to Barcelona cannot overshadow Unai Emery's remarkable rebuild ahead of facing Man United.",
+          "url": "https://www.espn.com/soccer/story/_/id/50377193/aston-villa-barcelona-unai-emery-man-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740902_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T11:51:12Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50376716/carrick-not-getting-carried-away-man-united-win-vs-roma",
+          "title": "Carrick 'not getting carried away' after Man United's win vs. Roma",
+          "description": "Carrick 'not getting carried away' after Man United's win vs. Roma",
+          "url": "https://www.espn.com/video/clip/_/id/50376716/carrick-not-getting-carried-away-man-united-win-vs-roma",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO.jpg",
+          "publishedUtc": "2026-11-04T08:34:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50357124/harry-kane-falls-short-cristiano-ronaldo-champions-league-goal-streak-record",
+          "title": "Harry Kane falls short of Cristiano Ronaldo Champions League goal streak record",
+          "description": "Harry Kane failed to match Cristiano Ronaldo's record for scoring in the most consecutive Champions League games.",
+          "url": "https://www.espn.com/soccer/story/_/id/50357124/harry-kane-falls-short-cristiano-ronaldo-champions-league-goal-streak-record",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740885_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T08:28:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50373872/manchester-united-stage-dream-comeback-old-trafford",
           "title": "Manchester United stage dream comeback at Old Trafford",
           "description": "The Red Devils overturn an early 2-0 deficit to top Roma with three second-half goals from Bruno Fernandes and Matheus Cunha.",
@@ -2396,7 +2476,7 @@
           "description": "Barcelona captain Raphinha paid an emotional tribute to late Tenerife player Jesús de Miguel after scoring a brace in the Champions League victory over Aston Villa.",
           "url": "https://www.espn.com/soccer/story/_/id/50373812/raphinha-de-miguel-death-barcelona-champions-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740790_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T00:51:43Z",
+          "publishedUtc": "2026-11-04T04:58:04Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2466,7 +2546,7 @@
           "description": "Bruno Fernandes helped inspire Manchester United to a dramatic 3-2 Champions League win against AS Roma and said manager Michael Carrick was right to drop him for criticising his tactics last month.",
           "url": "https://www.espn.com/soccer/story/_/id/50373037/bruno-fernandes-michael-carrick-right-drop-man-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740771_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T23:52:49Z",
+          "publishedUtc": "2026-11-04T12:39:48Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2496,7 +2576,7 @@
           "description": "Matheus Cunha scored a brace in a thrilling win for Manchester United against Roma on a Tuesday full of UEFA Champions League action.",
           "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
           "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740732_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T22:47:33Z",
+          "publishedUtc": "2026-11-04T04:45:14Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2506,7 +2586,7 @@
           "description": "Just when it looked like Man United would suffer another humiliating loss, they made a turnaround that might save their Champions League campaign -- and their coach.",
           "url": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
           "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740756_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T23:47:02Z",
+          "publishedUtc": "2026-11-04T12:35:34Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -2538,86 +2618,6 @@
           "publishedUtc": "2026-11-03T22:14:32Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915386",
-          "title": "Teenager Karl propels Bayern Munich to win at Atlético Madrid",
-          "description": "Bayern Munich stated their Champions League credentials with a hard-fought 2-0 win at Atlético Madrid on Tuesday.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915386",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740728_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T22:06:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50371927/man-united-fans-throw-tennis-balls-field-show-discontent",
-          "title": "Man United fans throw tennis balls on field before stunning comeback",
-          "description": "Manchester United fans attempted to disrupt the Champions League match against AS Roma on Tuesday by throwing tennis balls onto the pitch at Old Trafford.",
-          "url": "https://www.espn.com/soccer/story/_/id/50371927/man-united-fans-throw-tennis-balls-field-show-discontent",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740703_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T00:22:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50371754/yamal-breaks-mbappe-teenage-champions-league-goals-record",
-          "title": "Yamal breaks Mbappé's teenage Champions League goals record",
-          "description": "Barcelona forward Lamine Yamal overtook Kylian Mbappé to become the highest-scoring teenager in Champions League history with his strike against Aston Villa on Tuesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50371754/yamal-breaks-mbappe-teenage-champions-league-goals-record",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740687_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T00:35:11Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50371706/psg-villarreal-champions-league-record-goals",
-          "title": "PSG send UCL records tumbling with 6-goal thrashing of Villarreal",
-          "description": "Paris Saint-Germain scored a record four goals in the first 17 minutes of their Champions League clash at Villarreal on Tuesday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50371706/psg-villarreal-champions-league-record-goals",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740707_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T23:51:41Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50371277/william-saliba-arsenal-injury-training-mikel-arteta",
-          "title": "William Saliba 'ready to go' for Arsenal after injury at World Cup",
-          "description": "William Saliba has returned to full training at Arsenal, 3½ months after his last game -- in the World Cup semifinals for France.",
-          "url": "https://www.espn.com/soccer/story/_/id/50371277/william-saliba-arsenal-injury-training-mikel-arteta",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740660_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T20:28:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50371059/lisandro-martinez-man-united-roma-dropped-red-card",
-          "title": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea",
-          "description": "Lisandro Martínez has been named on the bench for Manchester United 's Champions League tie against Roma after his red card against Chelsea.",
-          "url": "https://www.espn.com/soccer/story/_/id/50371059/lisandro-martinez-man-united-roma-dropped-red-card",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740631_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T19:46:34Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50370573/camavinga-mourinho-real-madrid-coach-boost-confidence",
-          "title": "Camavinga: Mourinho as Real Madrid coach boosted my confidence",
-          "description": "Eduardo Camavinga said he is maturing as a player under Real Madrid coach José Mourinho.",
-          "url": "https://www.espn.com/soccer/story/_/id/50370573/camavinga-mourinho-real-madrid-coach-boost-confidence",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0626/r1680070_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T19:16:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50370351/dirk-kuyt-fenerbahce-liverpool-reunion",
-          "title": "Fenerbahce coach Dirk Kuyt ready for 'very special' reunion with Liverpool",
-          "description": "Former Liverpool forward Dirk Kuyt will park his feelings for his old club as he has a job to do for Fenerbahce.",
-          "url": "https://www.espn.com/soccer/story/_/id/50370351/dirk-kuyt-fenerbahce-liverpool-reunion",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740583_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T18:24:24Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -2632,7 +2632,44 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
             },
             "goals": 4,
+            "assists": 3
+          },
+          {
+            "id": "259481",
+            "name": "Donyell Malen",
+            "team": {
+              "id": "104",
+              "name": "AS Roma",
+              "abbreviation": "ROMA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259481.png",
+            "goals": 4,
             "assists": 2
+          },
+          {
+            "id": "214596",
+            "name": "Fabián Ruiz",
+            "team": {
+              "id": "160",
+              "name": "Paris Saint-Germain",
+              "abbreviation": "PSG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+            },
+            "goals": 4,
+            "assists": 1
+          },
+          {
+            "id": "355113",
+            "name": "Alexey Batrakov",
+            "team": {
+              "id": "432",
+              "name": "Galatasaray",
+              "abbreviation": "GAL",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
+            },
+            "goals": 4,
+            "assists": 0
           },
           {
             "id": "253989",
@@ -2683,6 +2720,18 @@
             "assists": 0
           },
           {
+            "id": "231050",
+            "name": "Raphinha",
+            "team": {
+              "id": "83",
+              "name": "Barcelona",
+              "abbreviation": "BAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+            },
+            "goals": 4,
+            "assists": 0
+          },
+          {
             "id": "186381",
             "name": "Serhou Guirassy",
             "team": {
@@ -2693,6 +2742,18 @@
             },
             "goals": 4,
             "assists": 0
+          },
+          {
+            "id": "362150",
+            "name": "Lamine Yamal",
+            "team": {
+              "id": "83",
+              "name": "Barcelona",
+              "abbreviation": "BAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+            },
+            "goals": 3,
+            "assists": 4
           },
           {
             "id": "229744",
@@ -2707,15 +2768,14 @@
             "assists": 3
           },
           {
-            "id": "259481",
-            "name": "Donyell Malen",
+            "id": "336388",
+            "name": "Désiré Doué",
             "team": {
-              "id": "104",
-              "name": "AS Roma",
-              "abbreviation": "ROMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+              "id": "160",
+              "name": "Paris Saint-Germain",
+              "abbreviation": "PSG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
             },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259481.png",
             "goals": 3,
             "assists": 2
           },
@@ -2805,6 +2865,18 @@
             "assists": 0
           },
           {
+            "id": "259902",
+            "name": "Matheus Cunha",
+            "team": {
+              "id": "360",
+              "name": "Manchester United",
+              "abbreviation": "MAN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "308524",
             "name": "Nicolas Jackson",
             "team": {
@@ -2817,18 +2889,6 @@
             "assists": 0
           },
           {
-            "id": "362150",
-            "name": "Lamine Yamal",
-            "team": {
-              "id": "83",
-              "name": "Barcelona",
-              "abbreviation": "BAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
-            },
-            "goals": 2,
-            "assists": 4
-          },
-          {
             "id": "337970",
             "name": "Nico Paz",
             "team": {
@@ -2839,30 +2899,6 @@
             },
             "goals": 2,
             "assists": 3
-          },
-          {
-            "id": "336388",
-            "name": "Désiré Doué",
-            "team": {
-              "id": "160",
-              "name": "Paris Saint-Germain",
-              "abbreviation": "PSG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-            },
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "214596",
-            "name": "Fabián Ruiz",
-            "team": {
-              "id": "160",
-              "name": "Paris Saint-Germain",
-              "abbreviation": "PSG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-            },
-            "goals": 2,
-            "assists": 1
           },
           {
             "id": "300002",
@@ -2884,6 +2920,18 @@
               "name": "Real Betis",
               "abbreviation": "BET",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "id": "286853",
+            "name": "Kasper Jørgensen",
+            "team": {
+              "id": "4411",
+              "name": "LASK Linz",
+              "abbreviation": "LAS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
             },
             "goals": 2,
             "assists": 1
@@ -2913,6 +2961,18 @@
             "assists": 1
           },
           {
+            "id": "273480",
+            "name": "Robert Ljubicic",
+            "team": {
+              "id": "4411",
+              "name": "LASK Linz",
+              "abbreviation": "LAS",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+            },
+            "goals": 2,
+            "assists": 1
+          },
+          {
             "id": "270821",
             "name": "Ronald Araujo",
             "team": {
@@ -2923,67 +2983,6 @@
             },
             "goals": 2,
             "assists": 1
-          },
-          {
-            "id": "355113",
-            "name": "Alexey Batrakov",
-            "team": {
-              "id": "432",
-              "name": "Galatasaray",
-              "abbreviation": "GAL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "236721",
-            "name": "Alphonso Davies",
-            "team": {
-              "id": "132",
-              "name": "Bayern Munich",
-              "abbreviation": "MUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/236721.png",
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "364742",
-            "name": "Assane Diao",
-            "team": {
-              "id": "2572",
-              "name": "Como",
-              "abbreviation": "COMO",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "271769",
-            "name": "Carlos Augusto",
-            "team": {
-              "id": "110",
-              "name": "Internazionale",
-              "abbreviation": "INT",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-            },
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "id": "322169",
-            "name": "Danijel Sturm",
-            "team": {
-              "id": "494",
-              "name": "Slavia Prague",
-              "abbreviation": "SLP",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png"
-            },
-            "goals": 2,
-            "assists": 0
           }
         ],
         "assists": [
@@ -2996,8 +2995,20 @@
               "abbreviation": "BAR",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
             },
-            "goals": 2,
+            "goals": 3,
             "assists": 4
+          },
+          {
+            "id": "142200",
+            "name": "Harry Kane",
+            "team": {
+              "id": "132",
+              "name": "Bayern Munich",
+              "abbreviation": "MUN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+            },
+            "goals": 4,
+            "assists": 3
           },
           {
             "id": "229744",
@@ -3021,6 +3032,18 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
             },
             "goals": 2,
+            "assists": 3
+          },
+          {
+            "id": "329690",
+            "name": "Maghnes Akliouche",
+            "team": {
+              "id": "160",
+              "name": "Paris Saint-Germain",
+              "abbreviation": "PSG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+            },
+            "goals": 1,
             "assists": 3
           },
           {
@@ -3048,18 +3071,6 @@
             "assists": 3
           },
           {
-            "id": "142200",
-            "name": "Harry Kane",
-            "team": {
-              "id": "132",
-              "name": "Bayern Munich",
-              "abbreviation": "MUN",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-            },
-            "goals": 4,
-            "assists": 2
-          },
-          {
             "id": "259481",
             "name": "Donyell Malen",
             "team": {
@@ -3069,7 +3080,7 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/259481.png",
-            "goals": 3,
+            "goals": 4,
             "assists": 2
           },
           {
@@ -3081,7 +3092,7 @@
               "abbreviation": "PSG",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
             },
-            "goals": 2,
+            "goals": 3,
             "assists": 2
           },
           {
@@ -3121,6 +3132,18 @@
             "assists": 2
           },
           {
+            "id": "354334",
+            "name": "Fermín López",
+            "team": {
+              "id": "83",
+              "name": "Barcelona",
+              "abbreviation": "BAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "281119",
             "name": "Jeremie Frimpong",
             "team": {
@@ -3128,6 +3151,42 @@
               "name": "Liverpool",
               "abbreviation": "LIV",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "176399",
+            "name": "João Cancelo",
+            "team": {
+              "id": "83",
+              "name": "Barcelona",
+              "abbreviation": "BAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "355061",
+            "name": "João Neves",
+            "team": {
+              "id": "160",
+              "name": "Paris Saint-Germain",
+              "abbreviation": "PSG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "id": "323974",
+            "name": "Matìas Soulè",
+            "team": {
+              "id": "104",
+              "name": "AS Roma",
+              "abbreviation": "ROMA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
             },
             "goals": 1,
             "assists": 2
@@ -3229,18 +3288,6 @@
             "assists": 2
           },
           {
-            "id": "323974",
-            "name": "Matìas Soulè",
-            "team": {
-              "id": "104",
-              "name": "AS Roma",
-              "abbreviation": "ROMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-            },
-            "goals": 0,
-            "assists": 2
-          },
-          {
             "id": "251100",
             "name": "Pau Torres",
             "team": {
@@ -3277,40 +3324,16 @@
             "assists": 2
           },
           {
-            "id": "231388",
-            "name": "Kylian Mbappé",
+            "id": "387204",
+            "name": "Rodrigo Mora",
             "team": {
-              "id": "86",
-              "name": "Real Madrid",
-              "abbreviation": "RMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+              "id": "104",
+              "name": "AS Roma",
+              "abbreviation": "ROMA",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
             },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "250787",
-            "name": "Phil Foden",
-            "team": {
-              "id": "382",
-              "name": "Manchester City",
-              "abbreviation": "MNC",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-            },
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "id": "152469",
-            "name": "Ross Barkley",
-            "team": {
-              "id": "362",
-              "name": "Aston Villa",
-              "abbreviation": "AVL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-            },
-            "goals": 3,
-            "assists": 1
+            "goals": 0,
+            "assists": 2
           },
           {
             "id": "214596",
@@ -3321,31 +3344,7 @@
               "abbreviation": "PSG",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
             },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "300002",
-            "name": "Georges Mikautadze",
-            "team": {
-              "id": "102",
-              "name": "Villarreal",
-              "abbreviation": "VIL",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-            },
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "id": "143564",
-            "name": "Isco",
-            "team": {
-              "id": "244",
-              "name": "Real Betis",
-              "abbreviation": "BET",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-            },
-            "goals": 2,
+            "goals": 4,
             "assists": 1
           }
         ]
@@ -3366,7 +3365,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:09.709Z",
+      "updatedUtc": "2026-11-04T14:14:09.409Z",
       "matches": [
         {
           "id": "401915560",
@@ -6675,7 +6674,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:09.830Z",
+      "updatedUtc": "2026-11-04T14:14:09.508Z",
       "matches": [
         {
           "id": "401879248",
@@ -8198,26 +8197,6 @@
           "note": "Scheduled"
         },
         {
-          "id": "401879198",
-          "utc": "2026-12-19T15:00Z",
-          "phase": "2026 27 English Premier League",
-          "home": {
-            "id": "393",
-            "name": "Nottm Forest",
-            "abbreviation": "NFO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
-          },
-          "away": {
-            "id": "368",
-            "name": "Everton",
-            "abbreviation": "EVE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-          },
-          "venue": "The City Ground, Nottingham",
-          "status": "upcoming",
-          "note": "Scheduled"
-        },
-        {
           "id": "401879200",
           "utc": "2026-12-19T17:30Z",
           "phase": "2026 27 English Premier League",
@@ -8254,6 +8233,26 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
           },
           "venue": "American Express Stadium, Falmer",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401879198",
+          "utc": "2026-12-20T14:00Z",
+          "phase": "2026 27 English Premier League",
+          "home": {
+            "id": "393",
+            "name": "Nottm Forest",
+            "abbreviation": "NFO",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+          },
+          "away": {
+            "id": "368",
+            "name": "Everton",
+            "abbreviation": "EVE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+          },
+          "venue": "The City Ground, Nottingham",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -8667,6 +8666,76 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50378225/bradley-barcola-liverpool-psg-france-mohamed-salah-comparisons",
+          "title": "'I'm not Mohamed Salah' - Bradley Barcola doesn't feel Liverpool pressure",
+          "description": "Liverpool forward Bradley Barcola has insisted that he isn't feeling any pressure following his big-money move from Paris Saint-Germain and won't dwell on the impact of predecessor Mohamed Salah.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378225/bradley-barcola-liverpool-psg-france-mohamed-salah-comparisons",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740931_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T13:28:50Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50378108/cole-palmer-sent-mateus-fernandes-clash-kmi-panel",
+          "title": "Cole Palmer should have been sent off for Mateus Fernandes clash - KMI panel",
+          "description": "Cole Palmer should have been sent off for Chelsea against Tottenham 10 minutes before he actually was, according to a panel which assesses the decisions of Premier League referees and VARs.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378108/cole-palmer-sent-mateus-fernandes-clash-kmi-panel",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1024/r1735561_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T12:33:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+          "title": "Man United fans throwing tennis balls is part of soccer's rich history of supporter protests",
+          "description": "After Manchester United's match was disrupted by tennis balls thrown onto the pitch, here are some of the various ways fans have made themselves heard.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740923_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T13:45:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50377376/man-united-diogo-dalot-michael-carrick-premier-league-champions-league-pressure",
+          "title": "Diogo Dalot: 'Everyone' at Man United should be feeling under pressure",
+          "description": "Diogo Dalot has said that everyone at Manchester United should be feeling under pressure, not just head coach Michael Carrick, after a disappointing start to the season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50377376/man-united-diogo-dalot-michael-carrick-premier-league-champions-league-pressure",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740904_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T12:00:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50377477/carlos-baleba-injury-man-united-champions-league-premier-league-michael-carrick",
+          "title": "Carlos Baleba injury 'doesn't look great' - Man United boss Michael Carrick",
+          "description": "Manchester United boss Michael Carrick said Carlos Baleba's injury \"doesn't look great\" after the midfielder was forced off during Tuesday's 3-2 win over Roma.",
+          "url": "https://www.espn.com/soccer/story/_/id/50377477/carlos-baleba-injury-man-united-champions-league-premier-league-michael-carrick",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740908_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T11:01:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50376716/carrick-not-getting-carried-away-man-united-win-vs-roma",
+          "title": "Carrick 'not getting carried away' after Man United's win vs. Roma",
+          "description": "Carrick 'not getting carried away' after Man United's win vs. Roma",
+          "url": "https://www.espn.com/video/clip/_/id/50376716/carrick-not-getting-carried-away-man-united-win-vs-roma",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO.jpg",
+          "publishedUtc": "2026-11-04T08:34:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+          "title": "Transfer rumors, news: Arsenal want Atlético Madrid winger",
+          "description": "Arsenal are keeping tabs on Atlético Madrid winger Álex Baena. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0829/r1708710_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T08:25:26Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50366900/transfer-rumors-news-real-madrid-tracking-arsenal-calafiori",
           "title": "Transfer rumors, news: Arsenal to sign Bournemouth's Kroupi?",
           "description": "Arsenal are one of the clubs linked with a move for AFC Bournemouth forward Junior Kroupi. Transfer Talk has the latest.",
@@ -8692,7 +8761,7 @@
           "description": "Tottenham academy prospect Luca Williams-Barnett has shown in just a few moments why he is definitely a young player \"to look out for,\" according to former England captain Steven Gerrard.",
           "url": "https://www.espn.com/soccer/story/_/id/50369087/steven-gerrard-tottenham-wonderkid-luca-williams-barnett",
           "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740523_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T15:34:31Z",
+          "publishedUtc": "2026-11-04T07:18:51Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8833,76 +8902,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50357670/regis-le-bris-retains-sunderland-confidence-bad-run-report",
           "imageUrl": "https://a.espncdn.com/photo/2025/1016/r1561001_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-02T12:38:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50357589/patrick-dorgu-returns-man-united-training-ahead-roma-clash",
-          "title": "Patrick Dorgu returns to Man United training ahead of Roma clash",
-          "description": "Michael Carrick has been handed an injury boost ahead of Manchester United's Champions League tie against Roma after Patrick Dorgu was able to return to training.",
-          "url": "https://www.espn.com/soccer/story/_/id/50357589/patrick-dorgu-returns-man-united-training-ahead-roma-clash",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0928/r1722854_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T12:34:40Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50356886/manchester-united-managers-post-alex-ferguson-michael-carrick-jose-mourinho",
-          "title": "Why Man United are so bad at hiring managers post-Ferguson",
-          "description": "This week marks 40 years since Manchester United hired Sir Alex Ferguson as their manager. It was the last time the club made the right appointment.",
-          "url": "https://www.espn.com/soccer/story/_/id/50356886/manchester-united-managers-post-alex-ferguson-michael-carrick-jose-mourinho",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1102/r1740000_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T13:56:07Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50357352/declan-rice-mikel-arteta-told-do-more-arsenal",
-          "title": "Declan Rice: Mikel Arteta told me 'I can do more' for Arsenal",
-          "description": "Declan Rice has revealed that Mikel Arteta challenged him to \"do more\" for Arsenal at the start of this season.",
-          "url": "https://www.espn.com/soccer/story/_/id/50357352/declan-rice-mikel-arteta-told-do-more-arsenal",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1101/r1739521_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T11:44:15Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50356977/declan-rice-arsenal-most-assists-premier-league-stats-no-set-pieces",
-          "title": "Declan Rice tops Premier League assist chart - without set-pieces",
-          "description": "Declan Rice soared to the top of the Premier League assist chart after setting up Arsenal's winner against Liverpool.",
-          "url": "https://www.espn.com/soccer/story/_/id/50356977/declan-rice-arsenal-most-assists-premier-league-stats-no-set-pieces",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1102/r1739984_1024x576_16-9.jpg",
-          "publishedUtc": "2026-11-02T13:00:40Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50356915/piero-hincapie-dig-virgil-van-dijk-arsenal-beat-liverpool",
-          "title": "Piero Hincapié aims dig at Virgil van Dijk after Arsenal beat Liverpool",
-          "description": "Piero Hincapié aimed a pointed taunt at Virgil van Dijk after Arsenal beat Liverpool on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50356915/piero-hincapie-dig-virgil-van-dijk-arsenal-beat-liverpool",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1102/r1739985_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T10:21:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50354165/havertz-close-range-finish-puts-arsenal-top",
-          "title": "Havertz's close-range finish puts Arsenal on top",
-          "description": "Kai Havertz pokes home in the 16th minute to deliver the Gunners the decisive goal against Liverpool at Anfield.",
-          "url": "https://www.espn.com/video/clip/_/id/50354165/havertz-close-range-finish-puts-arsenal-top",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/Int_261101_Soccer_HIGHLIGHT_Havertzs_close-range_finish_puts_Arsenal_on_top_2026211_AUS/Int_261101_Soccer_HIGHLIGHT_Havertzs_close-range_finish_puts_Arsenal_on_top_2026211_AUS.jpg",
-          "publishedUtc": "2026-11-02T01:37:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50350050/james-milner-liverpool-man-city-england-runs-nyc-new-york-marathon-three-hours",
-          "title": "Ex-Liverpool, Man City star Milner runs NYC Marathon in just over three hours",
-          "description": "It's clear James Milner is enjoying his retirement from soccer, as he ran the 2026 NYC Marathon on Sunday with an impressive time. Did we mention he's 40 years old?",
-          "url": "https://www.espn.com/soccer/story/_/id/50350050/james-milner-liverpool-man-city-england-runs-nyc-new-york-marathon-three-hours",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1101/r1739636_1296x729_16-9.png",
-          "publishedUtc": "2026-11-01T19:59:54Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9652,7 +9651,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:09.914Z",
+      "updatedUtc": "2026-11-04T14:14:09.578Z",
       "matches": [
         {
           "id": "401882830",
@@ -11684,6 +11683,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+          "title": "Man United fans throwing tennis balls is part of soccer's rich history of supporter protests",
+          "description": "After Manchester United's match was disrupted by tennis ball's thrown onto the pitch, here are some of the various ways fans have made themselves heard.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740923_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T13:01:49Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50378043/barcelona-rodri-ruled-atletico-madrid-clash-hamstring-injury",
+          "title": "Barcelona's Rodri ruled out of Atlético Madrid clash with hamstring injury",
+          "description": "Rodri will miss Barcelona's top of the table clash with Atlético Madrid this weekend with a hamstring injury, the LaLiga leaders confirmed Wednesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50378043/barcelona-rodri-ruled-atletico-madrid-clash-hamstring-injury",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740934_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T12:39:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
+          "title": "JJ Gabriel close to joining Real Madrid - sources",
+          "description": "Real Madrid are edging closer to winning the race to sign Manchester United's JJ Gabriel, beating European giants including Barcelona, sources told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0512/r1657348_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T12:38:12Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+          "title": "Transfer rumors, news: Arsenal want Atlético Madrid winger",
+          "description": "Arsenal are keeping tabs on Atlético Madrid winger Álex Baena. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0829/r1708710_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T08:25:26Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50367435/barcelona-lift-ban-supporters-group-aston-villa",
           "title": "Barcelona lift ban on supporters' group for Aston Villa clash",
           "description": "Barcelona has lifted a ban on different supporters' groups ahead of Tuesday's Champions League home game against Aston Villa following a positive meeting.",
@@ -11880,46 +11919,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50327622/barcelona-flick-yamal-ballon-dor-setback-reacted-well",
           "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736915_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-30T15:38:32Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
-          "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
-          "description": "If we look beyond the Premier League and beyond those who qualified for the Champions League, which are the best teams in the world?",
-          "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T12:06:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50327134/pedro-porro-tottenham-hotspur-premier-league-laliga-real-madrid-barcelona",
-          "title": "Tottenham's Pedro Porro keen on future LaLiga return",
-          "description": "Pedro Porro has denied receiving offers from Barcelona and Real Madrid this summer but the Tottenham right-back has said that he would like to return to play in Spain one day.",
-          "url": "https://www.espn.com/soccer/story/_/id/50327134/pedro-porro-tottenham-hotspur-premier-league-laliga-real-madrid-barcelona",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738504_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T15:26:57Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50326620/fan-struck-real-madrid-eduardo-camavinga-clasico-identified-police",
-          "title": "Fan who struck Real Madrid's Eduardo Camavinga in Clásico identified by police",
-          "description": "Local police have identified the Barcelona supporter that hit Real Madrid midfielder Eduardo Camavinga with a flag during last weekend's Clasico at the Camp Nou.",
-          "url": "https://www.espn.com/soccer/story/_/id/50326620/fan-struck-real-madrid-eduardo-camavinga-clasico-identified-police",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1030/r1738494_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-30T16:29:54Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
-          "title": "Man City, Bayern among the good, bad and lucky in Europe's top leagues",
-          "description": "We're a quarter of the way through the 2026-27 European season -- long enough to separate fact from fiction when it comes to from. Who's been lucky? Who's been good? Who's been both, or neither?",
-          "url": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1029/r1738028_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-29T16:26:42Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12666,7 +12665,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:09.797Z",
+      "updatedUtc": "2026-11-04T14:14:09.539Z",
       "matches": [
         {
           "id": "401874980",
@@ -15686,7 +15685,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:09.878Z",
+      "updatedUtc": "2026-11-04T14:14:09.465Z",
       "matches": [
         {
           "id": "401884769",
@@ -18693,7 +18692,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:09.932Z",
+      "updatedUtc": "2026-11-04T14:14:09.445Z",
       "matches": [
         {
           "id": "401876446",
@@ -20756,7 +20755,7 @@
           "description": "Arsenal are one of the clubs linked with a move for AFC Bournemouth forward Junior Kroupi. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50366900/transfer-rumors-news-real-madrid-tracking-arsenal-calafiori",
           "imageUrl": "https://a.espncdn.com/photo/2026/1103/r1740773_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T23:12:41Z",
+          "publishedUtc": "2026-11-04T04:58:15Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -21736,7 +21735,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-04T05:54:09.958Z",
+      "updatedUtc": "2026-11-04T14:14:09.365Z",
       "matches": [
         {
           "id": "401861118",
@@ -24443,6 +24442,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50377435/wales-joe-rodon-nations-league-squad-two-month-injury-absence",
+          "title": "Wales pick Joe Rodon in Nations League squad despite two-month injury absence",
+          "description": "Joe Rodon has been named in the Wales squad for upcoming Nations League games, despite not having played for over two months.",
+          "url": "https://www.espn.com/soccer/story/_/id/50377435/wales-joe-rodon-nations-league-squad-two-month-injury-absence",
+          "imageUrl": "https://a.espncdn.com/photo/2025/1013/r1559690_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T10:40:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50367900/scott-mctominay-returns-scotland-squad-heart-surgery",
           "title": "Scott McTominay returns to Scotland squad months after undergoing heart surgery",
           "description": "Scott McTominay has returned to the Scotland squad for this month's Nations League double-header against North Macedonia and Switzerland.",
@@ -24670,16 +24679,6 @@
           "publishedUtc": "2026-10-07T07:22:07Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50120362/england-keep-their-winning-mentality",
-          "title": "Nicol: England must keep their winning mentality",
-          "description": "Nicol: England must keep their winning mentality",
-          "url": "https://www.espn.com/video/clip/_/id/50120362/england-keep-their-winning-mentality",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Nicol_England_must_keep_their_winning_mentality/dm_261006_Nicol_England_must_keep_their_winning_mentality.jpg",
-          "publishedUtc": "2026-10-06T22:29:57Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -25428,7 +25427,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-04T05:54:10.044Z",
+      "updatedUtc": "2026-11-04T14:14:09.634Z",
       "matches": [
         {
           "id": "761871",
@@ -28817,7 +28816,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-04T05:54:10.056Z",
+      "updatedUtc": "2026-11-04T14:14:09.334Z",
       "matches": [
         {
           "id": "760415",
@@ -32195,6 +32194,16 @@
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50377439/fifa-boss-gianni-infantino-face-questions-ties-donald-trump",
+          "title": "FIFA boss Gianni Infantino could face questions over ties to Donald Trump",
+          "description": "FIFA president Gianni Infantino could be compelled to answer questions over his ties to United States President Donald Trump or face criminal consequences after Democrats seized control of Congress in the midterm elections.",
+          "url": "https://www.espn.com/soccer/story/_/id/50377439/fifa-boss-gianni-infantino-face-questions-ties-donald-trump",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0811/r1700197_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-04T10:46:02Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
           "title": "Source: FIFA to open World Cup private equity plan files following UEFA demands",
