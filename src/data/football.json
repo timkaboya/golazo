@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-07T00:01:59.019Z",
+  "updatedUtc": "2026-11-07T08:37:47.833Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:58.753Z",
+      "updatedUtc": "2026-11-07T08:37:47.464Z",
       "matches": [
         {
           "id": "401915415",
@@ -3403,7 +3403,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:58.805Z",
+      "updatedUtc": "2026-11-07T08:37:47.466Z",
       "matches": [
         {
           "id": "401915560",
@@ -6793,7 +6793,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:58.926Z",
+      "updatedUtc": "2026-11-07T08:37:47.412Z",
       "matches": [
         {
           "id": "401879250",
@@ -8761,6 +8761,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50402775/frank-lampard-coventry-city-everton-referee-penalty",
+          "title": "Frank Lampard unhappy with 3 big referee decisions in Coventry loss to Everton",
+          "description": "Coventry City manager Frank Lampard was annoyed that a trio of key decisions went against his side in their 3-1 loss to Everton on Friday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50402775/frank-lampard-coventry-city-everton-referee-penalty",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1742220_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-07T00:03:32Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
+          "title": "Burley: You never know which version of Manchester United will turn up",
+          "description": "Burley: You never know which version of Manchester United will turn up",
+          "url": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up.jpg",
+          "publishedUtc": "2026-11-07T00:13:11Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401879242",
+          "title": "Barry's brace propels Everton up to 5th with win over Coventry",
+          "description": "Thierno Barry's hot streak fired Everton into the top five as they came from behind to beat Coventry 3-1.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401879242",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1742160_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-06T22:10:12Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
           "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth's Tavernier",
           "description": "Arsenal and Man United are set to go head-to-head for Marcus Tavernier. Transfer Talk has the latest.",
@@ -8969,36 +8999,6 @@
           "publishedUtc": "2026-11-04T19:21:37Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50379740/crystal-palace-jean-philippe-mateta-red-card-tottenham-premier-league-ban",
-          "title": "Crystal Palace appeal over Jean-Philippe Mateta red card rejected",
-          "description": "Crystal Palace striker Jean-Philippe Mateta will serve a three-match ban after an appeal against his red card in Saturday's 2-0 Premier League defeat at Tottenham was rejected.",
-          "url": "https://www.espn.com/soccer/story/_/id/50379740/crystal-palace-jean-philippe-mateta-red-card-tottenham-premier-league-ban",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1741039_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T17:31:54Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50379015/romeo-lavia-chelsea-eden-hazard-belgium-xabi-alonso-premier-league",
-          "title": "Romeo Lavia: Meeting Eden Hazard gave me extra motivation to succeed at Chelsea",
-          "description": "Chelsea midfielder Romeo Lavia has said a meeting with fellow Belgian Eden Hazard has provided extra motivation as he looks to build on an encouraging start to the season.",
-          "url": "https://www.espn.com/soccer/story/_/id/50379015/romeo-lavia-chelsea-eden-hazard-belgium-xabi-alonso-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740987_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T17:27:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50378225/bradley-barcola-liverpool-psg-france-mohamed-salah-comparisons",
-          "title": "'I'm not Mohamed Salah' - Bradley Barcola doesn't feel Liverpool pressure",
-          "description": "Liverpool forward Bradley Barcola has insisted that he isn't feeling any pressure following his big-money move from Paris Saint-Germain and won't dwell on the impact of predecessor Mohamed Salah.",
-          "url": "https://www.espn.com/soccer/story/_/id/50378225/bradley-barcola-liverpool-psg-france-mohamed-salah-comparisons",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740931_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T10:11:47Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9014,6 +9014,18 @@
             },
             "goals": 9,
             "assists": 0
+          },
+          {
+            "id": "301166",
+            "name": "Thierno Barry",
+            "team": {
+              "id": "368",
+              "name": "Everton",
+              "abbreviation": "EVE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+            },
+            "goals": 6,
+            "assists": 1
           },
           {
             "id": "235662",
@@ -9112,18 +9124,6 @@
             "assists": 0
           },
           {
-            "id": "301166",
-            "name": "Thierno Barry",
-            "team": {
-              "id": "368",
-              "name": "Everton",
-              "abbreviation": "EVE",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-            },
-            "goals": 4,
-            "assists": 0
-          },
-          {
             "id": "132659",
             "name": "Pascal Gross",
             "team": {
@@ -9191,6 +9191,18 @@
               "name": "Leeds United",
               "abbreviation": "LEE",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "252389",
+            "name": "Kiernan Dewsbury-Hall",
+            "team": {
+              "id": "368",
+              "name": "Everton",
+              "abbreviation": "EVE",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
             },
             "goals": 3,
             "assists": 1
@@ -9348,18 +9360,6 @@
               "name": "Brentford",
               "abbreviation": "BRE",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-            },
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "20975",
-            "name": "Julio Enciso",
-            "team": {
-              "id": "373",
-              "name": "Ipswich Town",
-              "abbreviation": "IPS",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
             },
             "goals": 2,
             "assists": 2
@@ -9746,7 +9746,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:58.967Z",
+      "updatedUtc": "2026-11-07T08:37:47.753Z",
       "matches": [
         {
           "id": "401882827",
@@ -11779,7 +11779,7 @@
           "description": "Lowe: Atlético must be proactive to trouble Barcelona",
           "url": "https://www.espn.com/video/clip/_/id/50402297/atletico-proactive-trouble-barcelona",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Lowe_Atletico_must_be_proactive_to_trouble_Barcelona/dm_261106_Lowe_Atletico_must_be_proactive_to_trouble_Barcelona.jpg",
-          "publishedUtc": "2026-11-06T22:29:58Z",
+          "publishedUtc": "2026-11-07T00:13:15Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12756,7 +12756,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:58.886Z",
+      "updatedUtc": "2026-11-07T08:37:47.698Z",
       "matches": [
         {
           "id": "401874980",
@@ -15667,6 +15667,18 @@
             "assists": 2
           },
           {
+            "id": "346916",
+            "name": "Antoine Hainaut",
+            "team": {
+              "id": "17530",
+              "name": "Venezia",
+              "abbreviation": "VEN",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+            },
+            "goals": 2,
+            "assists": 2
+          },
+          {
             "id": "271769",
             "name": "Carlos Augusto",
             "team": {
@@ -15749,18 +15761,6 @@
             },
             "goals": 1,
             "assists": 2
-          },
-          {
-            "id": "250284",
-            "name": "Santiago Castro",
-            "team": {
-              "id": "104",
-              "name": "AS Roma",
-              "abbreviation": "ROMA",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-            },
-            "goals": 1,
-            "assists": 2
           }
         ]
       }
@@ -15780,7 +15780,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:58.833Z",
+      "updatedUtc": "2026-11-07T08:37:47.653Z",
       "matches": [
         {
           "id": "401884769",
@@ -18253,6 +18253,19 @@
             "assists": 2
           },
           {
+            "id": "272135",
+            "name": "Joe Scally",
+            "team": {
+              "id": "268",
+              "name": "Borussia Mönchengladbach",
+              "abbreviation": "BMG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/272135.png",
+            "goals": 3,
+            "assists": 2
+          },
+          {
             "id": "186381",
             "name": "Serhou Guirassy",
             "team": {
@@ -18289,19 +18302,6 @@
             "assists": 1
           },
           {
-            "id": "272135",
-            "name": "Joe Scally",
-            "team": {
-              "id": "268",
-              "name": "Borussia Mönchengladbach",
-              "abbreviation": "BMG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
-            },
-            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/272135.png",
-            "goals": 3,
-            "assists": 1
-          },
-          {
             "id": "274887",
             "name": "Jonathan Burkardt",
             "team": {
@@ -18309,6 +18309,18 @@
               "name": "Eintracht Frankfurt",
               "abbreviation": "SGE",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "243626",
+            "name": "Miro Muheim",
+            "team": {
+              "id": "127",
+              "name": "Hamburg SV",
+              "abbreviation": "HSV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
             },
             "goals": 3,
             "assists": 1
@@ -18396,18 +18408,6 @@
             },
             "goals": 2,
             "assists": 2
-          },
-          {
-            "id": "336355",
-            "name": "Bambasé Conté",
-            "team": {
-              "id": "7911",
-              "name": "TSG Hoffenheim",
-              "abbreviation": "TSG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
-            },
-            "goals": 2,
-            "assists": 2
           }
         ],
         "assists": [
@@ -18472,6 +18472,18 @@
             "assists": 4
           },
           {
+            "id": "297750",
+            "name": "Albert Grønbaek",
+            "team": {
+              "id": "127",
+              "name": "Hamburg SV",
+              "abbreviation": "HSV",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
+            },
+            "goals": 1,
+            "assists": 4
+          },
+          {
             "id": "290044",
             "name": "Miguel Gutiérrez",
             "team": {
@@ -18505,18 +18517,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
             },
             "goals": 3,
-            "assists": 3
-          },
-          {
-            "id": "297750",
-            "name": "Albert Grønbaek",
-            "team": {
-              "id": "127",
-              "name": "Hamburg SV",
-              "abbreviation": "HSV",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
-            },
-            "goals": 0,
             "assists": 3
           },
           {
@@ -18564,6 +18564,19 @@
               "abbreviation": "B04",
               "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
             },
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "id": "272135",
+            "name": "Joe Scally",
+            "team": {
+              "id": "268",
+              "name": "Borussia Mönchengladbach",
+              "abbreviation": "BMG",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
+            },
+            "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/272135.png",
             "goals": 3,
             "assists": 2
           },
@@ -18760,18 +18773,6 @@
             },
             "goals": 0,
             "assists": 2
-          },
-          {
-            "id": "196029",
-            "name": "Franck Honorat",
-            "team": {
-              "id": "268",
-              "name": "Borussia Mönchengladbach",
-              "abbreviation": "BMG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
-            },
-            "goals": 0,
-            "assists": 2
           }
         ]
       }
@@ -18791,7 +18792,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:58.783Z",
+      "updatedUtc": "2026-11-07T08:37:47.833Z",
       "matches": [
         {
           "id": "401876446",
@@ -20853,6 +20854,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50403196/gio-reyna-usa-strasbourg-injury-goal-concacaf-nations-league",
+          "title": "Gio Reyna scores, exits with apparent injury ahead of USMNT camp",
+          "description": "Gio Reyna 's participation for the USMNT in the Concacaf Nations League quarterfinals could be in jeopardy after he exited Strasbourg's loss with an apparent injury.",
+          "url": "https://www.espn.com/soccer/story/_/id/50403196/gio-reyna-usa-strasbourg-injury-goal-concacaf-nations-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1107/r1742242_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-07T01:06:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
           "title": "Transfer rumors, news: Juventus eye moves for Šeško, Balogun",
           "description": "Juventus are keeping tabs on possible moves for forwards Benjamin Šeško and Folarin Balogun. Transfer Talk has the latest.",
@@ -21079,16 +21090,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50167074/lille-consider-legal-action-tiago-santos-ruptures-acl-tackle",
           "imageUrl": "https://a.espncdn.com/photo/2024/0424/r1324101_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-12T16:41:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401876442",
-          "title": "PSG stroll to third straight league win against Le Mans",
-          "description": "Paris Saint-Germain continued to put their early-season struggles behind them by beating Le Mans 3-1 to register a third successive Ligue 1 win.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401876442",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728850_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-10T21:15:59Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21360,6 +21361,30 @@
             "assists": 1
           },
           {
+            "id": "362777",
+            "name": "Thomas Jørgensen",
+            "team": {
+              "id": "179",
+              "name": "Toulouse",
+              "abbreviation": "TOU",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "id": "290230",
+            "name": "Giovanni Reyna",
+            "team": {
+              "id": "180",
+              "name": "Strasbourg",
+              "abbreviation": "STR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+            },
+            "goals": 3,
+            "assists": 0
+          },
+          {
             "id": "277525",
             "name": "Himad Abdelli",
             "team": {
@@ -21430,30 +21455,6 @@
             },
             "goals": 2,
             "assists": 2
-          },
-          {
-            "id": "223122",
-            "name": "Maxime López",
-            "team": {
-              "id": "6851",
-              "name": "Paris FC",
-              "abbreviation": "PAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
-            },
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "id": "353363",
-            "name": "Mika Godts",
-            "team": {
-              "id": "160",
-              "name": "Paris Saint-Germain",
-              "abbreviation": "PSG",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-            },
-            "goals": 2,
-            "assists": 2
           }
         ],
         "assists": [
@@ -21470,18 +21471,6 @@
             "assists": 7
           },
           {
-            "id": "271137",
-            "name": "Lassine Sinayoko",
-            "team": {
-              "id": "6851",
-              "name": "Paris FC",
-              "abbreviation": "PAR",
-              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
-            },
-            "goals": 8,
-            "assists": 5
-          },
-          {
             "id": "271244",
             "name": "Cristian Cásseres Jr.",
             "team": {
@@ -21492,6 +21481,18 @@
             },
             "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/271244.png",
             "goals": 0,
+            "assists": 6
+          },
+          {
+            "id": "271137",
+            "name": "Lassine Sinayoko",
+            "team": {
+              "id": "6851",
+              "name": "Paris FC",
+              "abbreviation": "PAR",
+              "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+            },
+            "goals": 8,
             "assists": 5
           },
           {
@@ -21838,7 +21839,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-07T00:01:58.855Z",
+      "updatedUtc": "2026-11-07T08:37:47.657Z",
       "matches": [
         {
           "id": "401861118",
@@ -24545,6 +24546,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50402586/ronaldo-portugal-retirement-was-not-dependent-martinez",
+          "title": "Hislop: Ronaldo's Portugal retirement was not dependent on Martínez",
+          "description": "Hislop: Ronaldo's Portugal retirement was not dependent on Martínez",
+          "url": "https://www.espn.com/video/clip/_/id/50402586/ronaldo-portugal-retirement-was-not-dependent-martinez",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Hislop_Ronaldos_Portugal_retirement_was_not_dependent_on_Martinez/dm_261106_Hislop_Ronaldos_Portugal_retirement_was_not_dependent_on_Martinez.jpg",
+          "publishedUtc": "2026-11-07T00:13:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50401331/england-thomas-tuchel-jude-bellingham-jobe-squad",
           "title": "Thomas Tuchel: 'Up and down' Jude Bellingham relationship now in 'good place'",
           "description": "England coach Thomas Tuchel said he loves working with Jude Bellingham, having acknowledged their relationship has been \"up and down\" at times.",
@@ -24771,16 +24782,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50221842/hislop-slams-ridiculous-ronaldo-suspension-fine",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1019/dm_261019_Hislop_slams_ridiculous_Ronaldo_suspension_and_fine/dm_261019_Hislop_slams_ridiculous_Ronaldo_suspension_and_fine.jpg",
           "publishedUtc": "2026-10-19T22:52:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
-          "title": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "publishedUtc": "2026-10-18T22:00:29Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -25531,7 +25532,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T00:01:59.018Z",
+      "updatedUtc": "2026-11-07T08:37:47.817Z",
       "matches": [
         {
           "id": "761871",
@@ -28920,7 +28921,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-07T00:01:58.722Z",
+      "updatedUtc": "2026-11-07T08:37:47.567Z",
       "matches": [
         {
           "id": "760415",
@@ -32299,6 +32300,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50402359/infantino-secures-caribbean-support-fifa-reelection-bid",
+          "title": "Caribbean Football Union endorses Infantino ahead of FIFA presidential election",
+          "description": "The Caribbean Football Union has endorsed Gianni Infantino following regional consultations, boosting his bid ahead of the FIFA presidential March election.",
+          "url": "https://www.espn.com/soccer/story/_/id/50402359/infantino-secures-caribbean-support-fifa-reelection-bid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1742190_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-06T23:11:48Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
           "title": "FIFA's chief legal officer steps down in second high-profile exit",
           "description": "Emilio García Silvero, who has served as FIFA's chief legal and compliance officer for the past eight years, is stepping down from his position.",
@@ -32515,16 +32526,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
           "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-15T22:14:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
-          "title": "Gianni Infantino apologizes to FIFA Council, avoids key issues",
-          "description": "Gianni Infantino gave an apology to his toughest critics but no new details or documents on FIFA issues during FIFA council meetings Thursday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T23:39:04Z",
           "source": "ESPN",
           "transfer": false
         }
