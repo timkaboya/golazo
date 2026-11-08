@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-07T21:41:16.424Z",
+  "updatedUtc": "2026-11-08T01:15:27.340Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.106Z",
+      "updatedUtc": "2026-11-08T01:15:26.834Z",
       "matches": [
         {
           "id": "401915415",
@@ -3403,7 +3403,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.131Z",
+      "updatedUtc": "2026-11-08T01:15:26.943Z",
       "matches": [
         {
           "id": "401915560",
@@ -6793,7 +6793,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.231Z",
+      "updatedUtc": "2026-11-08T01:15:27.060Z",
       "matches": [
         {
           "id": "401879242",
@@ -8765,6 +8765,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50413391/burley-slams-var-not-sending-bogle",
+          "title": "Burley slams VAR for not sending off Bogle",
+          "description": "Burley slams VAR for not sending off Bogle",
+          "url": "https://www.espn.com/video/clip/_/id/50413391/burley-slams-var-not-sending-bogle",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/dm_261107_COM_SOC_Analysis_Burley_slams_VAR_for_not_sending_off_Bogle_GLOBAL_2026-11-07/dm_261107_COM_SOC_Analysis_Burley_slams_VAR_for_not_sending_off_Bogle_GLOBAL_2026-11-07.jpg",
+          "publishedUtc": "2026-11-07T23:10:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50413322/man-city-fall-again-delap-double-inspires-forest",
+          "title": "Man City fall again as Delap's double inspires Forest",
+          "description": "Liam Delap's brace earns Nottingham Forest an empathetic 3-1 victory, condemning Manchester City to their third straight EPL loss.",
+          "url": "https://www.espn.com/video/clip/_/id/50413322/man-city-fall-again-delap-double-inspires-forest",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/dm_261107_EPL_Highlight_Man_City_fall_again_as_Delaps_double_inspires_Forest__2026118_AUS_ONLY/dm_261107_EPL_Highlight_Man_City_fall_again_as_Delaps_double_inspires_Forest__2026118_AUS_ONLY.jpg",
+          "publishedUtc": "2026-11-07T23:06:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50412227/enzo-maresca-calls-balance-man-city-suffer-third-straight-premier-league-defeat",
+          "title": "Enzo Maresca calls for 'balance' after Man City suffer third straight Premier League defeat",
+          "description": "Enzo Maresca has said he is \"concerned\" about Manchester City's form after they suffered a third Premier League defeat with a 3-1 loss at Nottingham Forest on Saturday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50412227/enzo-maresca-calls-balance-man-city-suffer-third-straight-premier-league-defeat",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1107/r1742605_594x334_16-9.jpg",
+          "publishedUtc": "2026-11-07T21:52:38Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50410739/hislop-questions-predictable-man-city-another-defeat",
           "title": "Hislop questions 'predictable' Man City after another defeat",
           "description": "Hislop questions 'predictable' Man City after another defeat",
@@ -8800,7 +8830,7 @@
           "description": "Nottingham Forest condemned Manchester City to a third straight Premier League loss as Enzo Maresca's previously unbeaten side slipped further behind leaders Arsenal.",
           "url": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
           "imageUrl": "https://a.espncdn.com/photo/2026/1107/r1742522_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-07T20:29:08Z",
+          "publishedUtc": "2026-11-07T21:24:48Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8971,36 +9001,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up.jpg",
           "publishedUtc": "2026-11-07T00:13:11Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401879242",
-          "title": "Barry's brace propels Everton up to 5th with win over Coventry",
-          "description": "Thierno Barry's hot streak fired Everton into the top five as they came from behind to beat Coventry 3-1.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401879242",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1742160_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-06T22:10:12Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
-          "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth's Tavernier",
-          "description": "Arsenal and Man United are set to go head-to-head for Marcus Tavernier. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1742138_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-06T21:00:05Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50400302/xabi-alonso-cole-palmer-chelsea-england-snub",
-          "title": "Chelsea's Xabi Alonso 'very happy' with Cole Palmer despite England omission",
-          "description": "Xabi Alonso said he has no time to spend worrying about international call-ups for his players after Cole Palmer was omitted from the England's Nations League squad.",
-          "url": "https://www.espn.com/soccer/story/_/id/50400302/xabi-alonso-cole-palmer-chelsea-england-snub",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1742034_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-06T18:08:34Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9750,7 +9750,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.367Z",
+      "updatedUtc": "2026-11-08T01:15:27.169Z",
       "matches": [
         {
           "id": "401882827",
@@ -10273,12 +10273,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
           },
           "venue": "Mestalla Stadium, Manises",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
             "away": 3
           },
-          "note": "77'"
+          "note": "FT"
         },
         {
           "id": "401882814",
@@ -11468,12 +11468,29 @@
             },
             {
               "team": {
+                "id": "86",
+                "name": "Real Madrid",
+                "abbreviation": "RMA",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+              },
+              "rank": 2,
+              "played": 12,
+              "won": 10,
+              "drawn": 0,
+              "lost": 2,
+              "gf": 31,
+              "ga": 10,
+              "gd": 21,
+              "points": 30
+            },
+            {
+              "team": {
                 "id": "1068",
                 "name": "Atlético",
                 "abbreviation": "ATM",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
               },
-              "rank": 2,
+              "rank": 3,
               "played": 11,
               "won": 9,
               "drawn": 1,
@@ -11482,23 +11499,6 @@
               "ga": 8,
               "gd": 14,
               "points": 28
-            },
-            {
-              "team": {
-                "id": "86",
-                "name": "Real Madrid",
-                "abbreviation": "RMA",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-              },
-              "rank": 3,
-              "played": 11,
-              "won": 9,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 28,
-              "ga": 10,
-              "gd": 18,
-              "points": 27
             },
             {
               "team": {
@@ -11763,13 +11763,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png"
               },
               "rank": 19,
-              "played": 11,
+              "played": 12,
               "won": 2,
               "drawn": 3,
-              "lost": 6,
+              "lost": 7,
               "gf": 8,
-              "ga": 17,
-              "gd": -9,
+              "ga": 20,
+              "gd": -12,
               "points": 9
             },
             {
@@ -12776,7 +12776,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.263Z",
+      "updatedUtc": "2026-11-08T01:15:26.999Z",
       "matches": [
         {
           "id": "401874980",
@@ -15816,7 +15816,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.305Z",
+      "updatedUtc": "2026-11-08T01:15:27.270Z",
       "matches": [
         {
           "id": "401884769",
@@ -18848,7 +18848,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.328Z",
+      "updatedUtc": "2026-11-08T01:15:27.222Z",
       "matches": [
         {
           "id": "401876446",
@@ -19755,12 +19755,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
           },
           "venue": "Parc des Princes, Paris",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
             "away": 0
           },
-          "note": "78'"
+          "note": "FT"
         },
         {
           "id": "401876406",
@@ -20615,14 +20615,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
               },
               "rank": 1,
-              "played": 9,
-              "won": 6,
+              "played": 10,
+              "won": 7,
               "drawn": 2,
               "lost": 1,
-              "gf": 21,
+              "gf": 22,
               "ga": 10,
-              "gd": 11,
-              "points": 20
+              "gd": 12,
+              "points": 23
             },
             {
               "team": {
@@ -20870,13 +20870,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
               },
               "rank": 16,
-              "played": 9,
+              "played": 10,
               "won": 2,
               "drawn": 2,
-              "lost": 5,
+              "lost": 6,
               "gf": 7,
-              "ga": 16,
-              "gd": -9,
+              "ga": 17,
+              "gd": -10,
               "points": 8
             },
             {
@@ -21903,7 +21903,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-07T21:41:16.194Z",
+      "updatedUtc": "2026-11-08T01:15:27.236Z",
       "matches": [
         {
           "id": "401861119",
@@ -25548,7 +25548,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-07T21:41:16.424Z",
+      "updatedUtc": "2026-11-08T01:15:27.340Z",
       "matches": [
         {
           "id": "761871",
@@ -27127,12 +27127,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
           },
           "venue": "Stade Saputo, Montreal",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
-            "away": 0
+            "away": 2
           },
-          "note": "30'"
+          "note": "FT"
         },
         {
           "id": "761935",
@@ -27151,12 +27151,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
           },
           "venue": "SeatGeek Stadium, Bridgeview, Illinois",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 2,
-            "away": 2
+            "home": 3,
+            "away": 4
           },
-          "note": "30'"
+          "note": "FT"
         },
         {
           "id": "761936",
@@ -27175,12 +27175,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
           },
           "venue": "Audi Field, Washington, District of Columbia",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
-          "note": "31'"
+          "note": "FT"
         },
         {
           "id": "761937",
@@ -27199,12 +27199,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
           },
           "venue": "TQL Stadium, Cincinnati, Ohio",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 0,
-            "away": 0
+            "away": 2
           },
-          "note": "30'"
+          "note": "FT"
         },
         {
           "id": "761938",
@@ -27223,12 +27223,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
           },
           "venue": "Nu Stadium, Miami, Florida",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
-            "away": 0
+            "home": 3,
+            "away": 3
           },
-          "note": "30'"
+          "note": "FT"
         },
         {
           "id": "761940",
@@ -27247,12 +27247,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
           },
           "venue": "Inter&Co Stadium, Orlando, Florida",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
+            "home": 1,
             "away": 0
           },
-          "note": "30'"
+          "note": "FT"
         },
         {
           "id": "761941",
@@ -27271,12 +27271,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png"
           },
           "venue": "Subaru Park, Chester, Pennsylvania",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
-            "away": 0
+            "home": 4,
+            "away": 1
           },
-          "note": "30'"
+          "note": "FT"
         },
         {
           "id": "761939",
@@ -27295,12 +27295,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"
           },
           "venue": "Sports Illustrated Stadium, Harrison, New Jersey",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 0,
+            "home": 3,
             "away": 0
           },
-          "note": "30'"
+          "note": "FT"
         },
         {
           "id": "761942",
@@ -27319,8 +27319,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
           },
           "venue": "Q2 Stadium, Austin, Texas",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "note": "HT"
         },
         {
           "id": "761943",
@@ -27339,8 +27343,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
           },
           "venue": "Toyota Stadium, Toyota Stadium",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "HT"
         },
         {
           "id": "761944",
@@ -27359,8 +27367,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
           },
           "venue": "Shell Energy Stadium, Houston, Texas",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "HT"
         },
         {
           "id": "761945",
@@ -27379,8 +27391,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png"
           },
           "venue": "Allianz Field, Saint Paul, Minnesota",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "note": "HT"
         },
         {
           "id": "761946",
@@ -27399,8 +27415,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
           },
           "venue": "America First Field, Sandy, Utah",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "note": "HT"
         },
         {
           "id": "761947",
@@ -27419,8 +27439,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png"
           },
           "venue": "Snapdragon Stadium, San Diego, California",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "note": "HT"
         },
         {
           "id": "761948",
@@ -27439,8 +27463,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
           },
           "venue": "Lumen Field, Seattle, Washington",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "note": "HT"
         }
       ],
       "tables": [
@@ -27455,13 +27483,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
               },
               "rank": 4,
-              "played": 33,
+              "played": 34,
               "won": 16,
               "drawn": 7,
-              "lost": 10,
-              "gf": 61,
-              "ga": 50,
-              "gd": 11,
+              "lost": 11,
+              "gf": 64,
+              "ga": 54,
+              "gd": 10,
               "points": 55
             },
             {
@@ -27471,15 +27499,15 @@
                 "abbreviation": "CLB",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
               },
-              "rank": 8,
-              "played": 33,
-              "won": 13,
+              "rank": 7,
+              "played": 34,
+              "won": 14,
               "drawn": 5,
               "lost": 15,
-              "gf": 55,
-              "ga": 49,
-              "gd": 6,
-              "points": 44
+              "gf": 59,
+              "ga": 52,
+              "gd": 7,
+              "points": 47
             },
             {
               "team": {
@@ -27489,13 +27517,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
               },
               "rank": 3,
-              "played": 33,
+              "played": 34,
               "won": 18,
               "drawn": 4,
-              "lost": 11,
+              "lost": 12,
               "gf": 55,
-              "ga": 46,
-              "gd": 9,
+              "ga": 47,
+              "gd": 8,
               "points": 58
             },
             {
@@ -27506,14 +27534,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
               },
               "rank": 10,
-              "played": 33,
-              "won": 11,
+              "played": 34,
+              "won": 12,
               "drawn": 6,
               "lost": 16,
-              "gf": 45,
+              "gf": 48,
               "ga": 62,
-              "gd": -17,
-              "points": 39
+              "gd": -14,
+              "points": 42
             },
             {
               "team": {
@@ -27523,13 +27551,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png"
               },
               "rank": 14,
-              "played": 33,
+              "played": 34,
               "won": 7,
               "drawn": 12,
-              "lost": 14,
+              "lost": 15,
               "gf": 39,
-              "ga": 60,
-              "gd": -21,
+              "ga": 61,
+              "gd": -22,
               "points": 33
             },
             {
@@ -27540,13 +27568,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png"
               },
               "rank": 12,
-              "played": 33,
+              "played": 34,
               "won": 9,
               "drawn": 12,
-              "lost": 12,
-              "gf": 51,
-              "ga": 63,
-              "gd": -12,
+              "lost": 13,
+              "gf": 52,
+              "ga": 67,
+              "gd": -15,
               "points": 39
             },
             {
@@ -27557,13 +27585,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png"
               },
               "rank": 15,
-              "played": 33,
+              "played": 34,
               "won": 6,
               "drawn": 8,
-              "lost": 19,
+              "lost": 20,
               "gf": 37,
-              "ga": 67,
-              "gd": -30,
+              "ga": 69,
+              "gd": -32,
               "points": 26
             },
             {
@@ -27574,14 +27602,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
               },
               "rank": 6,
-              "played": 33,
-              "won": 13,
+              "played": 34,
+              "won": 14,
               "drawn": 8,
               "lost": 12,
-              "gf": 62,
-              "ga": 51,
-              "gd": 11,
-              "points": 47
+              "gf": 66,
+              "ga": 52,
+              "gd": 14,
+              "points": 50
             },
             {
               "team": {
@@ -27590,15 +27618,15 @@
                 "abbreviation": "ORL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png"
               },
-              "rank": 9,
-              "played": 33,
-              "won": 12,
+              "rank": 8,
+              "played": 34,
+              "won": 13,
               "drawn": 7,
               "lost": 14,
-              "gf": 62,
+              "gf": 63,
               "ga": 78,
-              "gd": -16,
-              "points": 43
+              "gd": -15,
+              "points": 46
             },
             {
               "team": {
@@ -27608,14 +27636,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
               },
               "rank": 11,
-              "played": 33,
-              "won": 9,
+              "played": 34,
+              "won": 10,
               "drawn": 12,
               "lost": 12,
-              "gf": 48,
+              "gf": 49,
               "ga": 45,
-              "gd": 3,
-              "points": 39
+              "gd": 4,
+              "points": 42
             },
             {
               "team": {
@@ -27624,14 +27652,14 @@
                 "abbreviation": "CIN",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
               },
-              "rank": 7,
-              "played": 33,
+              "rank": 9,
+              "played": 34,
               "won": 12,
               "drawn": 10,
-              "lost": 11,
+              "lost": 12,
               "gf": 67,
-              "ga": 73,
-              "gd": -6,
+              "ga": 75,
+              "gd": -8,
               "points": 46
             },
             {
@@ -27642,13 +27670,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"
               },
               "rank": 13,
-              "played": 33,
+              "played": 34,
               "won": 9,
               "drawn": 6,
-              "lost": 18,
+              "lost": 19,
               "gf": 43,
-              "ga": 57,
-              "gd": -14,
+              "ga": 60,
+              "gd": -17,
               "points": 33
             },
             {
@@ -27659,14 +27687,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
               },
               "rank": 1,
-              "played": 33,
-              "won": 22,
+              "played": 34,
+              "won": 23,
               "drawn": 8,
               "lost": 3,
-              "gf": 69,
+              "gf": 71,
               "ga": 25,
-              "gd": 44,
-              "points": 74
+              "gd": 46,
+              "points": 77
             },
             {
               "team": {
@@ -27676,14 +27704,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
               },
               "rank": 2,
-              "played": 33,
+              "played": 34,
               "won": 16,
-              "drawn": 11,
+              "drawn": 12,
               "lost": 6,
-              "gf": 77,
-              "ga": 56,
+              "gf": 80,
+              "ga": 59,
               "gd": 21,
-              "points": 59
+              "points": 60
             },
             {
               "team": {
@@ -27693,14 +27721,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
               },
               "rank": 5,
-              "played": 33,
+              "played": 34,
               "won": 15,
-              "drawn": 8,
+              "drawn": 9,
               "lost": 10,
-              "gf": 63,
-              "ga": 48,
+              "gf": 66,
+              "ga": 51,
               "gd": 15,
-              "points": 53
+              "points": 54
             }
           ]
         },
@@ -27868,14 +27896,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
               },
               "rank": 1,
-              "played": 33,
-              "won": 18,
+              "played": 34,
+              "won": 19,
               "drawn": 7,
               "lost": 8,
-              "gf": 72,
+              "gf": 74,
               "ga": 34,
-              "gd": 38,
-              "points": 61
+              "gd": 40,
+              "points": 64
             },
             {
               "team": {
@@ -28969,7 +28997,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-07T21:41:16.170Z",
+      "updatedUtc": "2026-11-08T01:15:27.195Z",
       "matches": [
         {
           "id": "760415",
