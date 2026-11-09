@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-08T21:55:04.985Z",
+  "updatedUtc": "2026-11-09T01:35:43.249Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.698Z",
+      "updatedUtc": "2026-11-09T01:35:42.969Z",
       "matches": [
         {
           "id": "401915415",
@@ -3403,7 +3403,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.573Z",
+      "updatedUtc": "2026-11-09T01:35:42.944Z",
       "matches": [
         {
           "id": "401915560",
@@ -6793,7 +6793,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.693Z",
+      "updatedUtc": "2026-11-09T01:35:43.138Z",
       "matches": [
         {
           "id": "401879242",
@@ -8785,12 +8785,52 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50427029/zirkzee-dorgu-score-late-rescue-point-united",
+          "title": "Zirkzee, Dorgu score late to rescue a point for United",
+          "description": "Manchester United net two late stoppage-time goals to draw with Aston Villa as Michael Carrick's job remains in the balance.",
+          "url": "https://www.espn.com/video/clip/_/id/50427029/zirkzee-dorgu-score-late-rescue-point-united",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_INET_Soccer_HIGHLIGHT_2_Zirkzee_Dorgu_score_late_to_rescue_a_point_for_United_20261109_AUS/dm_261108_INET_Soccer_HIGHLIGHT_2_Zirkzee_Dorgu_score_late_to_rescue_a_point_for_United_20261109_AUS.jpg",
+          "publishedUtc": "2026-11-08T23:52:08Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+          "title": "Premier League VAR review: Should Man United's equalizing goal have been allowed?",
+          "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
+          "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743302_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-08T23:30:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50426223/are-man-united-relegation-battle-their-draw-vs-aston-villa",
+          "title": "Are Man United in a relegation battle after their draw vs. Aston Villa?",
+          "description": "Are Man United in a relegation battle after their draw vs. Aston Villa?",
+          "url": "https://www.espn.com/video/clip/_/id/50426223/are-man-united-relegation-battle-their-draw-vs-aston-villa",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_COM_SOC_Analysis_Are_Man_United_in_a_relegation_battle_after_their_draw_vs_Aston_Villa3F__GLOBAL_2/dm_261108_COM_SOC_Analysis_Are_Man_United_in_a_relegation_battle_after_their_draw_vs_Aston_Villa3F__GLOBAL_2.jpg",
+          "publishedUtc": "2026-11-08T23:02:39Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50426167/chelsea-shambles-defensively-alonso",
+          "title": "Nicol: Chelsea are a shambles defensively under Alonso",
+          "description": "Nicol: Chelsea are a shambles defensively under Alonso",
+          "url": "https://www.espn.com/video/clip/_/id/50426167/chelsea-shambles-defensively-alonso",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_COM_SOC_Analysis_Nicol3A_Chelsea_are_a_shambles_defensively_under_Alonso_GLOBAL_2026-11-08/dm_261108_COM_SOC_Analysis_Nicol3A_Chelsea_are_a_shambles_defensively_under_Alonso_GLOBAL_2026-11-08.jpg",
+          "publishedUtc": "2026-11-08T23:00:51Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50425072/michael-carrick-diogo-dalot-man-united-aston-villa",
           "title": "Man United's Michael Carrick backs Diogo Dalot after Old Trafford boos: 'He gives everything'",
           "description": "Michael Carrick has defended Diogo Dalot after the Manchester United defender appeared to be ironically cheered by fans when he was substituted during the 4-4 draw with Aston Villa on Sunday.",
           "url": "https://www.espn.com/soccer/story/_/id/50425072/michael-carrick-diogo-dalot-man-united-aston-villa",
           "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743246_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T21:42:12Z",
+          "publishedUtc": "2026-11-08T22:19:45Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8870,7 +8910,7 @@
           "description": "Manchester United fought back for a chaotic 4-4 draw against Aston Villa on Sunday after twice going two goals down at Old Trafford.",
           "url": "https://www.espn.com/soccer/story/_/id/50421297/man-united-aston-villa-premier-league",
           "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743096_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T19:13:16Z",
+          "publishedUtc": "2026-11-08T22:18:58Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8983,46 +9023,6 @@
           "publishedUtc": "2026-11-08T16:14:19Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401879244",
-          "title": "Title challengers? Brighton see off Brentford to go above Man City, into second",
-          "description": "Diego Gómez scored another stunner as Brighton enjoyed a happy homecoming by climbing to second in the Premier League with a 2-0 win over 10-man Brentford at the Amex Stadium.\n\n",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401879244",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742955_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T16:45:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50395131/does-man-united-coach-matter-jurgen-klopp-reach-premier-league-glory-old-trafford",
-          "title": "What if Manchester United had hired Jurgen Klopp?",
-          "description": "If Manchester United hired an all-time great like Jurgen Klopp, would they have won the Premier League? Let's find out!",
-          "url": "https://www.espn.com/soccer/story/_/id/50395131/does-man-united-coach-matter-jurgen-klopp-reach-premier-league-glory-old-trafford",
-          "imageUrl": "https://a.espncdn.com/photo/2024/0709/r1356574_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T21:11:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50419027/bruno-guimaraes-arsenal-premier-league",
-          "title": "Bruno Guimaraes vows 'unbelievable' Arsenal will keep up Premier League title pace",
-          "description": "Bruno Guimarães saluted \"unbelievable\" Arsenal after they stretched their lead at the top of the Premier League with a gritty 1-0 win over Hull.",
-          "url": "https://www.espn.com/soccer/story/_/id/50419027/bruno-guimaraes-arsenal-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1010/r1728616_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T11:54:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
-          "title": "Transfer rumors, news: Man United scout defender Mahamadou Nagida",
-          "description": "Rennes left-back Mahamadou Nagida is being monitored by Manchester United. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742863_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T09:55:02Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9770,7 +9770,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.896Z",
+      "updatedUtc": "2026-11-09T01:35:43.187Z",
       "matches": [
         {
           "id": "401882827",
@@ -10413,12 +10413,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
           },
           "venue": "Riyadh Air Metropolitano, Madrid",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
             "away": 2
           },
-          "note": "90'+3'"
+          "note": "FT"
         },
         {
           "id": "401882805",
@@ -11497,14 +11497,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
               },
               "rank": 1,
-              "played": 11,
-              "won": 10,
+              "played": 12,
+              "won": 11,
               "drawn": 0,
               "lost": 1,
-              "gf": 46,
-              "ga": 12,
-              "gd": 34,
-              "points": 30
+              "gf": 48,
+              "ga": 13,
+              "gd": 35,
+              "points": 33
             },
             {
               "team": {
@@ -11531,13 +11531,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
               },
               "rank": 3,
-              "played": 11,
+              "played": 12,
               "won": 9,
               "drawn": 1,
-              "lost": 1,
-              "gf": 22,
-              "ga": 8,
-              "gd": 14,
+              "lost": 2,
+              "gf": 23,
+              "ga": 10,
+              "gd": 13,
               "points": 28
             },
             {
@@ -11834,6 +11834,66 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50427000/diego-simeone-atletico-madrid-need-julian-alvarez-best-succeed",
+          "title": "Diego Simeone: Atlético Madrid need Julián Álvarez at his 'best' to succeed",
+          "description": "Diego Simeone says Atlético Madrid will give Julián Álvarez time to re-discover his best form after the striker missed a string of chances in Sunday's 2-1 defeat to Barcelona at the Metropolitano.",
+          "url": "https://www.espn.com/soccer/story/_/id/50427000/diego-simeone-atletico-madrid-need-julian-alvarez-best-succeed",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743336_594x334_16-9.jpg",
+          "publishedUtc": "2026-11-09T00:19:08Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50426411/barca-pass-their-biggest-test-yet-fermin-lopez-sinks-atletico-madrid",
+          "title": "Barça pass their biggest test yet as Fermín López sinks Atlético Madrid",
+          "description": "Needing a response after losing to Paris Saint-Germain and Real Madrid, Barcelona came from behind at Atlético on Sunday to underline their title credentials.",
+          "url": "https://www.espn.com/soccer/story/_/id/50426411/barca-pass-their-biggest-test-yet-fermin-lopez-sinks-atletico-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743329_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-08T23:47:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50426229/barcelona-showed-win-ugly-vs-atletico-madrid",
+          "title": "Moreno: Barcelona showed they can win ugly vs. Atlético Madrid",
+          "description": "Moreno: Barcelona showed they can win ugly vs. Atlético Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50426229/barcelona-showed-win-ugly-vs-atletico-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_COM_SOC_Analysis_Moreno3A_Barcelona_showed_they_can_win_ugly_vs_AtlC3A9tico_Madrid_GLOBAL_2026-11-08/dm_261108_COM_SOC_Analysis_Moreno3A_Barcelona_showed_they_can_win_ugly_vs_AtlC3A9tico_Madrid_GLOBAL_2026-11-08.jpg",
+          "publishedUtc": "2026-11-08T23:01:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50425918/fermin-lopez-double-barcelona-beat-atletico-madrid",
+          "title": "Fermín López double as Barcelona beat Atletico Madrid",
+          "description": "Fermín López double as Barcelona beat Atletico Madrid",
+          "url": "https://www.espn.com/video/clip/_/id/50425918/fermin-lopez-double-barcelona-beat-atletico-madrid",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_Fermin_Lopez_double_as_Barcelona_beat_Atletico_Madrid/dm_261108_Fermin_Lopez_double_as_Barcelona_beat_Atletico_Madrid.jpg",
+          "publishedUtc": "2026-11-08T22:38:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401882816",
+          "title": "López double leads Barcelona past Atleti to go clear atop LaLiga",
+          "description": "A double from Fermín López saw Barcelona come from behind to defeat Atlético Madrid 2-1 on Sunday and restore their three-point lead at the top of LaLiga.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401882816",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743259_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-08T22:13:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50425486/barcelona-downs-atletico-madrid-2-1",
+          "title": "Barcelona downs Atlético Madrid 2-1",
+          "description": "Barcelona downs Atlético Madrid 2-1",
+          "url": "https://www.espn.com/video/clip/_/id/50425486/barcelona-downs-atletico-madrid-2-1",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/4aa7344e0a9d46b8a5da9746289109281041/4aa7344e0a9d46b8a5da9746289109281041.jpg",
+          "publishedUtc": "2026-11-08T22:22:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50423036/celta-vigo-vs-levante-game-highlights",
           "title": "Celta Vigo vs. Levante - Game Highlights",
           "description": "Watch the Game Highlights from Celta Vigo vs. Levante, 11/08/2026",
@@ -12010,66 +12070,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50389589/all-anthony-gordon-goals-assists-laliga-far",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_All_of_Anthony_Gordons_goals_and_assists_in_LALIGA_so_far/dm_261105_All_of_Anthony_Gordons_goals_and_assists_in_LALIGA_so_far.jpg",
           "publishedUtc": "2026-11-05T16:13:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50116408/raphinha-barcelona-new-contract-brazil-la-liga",
-          "title": "Raphinha signs new Barcelona contract until 2030",
-          "description": "Barcelona have rewarded Raphinha for his fine start to the new campaign with a contract extension until 2030, the Spanish champions have announced.",
-          "url": "https://www.espn.com/soccer/story/_/id/50116408/raphinha-barcelona-new-contract-brazil-la-liga",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1006/r1726779_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T12:44:25Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50387532/catches-everyone-even-cristiano-ronaldo",
-          "title": "Ogden: Time catches up with everyone, even Cristiano Ronaldo",
-          "description": "Ogden: Time catches up with everyone, even Cristiano Ronaldo",
-          "url": "https://www.espn.com/video/clip/_/id/50387532/catches-everyone-even-cristiano-ronaldo",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo.jpg",
-          "publishedUtc": "2026-11-05T12:03:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-          "description": "Cristiano Ronaldo has retired from international soccer with Portugal after being benched by coach Jorge Jesus. It is far from the first high-profile row of his career.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T16:21:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50383582/medical-official-pitchside-emergency-upgrades-de-miguel-death",
-          "title": "Spanish medical official questions pitchside emergency protocols after De Miguel's death",
-          "description": "Spanish medical workers are questioning pitchside emergency protocols following the fatal on-field collision involving Tenerife forward Jesús de Miguel.",
-          "url": "https://www.espn.com/soccer/story/_/id/50383582/medical-official-pitchside-emergency-upgrades-de-miguel-death",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1105/r1741332_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T09:14:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50378635/rafa-nadal-accepts-real-madrid-offer-join-board-directors",
-          "title": "Tennis great Rafa Nadal accepts Real Madrid offer to join board of directors",
-          "description": "Tennis legend Rafa Nadal confirmed on Wednesday he has accepted an offer to become a member of Real Madrid's board of directors.",
-          "url": "https://www.espn.com/soccer/story/_/id/50378635/rafa-nadal-accepts-real-madrid-offer-join-board-directors",
-          "imageUrl": "https://a.espncdn.com/photo/2022/0527/r1018132_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T14:16:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
-          "title": "Man United fans throwing tennis balls is part of soccer's rich history of supporter protests",
-          "description": "After Manchester United's match was disrupted by tennis balls thrown onto the pitch, here are some of the various ways fans have made themselves heard.",
-          "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1740923_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T13:45:44Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12816,7 +12816,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.821Z",
+      "updatedUtc": "2026-11-09T01:35:43.066Z",
       "matches": [
         {
           "id": "401874980",
@@ -15877,7 +15877,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.780Z",
+      "updatedUtc": "2026-11-09T01:35:43.092Z",
       "matches": [
         {
           "id": "401884769",
@@ -18921,7 +18921,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.836Z",
+      "updatedUtc": "2026-11-09T01:35:43.023Z",
       "matches": [
         {
           "id": "401876446",
@@ -22000,7 +22000,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-08T21:55:04.978Z",
+      "updatedUtc": "2026-11-09T01:35:42.924Z",
       "matches": [
         {
           "id": "401861127",
@@ -25453,7 +25453,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-08T21:55:04.985Z",
+      "updatedUtc": "2026-11-09T01:35:43.249Z",
       "matches": [
         {
           "id": "761874",
@@ -28894,7 +28894,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-08T21:55:04.975Z",
+      "updatedUtc": "2026-11-09T01:35:42.902Z",
       "matches": [
         {
           "id": "760415",
