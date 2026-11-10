@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-10T04:01:35.620Z",
+  "updatedUtc": "2026-11-10T14:42:28.073Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.306Z",
+      "updatedUtc": "2026-11-10T14:42:27.795Z",
       "matches": [
         {
           "id": "401915415",
@@ -2417,6 +2417,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50440647/usmnt-roster-understand-pochettino-joins-man-united",
+          "title": "Keller: USMNT roster will understand if Pochettino joins Man United",
+          "description": "Keller: USMNT roster will understand if Pochettino joins Man United",
+          "url": "https://www.espn.com/video/clip/_/id/50440647/usmnt-roster-understand-pochettino-joins-man-united",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL.jpg",
+          "publishedUtc": "2026-11-10T08:44:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/espn/betting/story/_/id/50411508/united-states-soccer-betting-2026-world-cup-premier-mls",
           "title": "'The World Cup never really ended': U.S.-based betting sees rise in wagering on MLS, European soccer",
           "description": "Before the World Cup, many wondered if Americans would stick around afterward. Betting data says yes, they did.",
@@ -2643,16 +2653,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/401915383",
           "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1741136_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-04T20:22:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401915382",
-          "title": "Greenwood leads Fenerbahce rally to end Liverpool's perfect UCL start",
-          "description": "Even Liverpool 's multi-million pound bench could not rescue a team floundering in Istanbul as a chaotic performance was punished by Fenerbahce as they twice came from behind to win 3-2.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401915382",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1741146_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T20:07:23Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3403,7 +3403,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.339Z",
+      "updatedUtc": "2026-11-10T14:42:27.762Z",
       "matches": [
         {
           "id": "401915560",
@@ -6795,7 +6795,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.494Z",
+      "updatedUtc": "2026-11-10T14:42:27.937Z",
       "matches": [
         {
           "id": "401879241",
@@ -8775,12 +8775,72 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks",
+          "title": "Man United executives, Sir Jim Ratcliffe meeting to discuss Carrick future - sources",
+          "description": "Manchester United executives are meeting with minority owner Sir Jim Ratcliffe this week to discuss Michael Carrick's future as head coach, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743924_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T12:47:10Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50436306/man-united-mauricio-pochettino-michael-carrick",
+          "title": "Sources: Man United turn to U.S. coach Pochettino with Carrick on the brink",
+          "description": "United States coach Mauricio Pochettino is the favored candidate to replace Michael Carrick as Manchester United manager, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50436306/man-united-mauricio-pochettino-michael-carrick",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743756_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T12:00:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50440647/usmnt-roster-understand-pochettino-joins-man-united",
+          "title": "Keller: USMNT roster will understand if Pochettino joins Man United",
+          "description": "Keller: USMNT roster will understand if Pochettino joins Man United",
+          "url": "https://www.espn.com/video/clip/_/id/50440647/usmnt-roster-understand-pochettino-joins-man-united",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL.jpg",
+          "publishedUtc": "2026-11-10T08:44:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50437689/think-less-run-more-rise-man-marking-premier-league",
+          "title": "Think less, run more: The rise of man-marking in the Premier League",
+          "description": "Premier League clubs are running faster, pressing harder and valuing athleticism more than ever. So what happens when everyone plays that way?",
+          "url": "https://www.espn.com/soccer/story/_/id/50437689/think-less-run-more-rise-man-marking-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743858_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T08:24:00Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50434026/premier-league-overreactions-brighton-arsenal-title-rivals-man-united-resilience",
+          "title": "Premier League overreactions: Brighton vs. Arsenal for title? Man United's resilience will save them?",
+          "description": "Brighton continue to impress, but should Arsenal be worried? What to make of Man United's dramatic comeback? Let's judge some overreactions!",
+          "url": "https://www.espn.com/soccer/story/_/id/50434026/premier-league-overreactions-brighton-arsenal-title-rivals-man-united-resilience",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743713_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T08:20:07Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+          "title": "Transfer rumors, news: Arsenal to offload three players, with Atlético Madrid keen",
+          "description": "Atlético Madrid are one of the main clubs showing an interest in Arsenal midfielder Martín Zubimendi, while Viktor Gyökeres and Mikel Merino could also depart. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2025/0913/r1544752_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T08:05:24Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50430657/transfer-rumors-news-man-united-hire-usmnt-pochettino-replace-carrick",
           "title": "Transfer rumors, news: Man United eye move for Forest's Murillo",
           "description": "Manchester United are in the relegation zone and are looking to improve their defense in January. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50430657/transfer-rumors-news-man-united-hire-usmnt-pochettino-replace-carrick",
           "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743804_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-10T01:08:08Z",
+          "publishedUtc": "2026-11-10T05:37:14Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -8791,16 +8851,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50436553/who-man-united-head-coach-carrick-sacked",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1109/dm_261109_COM_SOC_Analysis_Who_will_be_Man_United_head_coach_if_Carrick_is_sacked3F__GLOBAL_2026-11-09/dm_261109_COM_SOC_Analysis_Who_will_be_Man_United_head_coach_if_Carrick_is_sacked3F__GLOBAL_2026-11-09.jpg",
           "publishedUtc": "2026-11-09T23:31:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50436306/man-united-mauricio-pochettino-michael-carrick",
-          "title": "Sources: Man United turn to U.S. coach Pochettino with Carrick on the brink",
-          "description": "United States coach Mauricio Pochettino is the favored candidate to replace Michael Carrick as Manchester United manager, sources have told ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50436306/man-united-mauricio-pochettino-michael-carrick",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743756_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-10T00:18:46Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8895,6 +8945,16 @@
           "transfer": false
         },
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50430228/tony-popovic-waves-links-crystal-palace-gig",
+          "title": "Tony Popovic waves off links to Crystal Palace gig",
+          "description": "Australia coach Tony Popovic has waved off links to the Crystal Palace job as \"speculation\", and while providing no assurances he'll remain beyond his expiring contract, confirmed that talks with Football Australia have commenced around an extension.",
+          "url": "https://www.espn.com/soccer/story/_/id/50430228/tony-popovic-waves-links-crystal-palace-gig",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743457_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T04:46:47Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50427029/zirkzee-dorgu-score-late-rescue-point-united",
           "title": "Zirkzee, Dorgu score late to rescue a point for United",
           "description": "Manchester United net two late stoppage-time goals to draw with Aston Villa as Michael Carrick's job remains in the balance.",
@@ -8951,66 +9011,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50424280/gary-neville-michael-carrick-man-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743204_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-08T21:10:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50424226/carrick-backs-dalot-getting-booed-man-united-fans",
-          "title": "Carrick backs Dalot after getting booed by Man United fans",
-          "description": "Carrick backs Dalot after getting booed by Man United fans",
-          "url": "https://www.espn.com/video/clip/_/id/50424226/carrick-backs-dalot-getting-booed-man-united-fans",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_COM_SOC_Analysis_Carrick_backs_Dalot_after_getting_booed_by_Man_United_fans_GLOBAL_2026-11-08/dm_261108_COM_SOC_Analysis_Carrick_backs_Dalot_after_getting_booed_by_Man_United_fans_GLOBAL_2026-11-08.jpg",
-          "publishedUtc": "2026-11-08T20:58:41Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50423657/michael-carrick-man-united-future",
-          "title": "Man United in relegation zone, but Michael Carrick insists: I deserve to keep job",
-          "description": "Michael Carrick insisted there's enough evidence that he should keep his job despite Manchester United sitting in the Premier League relegation zone.",
-          "url": "https://www.espn.com/soccer/story/_/id/50423657/michael-carrick-man-united-future",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743150_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T21:10:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50422908/leeds-jayden-bogle-racist-abuse",
-          "title": "Leeds condemn 'disgusting' alleged racist abuse of Jayden Bogle after Spurs game",
-          "description": "Leeds have condemned alleged racist abuse of defender Jayden Bogle on social media following Saturday's 1-0 Premier League win over Tottenham at Elland Road.",
-          "url": "https://www.espn.com/soccer/story/_/id/50422908/leeds-jayden-bogle-racist-abuse",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743120_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T20:15:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50423165/roy-keane-michael-carrick-man-united",
-          "title": "Roy Keane likens Michael Carrick to 'politician' after chaotic Man United draw",
-          "description": "\"Manchester United legend Roy Keane has compared under-pressure manager Michael Carrick to a \"politician,\" accusing him of talking a lot but saying little as his side's struggles continue.",
-          "url": "https://www.espn.com/soccer/story/_/id/50423165/roy-keane-michael-carrick-man-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743128_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T19:57:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50423082/has-man-united-already-decided-carrick-future-break",
-          "title": "Has Man United already decided Carrick's future before the break?",
-          "description": "Has Man United already decided Carrick's future before the break?",
-          "url": "https://www.espn.com/video/clip/_/id/50423082/has-man-united-already-decided-carrick-future-break",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_COM_SOC_ANALYSIS_Has_Man_United_already_decided_Carricks_future_before_the_break_2026_11_8/dm_261108_COM_SOC_ANALYSIS_Has_Man_United_already_decided_Carricks_future_before_the_break_2026_11_8.jpg",
-          "publishedUtc": "2026-11-08T19:39:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50422311/man-united-poor-starts-premier-league-relegation-looking-more-likely",
-          "title": "Man United's poor starts have Premier League relegation looking more likely",
-          "description": "Man United have a penchant for waking up *after* games have already started -- and it's why they face Premier League relegation.",
-          "url": "https://www.espn.com/soccer/story/_/id/50422311/man-united-poor-starts-premier-league-relegation-looking-more-likely",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743129_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-09T14:05:00Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9760,7 +9760,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.545Z",
+      "updatedUtc": "2026-11-10T14:42:28.018Z",
       "matches": [
         {
           "id": "401882827",
@@ -11824,6 +11824,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/espn/story/_/id/50440279/lassine-sinayoko-yassir-zabiri-good-seem",
+          "title": "Are scoring sensations Lassine Sinayoko and Yassir Zabiri as good as they seem?",
+          "description": "Mali's Lassine Sinayoko leads Ligue 1 with nine goals in 10 appearances, while Morocco's Yassir Zabiri has nine in 12 La Liga outings, behind only Raphinha, Kylian Mbappe and Lamine Yamal.",
+          "url": "https://www.espn.com/espn/story/_/id/50440279/lassine-sinayoko-yassir-zabiri-good-seem",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743885_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T07:38:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50433569/barcelona-spain-pau-cubarsi-wins-2026-golden-boy-award",
           "title": "Barcelona's Pau Cubarsí crowned 2026 Golden Boy",
           "description": "Barcelona centre-back Pau Cubarsí has won the 2026 Golden Boy award, the prize given to the best U21 men's player in the world.",
@@ -12052,16 +12062,6 @@
           "publishedUtc": "2026-11-06T22:04:49Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect",
-          "title": "Anthony Gordon left Premier League for Barcelona to get 'respect' -- he's got it now",
-          "description": "Anthony Gordon's move to Barcelona was a surprise to some, but he's become an instant fan favorite at Camp Nou as well as a key player for England.",
-          "url": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1105/premier_league_barcelona_16x9_1296x729.jpg",
-          "publishedUtc": "2026-11-07T12:36:16Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -12806,7 +12806,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.453Z",
+      "updatedUtc": "2026-11-10T14:42:27.977Z",
       "matches": [
         {
           "id": "401874980",
@@ -15866,7 +15866,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.401Z",
+      "updatedUtc": "2026-11-10T14:42:27.874Z",
       "matches": [
         {
           "id": "401884769",
@@ -18909,7 +18909,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.375Z",
+      "updatedUtc": "2026-11-10T14:42:27.902Z",
       "matches": [
         {
           "id": "401876446",
@@ -21003,6 +21003,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/espn/story/_/id/50440279/lassine-sinayoko-yassir-zabiri-good-seem",
+          "title": "Are scoring sensations Lassine Sinayoko and Yassir Zabiri as good as they seem?",
+          "description": "Mali's Lassine Sinayoko leads Ligue 1 with nine goals in 10 appearances, while Morocco's Yassir Zabiri has nine in 12 La Liga outings, behind only Raphinha, Kylian Mbappe and Lamine Yamal.",
+          "url": "https://www.espn.com/espn/story/_/id/50440279/lassine-sinayoko-yassir-zabiri-good-seem",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743885_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T07:38:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
           "title": "Transfer rumors, news: Man United scout defender Mahamadou Nagida",
           "description": "Rennes left-back Mahamadou Nagida is being monitored by Manchester United. Transfer Talk has the latest.",
@@ -21229,16 +21239,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50203117/usmnt-reyna-continues-fine-form-goal-strasbourg-loss-psg",
           "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732134_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-18T00:10:47Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401876432",
-          "title": "USMNT's Gio Reyna scores in Strasbourg's defeat to PSG",
-          "description": "Ousmane Dembele inspired a Paris St Germain comeback after coming off the bench to score and contribute an assist in their 3-1 victory at Strasbourg in Ligue 1.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401876432",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1017/r1732063_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-17T17:43:16Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21986,32 +21986,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-10T04:01:35.274Z",
+      "updatedUtc": "2026-11-10T14:42:27.844Z",
       "matches": [
-        {
-          "id": "401861135",
-          "utc": "2026-10-06T14:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "2619",
-            "name": "Kazakhstan",
-            "abbreviation": "KAZ",
-            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kaz.png"
-          },
-          "away": {
-            "id": "447",
-            "name": "Faroe Islands",
-            "abbreviation": "FRO",
-            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png"
-          },
-          "venue": "Astana Arena, Astana",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 2
-          },
-          "note": "FT"
-        },
         {
           "id": "401861140",
           "utc": "2026-10-06T18:45Z",
@@ -24261,6 +24237,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50399038/cole-palmer-thomas-tuchel-england",
+          "title": "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+          "description": "ESPN's Tom Hamilton examines why Cole Palmer faces a fight for his England place as Thomas Tuchel embraces a new generation of talent.",
+          "url": "https://www.espn.com/soccer/story/_/id/50399038/cole-palmer-thomas-tuchel-england",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1741953_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-10T07:42:18Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50432831/granit-xhaka-injury-switzerland-nations-league-sunderland",
           "title": "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
           "description": "Switzerland captain Granit Xhaka has withdrawn from two Nations League games because of an injury.",
@@ -24297,16 +24283,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50431707/dan-burn-marc-guehi-england-squad",
           "imageUrl": "https://a.espncdn.com/photo/2026/0706/r1685517_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-09T12:10:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50399038/cole-palmer-thomas-tuchel-england",
-          "title": "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-          "description": "ESPN's Tom Hamilton examines why Cole Palmer faces a fight for his England place as Thomas Tuchel embraces a new generation of talent.",
-          "url": "https://www.espn.com/soccer/story/_/id/50399038/cole-palmer-thomas-tuchel-england",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1741953_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T07:51:17Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -25247,7 +25223,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-10T04:01:35.620Z",
+      "updatedUtc": "2026-11-10T14:42:28.073Z",
       "matches": [
         {
           "id": "761892",
@@ -28586,7 +28562,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-10T04:01:35.237Z",
+      "updatedUtc": "2026-11-10T14:42:27.815Z",
       "matches": [
         {
           "id": "760415",
@@ -31965,6 +31941,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50440647/usmnt-roster-understand-pochettino-joins-man-united",
+          "title": "Keller: USMNT roster will understand if Pochettino joins Man United",
+          "description": "Keller: USMNT roster will understand if Pochettino joins Man United",
+          "url": "https://www.espn.com/video/clip/_/id/50440647/usmnt-roster-understand-pochettino-joins-man-united",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL.jpg",
+          "publishedUtc": "2026-11-10T08:44:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
           "title": "Messi tracker: Goals, assists, key moments in 2026",
           "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
@@ -32181,16 +32167,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg",
           "publishedUtc": "2026-10-16T08:59:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
-          "title": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
-          "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
-          "url": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-15T22:14:46Z",
           "source": "ESPN",
           "transfer": false
         }
