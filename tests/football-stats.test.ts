@@ -256,11 +256,22 @@ describe('groupMatches', () => {
       match('recent', '2026-10-01T12:00:00Z', 'finished'),
       match('live', '2026-10-05T12:00:00Z', 'live'),
       match('next', '2026-10-06T12:00:00Z', 'upcoming'),
-    ]);
+    ], 12, new Date('2026-10-05T12:00:00Z'));
 
     expect(grouped.live.map((item) => item.id)).toEqual(['live']);
     expect(grouped.upcoming.map((item) => item.id)).toEqual(['next']);
     expect(grouped.recent.map((item) => item.id)).toEqual(['recent', 'old']);
+  });
+
+  it('does not show stale or invalid scheduled fixtures as upcoming', () => {
+    const grouped = groupMatches([
+      match('passed', '2026-10-05T11:59:59Z', 'upcoming'),
+      match('now', '2026-10-05T12:00:00Z', 'upcoming'),
+      match('invalid', 'not-a-date', 'upcoming'),
+      match('tomorrow', '2026-10-06T12:00:00Z', 'upcoming'),
+    ], 12, new Date('2026-10-05T12:00:00Z'));
+
+    expect(grouped.upcoming.map((item) => item.id)).toEqual(['tomorrow']);
   });
 });
 
@@ -271,6 +282,7 @@ describe('selectLandingMatches', () => {
   it('prioritizes live and today while returning the latest and next ten games', () => {
     const matches = [
       match('yesterday-live', '2026-10-04T23:55:00Z', 'live'),
+      match('stale-upcoming', '2026-10-04T18:00:00Z', 'upcoming'),
       match('today-finished', '2026-10-05T08:00:00Z', 'finished'),
       match('today-next', '2026-10-05T18:00:00Z', 'upcoming'),
       ...Array.from({ length: 12 }, (_, index) =>
@@ -300,6 +312,7 @@ describe('selectLandingMatches', () => {
     expect(selected.recent[0].id).toBe('today-finished');
     expect(selected.upcoming).toHaveLength(10);
     expect(selected.upcoming[0].id).toBe('today-next');
+    expect(selected.upcoming.map((item) => item.id)).not.toContain('stale-upcoming');
   });
 });
 
