@@ -139,7 +139,75 @@ test('landing match centre immediately surfaces provider-confirmed live games', 
   await expect(liveCard.locator('.home-match-team b')).toHaveText(['1', '1']);
 });
 
+test('up next excludes passed scheduled games and shows the next Nations League fixtures', async ({ page }) => {
+  await page.unroute('**/api/football-scores*');
+  const now = Date.now();
+  const match = (id: string, utc: string, home: string, away: string) => ({
+    id,
+    utc,
+    phase: 'League Phase',
+    home: { id: `${id}-home`, name: home, abbreviation: home.slice(0, 3).toUpperCase() },
+    away: { id: `${id}-away`, name: away, abbreviation: away.slice(0, 3).toUpperCase() },
+    venue: 'Test stadium',
+    status: 'upcoming',
+    note: 'Scheduled',
+  });
+  await page.route('**/api/football-scores*', (route) =>
+    route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        version: 1,
+        updatedUtc: new Date(now).toISOString(),
+        competitions: [{
+          slug: 'nations-league',
+          name: 'Nations League',
+          espn: 'uefa.nations',
+          matches: [
+            match('stale-scheduled', new Date(now - 86400000).toISOString(), 'Past FC', 'Old FC'),
+            match('tomorrow-nations', new Date(now + 86400000).toISOString(), 'Italy', 'France'),
+          ],
+        }],
+      }),
+    })
+  );
+
+  await page.goto('/');
+  await page.getByRole('tab', { name: /Up next/ }).click();
+  await expect(page.locator('.home-match-card[data-match-id="stale-scheduled"]')).toHaveCount(0);
+  const tomorrow = page.locator('.home-match-card[data-match-id="tomorrow-nations"]');
+  await expect(tomorrow).toBeVisible();
+  await expect(tomorrow).toContainText('Nations League');
+  await expect(tomorrow).toContainText('Italy');
+  await expect(tomorrow).toContainText('France');
+});
+
 test('league result opens a full match centre with lineups table stats and head to head', async ({ page }) => {
+  await page.unroute('**/api/football-scores*');
+  await page.route('**/api/football-scores*', (route) =>
+    route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        version: 1,
+        updatedUtc: new Date().toISOString(),
+        competitions: [{
+          slug: 'nations-league',
+          name: 'Nations League',
+          espn: 'uefa.nations',
+          matches: [{
+            id: '401861131',
+            utc: new Date(Date.now() - 86400000).toISOString(),
+            phase: 'League Phase',
+            home: { id: '162', name: 'Italy', abbreviation: 'ITA' },
+            away: { id: '465', name: 'Türkiye', abbreviation: 'TUR' },
+            venue: "Renato Dall'Ara",
+            status: 'finished',
+            score: { home: 3, away: 1 },
+            note: 'FT',
+          }],
+        }],
+      }),
+    })
+  );
   await page.route('**/api/match?*', (route) =>
     route.fulfill({ status: 502, contentType: 'application/json', body: '{}' })
   );
@@ -190,7 +258,7 @@ test('league result opens a full match centre with lineups table stats and head 
   );
 
   await page.goto('/leagues/nations-league');
-  await page.locator('.match-board.is-recent .football-match').first().click();
+  await page.locator('.match-board.is-recent .football-match[data-match-id="401861131"]').click();
   const dialog = page.getByRole('dialog');
   await expect(dialog).toBeVisible();
   await expect(dialog.getByText('Full time')).toBeVisible();

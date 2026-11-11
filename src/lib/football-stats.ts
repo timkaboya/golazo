@@ -119,7 +119,7 @@ export function selectFootballScoreRefresh<T extends FootballMatch>(
   now = new Date(),
   limitPerGroup = 12
 ): T[] {
-  const groups = groupMatches(selectFootballMatchWindow(matches, now), limitPerGroup);
+  const groups = groupMatches(selectFootballMatchWindow(matches, now), limitPerGroup, now);
   return mergeFootballMatches<T>([], [...groups.live, ...groups.upcoming, ...groups.recent]);
 }
 
@@ -203,11 +203,23 @@ export function aggregateFootballLeaders(
   };
 }
 
-export function groupMatches<T extends FootballMatch>(matches: T[], limit = 12) {
+export function groupMatches<T extends FootballMatch>(
+  matches: T[],
+  limit = 12,
+  now = new Date()
+) {
   const ordered = [...matches].sort((a, b) => a.utc.localeCompare(b.utc));
+  const nowMs = now.getTime();
   return {
     live: ordered.filter((match) => match.status === 'live').slice(0, limit),
-    upcoming: ordered.filter((match) => match.status === 'upcoming').slice(0, limit),
+    upcoming: ordered
+      .filter(
+        (match) =>
+          match.status === 'upcoming' &&
+          Number.isFinite(Date.parse(match.utc)) &&
+          Date.parse(match.utc) > nowMs
+      )
+      .slice(0, limit),
     recent: ordered.filter((match) => match.status === 'finished').slice(-limit).reverse(),
   };
 }
@@ -226,7 +238,14 @@ export function selectLandingMatches(
       .sort((a, b) => Number(b.status === 'live') - Number(a.status === 'live') || a.utc.localeCompare(b.utc))
       .slice(0, limit),
     recent: ordered.filter((match) => match.status === 'finished').slice(-limit).reverse(),
-    upcoming: ordered.filter((match) => match.status === 'upcoming').slice(0, limit),
+    upcoming: ordered
+      .filter(
+        (match) =>
+          match.status === 'upcoming' &&
+          Number.isFinite(Date.parse(match.utc)) &&
+          Date.parse(match.utc) > now.getTime()
+      )
+      .slice(0, limit),
   };
 }
 
