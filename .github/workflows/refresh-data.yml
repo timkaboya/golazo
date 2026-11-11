@@ -1,0 +1,122 @@
+name: Refresh football data
+
+# Keeps Golazo current without waiting for a developer to push. The
+# scheduled job refreshes all competition snapshots plus the World Cup archive.
+#
+# Why a commit (and not just a rebuild)? It keeps the committed JSON fallbacks
+# (served when ESPN is unreachable from a visitor's browser) up to date and
+# gives every generated snapshot the same protected-branch CI coverage as code.
+#
+# main is protected, so the bot updates a dedicated branch, opens a pull
+# request, dispatches the required CI checks, and enables auto-merge.
+#
+# Merges created with GITHUB_TOKEN do not emit normal push workflow events, so
+# this workflow explicitly dispatches both deployment workflows after merging.
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 2 hours — refreshes daily and within ~2h of any match result.
+    - cron: '0 */2 * * *'
+
+# Cancel a superseded refresh; the newest data always wins.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: true
+
+# Needs write access to update the refresh branch, create its PR, and dispatch CI.
+permissions:
+  actions: write
+  contents: write
+  pull-requests: write
+  statuses: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          # Node 22+ is required: the data generators are TypeScript run via
+          # `node --experimental-strip-types` (added in Node 22.6).
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Regenerate football data and news
+        run: |
+          npm run data || echo "::warning::ESPN data fetch failed; keeping existing data"
+          npm run data:news || echo "::warning::news fetch failed; keeping existing news"
+          npm run data:football || echo "::warning::football data fetch failed; keeping existing data"
+
+      - name: Commit refreshed data (if changed)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          refresh_branch="automation/refresh-football-data"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/*.json src/data/tournament.json src/data/news.json src/data/football.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git switch -c "$refresh_branch"
+            git commit -m "chore(data): scheduled football data refresh"
+            git push --force origin "HEAD:$refresh_branch"
+
+            pr_number="$(gh pr list \
+              --base main \
+              --head "$refresh_branch" \
+              --state open \
+              --json number \
+              --jq '.[0].number')"
+            if [ -z "$pr_number" ]; then
+              pr_url="$(gh pr create \
+                --base main \
+                --head "$refresh_branch" \
+                --title "chore(data): scheduled football data refresh" \
+                --body "Automated score, standings, statistics, and news snapshot refresh.")"
+              pr_number="${pr_url##*/}"
+            fi
+
+            head_sha="$(git rev-parse HEAD)"
+            gh workflow run ci.yml --ref "$refresh_branch"
+
+            run_id=""
+            for attempt in $(seq 1 60); do
+              run_id="$(gh run list \
+                --workflow ci.yml \
+                --branch "$refresh_branch" \
+                --event workflow_dispatch \
+                --json databaseId,headSha \
+                --jq ".[] | select(.headSha == \"$head_sha\") | .databaseId" \
+                | head -n 1)"
+              if [ -n "$run_id" ]; then
+                break
+              fi
+              sleep 5
+            done
+            if [ -z "$run_id" ]; then
+              echo "::error::Timed out waiting for CI to start for $head_sha"
+              exit 1
+            fi
+
+            gh run watch "$run_id" --exit-status
+            run_url="https://github.com/$GITHUB_REPOSITORY/actions/runs/$run_id"
+            for context in \
+              "Typecheck, tests, build & bundle budget" \
+              "End-to-end (Playwright)"
+            do
+              gh api \
+                --method POST \
+                "repos/$GITHUB_REPOSITORY/statuses/$head_sha" \
+                -f state=success \
+                -f context="$context" \
+                -f description="Required CI passed" \
+                -f target_url="$run_url"
+            done
+
+            gh pr merge "$pr_number" --squash --delete-branch
+            gh workflow run deploy-pages.yml --ref main
+            gh workflow run deploy-cloudflare.yml --ref main
+          fi

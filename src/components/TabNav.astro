@@ -1,13 +1,21 @@
 ---
 interface Props {
-  active: 'schedule' | 'tables' | 'scorers' | 'bracket' | 'news';
+  active: 'schedule' | 'tables' | 'scorers' | 'assists' | 'bracket' | 'news';
+  prefix?: string;
 }
-const { active } = Astro.props;
+const { active, prefix = '' } = Astro.props;
+
+const base = import.meta.env.BASE_URL; // '/', or e.g. '/golazo/'
+const link = (href: string) => {
+  const path = href === '/' ? prefix || '/' : `${prefix}${href}`;
+  return path === '/' ? base : base.replace(/\/$/, '') + path;
+};
 
 const tabs = [
   { id: 'schedule', href: '/', emoji: '📅', label: 'Schedule' },
   { id: 'tables', href: '/tables', emoji: '📊', label: 'Tables' },
-  { id: 'scorers', href: '/scorers', emoji: '👟', label: 'Scorers' },
+  { id: 'scorers', href: '/scorers', emoji: '👟', label: 'Top Scorers' },
+  { id: 'assists', href: '/assists', emoji: '🅰️', label: 'Assists' },
   { id: 'bracket', href: '/bracket', emoji: '🏆', label: 'Bracket' },
   { id: 'news', href: '/news', emoji: '📰', label: 'News' },
 ] as const;
@@ -18,7 +26,7 @@ const tabs = [
     tabs.map((t) => (
       <a
         class:list={['tab', { active: active === t.id }]}
-        href={t.href}
+        href={link(t.href)}
         aria-label={t.label}
         aria-current={active === t.id ? 'page' : undefined}
       >

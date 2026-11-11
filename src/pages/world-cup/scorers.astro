@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import Leaders from '../../components/Leaders.tsx';
+import tournament from '../../data/tournament.json';
+---
+
+<Base title="Top Scorers · World Cup 2026 Archive" active="scorers" navPrefix="/world-cup">
+  <div class="container">
+    <div class="page-head">
+      <h1 class="page-title">Golden Boot Race</h1>
+      <p class="page-sub">Final leading scorers from World Cup 2026.</p>
+    </div>
+    <Leaders kind="scorers" initial={tournament.scorers} client:load />
+  </div>
+</Base>
+

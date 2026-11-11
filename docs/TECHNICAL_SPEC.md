@@ -2,7 +2,7 @@
 
 **Status:** Living document (v0.2 — pre-implementation)
 **Owner:** @timkaboya
-**Related:** [`PRODUCT_SPEC.md`](./PRODUCT_SPEC.md) · Reference POC: [`../worldcup2026-eat.html`](../worldcup2026-eat.html)
+**Related:** [`PRODUCT_SPEC.md`](./PRODUCT_SPEC.md)
 
 ---
 
@@ -53,7 +53,7 @@ Guiding constraints (from the Product Spec):
                          └────────┬─────────┘          └─────────┬──────────┘
                                   │ fetch/merge                  │ fetch/parse RSS
               ┌───────────────────┼───────────┐        ┌─────────┴───────────────┐
-              │ worldcup26.ir  openfootball  ESPN │    │ FIFA / BBC / ESPN / etc. │
+              │ ESPN FIFA World Cup API (scoreboard + standings) │    │ FIFA / BBC / ESPN / etc. │
               └───────────────────────────────────┘    └──────────────────────────┘
 ```
 
@@ -161,29 +161,52 @@ Each choice lists the decision, the alternatives considered, and the rationale u
   conversion for any user, with **zero extra dependencies** (a small tz label/list is the only
   addition; a library like `@date-fns/tz` or Luxon may be used if richer formatting is needed).
 
-### 3.10 News aggregation — **scheduled RSS/Atom fetch + normalize, server-side**
+### 3.10 News aggregation — **build-time RSS/Atom fetch + normalize (World-Cup-filtered)**
 
-- **Decision:** a scheduled Worker fetches **RSS/Atom feeds** from a curated allow-list of
-  authentic outlets, parses and normalizes them to `NewsItem`, de-duplicates by URL/title
-  similarity, sorts newest-first, trims to a bounded count, and writes to KV. `/api/news`
-  serves it.
-- **Candidate sources (to finalize w/ attribution/licensing review):** official FIFA news feed,
-  BBC Sport (football), ESPN (soccer), The Guardian (football), Reuters/AP sports. Only
-  **headline + source + timestamp + summary + link** are stored/shown; full articles are never
-  republished.
+- **Decision:** `scripts/fetch-news.ts` (wired into `prebuild` via `scripts/prebuild.mjs`) fetches
+  **RSS/Atom feeds** from a curated allow-list, parses and normalizes them to `NewsItem`, keeps only
+  **World-Cup-relevant** stories, de-duplicates by URL/title similarity, sorts newest-first, trims to
+  a bounded count, and writes a static snapshot to `src/data/news.json`. `src/pages/news.json.ts`
+  serves it at `/news.json`, so News works on **any** host — including the Workers deployment where
+  `/api/*` isn't served. The `/api/news` Pages Function still provides live refresh where available.
+- **World-Cup filtering:** feeds are tagged `worldCup: true` when the feed itself is WC-scoped
+  (BBC World Cup, Guardian World Cup 2026) — kept verbatim. General football feeds (ESPN soccer, Sky
+  Sports football) are filtered by `isWorldCupRelevant()` (`WORLD_CUP_RE` positive, `OTHER_SPORT_RE`
+  negative) so only World-Cup stories pass and cross-sport World Cups (cricket/rugby) are excluded.
+- **Sources:** BBC Sport (World Cup feed), The Guardian (World Cup 2026 feed), ESPN (soccer), Sky
+  Sports (football). Only **headline + source + timestamp + summary + image + link** are stored/shown;
+  full articles are never republished — the in-site reader links out to the origin.
 - **Alternatives:** a paid aggregator API (e.g., NewsAPI) — adds keys, cost, and quota; direct
   RSS keeps us dependency-light and free. Optional `P1`: enrich with Open Graph image/summary.
 - **Attribution rule:** every item links out to the origin and names its source, satisfying the
   Product Spec's authenticity/attribution requirement and respecting publisher terms.
 
-### 3.11 Live-score aggregation — **scheduled multi-source merge, server-side**
+### 3.11 Live-score aggregation — **ESPN as source of truth (build-time + edge)**
 
-- **Decision:** port the POC's multi-source strategy (worldcup26.ir → openfootball → ESPN) into
-  a scheduled Worker that queries all sources, **merges** results (max coverage), reconciles by
-  **stable match identity**, and writes a single normalized scores snapshot to KV. Replace the
-  POC's fragile name-prefix matching with a **fixture-ID mapping table** per source.
-- **Rationale:** server-side merge removes browser CORS proxies, centralizes rate-limiting, and
-  gives every client a consistent, fast, cached snapshot.
+- **Decision:** use ESPN's public FIFA World Cup API as the single authoritative source for
+  fixtures, scores, knockout bracket, group standings, and top scorers. Two paths consume it:
+  1. **Build-time generator** (`scripts/fetch-espn.ts`, run in `prebuild`) pulls the whole
+     tournament (scoreboard date-chunks + standings + per-match goal events), maps it onto the
+     canonical model via `src/lib/espn.ts`, and writes `src/data/tournament.json` +
+     `public/standings.json` + `public/scorers.json`. These are the offline/static fallback and
+     the SSG source for the Bracket/Scorers pages.
+  2. **Edge functions** `/api/scores` and `/api/standings` fetch the same ESPN endpoints live
+     (parallel date-chunks, `Promise.all`), map them with the shared `src/lib/espn.ts` adapter,
+     and return a fresh snapshot with short edge-cache headers so in-progress matches update.
+  3. **Match detail** `/api/match?event=<id>` fetches ESPN's `summary` endpoint on demand (when a
+     match drawer is opened) and maps it via `mapSummary()` into a `MatchDetail`: line-ups with
+     formation, 14 curated team stats, a goal/card/sub timeline, play-by-play commentary, last-5
+     form and head-to-head. The client (`fetchMatchDetail`) tries `/api/match` first and, in local
+     `astro dev` where `/api/*` is unavailable, falls back to calling ESPN `summary` directly in the
+     browser (its CORS policy is `*`), running the same shared mapper — so detail works everywhere.
+- **Identity & mapping:** matches are keyed by **ESPN event id** (no fragile name-prefix
+  matching). Stages come from `season.slug`, group letters from the standings endpoint, statuses
+  from ESPN game state, and penalty-shootout outcomes from the competition `notes` headline.
+- **Rationale:** ESPN provides the real, continuously-updated tournament (verified live for WC
+  2026 — real R16 matchups, scores, and penalty results), removing the POC's fabricated
+  placeholder bracket and seed scores. One shared adapter guarantees the static fallback and the
+  live edge path stay identical.
+
 
 ### 3.12 PWA / offline — **service worker + web app manifest**
 
@@ -301,9 +324,11 @@ interface UserPrefs { timezone: string; favorites: string[]; lastSeenNewsUtc?: s
 
 | Endpoint | Method | Returns | Caching |
 |---|---|---|---|
-| `/api/scores` | GET | `ScoresSnapshot` | `ETag`, `Cache-Control: public, max-age=30, stale-while-revalidate=120` |
+| `/api/scores` | GET | `ScoresSnapshot` (live from ESPN) | `Cache-Control: public, max-age=30, stale-while-revalidate=120` |
+| `/api/standings` | GET | `{ standings: Standing[] }` (live from ESPN) | `Cache-Control: public, max-age=60, stale-while-revalidate=300` |
+| `/api/match?event=<id>` | GET | `MatchDetail` — lineups+formation, team stats, goal/card/sub timeline, play-by-play commentary, recent form and head-to-head (live from ESPN `summary`) | `Cache-Control: public, max-age=30, stale-while-revalidate=120` |
 | `/api/news` | GET | `NewsSnapshot` | `ETag`, `Cache-Control: public, max-age=300, stale-while-revalidate=900` |
-| `/fixtures.json` | GET (static) | seed `Match[]` | long-lived, immutable per deploy |
+| `/fixtures.json` | GET (static) | real `Match[]` (built from ESPN) | long-lived, immutable per deploy |
 
 - No write endpoints, no auth, no cookies. All mutation happens in scheduled workers.
 - Clients use conditional GET (`If-None-Match`) to minimize transfer.
@@ -313,11 +338,10 @@ interface UserPrefs { timezone: string; favorites: string[]; lastSeenNewsUtc?: s
 ## 7. Repository structure (proposed)
 
 ```
-worldcup-site/
+golazo/
 ├─ docs/
 │  ├─ PRODUCT_SPEC.md
 │  └─ TECHNICAL_SPEC.md
-├─ worldcup2026-eat.html         # original POC (kept for reference)
 ├─ src/                          # Astro app (added at implementation time)
 │  ├─ pages/                     # schedule (index), tables, scorers, bracket, news
 │  ├─ components/                # islands + static components

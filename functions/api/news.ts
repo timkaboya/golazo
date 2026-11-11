@@ -4,7 +4,7 @@
 // Edge-cached so we don't hammer publishers.
 
 import { NEWS_SOURCES } from '../../src/data/news-sources';
-import { parseFeed, mergeNews } from '../../src/lib/news';
+import { parseFeed, mergeNews, isWorldCupRelevant } from '../../src/lib/news';
 import type { NewsItem } from '../../src/lib/types';
 
 async function fetchText(url: string, timeoutMs = 6000): Promise<string> {
@@ -13,7 +13,7 @@ async function fetchText(url: string, timeoutMs = 6000): Promise<string> {
   try {
     const r = await fetch(url, {
       signal: ctrl.signal,
-      headers: { 'user-agent': 'worldcup-site/1.0 (+https://github.com/timkaboya/worldcup-site)' },
+      headers: { 'user-agent': 'golazo/1.0 (+https://github.com/timkaboya/golazo)' },
     });
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     return await r.text();
@@ -24,7 +24,10 @@ async function fetchText(url: string, timeoutMs = 6000): Promise<string> {
 
 export const onRequestGet: PagesFunction = async () => {
   const jobs = NEWS_SOURCES.map((s) =>
-    fetchText(s.url).then((xml) => parseFeed(xml, s.name))
+    fetchText(s.url).then((xml) => {
+      const items = parseFeed(xml, s.name);
+      return s.worldCup ? items : items.filter(isWorldCupRelevant);
+    })
   );
   const settled = await Promise.allSettled(jobs);
   const lists: NewsItem[][] = settled

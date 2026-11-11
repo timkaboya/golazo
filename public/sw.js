@@ -1,25 +1,36 @@
 // World Cup 2026 — service worker.
 // Strategy:
 //   • Precache the app shell + static data on install.
-//   • Navigations & static assets: cache-first, revalidate in background.
-//   • /api/* : network-first with a short timeout, falling back to cache
-//     (last-known snapshot) so scores/news still render offline.
-const VERSION = 'wc2026-v1';
+//   • Navigations: network-first (fresh app), cache fallback.
+//   • /api/* AND static data JSON (fixtures/standings/scorers/news):
+//     network-first so the latest scores/tables/bracket always win, with a
+//     cached last-known snapshot as offline fallback.
+//   • Other static assets (JS/CSS/icons): cache-first, revalidate in background.
+const VERSION = 'wc2026-v19';
 const SHELL = `${VERSION}-shell`;
 const RUNTIME = `${VERSION}-runtime`;
 
+// Base path this SW controls: '' at the site root (Cloudflare), or e.g.
+// '/golazo' under a GitHub Pages project subpath. Derived from the
+// registration scope so the same file works on both deployments.
+const BASE = new URL(self.registration.scope).pathname.replace(/\/$/, '');
+
 const PRECACHE = [
-  '/',
-  '/tables/',
-  '/scorers/',
-  '/bracket/',
-  '/news/',
-  '/fixtures.json',
-  '/news.json',
-  '/manifest.webmanifest',
-  '/icons/favicon.svg',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png',
+  `${BASE}/`,
+  `${BASE}/tables/`,
+  `${BASE}/scorers/`,
+  `${BASE}/assists/`,
+  `${BASE}/bracket/`,
+  `${BASE}/news/`,
+  `${BASE}/fixtures.json`,
+  `${BASE}/standings.json`,
+  `${BASE}/scorers.json`,
+  `${BASE}/assists.json`,
+  `${BASE}/news.json`,
+  `${BASE}/manifest.webmanifest`,
+  `${BASE}/icons/favicon.svg`,
+  `${BASE}/icons/icon-192.png`,
+  `${BASE}/icons/icon-512.png`,
 ];
 
 self.addEventListener('install', (event) => {
@@ -88,23 +99,32 @@ function cacheFirst(request) {
   });
 }
 
+// Fresh-data endpoints: live API + build-time data snapshots.
+function isData(pathname) {
+  const rel = pathname.startsWith(BASE) ? pathname.slice(BASE.length) : pathname;
+  return (
+    rel.startsWith('/api/') ||
+    rel === '/fixtures.json' ||
+    rel === '/standings.json' ||
+    rel === '/scorers.json' ||
+    rel === '/assists.json' ||
+    rel === '/news.json'
+  );
+}
+
 self.addEventListener('fetch', (event) => {
   const { request } = event;
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
 
-  if (url.pathname.startsWith('/api/')) {
+  if (isData(url.pathname)) {
     event.respondWith(networkFirst(request));
     return;
   }
 
   if (request.mode === 'navigate') {
-    event.respondWith(
-      networkFirst(request, 3500).then(
-        (res) => res || caches.match('/')
-      )
-    );
+    event.respondWith(networkFirst(request, 3500).then((res) => res || caches.match(`${BASE}/`)));
     return;
   }
 

@@ -4,15 +4,46 @@ The app is a static Astro site plus Cloudflare Pages Functions for the read-only
 
 ## Hosting: Cloudflare Pages (recommended)
 
-1. Push this repo to GitHub (already done: `timkaboya/worldcup-site`).
+1. Push this repo to GitHub (already done: `timkaboya/golazo`).
 2. In the Cloudflare dashboard → **Workers & Pages → Create → Pages → Connect to Git**.
-3. Select the `worldcup-site` repo. Build settings:
+3. Select the `golazo` repo. Build settings:
    - **Framework preset:** Astro
    - **Build command:** `npm run build`
    - **Build output directory:** `dist`
 4. Deploy. Cloudflare automatically serves `/functions/**` as Pages Functions, so
    `GET /api/scores` runs at the edge (aggregating live sources server-side, edge-cached ~30s).
 5. Preview deployments are created automatically for each pull request.
+
+### Automated deploys via GitHub Actions (fallback)
+
+`.github/workflows/refresh-data.yml` fetches new snapshots every two hours. Because
+`main` is protected, it updates `automation/refresh-football-data`, opens a pull
+request, dispatches the required CI checks, waits for both suites, publishes
+their verified statuses to the refresh commit, and merges only after they pass.
+GitHub suppresses normal `push` workflow events for merges made with its
+workflow token, so the refresh job explicitly dispatches both deployment
+workflows after merging.
+
+The current Cloudflare `golazo` Pages project is configured for direct uploads
+and has no Git provider. `.github/workflows/deploy-cloudflare.yml` is therefore
+the production deployment path: on every push to `main`, explicit dispatch, or
+two-hour schedule, it builds the site and runs `wrangler pages deploy dist
+--project-name=golazo --branch=main`.
+
+It is a safe no-op until credentials are configured — the deploy step only runs
+when the `CLOUDFLARE_API_TOKEN` secret is present. To enable automated Live
+deployments, add two **repository secrets**
+(Settings → Secrets and variables → Actions):
+
+| Secret | How to get it |
+| --- | --- |
+| `CLOUDFLARE_API_TOKEN` | Cloudflare dashboard → My Profile → API Tokens → Create Token → **Cloudflare Pages: Edit** template. |
+| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare dashboard → Workers & Pages → right sidebar **Account ID**. |
+
+The public Paystack build vars are read from repository **Variables**
+(`PUBLIC_PAYSTACK_KEY`, `PUBLIC_PAYSTACK_CURRENCY`); the Paystack secret key stays in the
+Cloudflare project environment (runtime only). After adding the secrets, re-run the workflow
+(Actions → Deploy to Cloudflare Pages → Run workflow) or push any commit.
 
 No environment variables or KV bindings are required for the MVP: `/api/scores` aggregates the
 public sources at request time and relies on Cloudflare's edge cache. If provider rate limits

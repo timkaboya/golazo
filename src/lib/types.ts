@@ -23,6 +23,8 @@ export interface Match {
   score?: { home: number; away: number } | null;
   status?: MatchStatus; // derived client-side
   sources?: string[]; // providers that contributed the score
+  note?: string; // e.g. penalty-shootout result
+  winner?: 'home' | 'away'; // knockout winner, when decided
 }
 
 export interface GoalEvent {
@@ -60,6 +62,8 @@ export interface StandingRow {
   gd: number;
   pts: number;
   qualification?: 'auto' | 'best3rd' | null;
+  rank?: number; // official ESPN rank within group
+  advanced?: boolean; // official qualification flag from source
 }
 
 export interface Standing {
@@ -85,6 +89,80 @@ export interface NewsItem {
   summary?: string;
   imageUrl?: string;
   topics?: NewsTopic[];
+}
+
+// ── Rich per-match detail (ESPN summary endpoint) ─────────────────────────
+export interface LineupPlayer {
+  num: string; // shirt number
+  name: string;
+  pos: string; // position abbreviation (G/D/M/F ...)
+  fp: number; // formationPlace 1..11 (1 = GK)
+  starter: boolean;
+  subOut?: string; // minute subbed out, e.g. "75'"
+  subIn?: string; // minute subbed in
+  goals?: number;
+  yellow?: boolean;
+  red?: boolean;
+}
+
+export interface TeamLineup {
+  formation?: string; // e.g. "4-2-3-1"
+  starters: LineupPlayer[];
+  subs: LineupPlayer[];
+}
+
+export interface MatchStatItem {
+  key: string;
+  label: string;
+  home: number;
+  away: number;
+  pct?: boolean; // render as % and split bar by value
+}
+
+export type MatchEventType = 'goal' | 'yellow' | 'red' | 'sub' | 'other';
+
+export interface MatchEvent {
+  min: string; // display minute, e.g. "45+2'"
+  type: MatchEventType;
+  side: 'home' | 'away' | '';
+  text: string;
+  players: string[];
+}
+
+export interface CommentaryItem {
+  min: string;
+  text: string;
+}
+
+export interface FormGame {
+  date: string; // ISO
+  opponent: string;
+  score: string; // "2-1"
+  result: 'W' | 'D' | 'L' | '';
+  competition?: string;
+}
+
+export interface H2HGame {
+  date: string;
+  opponent: string; // opponent of the home team
+  score: string;
+  result: 'W' | 'D' | 'L' | '';
+  competition?: string;
+}
+
+export interface MatchDetail {
+  id: number;
+  status: MatchStatus;
+  clock?: string; // live clock / "Full time" etc.
+  score?: { home: number; away: number } | null; // authoritative live/final score
+  winner?: 'home' | 'away'; // knockout winner, when decided
+  info: { venue?: string; attendance?: number; referee?: string; odds?: string };
+  lineups?: { home: TeamLineup; away: TeamLineup };
+  stats?: MatchStatItem[];
+  events?: MatchEvent[]; // goals/cards/subs timeline
+  commentary?: CommentaryItem[];
+  form?: { home: FormGame[]; away: FormGame[] };
+  h2h?: H2HGame[];
 }
 
 // Snapshots written to KV / served by edge functions.

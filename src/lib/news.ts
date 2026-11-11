@@ -23,6 +23,15 @@ function stripTags(s: string): string {
   return decodeEntities(stripCdata(s).replace(/<[^>]+>/g, '')).replace(/\s+/g, ' ').trim();
 }
 
+// Some feeds emit the literal strings "null"/"undefined" (or empty) for missing
+// fields. Treat those as absent so we never render "null" as a summary.
+function cleanText(s: string | null | undefined): string | undefined {
+  if (!s) return undefined;
+  const t = stripTags(s);
+  if (!t || /^(null|undefined)$/i.test(t)) return undefined;
+  return t;
+}
+
 function tag(block: string, name: string): string | null {
   const re = new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)</${name}>`, 'i');
   const m = block.match(re);
@@ -84,13 +93,13 @@ export function parseFeed(xml: string, source: string): NewsItem[] {
       url = (tag(b, 'link') || attr(b, 'link', 'href') || tag(b, 'guid') || '').trim();
     }
     url = decodeEntities(url).trim();
-    if (!title || !url || !/^https?:\/\//.test(url)) continue;
+    if (!title || /^(null|undefined)$/i.test(title) || !url || !/^https?:\/\//.test(url)) continue;
 
     const published = toIso(
       isAtom ? tag(b, 'published') || tag(b, 'updated') : tag(b, 'pubDate') || tag(b, 'date')
     );
     const summaryRaw = isAtom ? tag(b, 'summary') || tag(b, 'content') : tag(b, 'description');
-    const summary = summaryRaw ? stripTags(summaryRaw).slice(0, 240) : undefined;
+    const summary = cleanText(summaryRaw)?.slice(0, 240);
     const imageUrl =
       attr(b, 'media:content', 'url') || attr(b, 'media:thumbnail', 'url') || attr(b, 'enclosure', 'url') || undefined;
 
@@ -106,6 +115,18 @@ export function parseFeed(xml: string, source: string): NewsItem[] {
     });
   }
   return items;
+}
+
+/** Matches World-Cup-related headlines/summaries. Used to filter general feeds. */
+export const WORLD_CUP_RE = /\bworld[\s-]?cup\b|\bwc[\s-]?2026\b|\bmundial\b/i;
+
+/** Other-sport World Cups (cricket, rugby, etc.) that must NOT leak into a football app. */
+export const OTHER_SPORT_RE =
+  /\b(cricket|rugby|netball|hockey|wicket|odi|test match|six nations|nrl|nfl|nba|baseball|tennis|golf|formula\s?1|f1)\b/i;
+
+export function isWorldCupRelevant(item: NewsItem): boolean {
+  const text = `${item.title} ${item.summary ?? ''}`;
+  return WORLD_CUP_RE.test(text) && !OTHER_SPORT_RE.test(text);
 }
 
 /** Merge feeds: de-dup by id (and by normalized title), newest first, capped. */

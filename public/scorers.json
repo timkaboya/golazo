@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "updatedUtc": "2026-11-10T14:42:26.455Z",
+  "scorers": [
+    {
+      "name": "Kylian Mbappé",
+      "team": {
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "goals": 10,
+      "assists": 4
+    },
+    {
+      "name": "Lionel Messi",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 8,
+      "assists": 4
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 7,
+      "assists": 1
+    },
+    {
+      "name": "Erling Haaland",
+      "team": {
+        "id": "norway",
+        "name": "Norway",
+        "flag": "🇳🇴"
+      },
+      "goals": 7,
+      "assists": 0
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "team": {
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "goals": 6,
+      "assists": 2
+    },
+    {
+      "name": "Harry Kane",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 6,
+      "assists": 1
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "team": {
+        "id": "spain",
+        "name": "Spain",
+        "flag": "🇪🇸"
+      },
+      "goals": 5,
+      "assists": 1
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "team": {
+        "id": "senegal",
+        "name": "Senegal",
+        "flag": "🇸🇳"
+      },
+      "goals": 4,
+      "assists": 1
+    },
+    {
+      "name": "Julián Quiñones",
+      "team": {
+        "id": "mexico",
+        "name": "Mexico",
+        "flag": "🇲🇽"
+      },
+      "goals": 4,
+      "assists": 1
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": {
+        "id": "brazil",
+        "name": "Brazil",
+        "flag": "🇧🇷"
+      },
+      "goals": 4,
+      "assists": 1
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": {
+        "id": "england",
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      "goals": 3,
+      "assists": 3
+    },
+    {
+      "name": "Deniz Undav",
+      "team": {
+        "id": "germany",
+        "name": "Germany",
+        "flag": "🇩🇪"
+      },
+      "goals": 3,
+      "assists": 2
+    },
+    {
+      "name": "Johan Manzambi",
+      "team": {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      "goals": 3,
+      "assists": 2
+    },
+    {
+      "name": "Bradley Barcola",
+      "team": {
+        "id": "france",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Charles De Ketelaere",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Cody Gakpo",
+      "team": {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Romelu Lukaku",
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      "goals": 3,
+      "assists": 1
+    },
+    {
+      "name": "Brian Brobbey",
+      "team": {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": {
+        "id": "portugal",
+        "name": "Portugal",
+        "flag": "🇵🇹"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Elijah Just",
+      "team": {
+        "id": "new-zealand",
+        "name": "New Zealand",
+        "flag": "🇳🇿"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Folarin Balogun",
+      "team": {
+        "id": "united-states",
+        "name": "United States",
+        "flag": "🇺🇸"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Ismael Saibari",
+      "team": {
+        "id": "morocco",
+        "name": "Morocco",
+        "flag": "🇲🇦"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Jonathan David",
+      "team": {
+        "id": "canada",
+        "name": "Canada",
+        "flag": "🇨🇦"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Kai Havertz",
+      "team": {
+        "id": "germany",
+        "name": "Germany",
+        "flag": "🇩🇪"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Matheus Cunha",
+      "team": {
+        "id": "brazil",
+        "name": "Brazil",
+        "flag": "🇧🇷"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Raúl Jiménez",
+      "team": {
+        "id": "mexico",
+        "name": "Mexico",
+        "flag": "🇲🇽"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Yoane Wissa",
+      "team": {
+        "id": "congo-dr",
+        "name": "Congo DR",
+        "flag": "🇨🇩"
+      },
+      "goals": 3,
+      "assists": 0
+    },
+    {
+      "name": "Breel Embolo",
+      "team": {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      "goals": 2,
+      "assists": 2
+    },
+    {
+      "name": "Crysencio Summerville",
+      "team": {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      "goals": 2,
+      "assists": 2
+    }
+  ]
+}

@@ -31,12 +31,12 @@ export function buildIcs(match: Match, reminderMinutes = 30): string {
   const away = match.away.name ? ` vs ${match.away.name}` : '';
   const summary = `⚽ ${match.home.name}${away}`;
   const stage = match.group ? `Group ${match.group}` : match.stage.toUpperCase();
-  const uid = `wc2026-${match.id}@worldcup-site`;
+  const uid = `wc2026-${match.id}@golazo`;
 
   const lines = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//worldcup-site//WC2026//EN',
+    'PRODID:-//golazo//WC2026//EN',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
     'BEGIN:VEVENT',

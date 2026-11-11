@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import Bracket from '../../components/Bracket.tsx';
+---
+
+<Base title="Bracket · World Cup 2026 Archive" active="bracket" navPrefix="/world-cup">
+  <div class="container">
+    <div class="page-head">
+      <h1 class="page-title">Knockout Bracket</h1>
+      <p class="page-sub">The complete path to the 2026 World Cup final.</p>
+    </div>
+    <Bracket client:load />
+  </div>
+</Base>
+

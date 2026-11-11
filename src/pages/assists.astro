@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import tournament from '../data/tournament.json';
+import type { Scorer } from '../lib/types';
+import Leaders from '../components/Leaders.tsx';
+
+const ASSISTS = ((tournament as { assists?: Scorer[] }).assists ?? []) as Scorer[];
+---
+
+<Base title="Assists · World Cup 2026" active="assists">
+  <div class="container">
+    <div class="page-head">
+      <h1 class="page-title">Playmaker Race</h1>
+      <p class="page-sub">Most assists so far — ties broken by goals.</p>
+    </div>
+    <Leaders client:load kind="assists" initial={ASSISTS} />
+  </div>
+</Base>

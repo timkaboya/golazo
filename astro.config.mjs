@@ -1,13 +1,22 @@
 import { defineConfig } from 'astro/config';
 import preact from '@astrojs/preact';
 
-import cloudflare from "@astrojs/cloudflare";
+import cloudflare from '@astrojs/cloudflare';
 
 // Static-first output. Interactive parts are Preact islands.
 // Edge APIs (/api/scores, /api/news) are Cloudflare Pages Functions in /functions.
+//
+// Deploy targets:
+//   • Cloudflare Worker (default): served at the site root  → base '/'.
+//   • GitHub Pages (project site): served under a subpath    → set BASE_PATH,
+//     e.g. BASE_PATH=/golazo/  SITE_URL=https://timkaboya.github.io
+const base = process.env.BASE_PATH || '/';
+const site = process.env.SITE_URL || 'https://golazo-5ce.pages.dev';
+
 export default defineConfig({
   integrations: [preact({ compat: true })],
-  output: "hybrid",
-  site: 'https://worldcup-site.pages.dev',
-  adapter: cloudflare()
+  site,
+  base,
+  output: 'hybrid',
+  adapter: cloudflare(),
 });

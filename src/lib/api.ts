@@ -1,8 +1,20 @@
-import type { NewsSnapshot, ScoresSnapshot } from './types';
+import type { MatchDetail, NewsSnapshot, ScoresSnapshot, Scorer, Standing } from './types';
+import type { FootballScoresSnapshot } from './football-types';
+import {
+  buildScoresSnapshot,
+  buildLeaders,
+  ESPN_LEAGUE,
+  ESPN_STATISTICS,
+  espnCompetitionSummaryUrl,
+  mapSummary,
+} from './espn';
+import { withBase } from './base';
+
+const LIVE_API_ORIGIN = 'https://golazo-5ce.pages.dev';
 
 export interface FetchResult {
   snapshot: ScoresSnapshot;
-  live: boolean; // true if from /api/scores, false if from static fallback
+  live: boolean; // true if from live source (edge fn or direct ESPN), false if static fallback
   sources: string[];
 }
 
@@ -17,20 +29,84 @@ async function getJson(url: string, timeoutMs = 8000): Promise<ScoresSnapshot> {
     clearTimeout(t);
   }
 }
+
+/** Fetch arbitrary JSON with a timeout for edge and best-effort browser fallbacks. */
+async function fetchAny(url: string, timeoutMs = 8000): Promise<any> {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), timeoutMs);
+  try {
+    const r = await fetch(url, { signal: ctrl.signal });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return await r.json();
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 /**
- * Fetch the scores snapshot. Tries the live edge function first,
- * falls back to the static base snapshot so the app always renders.
+ * Fetch the scores snapshot. Order of preference:
+ *   1. Live edge function (`/api/scores`) — present on Cloudflare.
+ *   2. Direct ESPN from the browser when its current CORS policy permits it.
+ *   3. Static build-time snapshot (`/fixtures.json`) — last-known fallback.
  */
 export async function fetchScores(): Promise<FetchResult> {
+  // 1) Edge function (Cloudflare Pages Function).
   try {
-    const snapshot = await getJson('/api/scores');
-    const sources = Array.from(
-      new Set(snapshot.matches.flatMap((m) => m.sources ?? []))
-    );
-    return { snapshot, live: true, sources };
+    const snapshot = await getJson(withBase('/api/scores'));
+    if (snapshot.matches?.length) {
+      const sources = Array.from(new Set(snapshot.matches.flatMap((m) => m.sources ?? [])));
+      return { snapshot, live: true, sources };
+    }
   } catch {
-    const snapshot = await getJson('/fixtures.json');
-    return { snapshot, live: false, sources: [] };
+    /* fall through to direct ESPN */
+  }
+
+  // 2) Direct ESPN from the browser (CORS *) — same builder the edge fn uses.
+  try {
+    const snapshot = await buildScoresSnapshot((url) => fetchAny(url));
+    if (snapshot.matches?.length) {
+      return { snapshot, live: true, sources: ['ESPN'] };
+    }
+  } catch {
+    /* fall through to static snapshot */
+  }
+
+  // 3) Static build-time snapshot — always renders something.
+  const snapshot = await getJson(withBase('/fixtures.json'));
+  return { snapshot, live: false, sources: [] };
+}
+
+export interface StandingsResult {
+  standings: Standing[];
+  live: boolean;
+}
+
+/**
+ * Fetch official group standings. Tries the live edge function first, falls back
+ * to the build-time static snapshot so the Tables page always renders real data.
+ */
+export async function fetchStandings(): Promise<StandingsResult> {
+  const get = async (url: string): Promise<Standing[]> => {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), 8000);
+    try {
+      const r = await fetch(url, { signal: ctrl.signal });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const j = (await r.json()) as { standings?: Standing[] };
+      if (!j.standings?.length) throw new Error('empty');
+      return j.standings;
+    } finally {
+      clearTimeout(t);
+    }
+  };
+  try {
+    return { standings: await get(withBase('/api/standings')), live: true };
+  } catch {
+    try {
+      return { standings: await get(withBase('/standings.json')), live: false };
+    } catch {
+      return { standings: [], live: false };
+    }
   }
 }
 
@@ -56,13 +132,126 @@ export async function fetchNews(): Promise<NewsResult> {
     }
   };
   try {
-    const snapshot = await get('/api/news');
+    const snapshot = await get(withBase('/api/news'));
     if (!snapshot.items?.length) throw new Error('empty');
     return { snapshot, live: true };
   } catch {
-    const snapshot = await get('/news.json').catch(
+    const snapshot = await get(withBase('/news.json')).catch(
       () => ({ version: 1, updatedUtc: new Date().toISOString(), items: [] }) as NewsSnapshot
     );
     return { snapshot, live: false };
   }
+}
+
+/**
+ * Fetch rich per-match detail for the drawer. Tries the live edge function
+ * first; if unavailable (e.g. local `astro dev`, where /api/* is Cloudflare-
+ * only), tries Golazo's public Cloudflare endpoint and then ESPN directly as a
+ * final best-effort fallback.
+ */
+export async function fetchFootballMatchDetail(
+  eventId: number | string,
+  league: string
+): Promise<MatchDetail | null> {
+  const withTimeout = async (url: string, ms = 8000): Promise<Response> => {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), ms);
+    try {
+      return await fetch(url, { signal: ctrl.signal });
+    } finally {
+      clearTimeout(t);
+    }
+  };
+  const params = new URLSearchParams({ event: String(eventId), league });
+  const endpoints = [
+    withBase(`/api/match?${params}`),
+    `${LIVE_API_ORIGIN}/api/match?${params}`,
+  ];
+  for (const endpoint of endpoints) {
+    try {
+      const r = await withTimeout(endpoint);
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return (await r.json()) as MatchDetail;
+    } catch {
+      /* try the next endpoint */
+    }
+  }
+  try {
+    const r = await withTimeout(espnCompetitionSummaryUrl(league, eventId));
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return mapSummary(await r.json(), eventId);
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchFootballScores(
+  league?: string
+): Promise<FootballScoresSnapshot | null> {
+  const query = league ? `?${new URLSearchParams({ league })}` : '';
+  const endpoints = [
+    withBase(`/api/football-scores${query}`),
+    `${LIVE_API_ORIGIN}/api/football-scores${query}`,
+  ];
+
+  for (const endpoint of endpoints) {
+    try {
+      const snapshot = await fetchAny(endpoint, 10000) as FootballScoresSnapshot;
+      if (!Array.isArray(snapshot.competitions)) throw new Error('invalid live score response');
+      return snapshot;
+    } catch {
+      /* try the next endpoint */
+    }
+  }
+  return null;
+}
+
+export async function fetchMatchDetail(eventId: number): Promise<MatchDetail | null> {
+  return fetchFootballMatchDetail(eventId, ESPN_LEAGUE);
+}
+
+export interface LeadersResult {
+  scorers: Scorer[];
+  assists: Scorer[];
+  live: boolean;
+}
+
+/**
+ * Fetch the top-scorers and assists leaderboards. Order of preference:
+ *   1. Live edge function (`/api/leaders`) — present on Cloudflare.
+ *   2. Direct ESPN `/statistics` when its current browser CORS policy permits it.
+ *   3. Static build-time snapshots (`/scorers.json` + `/assists.json`).
+ */
+export async function fetchLeaders(): Promise<LeadersResult> {
+  // 1) Edge function.
+  try {
+    const j = await fetchAny(withBase('/api/leaders'));
+    if (j?.scorers?.length || j?.assists?.length) {
+      return { scorers: j.scorers ?? [], assists: j.assists ?? [], live: true };
+    }
+  } catch {
+    /* fall through */
+  }
+
+  // 2) Direct ESPN from the browser (CORS *) — same builder the edge fn uses.
+  try {
+    const stats = await fetchAny(ESPN_STATISTICS);
+    const { scorers, assists } = buildLeaders(stats);
+    if (scorers.length || assists.length) {
+      return { scorers, assists, live: true };
+    }
+  } catch {
+    /* fall through */
+  }
+
+  // 3) Static build-time snapshots.
+  const [scorers, assists] = await Promise.all([
+    fetchAny(withBase('/scorers.json'))
+      .then((j) => (j?.scorers ?? []) as Scorer[])
+      .catch(() => [] as Scorer[]),
+    fetchAny(withBase('/assists.json'))
+      .then((j) => (j?.assists ?? []) as Scorer[])
+      .catch(() => [] as Scorer[]),
+  ]);
+  return { scorers, assists, live: false };
 }
