@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-11T17:49:55.267Z",
+  "updatedUtc": "2026-11-12T00:26:52.511Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:54.833Z",
+      "updatedUtc": "2026-11-12T00:26:52.261Z",
       "matches": [
         {
           "id": "401915415",
@@ -3403,7 +3403,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:54.890Z",
+      "updatedUtc": "2026-11-12T00:26:52.143Z",
       "matches": [
         {
           "id": "401915560",
@@ -6795,7 +6795,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:55.001Z",
+      "updatedUtc": "2026-11-12T00:26:52.217Z",
       "matches": [
         {
           "id": "401879233",
@@ -8747,14 +8747,44 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
-          "title": "Transfer rumors, news: Man United add Brentford defender Nathan Collins to shortlist",
-          "description": "Brentford center back Nathan Collins has been added to Manchester United's list of defensive options. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1111/r1744369_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-11T11:51:55Z",
+          "id": "https://www.espn.com/video/clip/_/id/50455798/manchester-united-showing-carrick-no-respect-pochettino-talks",
+          "title": "Nicol: Manchester United showing Carrick no respect over Pochettino talks",
+          "description": "Nicol: Manchester United showing Carrick no respect over Pochettino talks",
+          "url": "https://www.espn.com/video/clip/_/id/50455798/manchester-united-showing-carrick-no-respect-pochettino-talks",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/dm_261111_Nicol_Manchester_United_showing_Carrick_no_respect_over_Pochettino_talks/dm_261111_Nicol_Manchester_United_showing_Carrick_no_respect_over_Pochettino_talks.jpg",
+          "publishedUtc": "2026-11-11T23:22:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50455598/man-united-us-soccer-pochettino-carrick",
+          "title": "Sources: Man United contact U.S. Soccer over Poch; Carrick meeting Thursday",
+          "description": "Manchester United have made contact with U.S. Soccer ahead of triggering Mauricio Pochettino's $10 million release clause as they close on a deal to hire the USMNT manager to replace Michael Carrick, sources told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50455598/man-united-us-soccer-pochettino-carrick",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0526/r1664016_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-11T22:26:34Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
+          "title": "Transfer rumors, news: Bayern to sign Liverpool teenager Ngumoha?",
+          "description": "Bayern Munich are looking to add reinforcements to their attack by signing Liverpool winger Rio Ngumoha. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1111/r1744559_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-11T21:59:35Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50455118/manchester-united-michael-carrick-premier-league-peter-schmeichel-mauricio-pochettino",
+          "title": "Schmeichel blasts Man United's 'disrespectful' treatment of Carrick amid Pochettino links",
+          "description": "Peter Schmeichel has criticised Manchester United for their \"disrespectful\" treatment of Michael Carrick as the club continue to be linked with Mauricio Pochettino.",
+          "url": "https://www.espn.com/soccer/story/_/id/50455118/manchester-united-michael-carrick-premier-league-peter-schmeichel-mauricio-pochettino",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743204_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-11T21:40:27Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50451966/arsenal-martin-zubimendi-atletico-madrid",
@@ -8953,36 +8983,6 @@
           "url": "https://www.espn.com/espn/betting/story/_/id/50411508/united-states-soccer-betting-2026-world-cup-premier-mls",
           "imageUrl": "https://a.espncdn.com/photo/2026/1107/r1742577_2_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-09T17:31:38Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50428521/premier-league-laliga-analysis-marcotti-man-united-carrick-barcelona-atletico",
-          "title": "Man United shouldn't keep Carrick despite Villa comeback; how Barça beat Atletico",
-          "description": "Man United came back to draw Aston Villa, but that shouldn't save Carrick's job. Plus, Barça escape Atletico with victory, and Man City's defensive woes continue.",
-          "url": "https://www.espn.com/soccer/story/_/id/50428521/premier-league-laliga-analysis-marcotti-man-united-carrick-barcelona-atletico",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743504_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-09T13:49:14Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50431844/man-united-patrick-dorgu-last-minute-equaliser-aston-villa",
-          "title": "Man United's Patrick Dorgu 'not happy' despite scoring 96th-minute equaliser",
-          "description": "Manchester United's Patrick Dorgu has said that he is \"not happy\" despite scoring a 96th-minute equaliser in the chaotic 4-4 draw with Aston Villa on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50431844/man-united-patrick-dorgu-last-minute-equaliser-aston-villa",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743489_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-09T13:06:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50430907/manchester-united-transfers-carrick-premier-league-ratcliffe",
-          "title": "Sir Jim Ratcliffe chose to appoint rookies at Man United, and it has them facing relegation﻿ fight",
-          "description": "Sir Jim Ratcliffe's naive backroom appointments have left Manchester United in their worst position for 40 years and staring relegation in the face.",
-          "url": "https://www.espn.com/soccer/story/_/id/50430907/manchester-united-transfers-carrick-premier-league-ratcliffe",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743488_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-09T12:46:43Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9732,7 +9732,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:55.143Z",
+      "updatedUtc": "2026-11-12T00:26:52.345Z",
       "matches": [
         {
           "id": "401882827",
@@ -11811,7 +11811,7 @@
           "description": "UE Cornellà gained global fame when Lionel Messi purchased them earlier this year. Why has the GOAT bought a semi-professional club in Spain's fifth tier?",
           "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat",
           "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743903_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-10T16:57:44Z",
+          "publishedUtc": "2026-11-11T20:39:33Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12778,7 +12778,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:55.196Z",
+      "updatedUtc": "2026-11-12T00:26:52.301Z",
       "matches": [
         {
           "id": "401874980",
@@ -15838,7 +15838,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:55.097Z",
+      "updatedUtc": "2026-11-12T00:26:52.424Z",
       "matches": [
         {
           "id": "401884769",
@@ -17896,6 +17896,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
+          "title": "Transfer rumors, news: Bayern to sign Liverpool teenager Ngumoha?",
+          "description": "Bayern Munich are looking to add reinforcements to their attack by signing Liverpool winger Rio Ngumoha. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1111/r1744559_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-11T21:59:35Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50451808/harry-kane-england-gareth-southgate",
           "title": "Harry Kane not 'better' but has more self-belief - Gareth Southgate",
           "description": "Former England manager Sir Gareth Southgate has said Harry Kane has not necessarily become a better player in the last two years but has more self-belief.",
@@ -18122,16 +18132,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50295274/ballon-dor-win-wildest-dreams",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1027/dm_261027_COM_SOC_Presser_Kane_Ballon_dOr_win_beyond_wildest_dreams_20261027_GLOBAL/dm_261027_COM_SOC_Presser_Kane_Ballon_dOr_win_beyond_wildest_dreams_20261027_GLOBAL.jpg",
           "publishedUtc": "2026-10-27T08:32:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
-          "title": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
-          "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
-          "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T15:32:40Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18881,7 +18881,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:55.068Z",
+      "updatedUtc": "2026-11-12T00:26:52.446Z",
       "matches": [
         {
           "id": "401876446",
@@ -21958,7 +21958,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-11T17:49:55.018Z",
+      "updatedUtc": "2026-11-12T00:26:52.504Z",
       "matches": [
         {
           "id": "401861146",
@@ -23993,6 +23993,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50455459/spain-lamine-yamal-injury-luis-de-la-fuente-nations-league",
+          "title": "Spain's De la Fuente slams 'lying' over Lamine Yamal's 'special privileges'",
+          "description": "Spain coach Luis de la Fuente defended Lamine Yamal against suggestions of preferential treatment after the forward was allowed to join the national team late.",
+          "url": "https://www.espn.com/soccer/story/_/id/50455459/spain-lamine-yamal-injury-luis-de-la-fuente-nations-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1111/r1744573_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-11T22:32:55Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50452835/kylian-mbappe-hamstring-miss-france-clash-italy",
+          "title": "Kylian Mbappé (hamstring) to miss France clash with Italy",
+          "description": "Kylian Mbappé will miss France's UEFA Nations League clash with Italy after sitting out training on Wednesday, coach Zinedine Zidane confirmed.",
+          "url": "https://www.espn.com/soccer/story/_/id/50452835/kylian-mbappe-hamstring-miss-france-clash-italy",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1111/r1744405_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-11T20:13:57Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50399038/cole-palmer-thomas-tuchel-england",
           "title": "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
           "description": "ESPN's Tom Hamilton examines why Cole Palmer faces a fight for his England place as Thomas Tuchel embraces a new generation of talent.",
@@ -24209,26 +24229,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50387532/catches-everyone-even-cristiano-ronaldo",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo.jpg",
           "publishedUtc": "2026-11-05T12:03:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-          "description": "Cristiano Ronaldo has retired from international soccer with Portugal after being benched by coach Jorge Jesus. It is far from the first high-profile row of his career.",
-          "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T16:21:16Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50377435/wales-joe-rodon-nations-league-squad-two-month-injury-absence",
-          "title": "Wales pick Joe Rodon in Nations League squad despite two-month injury absence",
-          "description": "Joe Rodon has been named in the Wales squad for upcoming Nations League games, despite not having played for over two months.",
-          "url": "https://www.espn.com/soccer/story/_/id/50377435/wales-joe-rodon-nations-league-squad-two-month-injury-absence",
-          "imageUrl": "https://a.espncdn.com/photo/2025/1013/r1559690_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T10:40:59Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -24979,7 +24979,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-11T17:49:55.267Z",
+      "updatedUtc": "2026-11-12T00:26:52.511Z",
       "matches": [
         {
           "id": "761892",
@@ -28318,7 +28318,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-11T17:49:54.960Z",
+      "updatedUtc": "2026-11-12T00:26:52.373Z",
       "matches": [
         {
           "id": "760415",
