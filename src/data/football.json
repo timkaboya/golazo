@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-17T15:21:08.082Z",
+  "updatedUtc": "2026-11-17T20:43:54.966Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:07.782Z",
+      "updatedUtc": "2026-11-17T20:43:54.725Z",
       "matches": [
         {
           "id": "401915415",
@@ -3393,7 +3393,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:07.808Z",
+      "updatedUtc": "2026-11-17T20:43:54.716Z",
       "matches": [
         {
           "id": "401915560",
@@ -6785,7 +6785,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:07.960Z",
+      "updatedUtc": "2026-11-17T20:43:54.816Z",
       "matches": [
         {
           "id": "401879233",
@@ -8737,6 +8737,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50511813/matheus-nunes-man-city-deal",
+          "title": "Matheus Nunes in talks to extend Man City deal - sources",
+          "description": "Manchester City are in talks with Matheus Nunes about extending his contract at the Etihad Stadium, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50511813/matheus-nunes-man-city-deal",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747119_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T17:06:27Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50510313/thomas-frank-crystal-palace-tottenham-premier-league",
           "title": "Thomas Frank: Crystal Palace job 'too good' to turn down",
           "description": "Thomas Frank decided the Crystal Palace job was \"too good to turn down\" after talks with chairman Steve Parish.",
@@ -8963,16 +8973,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50472256/pochettino-explains-why-decided-join-man-united-leave-usmnt",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026.jpg",
           "publishedUtc": "2026-11-13T15:46:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50471923/emotional-pochettino-says-bye-usmnt-accepting-man-united-role",
-          "title": "Emotional Pochettino says bye to USMNT after accepting Man United role",
-          "description": "Emotional Pochettino says bye to USMNT after accepting Man United role",
-          "url": "https://www.espn.com/video/clip/_/id/50471923/emotional-pochettino-says-bye-usmnt-accepting-man-united-role",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626.jpg",
-          "publishedUtc": "2026-11-13T15:26:33Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9722,7 +9722,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:08.015Z",
+      "updatedUtc": "2026-11-17T20:43:54.880Z",
       "matches": [
         {
           "id": "401882827",
@@ -11787,11 +11787,11 @@
       "news": [
         {
           "id": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
-          "title": "Oviedo fan handed suspended prison sentence for racist abuse towards Mbappé",
-          "description": "A person has been given a suspended 11-month prison sentence as well a stadium ban and fined for racist insults directed towards Real Madrid forward Kylian Mbappé during a LaLiga match at Real Oviedo in August.",
+          "title": "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
+          "description": "A person has been given a suspended 11-month prison sentence as well a stadium ban and fined for racist insults directed toward Real Madrid forward Kylian Mbappé during a LaLiga match at Real Oviedo in August.",
           "url": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
           "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730147_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T11:37:27Z",
+          "publishedUtc": "2026-11-17T17:04:45Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -12768,7 +12768,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:07.927Z",
+      "updatedUtc": "2026-11-17T20:43:54.920Z",
       "matches": [
         {
           "id": "401874980",
@@ -14840,6 +14840,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+          "title": "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+          "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked to two of Italy's biggest clubs. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747230_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T20:40:33Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50499498/transfer-rumors-news-usmnt-pochettino-mckennie-man-united",
           "title": "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival",
           "description": "Incoming Manchester United boss Mauricio Pochettino is eyeing a quick reunion with USMNT midfielder Weston McKennie. Transfer Talk has the latest.",
@@ -15066,16 +15076,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50288088/napoli-appeal-allegri-2-match-ban-insulting-ref",
           "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736520_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-26T16:03:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "title": "A global experiment: Can ESPN predict the Ballon d'Or awards?",
-          "description": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
-          "url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1009/261020_soc_ballon-dor_mixed_16x9.jpg",
-          "publishedUtc": "2026-10-26T13:29:44Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15828,7 +15828,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:07.880Z",
+      "updatedUtc": "2026-11-17T20:43:54.829Z",
       "matches": [
         {
           "id": "401884769",
@@ -18871,7 +18871,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:07.852Z",
+      "updatedUtc": "2026-11-17T20:43:54.883Z",
       "matches": [
         {
           "id": "401876437",
@@ -20773,6 +20773,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+          "title": "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+          "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked to two of Italy's biggest clubs. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747230_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T20:40:33Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50483870/portugal-vs-denmark-was-one-worst-games-decade",
           "title": "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
           "description": "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
@@ -20999,16 +21009,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
           "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1734824_1296x729_16-9.png",
           "publishedUtc": "2026-10-23T07:09:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50235833/khvicha-kvaratskhelia-ruptured-acl-paris-saint-germain-confirm",
-          "title": "PSG star Khvicha Kvaratskhelia ruptures ACL; Dembélé, Marquinhos out 'weeks'",
-          "description": "Khvicha Kvaratskhelia ruptured his anterior cruciate ligament injury during Paris Saint-Germain's Champions League victory against Barcelona.",
-          "url": "https://www.espn.com/soccer/story/_/id/50235833/khvicha-kvaratskhelia-ruptured-acl-paris-saint-germain-confirm",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1733841_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-21T16:31:48Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -21756,7 +21756,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-17T15:21:07.748Z",
+      "updatedUtc": "2026-11-17T20:43:54.713Z",
       "matches": [
         {
           "id": "401861146",
@@ -22831,8 +22831,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
           },
           "venue": "Bilino Polje Stadium, Zenica",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "note": "HT"
         },
         {
           "id": "401861194",
@@ -22851,8 +22855,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
           },
           "venue": "Parken Stadium, Copenhagen",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "note": "HT"
         },
         {
           "id": "401861191",
@@ -22871,8 +22879,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
           },
           "venue": "Puskás Aréna, Budapest",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "HT"
         },
         {
           "id": "401861193",
@@ -22891,8 +22903,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
           },
           "venue": "Nagyerdei Stadium, Debrecen",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "HT"
         },
         {
           "id": "401861195",
@@ -22911,8 +22927,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
           },
           "venue": "Municipal Stadium Wroclaw, Wroclaw",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "note": "HT"
         },
         {
           "id": "401861192",
@@ -22931,8 +22951,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png"
           },
           "venue": "Aviva Stadium, Dublin",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "HT"
         },
         {
           "id": "401861190",
@@ -22951,8 +22975,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png"
           },
           "venue": "Košická futbalová aréna (KFA), Kosice",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "note": "HT"
         },
         {
           "id": "401861189",
@@ -22971,8 +22999,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
           },
           "venue": "Cardiff City Stadium, Cardiff",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "live",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "note": "HT"
         }
       ],
       "tables": [
@@ -24953,7 +24985,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:21:08.081Z",
+      "updatedUtc": "2026-11-17T20:43:54.963Z",
       "matches": [
         {
           "id": "761892",
@@ -28292,7 +28324,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-17T15:21:07.716Z",
+      "updatedUtc": "2026-11-17T20:43:54.966Z",
       "matches": [
         {
           "id": "760415",
