@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-17T15:11:15.301Z",
+  "updatedUtc": "2026-11-17T15:21:08.082Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:14.753Z",
+      "updatedUtc": "2026-11-17T15:21:07.782Z",
       "matches": [
         {
           "id": "401915415",
@@ -3393,7 +3393,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:15.019Z",
+      "updatedUtc": "2026-11-17T15:21:07.808Z",
       "matches": [
         {
           "id": "401915560",
@@ -6785,7 +6785,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:15.301Z",
+      "updatedUtc": "2026-11-17T15:21:07.960Z",
       "matches": [
         {
           "id": "401879233",
@@ -9722,7 +9722,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:15.178Z",
+      "updatedUtc": "2026-11-17T15:21:08.015Z",
       "matches": [
         {
           "id": "401882827",
@@ -12768,7 +12768,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:15.057Z",
+      "updatedUtc": "2026-11-17T15:21:07.927Z",
       "matches": [
         {
           "id": "401874980",
@@ -15828,7 +15828,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:15.135Z",
+      "updatedUtc": "2026-11-17T15:21:07.880Z",
       "matches": [
         {
           "id": "401884769",
@@ -18871,7 +18871,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:14.345Z",
+      "updatedUtc": "2026-11-17T15:21:07.852Z",
       "matches": [
         {
           "id": "401876437",
@@ -21756,7 +21756,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-17T15:11:14.413Z",
+      "updatedUtc": "2026-11-17T15:21:07.748Z",
       "matches": [
         {
           "id": "401861146",
@@ -24953,7 +24953,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T15:11:14.572Z",
+      "updatedUtc": "2026-11-17T15:21:08.081Z",
       "matches": [
         {
           "id": "761892",
@@ -26608,66 +26608,6 @@
           "note": "Scheduled"
         },
         {
-          "id": "401933718",
-          "utc": "2026-12-02T20:00Z",
-          "phase": "Eastern Conference Playoffs   Round One",
-          "home": {
-            "id": "182",
-            "name": "Chicago",
-            "abbreviation": "CHI",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
-          },
-          "away": {
-            "id": "21300",
-            "name": "Charlotte",
-            "abbreviation": "CLT",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
-          },
-          "venue": "SeatGeek Stadium, Bridgeview, Illinois",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401933716",
-          "utc": "2026-12-02T20:00Z",
-          "phase": "Western Conference Playoffs   Round One",
-          "home": {
-            "id": "185",
-            "name": "Dallas",
-            "abbreviation": "DAL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
-          },
-          "away": {
-            "id": "9723",
-            "name": "Portland",
-            "abbreviation": "POR",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
-          },
-          "venue": "Toyota Stadium, Toyota Stadium",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401933720",
-          "utc": "2026-12-02T20:00Z",
-          "phase": "Eastern Conference Playoffs   Round One",
-          "home": {
-            "id": "20232",
-            "name": "Miami",
-            "abbreviation": "MIA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
-          },
-          "away": {
-            "id": "183",
-            "name": "Columbus",
-            "abbreviation": "CLB",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
-          },
-          "venue": "Nu Stadium, Miami, Florida",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
           "id": "401933736",
           "utc": "2026-12-02T20:00Z",
           "phase": "Eastern Conference Playoffs   Round One",
@@ -26683,66 +26623,6 @@
             "abbreviation": "TBD Away"
           },
           "venue": "GEODIS Park, Nashville, Tennessee",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401933719",
-          "utc": "2026-12-02T20:00Z",
-          "phase": "Eastern Conference Playoffs   Round One",
-          "home": {
-            "id": "189",
-            "name": "New England",
-            "abbreviation": "NE",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
-          },
-          "away": {
-            "id": "10739",
-            "name": "Philadelphia",
-            "abbreviation": "PHI",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
-          },
-          "venue": "Gillette Stadium, Foxborough, Massachusetts",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401933715",
-          "utc": "2026-12-02T20:00Z",
-          "phase": "Western Conference Playoffs   Round One",
-          "home": {
-            "id": "191",
-            "name": "San Jose",
-            "abbreviation": "SJ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png"
-          },
-          "away": {
-            "id": "6077",
-            "name": "Houston",
-            "abbreviation": "HOU",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"
-          },
-          "venue": "PayPal Park, San Jose, California",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
-          "id": "401933735",
-          "utc": "2026-12-02T20:00Z",
-          "phase": "Western Conference Playoffs   Round One",
-          "home": {
-            "id": "21812",
-            "name": "St. Louis",
-            "abbreviation": "STL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
-          },
-          "away": {
-            "id": "18966",
-            "name": "LAFC",
-            "abbreviation": "LAFC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
-          },
-          "venue": "Energizer Park, St. Louis, Missouri",
           "status": "upcoming",
           "note": "TBD"
         },
@@ -26764,6 +26644,126 @@
           "venue": "BC Place, Vancouver",
           "status": "upcoming",
           "note": "TBD"
+        },
+        {
+          "id": "401933719",
+          "utc": "2026-12-03T00:00Z",
+          "phase": "Eastern Conference Playoffs   Round One",
+          "home": {
+            "id": "189",
+            "name": "New England",
+            "abbreviation": "NE",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
+          },
+          "away": {
+            "id": "10739",
+            "name": "Philadelphia",
+            "abbreviation": "PHI",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
+          },
+          "venue": "Gillette Stadium, Foxborough, Massachusetts",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401933720",
+          "utc": "2026-12-03T00:30Z",
+          "phase": "Eastern Conference Playoffs   Round One",
+          "home": {
+            "id": "20232",
+            "name": "Miami",
+            "abbreviation": "MIA",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
+          },
+          "away": {
+            "id": "183",
+            "name": "Columbus",
+            "abbreviation": "CLB",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
+          },
+          "venue": "Nu Stadium, Miami, Florida",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401933718",
+          "utc": "2026-12-03T01:00Z",
+          "phase": "Eastern Conference Playoffs   Round One",
+          "home": {
+            "id": "182",
+            "name": "Chicago",
+            "abbreviation": "CHI",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
+          },
+          "away": {
+            "id": "21300",
+            "name": "Charlotte",
+            "abbreviation": "CLT",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
+          },
+          "venue": "SeatGeek Stadium, Bridgeview, Illinois",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401933716",
+          "utc": "2026-12-03T01:00Z",
+          "phase": "Western Conference Playoffs   Round One",
+          "home": {
+            "id": "185",
+            "name": "Dallas",
+            "abbreviation": "DAL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
+          },
+          "away": {
+            "id": "9723",
+            "name": "Portland",
+            "abbreviation": "POR",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
+          },
+          "venue": "Toyota Stadium, Toyota Stadium",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401933735",
+          "utc": "2026-12-03T01:00Z",
+          "phase": "Western Conference Playoffs   Round One",
+          "home": {
+            "id": "21812",
+            "name": "St. Louis",
+            "abbreviation": "STL",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
+          },
+          "away": {
+            "id": "18966",
+            "name": "LAFC",
+            "abbreviation": "LAFC",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
+          },
+          "venue": "Energizer Park, St. Louis, Missouri",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401933715",
+          "utc": "2026-12-03T03:00Z",
+          "phase": "Western Conference Playoffs   Round One",
+          "home": {
+            "id": "191",
+            "name": "San Jose",
+            "abbreviation": "SJ",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png"
+          },
+          "away": {
+            "id": "6077",
+            "name": "Houston",
+            "abbreviation": "HOU",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"
+          },
+          "venue": "PayPal Park, San Jose, California",
+          "status": "upcoming",
+          "note": "Scheduled"
         }
       ],
       "tables": [
@@ -28292,7 +28292,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-17T15:11:14.440Z",
+      "updatedUtc": "2026-11-17T15:21:07.716Z",
       "matches": [
         {
           "id": "760415",
