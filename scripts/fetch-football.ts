@@ -5,14 +5,13 @@ import { COMPETITIONS } from '../src/lib/competitions.ts';
 import {
   mapFootballLeaders,
   mapFootballScoreboard,
+  mapFootballTables,
   selectFootballMatchWindow,
 } from '../src/lib/football-stats.ts';
 import type {
-  Club,
   CompetitionSnapshot,
   FootballSnapshot,
   FootballStory,
-  LeagueTable,
 } from '../src/lib/football-types.ts';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
@@ -57,51 +56,11 @@ async function getJson(url: string, timeoutMs = 15000, tries = 3): Promise<any> 
 }
 
 const text = (value: unknown) => (typeof value === 'string' ? value : '');
-const number = (value: unknown) => {
-  const parsed = Number(value);
-  return Number.isFinite(parsed) ? parsed : 0;
-};
-
-function club(raw: any): Club {
-  return {
-    id: text(raw?.id) || text(raw?.uid) || text(raw?.slug) || text(raw?.abbreviation),
-    name: text(raw?.shortDisplayName) || text(raw?.displayName) || text(raw?.name) || 'TBD',
-    abbreviation: text(raw?.abbreviation),
-    logo: text(raw?.logo) || text(raw?.logos?.[0]?.href) || undefined,
-  };
-}
 
 function mapMatches(json: any, archive: boolean) {
   const sorted = mapFootballScoreboard(json);
   if (archive) return sorted;
   return selectFootballMatchWindow(sorted);
-}
-
-function mapTables(json: any): LeagueTable[] {
-  return (json?.children ?? []).flatMap((child: any, index: number) => {
-    const entries = child?.standings?.entries ?? [];
-    if (!entries.length) return [];
-    const rows = entries.map((entry: any, rowIndex: number) => {
-      const stat = (name: string) => number(entry?.stats?.find((item: any) => item.name === name)?.value);
-      const rank = stat('rank') || rowIndex + 1;
-      return {
-        team: club(entry.team),
-        rank,
-        played: stat('gamesPlayed'),
-        won: stat('wins'),
-        drawn: stat('ties'),
-        lost: stat('losses'),
-        gf: stat('pointsFor'),
-        ga: stat('pointsAgainst'),
-        gd: stat('pointDifferential'),
-        points: stat('points'),
-      };
-    });
-    return [{
-      name: text(child?.name) || text(child?.abbreviation) || (index ? `Table ${index + 1}` : 'Standings'),
-      rows,
-    }];
-  });
 }
 
 function mapNews(
@@ -148,7 +107,7 @@ async function fetchCompetition(
     getJson(statisticsUrl).catch(() => ({})),
   ]);
   const matches = mapMatches(scoreboard, config.kind === 'archive');
-  const tables = mapTables(standings);
+  const tables = mapFootballTables(standings);
   const stories = mapNews(news, 'ESPN', config);
   const fetchedLeaders = mapFootballLeaders(statistics);
   const leaders =

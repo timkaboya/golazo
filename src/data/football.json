@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-17T10:29:06.530Z",
+  "updatedUtc": "2026-11-17T15:11:15.301Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:05.782Z",
+      "updatedUtc": "2026-11-17T15:11:14.753Z",
       "matches": [
         {
           "id": "401915415",
@@ -3393,7 +3393,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:06.179Z",
+      "updatedUtc": "2026-11-17T15:11:15.019Z",
       "matches": [
         {
           "id": "401915560",
@@ -6785,7 +6785,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:06.410Z",
+      "updatedUtc": "2026-11-17T15:11:15.301Z",
       "matches": [
         {
           "id": "401879233",
@@ -8737,12 +8737,22 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
-          "title": "Mauricio Pochettino can't fix Man United on his own, the owners have to do their jobs",
-          "description": "Mauricio Pochettino's job at Manchester United isn't to fix the club, but to get results and make the players better. The real changes need to be made at the very top.",
-          "url": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1746963_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T08:58:55Z",
+          "id": "https://www.espn.com/soccer/story/_/id/50510313/thomas-frank-crystal-palace-tottenham-premier-league",
+          "title": "Thomas Frank: Crystal Palace job 'too good' to turn down",
+          "description": "Thomas Frank decided the Crystal Palace job was \"too good to turn down\" after talks with chairman Steve Parish.",
+          "url": "https://www.espn.com/soccer/story/_/id/50510313/thomas-frank-crystal-palace-tottenham-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747050_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T13:28:25Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50509743/andoni-iraola-liverpool-grassroots-premier-league",
+          "title": "Andoni Iraola goes viral at grassroots game: 'He must be a down-to-earth fella'",
+          "description": "Andoni Iraola has gone viral for an appearance at a children's grassroots football match.",
+          "url": "https://www.espn.com/soccer/story/_/id/50509743/andoni-iraola-liverpool-grassroots-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743055_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T12:21:31Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8752,9 +8762,19 @@
           "description": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
           "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747004_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T08:22:35Z",
+          "publishedUtc": "2026-11-17T12:10:02Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
+          "title": "Mauricio Pochettino can't fix Man United on his own, the owners have to do their jobs",
+          "description": "Mauricio Pochettino's job at Manchester United isn't to fix the club, but to get results and make the players better. The real changes need to be made at the very top.",
+          "url": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1746963_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T08:58:55Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50470622/mauricio-pochettino-tottenham-man-united",
@@ -8953,26 +8973,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50471923/emotional-pochettino-says-bye-usmnt-accepting-man-united-role",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626.jpg",
           "publishedUtc": "2026-11-13T15:26:33Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
-          "title": "10 Best: Ranking the world's top men's soccer players ... again!",
-          "description": "Who is the best soccer player in the world at the November international break? ESPN's latest rankings are here.",
-          "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1112/r1744932_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-13T16:22:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50471147/harry-redknapp-mauricio-pochettino-man-united",
-          "title": "Mauricio Pochettino to Man United: 'Never a better time,' says Harry Redknapp",
-          "description": "Mauricio Pochettino could not be taking charge of Manchester United at a better time, according to former Tottenham boss Harry Redknapp.",
-          "url": "https://www.espn.com/soccer/story/_/id/50471147/harry-redknapp-mauricio-pochettino-man-united",
-          "imageUrl": "https://a.espncdn.com/photo/2023/1212/r1265427_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-13T13:26:16Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9722,7 +9722,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:06.463Z",
+      "updatedUtc": "2026-11-17T15:11:15.178Z",
       "matches": [
         {
           "id": "401882827",
@@ -11786,6 +11786,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
+          "title": "Oviedo fan handed suspended prison sentence for racist abuse towards Mbappé",
+          "description": "A person has been given a suspended 11-month prison sentence as well a stadium ban and fined for racist insults directed towards Real Madrid forward Kylian Mbappé during a LaLiga match at Real Oviedo in August.",
+          "url": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1013/r1730147_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T11:37:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+          "title": "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?",
+          "description": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil.",
+          "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747010_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T15:05:58Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
           "title": "Transfer rumors, news: Como's Nico Paz to be Pochettino's first Man United summer signing?",
           "description": "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer. Transfer Talk has the latest.",
@@ -12004,26 +12024,6 @@
           "publishedUtc": "2026-11-08T01:26:29Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50413417/does-mourinho-deserve-praise-start-real-madrid-manager",
-          "title": "Does Mourinho deserve 'praise' for his start as Real Madrid manager?",
-          "description": "Does Mourinho deserve 'praise' for his start as Real Madrid manager?",
-          "url": "https://www.espn.com/video/clip/_/id/50413417/does-mourinho-deserve-praise-start-real-madrid-manager",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/dm_261107_COM_SOC_Analysis_Does_Mourinho_deserve_E1091/dm_261107_COM_SOC_Analysis_Does_Mourinho_deserve_E1091.jpg",
-          "publishedUtc": "2026-11-07T23:11:58Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401882808",
-          "title": "Güler inspires Real Madrid's 8th straight win to go level with Barcelona",
-          "description": "Arda Güler scored his third goal in five matches to fire Real Madrid to an eighth straight victory and move them level on points with Barcelona with a 3-0 win at Valencia.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401882808",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1107/r1742634_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-07T22:36:05Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -12768,7 +12768,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:06.371Z",
+      "updatedUtc": "2026-11-17T15:11:15.057Z",
       "matches": [
         {
           "id": "401874980",
@@ -15828,7 +15828,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:06.328Z",
+      "updatedUtc": "2026-11-17T15:11:15.135Z",
       "matches": [
         {
           "id": "401884769",
@@ -18871,7 +18871,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:06.425Z",
+      "updatedUtc": "2026-11-17T15:11:14.345Z",
       "matches": [
         {
           "id": "401876437",
@@ -21756,7 +21756,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-17T10:29:06.221Z",
+      "updatedUtc": "2026-11-17T15:11:14.413Z",
       "matches": [
         {
           "id": "401861146",
@@ -22981,20 +22981,20 @@
           "rows": [
             {
               "team": {
-                "id": "162",
-                "name": "Italy",
-                "abbreviation": "ITA",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+                "id": "478",
+                "name": "France",
+                "abbreviation": "FRA",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
               },
-              "rank": 3,
+              "rank": 1,
               "played": 6,
-              "won": 3,
+              "won": 4,
               "drawn": 1,
-              "lost": 2,
-              "gf": 12,
-              "ga": 10,
-              "gd": 2,
-              "points": 10
+              "lost": 1,
+              "gf": 10,
+              "ga": 6,
+              "gd": 4,
+              "points": 13
             },
             {
               "team": {
@@ -23015,6 +23015,23 @@
             },
             {
               "team": {
+                "id": "162",
+                "name": "Italy",
+                "abbreviation": "ITA",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+              },
+              "rank": 3,
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "gf": 12,
+              "ga": 10,
+              "gd": 2,
+              "points": 10
+            },
+            {
+              "team": {
                 "id": "465",
                 "name": "Türkiye",
                 "abbreviation": "TUR",
@@ -23029,29 +23046,29 @@
               "ga": 15,
               "gd": -11,
               "points": 0
-            },
-            {
-              "team": {
-                "id": "478",
-                "name": "France",
-                "abbreviation": "FRA",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
-              },
-              "rank": 1,
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 10,
-              "ga": 6,
-              "gd": 4,
-              "points": 13
             }
           ]
         },
         {
           "name": "Group A2",
           "rows": [
+            {
+              "team": {
+                "id": "481",
+                "name": "Germany",
+                "abbreviation": "GER",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+              },
+              "rank": 1,
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "gf": 11,
+              "ga": 3,
+              "gd": 8,
+              "points": 11
+            },
             {
               "team": {
                 "id": "449",
@@ -23088,23 +23105,6 @@
             },
             {
               "team": {
-                "id": "481",
-                "name": "Germany",
-                "abbreviation": "GER",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
-              },
-              "rank": 1,
-              "played": 6,
-              "won": 3,
-              "drawn": 2,
-              "lost": 1,
-              "gf": 11,
-              "ga": 3,
-              "gd": 8,
-              "points": 11
-            },
-            {
-              "team": {
                 "id": "6757",
                 "name": "Serbia",
                 "abbreviation": "SRB",
@@ -23127,23 +23127,6 @@
           "rows": [
             {
               "team": {
-                "id": "164",
-                "name": "Spain",
-                "abbreviation": "ESP",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
-              },
-              "rank": 2,
-              "played": 6,
-              "won": 5,
-              "drawn": 0,
-              "lost": 1,
-              "gf": 16,
-              "ga": 8,
-              "gd": 8,
-              "points": 15
-            },
-            {
-              "team": {
                 "id": "448",
                 "name": "England",
                 "abbreviation": "ENG",
@@ -23161,20 +23144,20 @@
             },
             {
               "team": {
-                "id": "450",
-                "name": "Czechia",
-                "abbreviation": "CZE",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png"
+                "id": "164",
+                "name": "Spain",
+                "abbreviation": "ESP",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
               },
-              "rank": 4,
+              "rank": 2,
               "played": 6,
-              "won": 0,
+              "won": 5,
               "drawn": 0,
-              "lost": 6,
-              "gf": 3,
-              "ga": 14,
-              "gd": -11,
-              "points": 0
+              "lost": 1,
+              "gf": 16,
+              "ga": 8,
+              "gd": 8,
+              "points": 15
             },
             {
               "team": {
@@ -23192,6 +23175,23 @@
               "ga": 17,
               "gd": -10,
               "points": 6
+            },
+            {
+              "team": {
+                "id": "450",
+                "name": "Czechia",
+                "abbreviation": "CZE",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png"
+              },
+              "rank": 4,
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "gf": 3,
+              "ga": 14,
+              "gd": -11,
+              "points": 0
             }
           ]
         },
@@ -23200,20 +23200,20 @@
           "rows": [
             {
               "team": {
-                "id": "464",
-                "name": "Norway",
-                "abbreviation": "NOR",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
+                "id": "482",
+                "name": "Portugal",
+                "abbreviation": "POR",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
               },
-              "rank": 3,
+              "rank": 1,
               "played": 5,
-              "won": 2,
+              "won": 4,
               "drawn": 0,
-              "lost": 3,
-              "gf": 9,
-              "ga": 9,
-              "gd": 0,
-              "points": 6
+              "lost": 1,
+              "gf": 10,
+              "ga": 8,
+              "gd": 2,
+              "points": 12
             },
             {
               "team": {
@@ -23234,20 +23234,20 @@
             },
             {
               "team": {
-                "id": "482",
-                "name": "Portugal",
-                "abbreviation": "POR",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+                "id": "464",
+                "name": "Norway",
+                "abbreviation": "NOR",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
               },
-              "rank": 1,
+              "rank": 3,
               "played": 5,
-              "won": 4,
+              "won": 2,
               "drawn": 0,
-              "lost": 1,
-              "gf": 10,
-              "ga": 8,
-              "gd": 2,
-              "points": 12
+              "lost": 3,
+              "gf": 9,
+              "ga": 9,
+              "gd": 0,
+              "points": 6
             },
             {
               "team": {
@@ -23273,20 +23273,20 @@
           "rows": [
             {
               "team": {
-                "id": "463",
-                "name": "North Macedonia",
-                "abbreviation": "MKD",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png"
+                "id": "475",
+                "name": "Switzerland",
+                "abbreviation": "SUI",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
               },
-              "rank": 4,
+              "rank": 1,
               "played": 6,
-              "won": 0,
-              "drawn": 0,
-              "lost": 6,
-              "gf": 1,
-              "ga": 15,
-              "gd": -14,
-              "points": 0
+              "won": 5,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 15,
+              "ga": 1,
+              "gd": 14,
+              "points": 16
             },
             {
               "team": {
@@ -23307,23 +23307,6 @@
             },
             {
               "team": {
-                "id": "475",
-                "name": "Switzerland",
-                "abbreviation": "SUI",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
-              },
-              "rank": 1,
-              "played": 6,
-              "won": 5,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 15,
-              "ga": 1,
-              "gd": 14,
-              "points": 16
-            },
-            {
-              "team": {
                 "id": "580",
                 "name": "Scotland",
                 "abbreviation": "SCO",
@@ -23338,6 +23321,23 @@
               "ga": 10,
               "gd": -5,
               "points": 7
+            },
+            {
+              "team": {
+                "id": "463",
+                "name": "North Macedonia",
+                "abbreviation": "MKD",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png"
+              },
+              "rank": 4,
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "gf": 1,
+              "ga": 15,
+              "gd": -14,
+              "points": 0
             }
           ]
         },
@@ -23346,20 +23346,20 @@
           "rows": [
             {
               "team": {
-                "id": "457",
-                "name": "Ukraine",
-                "abbreviation": "UKR",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png"
+                "id": "586",
+                "name": "N Ireland",
+                "abbreviation": "NIR",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
               },
-              "rank": 3,
+              "rank": 1,
               "played": 5,
-              "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "gf": 2,
-              "ga": 6,
-              "gd": -4,
-              "points": 4
+              "won": 3,
+              "drawn": 2,
+              "lost": 0,
+              "gf": 5,
+              "ga": 0,
+              "gd": 5,
+              "points": 11
             },
             {
               "team": {
@@ -23380,6 +23380,23 @@
             },
             {
               "team": {
+                "id": "457",
+                "name": "Ukraine",
+                "abbreviation": "UKR",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png"
+              },
+              "rank": 3,
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "gf": 2,
+              "ga": 6,
+              "gd": -4,
+              "points": 4
+            },
+            {
+              "team": {
                 "id": "584",
                 "name": "Georgia",
                 "abbreviation": "GEO",
@@ -23394,46 +23411,12 @@
               "ga": 4,
               "gd": -4,
               "points": 2
-            },
-            {
-              "team": {
-                "id": "586",
-                "name": "N Ireland",
-                "abbreviation": "NIR",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
-              },
-              "rank": 1,
-              "played": 5,
-              "won": 3,
-              "drawn": 2,
-              "lost": 0,
-              "gf": 5,
-              "ga": 0,
-              "gd": 5,
-              "points": 11
             }
           ]
         },
         {
           "name": "Group B3",
           "rows": [
-            {
-              "team": {
-                "id": "461",
-                "name": "Israel",
-                "abbreviation": "ISR",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png"
-              },
-              "rank": 4,
-              "played": 5,
-              "won": 0,
-              "drawn": 3,
-              "lost": 2,
-              "gf": 2,
-              "ga": 7,
-              "gd": -5,
-              "points": 3
-            },
             {
               "team": {
                 "id": "474",
@@ -23450,6 +23433,23 @@
               "ga": 5,
               "gd": 5,
               "points": 11
+            },
+            {
+              "team": {
+                "id": "18272",
+                "name": "Kosovo",
+                "abbreviation": "KOS",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png"
+              },
+              "rank": 2,
+              "played": 5,
+              "won": 1,
+              "drawn": 3,
+              "lost": 1,
+              "gf": 3,
+              "ga": 4,
+              "gd": -1,
+              "points": 6
             },
             {
               "team": {
@@ -23470,43 +23470,26 @@
             },
             {
               "team": {
-                "id": "18272",
-                "name": "Kosovo",
-                "abbreviation": "KOS",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png"
+                "id": "461",
+                "name": "Israel",
+                "abbreviation": "ISR",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png"
               },
-              "rank": 2,
+              "rank": 4,
               "played": 5,
-              "won": 1,
+              "won": 0,
               "drawn": 3,
-              "lost": 1,
-              "gf": 3,
-              "ga": 4,
-              "gd": -1,
-              "points": 6
+              "lost": 2,
+              "gf": 2,
+              "ga": 7,
+              "gd": -5,
+              "points": 3
             }
           ]
         },
         {
           "name": "Group B4",
           "rows": [
-            {
-              "team": {
-                "id": "452",
-                "name": "Bosnia-Herz",
-                "abbreviation": "BIH",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png"
-              },
-              "rank": 2,
-              "played": 5,
-              "won": 2,
-              "drawn": 2,
-              "lost": 1,
-              "gf": 8,
-              "ga": 6,
-              "gd": 2,
-              "points": 8
-            },
             {
               "team": {
                 "id": "466",
@@ -23523,6 +23506,23 @@
               "ga": 5,
               "gd": 5,
               "points": 13
+            },
+            {
+              "team": {
+                "id": "452",
+                "name": "Bosnia-Herz",
+                "abbreviation": "BIH",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png"
+              },
+              "rank": 2,
+              "played": 5,
+              "won": 2,
+              "drawn": 2,
+              "lost": 1,
+              "gf": 8,
+              "ga": 6,
+              "gd": 2,
+              "points": 8
             },
             {
               "team": {
@@ -23565,20 +23565,20 @@
           "rows": [
             {
               "team": {
-                "id": "458",
-                "name": "Finland",
-                "abbreviation": "FIN",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
+                "id": "585",
+                "name": "Albania",
+                "abbreviation": "ALB",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png"
               },
-              "rank": 3,
+              "rank": 1,
               "played": 6,
-              "won": 3,
-              "drawn": 1,
-              "lost": 2,
-              "gf": 16,
-              "ga": 6,
-              "gd": 10,
-              "points": 10
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "gf": 12,
+              "ga": 3,
+              "gd": 9,
+              "points": 15
             },
             {
               "team": {
@@ -23599,20 +23599,20 @@
             },
             {
               "team": {
-                "id": "585",
-                "name": "Albania",
-                "abbreviation": "ALB",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png"
+                "id": "458",
+                "name": "Finland",
+                "abbreviation": "FIN",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
               },
-              "rank": 1,
+              "rank": 3,
               "played": 6,
-              "won": 5,
-              "drawn": 0,
-              "lost": 1,
-              "gf": 12,
-              "ga": 3,
-              "gd": 9,
-              "points": 15
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "gf": 16,
+              "ga": 6,
+              "gd": 10,
+              "points": 10
             },
             {
               "team": {
@@ -23638,6 +23638,23 @@
           "rows": [
             {
               "team": {
+                "id": "6775",
+                "name": "Montenegro",
+                "abbreviation": "MNE",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png"
+              },
+              "rank": 1,
+              "played": 6,
+              "won": 5,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 13,
+              "ga": 6,
+              "gd": 7,
+              "points": 16
+            },
+            {
+              "team": {
                 "id": "445",
                 "name": "Cyprus",
                 "abbreviation": "CYP",
@@ -23652,23 +23669,6 @@
               "ga": 8,
               "gd": -1,
               "points": 8
-            },
-            {
-              "team": {
-                "id": "456",
-                "name": "Latvia",
-                "abbreviation": "LVA",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png"
-              },
-              "rank": 4,
-              "played": 6,
-              "won": 0,
-              "drawn": 2,
-              "lost": 4,
-              "gf": 3,
-              "ga": 8,
-              "gd": -5,
-              "points": 2
             },
             {
               "team": {
@@ -23689,43 +23689,26 @@
             },
             {
               "team": {
-                "id": "6775",
-                "name": "Montenegro",
-                "abbreviation": "MNE",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png"
+                "id": "456",
+                "name": "Latvia",
+                "abbreviation": "LVA",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png"
               },
-              "rank": 1,
+              "rank": 4,
               "played": 6,
-              "won": 5,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 13,
-              "ga": 6,
-              "gd": 7,
-              "points": 16
+              "won": 0,
+              "drawn": 2,
+              "lost": 4,
+              "gf": 3,
+              "ga": 8,
+              "gd": -5,
+              "points": 2
             }
           ]
         },
         {
           "name": "Group C3",
           "rows": [
-            {
-              "team": {
-                "id": "447",
-                "name": "Faroe Islands",
-                "abbreviation": "FRO",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png"
-              },
-              "rank": 2,
-              "played": 6,
-              "won": 1,
-              "drawn": 5,
-              "lost": 0,
-              "gf": 8,
-              "ga": 7,
-              "gd": 1,
-              "points": 8
-            },
             {
               "team": {
                 "id": "468",
@@ -23742,6 +23725,23 @@
               "ga": 6,
               "gd": 7,
               "points": 12
+            },
+            {
+              "team": {
+                "id": "447",
+                "name": "Faroe Islands",
+                "abbreviation": "FRO",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png"
+              },
+              "rank": 2,
+              "played": 6,
+              "won": 1,
+              "drawn": 5,
+              "lost": 0,
+              "gf": 8,
+              "ga": 7,
+              "gd": 1,
+              "points": 8
             },
             {
               "team": {
@@ -23784,6 +23784,23 @@
           "rows": [
             {
               "team": {
+                "id": "470",
+                "name": "Iceland",
+                "abbreviation": "ISL",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png"
+              },
+              "rank": 1,
+              "played": 6,
+              "won": 4,
+              "drawn": 2,
+              "lost": 0,
+              "gf": 15,
+              "ga": 1,
+              "gd": 14,
+              "points": 14
+            },
+            {
+              "team": {
                 "id": "444",
                 "name": "Estonia",
                 "abbreviation": "EST",
@@ -23815,23 +23832,6 @@
               "ga": 12,
               "gd": -8,
               "points": 4
-            },
-            {
-              "team": {
-                "id": "470",
-                "name": "Iceland",
-                "abbreviation": "ISL",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png"
-              },
-              "rank": 1,
-              "played": 6,
-              "won": 4,
-              "drawn": 2,
-              "lost": 0,
-              "gf": 15,
-              "ga": 1,
-              "gd": 14,
-              "points": 14
             },
             {
               "team": {
@@ -23913,23 +23913,6 @@
           "rows": [
             {
               "team": {
-                "id": "460",
-                "name": "Lithuania",
-                "abbreviation": "LTU",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ltu.png"
-              },
-              "rank": 2,
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 5,
-              "ga": 3,
-              "gd": 2,
-              "points": 7
-            },
-            {
-              "team": {
                 "id": "581",
                 "name": "Azerbaijan",
                 "abbreviation": "AZE",
@@ -23944,6 +23927,23 @@
               "ga": 1,
               "gd": 2,
               "points": 8
+            },
+            {
+              "team": {
+                "id": "460",
+                "name": "Lithuania",
+                "abbreviation": "LTU",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ltu.png"
+              },
+              "rank": 2,
+              "played": 4,
+              "won": 2,
+              "drawn": 1,
+              "lost": 1,
+              "gf": 5,
+              "ga": 3,
+              "gd": 2,
+              "points": 7
             },
             {
               "team": {
@@ -24953,7 +24953,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T10:29:06.530Z",
+      "updatedUtc": "2026-11-17T15:11:14.572Z",
       "matches": [
         {
           "id": "761892",
@@ -26772,210 +26772,6 @@
           "rows": [
             {
               "team": {
-                "id": "182",
-                "name": "Chicago",
-                "abbreviation": "CHI",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
-              },
-              "rank": 4,
-              "played": 34,
-              "won": 16,
-              "drawn": 7,
-              "lost": 11,
-              "gf": 64,
-              "ga": 54,
-              "gd": 10,
-              "points": 55
-            },
-            {
-              "team": {
-                "id": "183",
-                "name": "Columbus",
-                "abbreviation": "CLB",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
-              },
-              "rank": 7,
-              "played": 34,
-              "won": 14,
-              "drawn": 5,
-              "lost": 15,
-              "gf": 59,
-              "ga": 52,
-              "gd": 7,
-              "points": 47
-            },
-            {
-              "team": {
-                "id": "189",
-                "name": "New England",
-                "abbreviation": "NE",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
-              },
-              "rank": 3,
-              "played": 34,
-              "won": 18,
-              "drawn": 4,
-              "lost": 12,
-              "gf": 55,
-              "ga": 47,
-              "gd": 8,
-              "points": 58
-            },
-            {
-              "team": {
-                "id": "190",
-                "name": "Red Bull NY",
-                "abbreviation": "RBNY",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
-              },
-              "rank": 10,
-              "played": 34,
-              "won": 12,
-              "drawn": 6,
-              "lost": 16,
-              "gf": 48,
-              "ga": 62,
-              "gd": -14,
-              "points": 42
-            },
-            {
-              "team": {
-                "id": "193",
-                "name": "D.C. United",
-                "abbreviation": "DC",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png"
-              },
-              "rank": 14,
-              "played": 34,
-              "won": 7,
-              "drawn": 12,
-              "lost": 15,
-              "gf": 39,
-              "ga": 61,
-              "gd": -22,
-              "points": 33
-            },
-            {
-              "team": {
-                "id": "7318",
-                "name": "Toronto",
-                "abbreviation": "TOR",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png"
-              },
-              "rank": 12,
-              "played": 34,
-              "won": 9,
-              "drawn": 12,
-              "lost": 13,
-              "gf": 52,
-              "ga": 67,
-              "gd": -15,
-              "points": 39
-            },
-            {
-              "team": {
-                "id": "9720",
-                "name": "CF Montréal",
-                "abbreviation": "MTL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png"
-              },
-              "rank": 15,
-              "played": 34,
-              "won": 6,
-              "drawn": 8,
-              "lost": 20,
-              "gf": 37,
-              "ga": 69,
-              "gd": -32,
-              "points": 26
-            },
-            {
-              "team": {
-                "id": "10739",
-                "name": "Philadelphia",
-                "abbreviation": "PHI",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
-              },
-              "rank": 6,
-              "played": 34,
-              "won": 14,
-              "drawn": 8,
-              "lost": 12,
-              "gf": 66,
-              "ga": 52,
-              "gd": 14,
-              "points": 50
-            },
-            {
-              "team": {
-                "id": "12011",
-                "name": "Orlando",
-                "abbreviation": "ORL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png"
-              },
-              "rank": 8,
-              "played": 34,
-              "won": 13,
-              "drawn": 7,
-              "lost": 14,
-              "gf": 63,
-              "ga": 78,
-              "gd": -15,
-              "points": 46
-            },
-            {
-              "team": {
-                "id": "17606",
-                "name": "NYCFC",
-                "abbreviation": "NYC",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
-              },
-              "rank": 11,
-              "played": 34,
-              "won": 10,
-              "drawn": 12,
-              "lost": 12,
-              "gf": 49,
-              "ga": 45,
-              "gd": 4,
-              "points": 42
-            },
-            {
-              "team": {
-                "id": "18267",
-                "name": "Cincinnati",
-                "abbreviation": "CIN",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
-              },
-              "rank": 9,
-              "played": 34,
-              "won": 12,
-              "drawn": 10,
-              "lost": 12,
-              "gf": 67,
-              "ga": 75,
-              "gd": -8,
-              "points": 46
-            },
-            {
-              "team": {
-                "id": "18418",
-                "name": "Atlanta",
-                "abbreviation": "ATL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"
-              },
-              "rank": 13,
-              "played": 34,
-              "won": 9,
-              "drawn": 6,
-              "lost": 19,
-              "gf": 43,
-              "ga": 60,
-              "gd": -17,
-              "points": 33
-            },
-            {
-              "team": {
                 "id": "18986",
                 "name": "Nashville",
                 "abbreviation": "NSH",
@@ -27010,6 +26806,40 @@
             },
             {
               "team": {
+                "id": "189",
+                "name": "New England",
+                "abbreviation": "NE",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
+              },
+              "rank": 3,
+              "played": 34,
+              "won": 18,
+              "drawn": 4,
+              "lost": 12,
+              "gf": 55,
+              "ga": 47,
+              "gd": 8,
+              "points": 58
+            },
+            {
+              "team": {
+                "id": "182",
+                "name": "Chicago",
+                "abbreviation": "CHI",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
+              },
+              "rank": 4,
+              "played": 34,
+              "won": 16,
+              "drawn": 7,
+              "lost": 11,
+              "gf": 64,
+              "ga": 54,
+              "gd": 10,
+              "points": 55
+            },
+            {
+              "team": {
                 "id": "21300",
                 "name": "Charlotte",
                 "abbreviation": "CLT",
@@ -27024,6 +26854,176 @@
               "ga": 51,
               "gd": 15,
               "points": 54
+            },
+            {
+              "team": {
+                "id": "10739",
+                "name": "Philadelphia",
+                "abbreviation": "PHI",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
+              },
+              "rank": 6,
+              "played": 34,
+              "won": 14,
+              "drawn": 8,
+              "lost": 12,
+              "gf": 66,
+              "ga": 52,
+              "gd": 14,
+              "points": 50
+            },
+            {
+              "team": {
+                "id": "183",
+                "name": "Columbus",
+                "abbreviation": "CLB",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
+              },
+              "rank": 7,
+              "played": 34,
+              "won": 14,
+              "drawn": 5,
+              "lost": 15,
+              "gf": 59,
+              "ga": 52,
+              "gd": 7,
+              "points": 47
+            },
+            {
+              "team": {
+                "id": "12011",
+                "name": "Orlando",
+                "abbreviation": "ORL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png"
+              },
+              "rank": 8,
+              "played": 34,
+              "won": 13,
+              "drawn": 7,
+              "lost": 14,
+              "gf": 63,
+              "ga": 78,
+              "gd": -15,
+              "points": 46
+            },
+            {
+              "team": {
+                "id": "18267",
+                "name": "Cincinnati",
+                "abbreviation": "CIN",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
+              },
+              "rank": 9,
+              "played": 34,
+              "won": 12,
+              "drawn": 10,
+              "lost": 12,
+              "gf": 67,
+              "ga": 75,
+              "gd": -8,
+              "points": 46
+            },
+            {
+              "team": {
+                "id": "190",
+                "name": "Red Bull NY",
+                "abbreviation": "RBNY",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
+              },
+              "rank": 10,
+              "played": 34,
+              "won": 12,
+              "drawn": 6,
+              "lost": 16,
+              "gf": 48,
+              "ga": 62,
+              "gd": -14,
+              "points": 42
+            },
+            {
+              "team": {
+                "id": "17606",
+                "name": "NYCFC",
+                "abbreviation": "NYC",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
+              },
+              "rank": 11,
+              "played": 34,
+              "won": 10,
+              "drawn": 12,
+              "lost": 12,
+              "gf": 49,
+              "ga": 45,
+              "gd": 4,
+              "points": 42
+            },
+            {
+              "team": {
+                "id": "7318",
+                "name": "Toronto",
+                "abbreviation": "TOR",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png"
+              },
+              "rank": 12,
+              "played": 34,
+              "won": 9,
+              "drawn": 12,
+              "lost": 13,
+              "gf": 52,
+              "ga": 67,
+              "gd": -15,
+              "points": 39
+            },
+            {
+              "team": {
+                "id": "18418",
+                "name": "Atlanta",
+                "abbreviation": "ATL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"
+              },
+              "rank": 13,
+              "played": 34,
+              "won": 9,
+              "drawn": 6,
+              "lost": 19,
+              "gf": 43,
+              "ga": 60,
+              "gd": -17,
+              "points": 33
+            },
+            {
+              "team": {
+                "id": "193",
+                "name": "D.C. United",
+                "abbreviation": "DC",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png"
+              },
+              "rank": 14,
+              "played": 34,
+              "won": 7,
+              "drawn": 12,
+              "lost": 15,
+              "gf": 39,
+              "ga": 61,
+              "gd": -22,
+              "points": 33
+            },
+            {
+              "team": {
+                "id": "9720",
+                "name": "CF Montréal",
+                "abbreviation": "MTL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png"
+              },
+              "rank": 15,
+              "played": 34,
+              "won": 6,
+              "drawn": 8,
+              "lost": 20,
+              "gf": 37,
+              "ga": 69,
+              "gd": -32,
+              "points": 26
             }
           ]
         },
@@ -27032,20 +27032,20 @@
           "rows": [
             {
               "team": {
-                "id": "184",
-                "name": "Colorado",
-                "abbreviation": "COL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
+                "id": "9727",
+                "name": "Vancouver",
+                "abbreviation": "VAN",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
               },
-              "rank": 12,
+              "rank": 1,
               "played": 34,
-              "won": 12,
+              "won": 19,
               "drawn": 7,
-              "lost": 15,
-              "gf": 47,
-              "ga": 50,
-              "gd": -3,
-              "points": 43
+              "lost": 8,
+              "gf": 74,
+              "ga": 34,
+              "gd": 40,
+              "points": 64
             },
             {
               "team": {
@@ -27066,37 +27066,20 @@
             },
             {
               "team": {
-                "id": "186",
-                "name": "Kansas City",
-                "abbreviation": "SKC",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png"
+                "id": "21812",
+                "name": "St. Louis",
+                "abbreviation": "STL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
               },
-              "rank": 15,
+              "rank": 3,
               "played": 34,
-              "won": 7,
-              "drawn": 5,
-              "lost": 22,
-              "gf": 40,
-              "ga": 81,
-              "gd": -41,
-              "points": 26
-            },
-            {
-              "team": {
-                "id": "187",
-                "name": "LA Galaxy",
-                "abbreviation": "LA",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
-              },
-              "rank": 11,
-              "played": 34,
-              "won": 11,
-              "drawn": 11,
-              "lost": 12,
-              "gf": 50,
-              "ga": 57,
-              "gd": -7,
-              "points": 44
+              "won": 15,
+              "drawn": 9,
+              "lost": 10,
+              "gf": 59,
+              "ga": 48,
+              "gd": 11,
+              "points": 54
             },
             {
               "team": {
@@ -27117,23 +27100,6 @@
             },
             {
               "team": {
-                "id": "4771",
-                "name": "Salt Lake",
-                "abbreviation": "RSL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
-              },
-              "rank": 9,
-              "played": 34,
-              "won": 13,
-              "drawn": 6,
-              "lost": 15,
-              "gf": 53,
-              "ga": 52,
-              "gd": 1,
-              "points": 45
-            },
-            {
-              "team": {
                 "id": "6077",
                 "name": "Houston",
                 "abbreviation": "HOU",
@@ -27148,6 +27114,23 @@
               "ga": 43,
               "gd": 0,
               "points": 51
+            },
+            {
+              "team": {
+                "id": "18966",
+                "name": "LAFC",
+                "abbreviation": "LAFC",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
+              },
+              "rank": 6,
+              "played": 34,
+              "won": 12,
+              "drawn": 11,
+              "lost": 11,
+              "gf": 52,
+              "ga": 40,
+              "gd": 12,
+              "points": 47
             },
             {
               "team": {
@@ -27185,20 +27168,20 @@
             },
             {
               "team": {
-                "id": "9727",
-                "name": "Vancouver",
-                "abbreviation": "VAN",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"
+                "id": "4771",
+                "name": "Salt Lake",
+                "abbreviation": "RSL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
               },
-              "rank": 1,
+              "rank": 9,
               "played": 34,
-              "won": 19,
-              "drawn": 7,
-              "lost": 8,
-              "gf": 74,
-              "ga": 34,
-              "gd": 40,
-              "points": 64
+              "won": 13,
+              "drawn": 6,
+              "lost": 15,
+              "gf": 53,
+              "ga": 52,
+              "gd": 1,
+              "points": 45
             },
             {
               "team": {
@@ -27219,20 +27202,54 @@
             },
             {
               "team": {
-                "id": "18966",
-                "name": "LAFC",
-                "abbreviation": "LAFC",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
+                "id": "187",
+                "name": "LA Galaxy",
+                "abbreviation": "LA",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
               },
-              "rank": 6,
+              "rank": 11,
+              "played": 34,
+              "won": 11,
+              "drawn": 11,
+              "lost": 12,
+              "gf": 50,
+              "ga": 57,
+              "gd": -7,
+              "points": 44
+            },
+            {
+              "team": {
+                "id": "184",
+                "name": "Colorado",
+                "abbreviation": "COL",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
+              },
+              "rank": 12,
               "played": 34,
               "won": 12,
+              "drawn": 7,
+              "lost": 15,
+              "gf": 47,
+              "ga": 50,
+              "gd": -3,
+              "points": 43
+            },
+            {
+              "team": {
+                "id": "22529",
+                "name": "San Diego",
+                "abbreviation": "SD",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png"
+              },
+              "rank": 13,
+              "played": 34,
+              "won": 9,
               "drawn": 11,
-              "lost": 11,
-              "gf": 52,
-              "ga": 40,
-              "gd": 12,
-              "points": 47
+              "lost": 14,
+              "gf": 57,
+              "ga": 63,
+              "gd": -6,
+              "points": 38
             },
             {
               "team": {
@@ -27253,42 +27270,35 @@
             },
             {
               "team": {
-                "id": "21812",
-                "name": "St. Louis",
-                "abbreviation": "STL",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
+                "id": "186",
+                "name": "Kansas City",
+                "abbreviation": "SKC",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png"
               },
-              "rank": 3,
+              "rank": 15,
               "played": 34,
-              "won": 15,
-              "drawn": 9,
-              "lost": 10,
-              "gf": 59,
-              "ga": 48,
-              "gd": 11,
-              "points": 54
-            },
-            {
-              "team": {
-                "id": "22529",
-                "name": "San Diego",
-                "abbreviation": "SD",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png"
-              },
-              "rank": 13,
-              "played": 34,
-              "won": 9,
-              "drawn": 11,
-              "lost": 14,
-              "gf": 57,
-              "ga": 63,
-              "gd": -6,
-              "points": 38
+              "won": 7,
+              "drawn": 5,
+              "lost": 22,
+              "gf": 40,
+              "ga": 81,
+              "gd": -41,
+              "points": 26
             }
           ]
         }
       ],
       "news": [
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
+          "title": "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
+          "description": "The wild card kicks off the MLS Cup playoffs on Thursday, so who will advance to Round 1? ESPN's U.S. soccer analysts make their predictions.",
+          "url": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747073_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T14:46:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50452764/mls-cup-playoff-power-rankings",
           "title": "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?",
@@ -27516,16 +27526,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/761940",
           "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761940.png?templateId=espn.applewatch.awayhome.1",
           "publishedUtc": "2026-11-07T23:35:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50413489/inter-miami-cf-vs-charlotte-fc-game-highlights",
-          "title": "Inter Miami CF vs. Charlotte FC - Game Highlights",
-          "description": "Watch the Game Highlights from Inter Miami CF vs. Charlotte FC, 11/07/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50413489/inter-miami-cf-vs-charlotte-fc-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1107/a77b9a2b-0128-4e44-8a77-b913b68328e9/a77b9a2b-0128-4e44-8a77-b913b68328e9.jpg",
-          "publishedUtc": "2026-11-07T23:24:27Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28292,7 +28292,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-17T10:29:06.235Z",
+      "updatedUtc": "2026-11-17T15:11:14.440Z",
       "matches": [
         {
           "id": "760415",
@@ -30814,20 +30814,20 @@
             },
             {
               "team": {
-                "id": "450",
-                "name": "Czechia",
-                "abbreviation": "CZE",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png"
+                "id": "467",
+                "name": "South Africa",
+                "abbreviation": "RSA",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png"
               },
-              "rank": 4,
+              "rank": 2,
               "played": 3,
-              "won": 0,
+              "won": 1,
               "drawn": 1,
-              "lost": 2,
+              "lost": 1,
               "gf": 2,
-              "ga": 6,
-              "gd": -4,
-              "points": 1
+              "ga": 3,
+              "gd": -1,
+              "points": 4
             },
             {
               "team": {
@@ -30848,26 +30848,43 @@
             },
             {
               "team": {
-                "id": "467",
-                "name": "South Africa",
-                "abbreviation": "RSA",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png"
+                "id": "450",
+                "name": "Czechia",
+                "abbreviation": "CZE",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png"
               },
-              "rank": 2,
+              "rank": 4,
               "played": 3,
-              "won": 1,
+              "won": 0,
               "drawn": 1,
-              "lost": 1,
+              "lost": 2,
               "gf": 2,
-              "ga": 3,
-              "gd": -1,
-              "points": 4
+              "ga": 6,
+              "gd": -4,
+              "points": 1
             }
           ]
         },
         {
           "name": "Group B",
           "rows": [
+            {
+              "team": {
+                "id": "475",
+                "name": "Switzerland",
+                "abbreviation": "SUI",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+              },
+              "rank": 1,
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 7,
+              "ga": 3,
+              "gd": 4,
+              "points": 7
+            },
             {
               "team": {
                 "id": "206",
@@ -30901,23 +30918,6 @@
               "ga": 6,
               "gd": -1,
               "points": 4
-            },
-            {
-              "team": {
-                "id": "475",
-                "name": "Switzerland",
-                "abbreviation": "SUI",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
-              },
-              "rank": 1,
-              "played": 3,
-              "won": 2,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 7,
-              "ga": 3,
-              "gd": 4,
-              "points": 7
             },
             {
               "team": {
@@ -30960,6 +30960,23 @@
             },
             {
               "team": {
+                "id": "2869",
+                "name": "Morocco",
+                "abbreviation": "MAR",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png"
+              },
+              "rank": 2,
+              "played": 3,
+              "won": 2,
+              "drawn": 1,
+              "lost": 0,
+              "gf": 6,
+              "ga": 3,
+              "gd": 3,
+              "points": 7
+            },
+            {
+              "team": {
                 "id": "580",
                 "name": "Scotland",
                 "abbreviation": "SCO",
@@ -30991,29 +31008,46 @@
               "ga": 8,
               "gd": -6,
               "points": 0
-            },
-            {
-              "team": {
-                "id": "2869",
-                "name": "Morocco",
-                "abbreviation": "MAR",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png"
-              },
-              "rank": 2,
-              "played": 3,
-              "won": 2,
-              "drawn": 1,
-              "lost": 0,
-              "gf": 6,
-              "ga": 3,
-              "gd": 3,
-              "points": 7
             }
           ]
         },
         {
           "name": "Group D",
           "rows": [
+            {
+              "team": {
+                "id": "660",
+                "name": "USA",
+                "abbreviation": "USA",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+              },
+              "rank": 1,
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "gf": 8,
+              "ga": 4,
+              "gd": 4,
+              "points": 6
+            },
+            {
+              "team": {
+                "id": "628",
+                "name": "Australia",
+                "abbreviation": "AUS",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
+              },
+              "rank": 2,
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "gf": 2,
+              "ga": 2,
+              "gd": 0,
+              "points": 4
+            },
             {
               "team": {
                 "id": "210",
@@ -31047,63 +31081,12 @@
               "ga": 5,
               "gd": -2,
               "points": 3
-            },
-            {
-              "team": {
-                "id": "628",
-                "name": "Australia",
-                "abbreviation": "AUS",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
-              },
-              "rank": 2,
-              "played": 3,
-              "won": 1,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 2,
-              "ga": 2,
-              "gd": 0,
-              "points": 4
-            },
-            {
-              "team": {
-                "id": "660",
-                "name": "USA",
-                "abbreviation": "USA",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
-              },
-              "rank": 1,
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "gf": 8,
-              "ga": 4,
-              "gd": 4,
-              "points": 6
             }
           ]
         },
         {
           "name": "Group E",
           "rows": [
-            {
-              "team": {
-                "id": "209",
-                "name": "Ecuador",
-                "abbreviation": "ECU",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"
-              },
-              "rank": 3,
-              "played": 3,
-              "won": 1,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 2,
-              "ga": 2,
-              "gd": 0,
-              "points": 4
-            },
             {
               "team": {
                 "id": "481",
@@ -31137,6 +31120,23 @@
               "ga": 2,
               "gd": 2,
               "points": 6
+            },
+            {
+              "team": {
+                "id": "209",
+                "name": "Ecuador",
+                "abbreviation": "ECU",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"
+              },
+              "rank": 3,
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "gf": 2,
+              "ga": 2,
+              "gd": 0,
+              "points": 4
             },
             {
               "team": {
@@ -31179,23 +31179,6 @@
             },
             {
               "team": {
-                "id": "466",
-                "name": "Sweden",
-                "abbreviation": "SWE",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
-              },
-              "rank": 3,
-              "played": 3,
-              "won": 1,
-              "drawn": 1,
-              "lost": 1,
-              "gf": 7,
-              "ga": 7,
-              "gd": 0,
-              "points": 4
-            },
-            {
-              "team": {
                 "id": "627",
                 "name": "Japan",
                 "abbreviation": "JPN",
@@ -31210,6 +31193,23 @@
               "ga": 3,
               "gd": 4,
               "points": 5
+            },
+            {
+              "team": {
+                "id": "466",
+                "name": "Sweden",
+                "abbreviation": "SWE",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+              },
+              "rank": 3,
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "gf": 7,
+              "ga": 7,
+              "gd": 0,
+              "points": 4
             },
             {
               "team": {
@@ -31252,23 +31252,6 @@
             },
             {
               "team": {
-                "id": "469",
-                "name": "Iran",
-                "abbreviation": "IRN",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png"
-              },
-              "rank": 3,
-              "played": 3,
-              "won": 0,
-              "drawn": 3,
-              "lost": 0,
-              "gf": 3,
-              "ga": 3,
-              "gd": 0,
-              "points": 3
-            },
-            {
-              "team": {
                 "id": "2620",
                 "name": "Egypt",
                 "abbreviation": "EGY",
@@ -31283,6 +31266,23 @@
               "ga": 3,
               "gd": 2,
               "points": 5
+            },
+            {
+              "team": {
+                "id": "469",
+                "name": "Iran",
+                "abbreviation": "IRN",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png"
+              },
+              "rank": 3,
+              "played": 3,
+              "won": 0,
+              "drawn": 3,
+              "lost": 0,
+              "gf": 3,
+              "ga": 3,
+              "gd": 0,
+              "points": 3
             },
             {
               "team": {
@@ -31325,6 +31325,23 @@
             },
             {
               "team": {
+                "id": "2597",
+                "name": "Cape Verde",
+                "abbreviation": "CPV",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png"
+              },
+              "rank": 2,
+              "played": 3,
+              "won": 0,
+              "drawn": 3,
+              "lost": 0,
+              "gf": 2,
+              "ga": 2,
+              "gd": 0,
+              "points": 3
+            },
+            {
+              "team": {
                 "id": "212",
                 "name": "Uruguay",
                 "abbreviation": "URU",
@@ -31356,46 +31373,12 @@
               "ga": 5,
               "gd": -4,
               "points": 2
-            },
-            {
-              "team": {
-                "id": "2597",
-                "name": "Cape Verde",
-                "abbreviation": "CPV",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png"
-              },
-              "rank": 2,
-              "played": 3,
-              "won": 0,
-              "drawn": 3,
-              "lost": 0,
-              "gf": 2,
-              "ga": 2,
-              "gd": 0,
-              "points": 3
             }
           ]
         },
         {
           "name": "Group I",
           "rows": [
-            {
-              "team": {
-                "id": "464",
-                "name": "Norway",
-                "abbreviation": "NOR",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
-              },
-              "rank": 2,
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "gf": 8,
-              "ga": 7,
-              "gd": 1,
-              "points": 6
-            },
             {
               "team": {
                 "id": "478",
@@ -31412,6 +31395,23 @@
               "ga": 2,
               "gd": 8,
               "points": 9
+            },
+            {
+              "team": {
+                "id": "464",
+                "name": "Norway",
+                "abbreviation": "NOR",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
+              },
+              "rank": 2,
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "gf": 8,
+              "ga": 7,
+              "gd": 1,
+              "points": 6
             },
             {
               "team": {
@@ -31561,23 +31561,6 @@
             },
             {
               "team": {
-                "id": "2570",
-                "name": "Uzbekistan",
-                "abbreviation": "UZB",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
-              },
-              "rank": 4,
-              "played": 3,
-              "won": 0,
-              "drawn": 0,
-              "lost": 3,
-              "gf": 2,
-              "ga": 11,
-              "gd": -9,
-              "points": 0
-            },
-            {
-              "team": {
                 "id": "2850",
                 "name": "Congo DR",
                 "abbreviation": "COD",
@@ -31592,6 +31575,23 @@
               "ga": 3,
               "gd": 1,
               "points": 4
+            },
+            {
+              "team": {
+                "id": "2570",
+                "name": "Uzbekistan",
+                "abbreviation": "UZB",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
+              },
+              "rank": 4,
+              "played": 3,
+              "won": 0,
+              "drawn": 0,
+              "lost": 3,
+              "gf": 2,
+              "ga": 11,
+              "gd": -9,
+              "points": 0
             }
           ]
         },
@@ -31634,23 +31634,6 @@
             },
             {
               "team": {
-                "id": "2659",
-                "name": "Panama",
-                "abbreviation": "PAN",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png"
-              },
-              "rank": 4,
-              "played": 3,
-              "won": 0,
-              "drawn": 0,
-              "lost": 3,
-              "gf": 0,
-              "ga": 4,
-              "gd": -4,
-              "points": 0
-            },
-            {
-              "team": {
                 "id": "4469",
                 "name": "Ghana",
                 "abbreviation": "GHA",
@@ -31665,18 +31648,45 @@
               "ga": 2,
               "gd": 0,
               "points": 4
+            },
+            {
+              "team": {
+                "id": "2659",
+                "name": "Panama",
+                "abbreviation": "PAN",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png"
+              },
+              "rank": 4,
+              "played": 3,
+              "won": 0,
+              "drawn": 0,
+              "lost": 3,
+              "gf": 0,
+              "ga": 4,
+              "gd": -4,
+              "points": 0
             }
           ]
         }
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50509967/france-fa-diallo-confirms-challenge-infantino-fifa",
+          "title": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
+          "description": "French Football Federation leader Philippe Diallo confirmed his intention on Tuesday to challenge Gianni Infantino for the FIFA presidency.",
+          "url": "https://www.espn.com/soccer/story/_/id/50509967/france-fa-diallo-confirms-challenge-infantino-fifa",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0728/r1694552_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T13:44:49Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
           "title": "The USMNT doesn't need a hero like Pep Guardiola as its next manager",
           "description": "The U.S. men's national team is saying goodbye to Mauricio Pochettino while hoping to attract Pep Guardiola as its next manager. But is a superstar coach what this team really needs?",
           "url": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
           "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747006_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T08:45:42Z",
+          "publishedUtc": "2026-11-17T10:47:56Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -31887,16 +31897,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
           "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736984_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-27T17:17:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
-          "title": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
-          "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
-          "url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-02T15:32:40Z",
           "source": "ESPN",
           "transfer": false
         }
