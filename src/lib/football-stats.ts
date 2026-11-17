@@ -66,6 +66,35 @@ export function mapFootballScoreboard(json: any): FootballMatch[] {
   return matches.sort((a: FootballMatch, b: FootballMatch) => a.utc.localeCompare(b.utc));
 }
 
+export function mapFootballTables(json: any): LeagueTable[] {
+  return (json?.children ?? []).flatMap((child: any, index: number) => {
+    const entries = child?.standings?.entries ?? [];
+    if (!entries.length) return [];
+    const rows = entries
+      .map((entry: any, rowIndex: number) => {
+        const stat = (name: string) =>
+          number(entry?.stats?.find((item: any) => item.name === name)?.value);
+        return {
+          team: mapClub(entry.team),
+          rank: stat('rank') || rowIndex + 1,
+          played: stat('gamesPlayed'),
+          won: stat('wins'),
+          drawn: stat('ties'),
+          lost: stat('losses'),
+          gf: stat('pointsFor'),
+          ga: stat('pointsAgainst'),
+          gd: stat('pointDifferential'),
+          points: stat('points'),
+        };
+      })
+      .sort((a: LeagueTable['rows'][number], b: LeagueTable['rows'][number]) => a.rank - b.rank);
+    return [{
+      name: text(child?.name) || text(child?.abbreviation) || (index ? `Table ${index + 1}` : 'Standings'),
+      rows,
+    }];
+  });
+}
+
 export function mergeFootballMatches<T extends FootballMatch>(
   saved: T[],
   refreshed: T[]

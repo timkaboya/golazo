@@ -3,6 +3,7 @@ import {
   aggregateFootballLeaders,
   footballScoreboardYears,
   groupMatches,
+  mapFootballTables,
   mapFootballScoreboard,
   mapFootballLeaders,
   mergeFootballMatches,
@@ -86,6 +87,70 @@ describe('mapFootballScoreboard', () => {
     expect(matches).toHaveLength(1);
     expect(matches[0]).toMatchObject({ id: 'next', status: 'upcoming', note: '6:45 PM' });
     expect(matches[0]).not.toHaveProperty('score');
+  });
+});
+
+describe('mapFootballTables', () => {
+  const entry = (name: string, rank: number, points: number) => ({
+    team: { id: name.toLowerCase(), shortDisplayName: name, abbreviation: name.slice(0, 3) },
+    stats: [
+      { name: 'rank', value: rank },
+      { name: 'gamesPlayed', value: 6 },
+      { name: 'wins', value: 4 },
+      { name: 'ties', value: 1 },
+      { name: 'losses', value: 1 },
+      { name: 'pointsFor', value: 12 },
+      { name: 'pointsAgainst', value: 7 },
+      { name: 'pointDifferential', value: 5 },
+      { name: 'points', value: points },
+    ],
+  });
+
+  it('sorts provider standings by official rank and maps table statistics', () => {
+    const tables = mapFootballTables({
+      children: [{
+        name: 'Group A1',
+        standings: {
+          entries: [
+            entry('Italy', 3, 10),
+            entry('France', 1, 13),
+            entry('Belgium', 2, 12),
+          ],
+        },
+      }],
+    });
+
+    expect(tables[0].rows.map((row) => row.team.name)).toEqual(['France', 'Belgium', 'Italy']);
+    expect(tables[0].rows[0]).toMatchObject({
+      rank: 1,
+      played: 6,
+      won: 4,
+      drawn: 1,
+      lost: 1,
+      gf: 12,
+      ga: 7,
+      gd: 5,
+      points: 13,
+    });
+  });
+
+  it('omits empty tables and supplies fallback names and ranks', () => {
+    const tables = mapFootballTables({
+      children: [
+        { standings: { entries: [] } },
+        {
+          standings: {
+            entries: [{ team: { id: 'tbd', displayName: 'TBD FC' }, stats: [] }],
+          },
+        },
+      ],
+    });
+
+    expect(tables).toHaveLength(1);
+    expect(tables[0]).toMatchObject({
+      name: 'Table 2',
+      rows: [{ rank: 1, points: 0, team: { name: 'TBD FC' } }],
+    });
   });
 });
 

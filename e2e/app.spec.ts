@@ -61,6 +61,7 @@ test('competition page shows matches table news and transfers', async ({ page })
 test('live scoreboard moves an upcoming match to live and then to recent', async ({ page }) => {
   await page.unroute('**/api/football-scores*');
   let requests = 0;
+  const matchUtc = new Date().toISOString();
   await page.route('**/api/football-scores*', (route) => {
     requests += 1;
     const finished = requests > 1;
@@ -68,14 +69,14 @@ test('live scoreboard moves an upcoming match to live and then to recent', async
       contentType: 'application/json',
       body: JSON.stringify({
         version: 1,
-        updatedUtc: '2026-10-06T20:06:00Z',
+        updatedUtc: matchUtc,
         competitions: [{
           slug: 'nations-league',
           name: 'Nations League',
           espn: 'uefa.nations',
           matches: [{
             id: '401861137',
-            utc: '2026-10-06T18:45Z',
+            utc: matchUtc,
             phase: 'League Phase',
             home: { id: '477', name: 'Croatia', abbreviation: 'CRO' },
             away: { id: '164', name: 'Spain', abbreviation: 'ESP' },
@@ -96,7 +97,12 @@ test('live scoreboard moves an upcoming match to live and then to recent', async
   await expect(liveCard.locator('.football-match-score')).toHaveText(['1', '1']);
   await expect(page.locator('.match-board.is-upcoming .football-match[data-match-id="401861137"]')).toHaveCount(0);
 
+  await expect.poll(() => requests).toBe(1);
+  await page.evaluate(() => new Promise<void>((resolve) =>
+    requestAnimationFrame(() => requestAnimationFrame(() => resolve()))
+  ));
   await page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')));
+  await expect.poll(() => requests).toBe(2);
   const recentCard = page.locator('.match-board.is-recent .football-match[data-match-id="401861137"]');
   await expect(recentCard).toBeVisible();
   await expect(recentCard).toContainText('FT');
