@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-17T20:43:54.966Z",
+  "updatedUtc": "2026-11-18T03:34:08.721Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.725Z",
+      "updatedUtc": "2026-11-18T03:34:08.402Z",
       "matches": [
         {
           "id": "401915415",
@@ -3393,7 +3393,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.716Z",
+      "updatedUtc": "2026-11-18T03:34:08.366Z",
       "matches": [
         {
           "id": "401915560",
@@ -6785,7 +6785,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.816Z",
+      "updatedUtc": "2026-11-18T03:34:08.616Z",
       "matches": [
         {
           "id": "401879233",
@@ -8737,6 +8737,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
+          "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
+          "description": "JJ Gabriel has confirmed his departure from Manchester United in a post on Instagram and thanked the club for the role they have played in his career.",
+          "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T21:06:50Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50511813/matheus-nunes-man-city-deal",
           "title": "Matheus Nunes in talks to extend Man City deal - sources",
           "description": "Manchester City are in talks with Matheus Nunes about extending his contract at the Etihad Stadium, sources have told ESPN.",
@@ -8765,16 +8775,6 @@
           "publishedUtc": "2026-11-17T12:21:31Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
-          "title": "Transfer rumors, news: Manchester United eye Newcastle defender Malick Thiaw",
-          "description": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747004_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T12:10:02Z",
-          "source": "ESPN",
-          "transfer": true
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
@@ -9722,7 +9722,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.880Z",
+      "updatedUtc": "2026-11-18T03:34:08.664Z",
       "matches": [
         {
           "id": "401882827",
@@ -12768,7 +12768,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.920Z",
+      "updatedUtc": "2026-11-18T03:34:08.503Z",
       "matches": [
         {
           "id": "401874980",
@@ -15828,7 +15828,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.829Z",
+      "updatedUtc": "2026-11-18T03:34:08.587Z",
       "matches": [
         {
           "id": "401884769",
@@ -18871,7 +18871,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.883Z",
+      "updatedUtc": "2026-11-18T03:34:08.630Z",
       "matches": [
         {
           "id": "401876437",
@@ -21756,7 +21756,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-17T20:43:54.713Z",
+      "updatedUtc": "2026-11-18T03:34:08.453Z",
       "matches": [
         {
           "id": "401861146",
@@ -22831,12 +22831,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
           },
           "venue": "Bilino Polje Stadium, Zenica",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
+            "home": 2,
             "away": 1
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "401861194",
@@ -22855,12 +22855,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
           },
           "venue": "Parken Stadium, Copenhagen",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 2,
-            "away": 1
+            "away": 3
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "401861191",
@@ -22879,12 +22879,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
           },
           "venue": "Puskás Aréna, Budapest",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
-            "away": 0
+            "away": 1
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "401861193",
@@ -22903,12 +22903,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
           },
           "venue": "Nagyerdei Stadium, Debrecen",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
-            "away": 0
+            "away": 1
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "401861195",
@@ -22927,12 +22927,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
           },
           "venue": "Municipal Stadium Wroclaw, Wroclaw",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
             "away": 1
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "401861192",
@@ -22951,12 +22951,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png"
           },
           "venue": "Aviva Stadium, Dublin",
-          "status": "live",
+          "status": "finished",
           "score": {
-            "home": 1,
+            "home": 3,
             "away": 0
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "401861190",
@@ -22975,12 +22975,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png"
           },
           "venue": "Košická futbalová aréna (KFA), Kosice",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 1,
             "away": 0
           },
-          "note": "HT"
+          "note": "FT"
         },
         {
           "id": "401861189",
@@ -22999,12 +22999,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
           },
           "venue": "Cardiff City Stadium, Cardiff",
-          "status": "live",
+          "status": "finished",
           "score": {
             "home": 2,
-            "away": 2
+            "away": 3
           },
-          "note": "HT"
+          "note": "FT"
         }
       ],
       "tables": [
@@ -23238,31 +23238,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
               },
               "rank": 1,
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "gf": 10,
-              "ga": 8,
-              "gd": 2,
-              "points": 12
-            },
-            {
-              "team": {
-                "id": "479",
-                "name": "Denmark",
-                "abbreviation": "DEN",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
-              },
-              "rank": 2,
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "gf": 11,
-              "ga": 8,
+              "gf": 13,
+              "ga": 10,
               "gd": 3,
-              "points": 9
+              "points": 15
             },
             {
               "team": {
@@ -23271,15 +23254,32 @@
                 "abbreviation": "NOR",
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
               },
-              "rank": 3,
-              "played": 5,
-              "won": 2,
+              "rank": 2,
+              "played": 6,
+              "won": 3,
               "drawn": 0,
               "lost": 3,
-              "gf": 9,
-              "ga": 9,
-              "gd": 0,
-              "points": 6
+              "gf": 12,
+              "ga": 11,
+              "gd": 1,
+              "points": 9
+            },
+            {
+              "team": {
+                "id": "479",
+                "name": "Denmark",
+                "abbreviation": "DEN",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
+              },
+              "rank": 3,
+              "played": 6,
+              "won": 3,
+              "drawn": 0,
+              "lost": 3,
+              "gf": 13,
+              "ga": 11,
+              "gd": 2,
+              "points": 9
             },
             {
               "team": {
@@ -23289,13 +23289,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png"
               },
               "rank": 4,
-              "played": 5,
+              "played": 6,
               "won": 1,
               "drawn": 0,
-              "lost": 4,
-              "gf": 3,
-              "ga": 8,
-              "gd": -5,
+              "lost": 5,
+              "gf": 5,
+              "ga": 11,
+              "gd": -6,
               "points": 3
             }
           ]
@@ -23384,14 +23384,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
               },
               "rank": 1,
-              "played": 5,
+              "played": 6,
               "won": 3,
-              "drawn": 2,
+              "drawn": 3,
               "lost": 0,
-              "gf": 5,
-              "ga": 0,
+              "gf": 6,
+              "ga": 1,
               "gd": 5,
-              "points": 11
+              "points": 12
             },
             {
               "team": {
@@ -23401,14 +23401,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
               },
               "rank": 2,
-              "played": 5,
+              "played": 6,
               "won": 3,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 1,
-              "gf": 5,
-              "ga": 2,
+              "gf": 6,
+              "ga": 3,
               "gd": 3,
-              "points": 10
+              "points": 11
             },
             {
               "team": {
@@ -23418,14 +23418,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png"
               },
               "rank": 3,
-              "played": 5,
-              "won": 1,
+              "played": 6,
+              "won": 2,
               "drawn": 1,
               "lost": 3,
-              "gf": 2,
+              "gf": 3,
               "ga": 6,
-              "gd": -4,
-              "points": 4
+              "gd": -3,
+              "points": 7
             },
             {
               "team": {
@@ -23435,13 +23435,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png"
               },
               "rank": 4,
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 2,
-              "lost": 3,
+              "lost": 4,
               "gf": 0,
-              "ga": 4,
-              "gd": -4,
+              "ga": 5,
+              "gd": -5,
               "points": 2
             }
           ]
@@ -23457,31 +23457,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
               },
               "rank": 1,
-              "played": 5,
+              "played": 6,
               "won": 3,
-              "drawn": 2,
-              "lost": 0,
-              "gf": 10,
-              "ga": 5,
-              "gd": 5,
-              "points": 11
-            },
-            {
-              "team": {
-                "id": "18272",
-                "name": "Kosovo",
-                "abbreviation": "KOS",
-                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png"
-              },
-              "rank": 2,
-              "played": 5,
-              "won": 1,
               "drawn": 3,
-              "lost": 1,
-              "gf": 3,
-              "ga": 4,
-              "gd": -1,
-              "points": 6
+              "lost": 0,
+              "gf": 11,
+              "ga": 6,
+              "gd": 5,
+              "points": 12
             },
             {
               "team": {
@@ -23490,15 +23473,32 @@
                 "abbreviation": "IRL",
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png"
               },
-              "rank": 3,
-              "played": 5,
-              "won": 1,
+              "rank": 2,
+              "played": 6,
+              "won": 2,
               "drawn": 2,
               "lost": 2,
-              "gf": 6,
+              "gf": 9,
               "ga": 5,
-              "gd": 1,
-              "points": 5
+              "gd": 4,
+              "points": 8
+            },
+            {
+              "team": {
+                "id": "18272",
+                "name": "Kosovo",
+                "abbreviation": "KOS",
+                "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png"
+              },
+              "rank": 3,
+              "played": 6,
+              "won": 1,
+              "drawn": 3,
+              "lost": 2,
+              "gf": 3,
+              "ga": 7,
+              "gd": -4,
+              "points": 6
             },
             {
               "team": {
@@ -23508,14 +23508,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png"
               },
               "rank": 4,
-              "played": 5,
+              "played": 6,
               "won": 0,
-              "drawn": 3,
+              "drawn": 4,
               "lost": 2,
-              "gf": 2,
-              "ga": 7,
+              "gf": 3,
+              "ga": 8,
               "gd": -5,
-              "points": 3
+              "points": 4
             }
           ]
         },
@@ -23530,14 +23530,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
               },
               "rank": 1,
-              "played": 5,
+              "played": 6,
               "won": 4,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 0,
-              "gf": 10,
-              "ga": 5,
+              "gf": 11,
+              "ga": 6,
               "gd": 5,
-              "points": 13
+              "points": 14
             },
             {
               "team": {
@@ -23547,14 +23547,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png"
               },
               "rank": 2,
-              "played": 5,
-              "won": 2,
+              "played": 6,
+              "won": 3,
               "drawn": 2,
               "lost": 1,
-              "gf": 8,
-              "ga": 6,
-              "gd": 2,
-              "points": 8
+              "gf": 10,
+              "ga": 7,
+              "gd": 3,
+              "points": 11
             },
             {
               "team": {
@@ -23564,14 +23564,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
               },
               "rank": 3,
-              "played": 5,
+              "played": 6,
               "won": 1,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 3,
-              "gf": 8,
-              "ga": 6,
+              "gf": 9,
+              "ga": 7,
               "gd": 2,
-              "points": 4
+              "points": 5
             },
             {
               "team": {
@@ -23581,13 +23581,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
               },
               "rank": 4,
-              "played": 5,
+              "played": 6,
               "won": 1,
               "drawn": 0,
-              "lost": 4,
-              "gf": 5,
-              "ga": 14,
-              "gd": -9,
+              "lost": 5,
+              "gf": 6,
+              "ga": 16,
+              "gd": -10,
               "points": 3
             }
           ]
@@ -23999,6 +23999,76 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50514967/portugal-carlos-forbs-cristiano-ronaldo-7-jersey-wales",
+          "title": "CF7: Portugal move on from Ronaldo with 'special' goal from new No. 7 Forbs",
+          "description": "Portugal secured a much-needed first win since Cristiano Ronaldo's international retirement, courtesy of new No. 7 Carlos Forbs.",
+          "url": "https://www.espn.com/soccer/story/_/id/50514967/portugal-carlos-forbs-cristiano-ronaldo-7-jersey-wales",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T00:41:39Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50514357/important-portugal-win-ronaldo-sooner-rather-later",
+          "title": "Moreno: Important for Portugal to win without Ronaldo 'sooner rather than later'",
+          "description": "Alejandro Moreno reacts to Portugal's first win without Cristiano Ronaldo, triumphing over Wales in the Nations League.",
+          "url": "https://www.espn.com/video/clip/_/id/50514357/important-portugal-win-ronaldo-sooner-rather-later",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_Moreno_Important_for_Portugal_to_win_without_Ronaldo_sooner_rather_than_later/dm_261117_Moreno_Important_for_Portugal_to_win_without_Ronaldo_sooner_rather_than_later.jpg",
+          "publishedUtc": "2026-11-17T22:43:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50514283/haaland-gerd-muller-level-norway",
+          "title": "Fjørtoft: Haaland is 'Gerd Müller level' for Norway",
+          "description": "Jan Åge Fjørtoft praises Erling Haaland's performance for Norway in their 2-3 win over Denmark to advance to the Nations League quarter-finals.",
+          "url": "https://www.espn.com/video/clip/_/id/50514283/haaland-gerd-muller-level-norway",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_Fjortoft_Haaland_is_Gerd_Muller_level_for_Norway/dm_261117_Fjortoft_Haaland_is_Gerd_Muller_level_for_Norway.jpg",
+          "publishedUtc": "2026-11-17T22:27:44Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50514221/republic-ireland-kosovo-nations-league",
+          "title": "Republic of Ireland clinch Nations League play-offs after beating Kosovo",
+          "description": "Troy Parrott fired the Republic of Ireland into a Nations League play-off berth with two penalties in their 3-0 victory over 10-man Kosovo at the Aviva Stadium in Dublin.",
+          "url": "https://www.espn.com/soccer/story/_/id/50514221/republic-ireland-kosovo-nations-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747289_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T23:12:17Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
+          "title": "Haaland sends Norway to Nations League quarters on last-minute penalty",
+          "description": "Erling Haaland delivered for Norway on one of the last plays of the game to give his team a 3-2 win over Denmark to advance to the Nations League quarterfinals.",
+          "url": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747269_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T00:59:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50513974/northern-ireland-hungary-nations-league",
+          "title": "Northern Ireland draw with Hungary enough to seal Nations League promotion",
+          "description": "Justin Devenny's superb strike saw Northern Ireland earn promotion to the top flight of the Nations League with a hard-fought 1-1 draw away to closest challengers Hungary in Budapest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50513974/northern-ireland-hungary-nations-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747270_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T22:43:41Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401861189",
+          "title": "Portugal edge Wales for 1st win of post-Ronaldo era despite Neto red card",
+          "description": "Portugal's new No. 7 Carlos Forbs gave the team its first win of the post-Cristiano Ronaldo era with a 70th-minute goal in Tuesday's 3-2 win over Wales.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401861189",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747282_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-17T22:17:42Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50508827/scotland-john-mcginn-nations-league-defeat",
           "title": "John McGinn: 'Impossible' to say Scotland heading in the right direction",
           "description": "John McGinn admitted that it is \"impossible\" for him to say Scotland are on the right track under Sebastien Pocognoli following their sobering 4-0 Nations League defeat in Switzerland.",
@@ -24165,76 +24235,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50495102/bellingham-star-england-win-spain",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain.jpg",
           "publishedUtc": "2026-11-15T22:42:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50494882/declan-rice-england-spain-lamine-yamal-thomas-tuchel-nations-league",
-          "title": "Declan Rice claims England knew they were going to end Spain's unbeaten run",
-          "description": "England knew they were going to end Spain's long unbeaten run, according to midfielder Declan Rice.",
-          "url": "https://www.espn.com/soccer/story/_/id/50494882/declan-rice-england-spain-lamine-yamal-thomas-tuchel-nations-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746353_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-16T10:49:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401861175",
-          "title": "England hold on for remarkable win in Madrid to end Spain's 43-game unbeaten run",
-          "description": "England ended 2026 with an extraordinary 3-2 triumph in world champions Spain's backyard as Thomas Tuchel's 10 men dug deep to top their Nations League group on a magical night in Madrid.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401861175",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/dm_261116_COM_SOC_Presser_Tuchel_Englands_win_over_Spain_is_a_big_step_161126_GLOBAL/dm_261116_COM_SOC_Presser_Tuchel_Englands_win_over_Spain_is_a_big_step_161126_GLOBAL.jpg",
-          "publishedUtc": "2026-11-15T22:08:51Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401861177",
-          "title": "France beat Türkiye to top group, advance to Nations League quarterfinals",
-          "description": "France booked their place in the Nations League quarterfinals with a 2-1 victory over Türkiye in Bordeaux on Sunday.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401861177",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746314_1024x576_16-9.jpg",
-          "publishedUtc": "2026-11-15T22:12:49Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run",
-          "title": "England hold off Spain rally to end WC winner's 43-game unbeaten run",
-          "description": "England held off a fierce comeback in Madrid on Sunday to end Spain's 43-game unbeaten streak and secure top spot in Nations League Group C with a 3-2 win.",
-          "url": "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746316_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T23:45:47Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50472529/england-nations-league-permutations",
-          "title": "England Nations League permutations: What they need vs. Spain and why it matters",
-          "description": "England have secured their place in the UEFA Nations League quarterfinals, but there is still plenty at stake when Thomas Tuchel's side face Spain in their final group game on Sunday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50472529/england-nations-league-permutations",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1113/r1745302_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T13:16:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50471902/england-thomas-tuchel-spain-nations-league",
-          "title": "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-          "description": "England have made progress since their World Cup heartbreak, but, as ESPN's Tom Hamilton writes, a showdown with Spain will reveal just how far they've come.",
-          "url": "https://www.espn.com/soccer/story/_/id/50471902/england-thomas-tuchel-spain-nations-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1113/r1745284_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T13:15:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league",
-          "title": "'Nonsense' and 'annoying': Zidane dismisses reports over Mbappé relationship",
-          "description": "France coach Zinedine Zidane dismissed reports of a strained relationship with star forward Kylian Mbappé.",
-          "url": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1745944_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T02:24:03Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -24985,7 +24985,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-17T20:43:54.963Z",
+      "updatedUtc": "2026-11-18T03:34:08.720Z",
       "matches": [
         {
           "id": "761892",
@@ -27322,6 +27322,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50513113/mls-fc-cincy-advanced-talks-acquire-nwsl-racing-louisville",
+          "title": "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
+          "description": "The ownership groups of MLS side FC Cincinnati and the NWSL's Racing Louisville FC are nearing an agreement that would relocate the NWSL team to Cincinnati in 2028, multiple sources told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50513113/mls-fc-cincy-advanced-talks-acquire-nwsl-racing-louisville",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747236_1024x576_16-9.jpg",
+          "publishedUtc": "2026-11-17T21:08:44Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
           "title": "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
           "description": "The wild card kicks off the MLS Cup playoffs on Thursday, so who will advance to Round 1? ESPN's U.S. soccer analysts make their predictions.",
@@ -27548,16 +27558,6 @@
           "url": "http://www.espn.com/soccer/report/_/gameId/761938",
           "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761938.png?templateId=espn.applewatch.awayhome.1",
           "publishedUtc": "2026-11-08T00:39:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/761940",
-          "title": "Braian Ojeda scores for Orlando City in 1-0 win over Revolution",
-          "description": "- Braian Ojeda scored a goal, Maxime Crépeau had two saves, and Orlando City beat the New England Revolution 1-0 on Saturday, the final day of the regular season.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/761940",
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761940.png?templateId=espn.applewatch.awayhome.1",
-          "publishedUtc": "2026-11-07T23:35:42Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28324,7 +28324,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-17T20:43:54.966Z",
+      "updatedUtc": "2026-11-18T03:34:08.514Z",
       "matches": [
         {
           "id": "760415",
