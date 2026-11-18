@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-18T03:34:08.721Z",
+  "updatedUtc": "2026-11-18T12:54:09.397Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.402Z",
+      "updatedUtc": "2026-11-18T12:54:09.078Z",
       "matches": [
         {
           "id": "401915415",
@@ -3393,7 +3393,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.366Z",
+      "updatedUtc": "2026-11-18T12:54:09.042Z",
       "matches": [
         {
           "id": "401915560",
@@ -6785,7 +6785,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.616Z",
+      "updatedUtc": "2026-11-18T12:54:09.254Z",
       "matches": [
         {
           "id": "401879233",
@@ -8737,6 +8737,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+          "title": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Wael Mohya",
+          "description": "Liverpool and Bayern Munich are interested in Borussia Mönchengladbach attacking midfielder Wael Mohya. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747524_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T12:02:48Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
+          "title": "Reranking the MVP for each of the top Premier League clubs",
+          "description": "Based on a simple combination of ability and tactical importance, we've reranked the best players in order at the top Premier League clubs.",
+          "url": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1114/r1745603_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T12:02:03Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
+          "title": "Mauricio Pochettino's first day at Man United: 'You will see, give me time'",
+          "description": "Mauricio Pochettino will arrive at Manchester United for his first day as their head coach on Wednesday but said he requires \"time\" to turn their fortunes around.",
+          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747518_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T11:54:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
           "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
           "description": "JJ Gabriel has confirmed his departure from Manchester United in a post on Instagram and thanked the club for the role they have played in his career.",
@@ -8945,36 +8975,6 @@
           "publishedUtc": "2026-11-13T23:58:31Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50475260/pochettino-had-one-foot-door-world-cup",
-          "title": "Moreno: Pochettino had 'one foot out the door' before World Cup",
-          "description": "Moreno: Pochettino had 'one foot out the door' before World Cup",
-          "url": "https://www.espn.com/video/clip/_/id/50475260/pochettino-had-one-foot-door-world-cup",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_Moreno_Pochettino_had_one_foot_out_the_door_before_World_Cup/dm_261113_Moreno_Pochettino_had_one_foot_out_the_door_before_World_Cup.jpg",
-          "publishedUtc": "2026-11-13T23:58:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50470402/live-updates-mauricio-pochettino-usmnt-man-united",
-          "title": "Recap: USMNT's Pochettino in tears as he agrees to join Man United",
-          "description": "USMNT head coach Mauricio Pochettino is leaving to join Manchester United. Read all the news, analysis and reaction from ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50470402/live-updates-mauricio-pochettino-usmnt-man-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1113/r1745277_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-13T17:16:59Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50472256/pochettino-explains-why-decided-join-man-united-leave-usmnt",
-          "title": "Pochettino explains why he decided to join Man United and leave USMNT",
-          "description": "Pochettino explains why he decided to join Man United and leave USMNT",
-          "url": "https://www.espn.com/video/clip/_/id/50472256/pochettino-explains-why-decided-join-man-united-leave-usmnt",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026.jpg",
-          "publishedUtc": "2026-11-13T15:46:02Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -9722,7 +9722,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.664Z",
+      "updatedUtc": "2026-11-18T12:54:09.307Z",
       "matches": [
         {
           "id": "401882827",
@@ -11786,6 +11786,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
+          "title": "Arda Güler signs new six-year Real Madrid contract",
+          "description": "Arda Güler has signed a new, long-term contract at Real Madrid until 2032, the club said on Wednesday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
+          "imageUrl": "https://a.espncdn.com/photo/2026/0116/r1601367_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T11:23:01Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
           "title": "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
           "description": "A person has been given a suspended 11-month prison sentence as well a stadium ban and fined for racist insults directed toward Real Madrid forward Kylian Mbappé during a LaLiga match at Real Oviedo in August.",
@@ -12012,16 +12022,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50418899/valencia-real-madrid-laliga",
           "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742868_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-08T11:04:29Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga",
-          "title": "Mourinho on Real Madrid's latest win: Happy dressing room -- with horrible music",
-          "description": "José Mourinho described a happy Real Madrid dressing room after an eighth straight win, before joking that his players had celebrated with \"horrible music.\"",
-          "url": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742741_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T01:26:29Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12768,7 +12768,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.503Z",
+      "updatedUtc": "2026-11-18T12:54:09.203Z",
       "matches": [
         {
           "id": "401874980",
@@ -15828,7 +15828,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.587Z",
+      "updatedUtc": "2026-11-18T12:54:09.150Z",
       "matches": [
         {
           "id": "401884769",
@@ -17886,6 +17886,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+          "title": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Wael Mohya",
+          "description": "Liverpool and Bayern Munich are interested in Borussia Mönchengladbach attacking midfielder Wael Mohya. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747524_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T12:02:48Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
           "title": "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
           "description": "Real Madrid remain keen on Bayern Munich star Michael Olise. Transfer Talk has the latest.",
@@ -18112,16 +18122,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50312241/bayern-munich-vincent-kompany-hospital-discharged",
           "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735057_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-29T01:01:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
-          "title": "Ballon d'Or winner Harry Kane gets hero's welcome on Bayern Munich return",
-          "description": "After an historic Ballon d'Or win and an emotional speech, Harry Kane arrived back in Germany on Tuesday to a hero's welcome at Bayern Munich.",
-          "url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737178_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T10:45:27Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18871,7 +18871,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.630Z",
+      "updatedUtc": "2026-11-18T12:54:09.212Z",
       "matches": [
         {
           "id": "401876437",
@@ -21756,7 +21756,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-18T03:34:08.453Z",
+      "updatedUtc": "2026-11-18T12:54:09.016Z",
       "matches": [
         {
           "id": "401861146",
@@ -24242,6 +24242,18 @@
       "leaders": {
         "scorers": [
           {
+            "id": "253989",
+            "name": "Erling Haaland",
+            "team": {
+              "id": "464",
+              "name": "Norway",
+              "abbreviation": "NOR",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
+            },
+            "goals": 8,
+            "assists": 1
+          },
+          {
             "id": "142200",
             "name": "Harry Kane",
             "team": {
@@ -24252,6 +24264,18 @@
             },
             "goals": 8,
             "assists": 1
+          },
+          {
+            "id": "309273",
+            "name": "Rasmus Højlund",
+            "team": {
+              "id": "479",
+              "name": "Denmark",
+              "abbreviation": "DEN",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
+            },
+            "goals": 7,
+            "assists": 0
           },
           {
             "id": "326075",
@@ -24266,30 +24290,6 @@
             "assists": 1
           },
           {
-            "id": "253989",
-            "name": "Erling Haaland",
-            "team": {
-              "id": "464",
-              "name": "Norway",
-              "abbreviation": "NOR",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
-            },
-            "goals": 6,
-            "assists": 1
-          },
-          {
-            "id": "309273",
-            "name": "Rasmus Højlund",
-            "team": {
-              "id": "479",
-              "name": "Denmark",
-              "abbreviation": "DEN",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
-            },
-            "goals": 6,
-            "assists": 0
-          },
-          {
             "id": "258906",
             "name": "Viktor Gyökeres",
             "team": {
@@ -24297,6 +24297,18 @@
               "name": "Sweden",
               "abbreviation": "SWE",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+            },
+            "goals": 6,
+            "assists": 1
+          },
+          {
+            "id": "279790",
+            "name": "Troy Parrott",
+            "team": {
+              "id": "476",
+              "name": "Republic of Ireland",
+              "abbreviation": "IRL",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png"
             },
             "goals": 6,
             "assists": 0
@@ -24459,18 +24471,6 @@
             "assists": 0
           },
           {
-            "id": "279790",
-            "name": "Troy Parrott",
-            "team": {
-              "id": "476",
-              "name": "Republic of Ireland",
-              "abbreviation": "IRL",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png"
-            },
-            "goals": 4,
-            "assists": 0
-          },
-          {
             "id": "322169",
             "name": "Danijel Sturm",
             "team": {
@@ -24555,6 +24555,18 @@
             "assists": 1
           },
           {
+            "id": "259131",
+            "name": "Sasa Kalajdzic",
+            "team": {
+              "id": "474",
+              "name": "Austria",
+              "abbreviation": "AUT",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+            },
+            "goals": 3,
+            "assists": 1
+          },
+          {
             "id": "305836",
             "name": "Áki Debes Samuelsen",
             "team": {
@@ -24589,21 +24601,21 @@
             },
             "goals": 3,
             "assists": 0
-          },
+          }
+        ],
+        "assists": [
           {
-            "id": "307111",
-            "name": "Oscar Bobb",
+            "id": "203669",
+            "name": "Martin Ødegaard",
             "team": {
               "id": "464",
               "name": "Norway",
               "abbreviation": "NOR",
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
             },
-            "goals": 3,
-            "assists": 0
-          }
-        ],
-        "assists": [
+            "goals": 1,
+            "assists": 7
+          },
           {
             "id": "291281",
             "name": "Jude Bellingham",
@@ -24614,18 +24626,6 @@
               "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
             },
             "goals": 1,
-            "assists": 6
-          },
-          {
-            "id": "203669",
-            "name": "Martin Ødegaard",
-            "team": {
-              "id": "464",
-              "name": "Norway",
-              "abbreviation": "NOR",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
-            },
-            "goals": 0,
             "assists": 6
           },
           {
@@ -24919,6 +24919,18 @@
             "assists": 2
           },
           {
+            "id": "124091",
+            "name": "Bruno Fernandes",
+            "team": {
+              "id": "482",
+              "name": "Portugal",
+              "abbreviation": "POR",
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+            },
+            "goals": 1,
+            "assists": 2
+          },
+          {
             "id": "336388",
             "name": "Désiré Doué",
             "team": {
@@ -24954,18 +24966,6 @@
             },
             "goals": 1,
             "assists": 2
-          },
-          {
-            "id": "221149",
-            "name": "Ioannis Pittas",
-            "team": {
-              "id": "445",
-              "name": "Cyprus",
-              "abbreviation": "CYP",
-              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png"
-            },
-            "goals": 1,
-            "assists": 2
           }
         ]
       }
@@ -24985,7 +24985,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T03:34:08.720Z",
+      "updatedUtc": "2026-11-18T12:54:09.397Z",
       "matches": [
         {
           "id": "761892",
@@ -28324,7 +28324,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-18T03:34:08.514Z",
+      "updatedUtc": "2026-11-18T12:54:09.258Z",
       "matches": [
         {
           "id": "760415",
@@ -31703,6 +31703,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
+          "title": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
+          "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
+          "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747490_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T12:34:10Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50509967/france-fa-diallo-confirms-challenge-infantino-fifa",
           "title": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
           "description": "French Football Federation leader Philippe Diallo confirmed his intention on Tuesday to challenge Gianni Infantino for the FIFA presidency.",
@@ -31921,16 +31931,6 @@
           "publishedUtc": "2026-10-28T18:57:38Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
-          "title": "Vozinha's Ballon d'Or night a perfect moment for soccer's dreamers",
-          "description": "Vozinha's improbable star turn at the 2026 World Cup led him to Monday night's Ballon d'Or ceremony. It was also a perfect moment for those who love the game, but never get love back.",
-          "url": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1736984_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T17:17:48Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
