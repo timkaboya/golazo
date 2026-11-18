@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-18T12:54:09.397Z",
+  "updatedUtc": "2026-11-18T21:46:20.788Z",
   "competitions": [
     {
       "config": {
@@ -17,200 +17,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.078Z",
+      "updatedUtc": "2026-11-18T21:46:20.478Z",
       "matches": [
-        {
-          "id": "401915415",
-          "utc": "2026-10-14T16:45Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "4411",
-            "name": "LASK Linz",
-            "abbreviation": "LAS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
-          },
-          "away": {
-            "id": "364",
-            "name": "Liverpool",
-            "abbreviation": "LIV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
-          },
-          "venue": "Raiffeisen Arena (Linz), Linz",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 6
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915414",
-          "utc": "2026-10-14T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "104",
-            "name": "AS Roma",
-            "abbreviation": "ROMA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-          },
-          "away": {
-            "id": "86",
-            "name": "Real Madrid",
-            "abbreviation": "RMA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-          },
-          "venue": "Olimpico, Roma",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 4
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915409",
-          "utc": "2026-10-14T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "362",
-            "name": "Aston Villa",
-            "abbreviation": "AVL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-          },
-          "away": {
-            "id": "436",
-            "name": "Fenerbahce",
-            "abbreviation": "FEN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
-          },
-          "venue": "Villa Park, Birmingham",
-          "status": "finished",
-          "score": {
-            "home": 6,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915393",
-          "utc": "2026-10-14T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "2980",
-            "name": "Bodo/Glimt",
-            "abbreviation": "BODO",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
-          },
-          "away": {
-            "id": "124",
-            "name": "Dortmund",
-            "abbreviation": "DOR",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
-          },
-          "venue": "Aspmyra Stadion, Bodø/Glimt",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915407",
-          "utc": "2026-10-14T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "382",
-            "name": "Man City",
-            "abbreviation": "MNC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-          },
-          "away": {
-            "id": "160",
-            "name": "PSG",
-            "abbreviation": "PSG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-          },
-          "venue": "Etihad Stadium, Manchester",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 4
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915408",
-          "utc": "2026-10-14T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "244",
-            "name": "Betis",
-            "abbreviation": "BET",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-          },
-          "away": {
-            "id": "437",
-            "name": "FC Porto",
-            "abbreviation": "FCP",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
-          },
-          "venue": "Estadio La Cartuja, Sevilla",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915406",
-          "utc": "2026-10-14T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "493",
-            "name": "Shakhtar",
-            "abbreviation": "SHK",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png"
-          },
-          "away": {
-            "id": "887",
-            "name": "AEK Athens",
-            "abbreviation": "AEK",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
-          },
-          "venue": "Stamford Bridge, London",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915405",
-          "utc": "2026-10-14T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "521",
-            "name": "S Bratislava",
-            "abbreviation": "SLB",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
-          },
-          "away": {
-            "id": "134",
-            "name": "Stuttgart",
-            "abbreviation": "VFB",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
-          },
-          "venue": "Národny Futbalovy Stadión, Bratislava",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 3
-          },
-          "note": "FT"
-        },
         {
           "id": "401915403",
           "utc": "2026-10-20T16:45Z",
@@ -3393,7 +3201,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.042Z",
+      "updatedUtc": "2026-11-18T21:46:20.456Z",
       "matches": [
         {
           "id": "401915560",
@@ -6785,7 +6593,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.254Z",
+      "updatedUtc": "2026-11-18T21:46:20.630Z",
       "matches": [
         {
           "id": "401879233",
@@ -8737,14 +8545,64 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first",
+          "title": "Pochettino addresses Manchester United supporters for the first time",
+          "description": "Pochettino addresses Manchester United supporters for the first time",
+          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
+          "publishedUtc": "2026-11-18T16:26:13Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
+          "title": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
+          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
+          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T16:46:01Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
           "title": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Wael Mohya",
           "description": "Liverpool and Bayern Munich are interested in Borussia Mönchengladbach attacking midfielder Wael Mohya. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
           "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747524_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T12:02:48Z",
+          "publishedUtc": "2026-11-18T15:22:04Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50520661/pochettino-arrives-carrington-first-day-man-united-head-coach",
+          "title": "Pochettino arrives at Carrington for first day as Man United head coach",
+          "description": "Pochettino arrives at Carrington for first day as Man United head coach",
+          "url": "https://www.espn.com/video/clip/_/id/50520661/pochettino-arrives-carrington-first-day-man-united-head-coach",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_arrives_at_Carrington_for_first_day_as_Man_United_head_coachNEW/dm_261118_Pochettino_arrives_at_Carrington_for_first_day_as_Man_United_head_coachNEW.jpg",
+          "publishedUtc": "2026-11-18T14:32:00Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
+          "title": "Man United to take legal action if JJ Gabriel was illegally approached - sources",
+          "description": "Manchester United are prepared to mount legal action if they find evidence that JJ Gabriel has been illegally approached by other clubs while under contract, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747531_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T15:04:23Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
+          "title": "How fallen giants and their fans bounce back from scandal, relegation",
+          "description": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?",
+          "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747276_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T17:00:50Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
@@ -8753,16 +8611,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
           "imageUrl": "https://a.espncdn.com/photo/2026/1114/r1745603_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-18T12:02:03Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
-          "title": "Mauricio Pochettino's first day at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino will arrive at Manchester United for his first day as their head coach on Wednesday but said he requires \"time\" to turn their fortunes around.",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747518_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T11:54:22Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8935,46 +8783,6 @@
           "publishedUtc": "2026-11-14T22:32:18Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50483716/manchester-united-lacked-culture-togetherness-desire",
-          "title": "Olley: Manchester United have lacked culture, togetherness and desire",
-          "description": "Olley: Manchester United have lacked culture, togetherness and desire",
-          "url": "https://www.espn.com/video/clip/_/id/50483716/manchester-united-lacked-culture-togetherness-desire",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1114/dm_261114_Olley_Manchester_United_have_lacked_culture_togetherness_and_desire/dm_261114_Olley_Manchester_United_have_lacked_culture_togetherness_and_desire.jpg",
-          "publishedUtc": "2026-11-14T22:14:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50483117/declan-rice-arsenal-new-contract-england",
-          "title": "'Extremely lucky' Declan Rice hints new Arsenal contract will be signed soon",
-          "description": "Declan Rice has hinted he is likely to sign a new contract at Arsenal to extend his stay at the club beyond 2028.",
-          "url": "https://www.espn.com/soccer/story/_/id/50483117/declan-rice-arsenal-new-contract-england",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1114/r1745854_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-14T21:55:14Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50462231/mauricio-pochettino-manchester-united-transfer-usmnt",
-          "title": "Man United, Pochettino's to-do list based on what's gone wrong this season",
-          "description": "Pochettino makes as much sense as anyone to take the Man United job, so now what? Let's look at the mess he's inheriting and what's at the top of his to-do list.",
-          "url": "https://www.espn.com/soccer/story/_/id/50462231/mauricio-pochettino-manchester-united-transfer-usmnt",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1113/r1745334_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-14T08:34:30Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50475329/man-united-two-year-deal-pochettino-makes-sense",
-          "title": "Onuoha: Man United's two-year deal for Pochettino makes sense",
-          "description": "Onuoha: Man United's two-year deal for Pochettino makes sense",
-          "url": "https://www.espn.com/video/clip/_/id/50475329/man-united-two-year-deal-pochettino-makes-sense",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_Onuoha_Man_Uniteds_twoyear_deal_for_Pochettino_makes_sense/dm_261113_Onuoha_Man_Uniteds_twoyear_deal_for_Pochettino_makes_sense.jpg",
-          "publishedUtc": "2026-11-13T23:58:31Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9722,7 +9530,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.307Z",
+      "updatedUtc": "2026-11-18T21:46:20.717Z",
       "matches": [
         {
           "id": "401882827",
@@ -12768,7 +12576,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.203Z",
+      "updatedUtc": "2026-11-18T21:46:20.677Z",
       "matches": [
         {
           "id": "401874980",
@@ -14840,6 +14648,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
+          "title": "How fallen giants and their fans bounce back from scandal, relegation",
+          "description": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?",
+          "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747276_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T17:00:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
           "title": "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
           "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked to two of Italy's biggest clubs. Transfer Talk has the latest.",
@@ -15066,16 +14884,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50298045/ac-milan-ruben-amorim-injuries-bologna-match",
           "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737008_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-27T15:24:05Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50288088/napoli-appeal-allegri-2-match-ban-insulting-ref",
-          "title": "Napoli to appeal Allegri's two-match ban for insulting ref in Roma draw",
-          "description": "Napoli have confirmed they will appeal against the two-match ban which was given to boss Massimiliano Allegri following their 3-3 draw with Roma.",
-          "url": "https://www.espn.com/soccer/story/_/id/50288088/napoli-appeal-allegri-2-match-ban-insulting-ref",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1026/r1736520_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-26T16:03:49Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -15828,7 +15636,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.150Z",
+      "updatedUtc": "2026-11-18T21:46:20.575Z",
       "matches": [
         {
           "id": "401884769",
@@ -17891,7 +17699,7 @@
           "description": "Liverpool and Bayern Munich are interested in Borussia Mönchengladbach attacking midfielder Wael Mohya. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
           "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747524_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T12:02:48Z",
+          "publishedUtc": "2026-11-18T15:22:04Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -18871,7 +18679,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.212Z",
+      "updatedUtc": "2026-11-18T21:46:20.590Z",
       "matches": [
         {
           "id": "401876437",
@@ -21756,7 +21564,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-18T12:54:09.016Z",
+      "updatedUtc": "2026-11-18T21:46:20.488Z",
       "matches": [
         {
           "id": "401861146",
@@ -23999,6 +23807,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50519465/nations-league-quarterfinals-draw-england",
+          "title": "When is the Nations League quarterfinals draw?",
+          "description": "The Nations League last eight have been confirmed. All that's left now is for each country to learn their opponent in the quarterfinals.",
+          "url": "https://www.espn.com/soccer/story/_/id/50519465/nations-league-quarterfinals-draw-england",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747533_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-18T13:33:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50514967/portugal-carlos-forbs-cristiano-ronaldo-7-jersey-wales",
           "title": "CF7: Portugal move on from Ronaldo with 'special' goal from new No. 7 Forbs",
           "description": "Portugal secured a much-needed first win since Cristiano Ronaldo's international retirement, courtesy of new No. 7 Carlos Forbs.",
@@ -24225,16 +24043,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
           "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746364_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-16T08:40:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50495102/bellingham-star-england-win-spain",
-          "title": "Moreno: Bellingham the star of England's win over Spain",
-          "description": "Moreno: Bellingham the star of England's win over Spain",
-          "url": "https://www.espn.com/video/clip/_/id/50495102/bellingham-star-england-win-spain",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain/dm_261115_Moreno_hails_Bellinghams_role_in_England_beating_Spain.jpg",
-          "publishedUtc": "2026-11-15T22:42:45Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -24985,7 +24793,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-18T12:54:09.397Z",
+      "updatedUtc": "2026-11-18T21:46:20.788Z",
       "matches": [
         {
           "id": "761892",
@@ -26640,25 +26448,6 @@
           "note": "Scheduled"
         },
         {
-          "id": "401933736",
-          "utc": "2026-12-02T20:00Z",
-          "phase": "Eastern Conference Playoffs   Round One",
-          "home": {
-            "id": "18986",
-            "name": "Nashville",
-            "abbreviation": "NSH",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
-          },
-          "away": {
-            "id": "131554",
-            "name": "TBD Away",
-            "abbreviation": "TBD Away"
-          },
-          "venue": "GEODIS Park, Nashville, Tennessee",
-          "status": "upcoming",
-          "note": "TBD"
-        },
-        {
           "id": "401933717",
           "utc": "2026-12-02T20:00Z",
           "phase": "Western Conference Playoffs   Round One",
@@ -26754,6 +26543,25 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
           },
           "venue": "Toyota Stadium, Toyota Stadium",
+          "status": "upcoming",
+          "note": "Scheduled"
+        },
+        {
+          "id": "401933736",
+          "utc": "2026-12-03T01:00Z",
+          "phase": "Eastern Conference Playoffs   Round One",
+          "home": {
+            "id": "18986",
+            "name": "Nashville",
+            "abbreviation": "NSH",
+            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
+          },
+          "away": {
+            "id": "131554",
+            "name": "TBD Away",
+            "abbreviation": "TBD Away"
+          },
+          "venue": "GEODIS Park, Nashville, Tennessee",
           "status": "upcoming",
           "note": "Scheduled"
         },
@@ -28324,7 +28132,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-18T12:54:09.258Z",
+      "updatedUtc": "2026-11-18T21:46:20.587Z",
       "matches": [
         {
           "id": "760415",
@@ -31708,7 +31516,7 @@
           "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
           "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
           "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747490_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T12:34:10Z",
+          "publishedUtc": "2026-11-18T14:02:00Z",
           "source": "ESPN",
           "transfer": false
         },
