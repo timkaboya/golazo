@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-19T12:45:17.026Z",
+  "updatedUtc": "2026-11-19T22:03:46.456Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:16.834Z",
+      "updatedUtc": "2026-11-19T22:03:46.032Z",
       "matches": [
         {
           "id": "401915403",
@@ -3201,200 +3201,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:16.578Z",
+      "updatedUtc": "2026-11-19T22:03:46.054Z",
       "matches": [
-        {
-          "id": "401915560",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "85",
-            "name": "Celta Vigo",
-            "abbreviation": "CEL",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-          },
-          "away": {
-            "id": "111",
-            "name": "Juventus",
-            "abbreviation": "JUV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-          },
-          "venue": "Balaidos, Vigo",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 2
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915549",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "597",
-            "name": "Dinamo Zagreb",
-            "abbreviation": "DZG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
-          },
-          "away": {
-            "id": "441",
-            "name": "Anderlecht",
-            "abbreviation": "AND",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
-          },
-          "venue": "Maksimir Stadium, Zagreb",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 0
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915564",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "622",
-            "name": "Ferencvaros",
-            "abbreviation": "FER",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
-          },
-          "away": {
-            "id": "11706",
-            "name": "Viktoria Plzen",
-            "abbreviation": "PLZ",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png"
-          },
-          "venue": "Groupama Arena, Budapest",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915561",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "11505",
-            "name": "Jagiellonia ",
-            "abbreviation": "JAG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
-          },
-          "away": {
-            "id": "20024",
-            "name": "Ararat-Armenia",
-            "abbreviation": "ARA",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
-          },
-          "venue": "Stadion Miejski Bialystok, Bialystok",
-          "status": "finished",
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915550",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "176",
-            "name": "Marseille",
-            "abbreviation": "OLM",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-          },
-          "away": {
-            "id": "435",
-            "name": "Olympiacos",
-            "abbreviation": "OLY",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
-          },
-          "venue": "Stade Vélodrome, Marseille",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915565",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "147",
-            "name": "NEC",
-            "abbreviation": "NEC",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
-          },
-          "away": {
-            "id": "490",
-            "name": "Levski Sofia",
-            "abbreviation": "LEV",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
-          },
-          "venue": "Goffertstadion, Nijmegen",
-          "status": "finished",
-          "score": {
-            "home": 1,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915572",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "169",
-            "name": "Rennes",
-            "abbreviation": "REN",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-          },
-          "away": {
-            "id": "1010",
-            "name": "OFI Crete",
-            "abbreviation": "OFI",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png"
-          },
-          "venue": "Roazhon Park, Rennes",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 1
-          },
-          "note": "FT"
-        },
-        {
-          "id": "401915563",
-          "utc": "2026-10-15T19:00Z",
-          "phase": "League Phase",
-          "home": {
-            "id": "7911",
-            "name": "Hoffenheim",
-            "abbreviation": "TSG",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
-          },
-          "away": {
-            "id": "1895",
-            "name": "Besiktas",
-            "abbreviation": "BES",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
-          },
-          "venue": "PreZero Arena, Sinsheim",
-          "status": "finished",
-          "score": {
-            "home": 2,
-            "away": 3
-          },
-          "note": "FT"
-        },
         {
           "id": "401915548",
           "utc": "2026-10-22T16:45Z",
@@ -6593,7 +6401,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:16.778Z",
+      "updatedUtc": "2026-11-19T22:03:46.455Z",
       "matches": [
         {
           "id": "401879233",
@@ -8545,12 +8353,12 @@
       ],
       "news": [
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
-          "title": "Predicting how all 20 Premier League teams will finish the season",
-          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
-          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T11:53:07Z",
+          "id": "https://www.espn.com/video/clip/_/id/50532675/what-sporting-world-get-gta-vi",
+          "title": "What the sporting world DIDN'T get before GTA VI",
+          "description": "What the sporting world DIDN'T get before GTA VI",
+          "url": "https://www.espn.com/video/clip/_/id/50532675/what-sporting-world-get-gta-vi",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1119/dm_261119_What_the_sporting_world_DIDNT_get_before_GTA_VI/dm_261119_What_the_sporting_world_DIDNT_get_before_GTA_VI.jpg",
+          "publishedUtc": "2026-11-19T18:46:28Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -8560,9 +8368,49 @@
           "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
           "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T12:01:02Z",
+          "publishedUtc": "2026-11-19T16:07:38Z",
           "source": "ESPN",
           "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso",
+          "title": "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+          "description": "Chelsea's Valentín Barco has said he is confident that he's still a long way away from reaching his full potential.",
+          "url": "https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748049_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T13:19:26Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+          "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+          "description": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
+          "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748037_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T13:08:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
+          "title": "Mauricio Pochettino: Man United players must relearn 'about being winners'",
+          "description": "Mauricio Pochettino has said his first job as Manchester United's new head coach is to remind the players how to win after a miserable start to the season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748016_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T17:16:14Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
+          "title": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T13:50:09Z",
+          "source": "ESPN",
+          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
@@ -8741,46 +8589,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50503056/pochettino-reveals-some-coaching-staff-already-flown-manchester",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/dm_261116_COM_SOC_Press_conference_Pochettino_reveals_some_of_his_coaching_staff_have_already_flown_to_Manche/dm_261116_COM_SOC_Press_conference_Pochettino_reveals_some_of_his_coaching_staff_have_already_flown_to_Manche.jpg",
           "publishedUtc": "2026-11-16T18:19:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50462553/thomas-frank-appointed-new-crystal-palace-manager",
-          "title": "Crystal Palace appoint Thomas Frank as new head coach",
-          "description": "Crystal Palace have appointed Thomas Frank as their new manager after sacking Pierre Sage.",
-          "url": "https://www.espn.com/soccer/story/_/id/50462553/thomas-frank-appointed-new-crystal-palace-manager",
-          "imageUrl": "https://a.espncdn.com/photo/2024/1028/r1407009_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-16T17:09:23Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50495398/andy-burnham-urges-caution-potential-moves-scrap-premier-league-3pm-blackout",
-          "title": "Andy Burnham urges caution on potential moves to scrap Premier League 3pm blackout",
-          "description": "Prime Minister Andy Burnham says he would \"urge caution\" on scrapping the Saturday 3pm blackout.",
-          "url": "https://www.espn.com/soccer/story/_/id/50495398/andy-burnham-urges-caution-potential-moves-scrap-premier-league-3pm-blackout",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746383_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T23:51:15Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
-          "title": "Transfer rumors, news: Will Bruno Fernandes stay put at Man United?",
-          "description": "Bruno Fernandes' future at Manchester United is reportedly uncertain with his contract expiring next summer. Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-16T04:52:47Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
-          "title": "Haaland 'incredibly happy' at Man City, not thinking about possible sanctions",
-          "description": "Erling Haaland says he is \"incredibly happy\" at Manchester City and his focus is on performing and not on the potential sanctions against the club.",
-          "url": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1114/r1745802_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T14:46:50Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9530,7 +9338,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:16.830Z",
+      "updatedUtc": "2026-11-19T22:03:46.281Z",
       "matches": [
         {
           "id": "401882827",
@@ -11594,12 +11402,32 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+          "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+          "description": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
+          "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748037_2_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T13:08:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
+          "title": "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+          "description": "Barcelona sporting director Deco has said the Spanish champions would welcome the money if Liverpool decide to sign Ronald Araújo beyond his loan spell.",
+          "url": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748034_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T12:18:13Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
           "title": "Arda Güler signs new six-year Real Madrid contract",
           "description": "Arda Güler has signed a new, long-term contract at Real Madrid until 2032, the club said on Wednesday.",
           "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract",
           "imageUrl": "https://a.espncdn.com/photo/2026/0116/r1601367_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T11:23:01Z",
+          "publishedUtc": "2026-11-19T17:27:01Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -11810,26 +11638,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50421494/real-sociedad-vs-rayo-vallecano-game-highlights",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/0ee7e669-f441-48f5-b169-043b3141a538/0ee7e669-f441-48f5-b169-043b3141a538.jpg",
           "publishedUtc": "2026-11-08T17:18:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50420160/elche-vs-real-betis-game-highlights",
-          "title": "Elche vs. Real Betis - Game Highlights",
-          "description": "Watch the Game Highlights from Elche vs. Real Betis, 11/08/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50420160/elche-vs-real-betis-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/1b5020cc-30b4-4da3-ad1c-41bf9d256d9f/1b5020cc-30b4-4da3-ad1c-41bf9d256d9f.jpg",
-          "publishedUtc": "2026-11-08T15:01:53Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50418899/valencia-real-madrid-laliga",
-          "title": "Valencia director separated from officials by police in Real Madrid loss",
-          "description": "Valencia sporting director Braulio Vázquez had to be separated from the match officials by the police at half time of Saturday's 3-0 loss to Real Madrid at Mestalla.",
-          "url": "https://www.espn.com/soccer/story/_/id/50418899/valencia-real-madrid-laliga",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742868_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T11:04:29Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12576,7 +12384,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:16.743Z",
+      "updatedUtc": "2026-11-19T22:03:46.214Z",
       "matches": [
         {
           "id": "401874980",
@@ -15636,7 +15444,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:16.678Z",
+      "updatedUtc": "2026-11-19T22:03:46.317Z",
       "matches": [
         {
           "id": "401884769",
@@ -18679,7 +18487,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:17.026Z",
+      "updatedUtc": "2026-11-19T22:03:46.222Z",
       "matches": [
         {
           "id": "401876437",
@@ -21564,7 +21372,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-19T12:45:16.608Z",
+      "updatedUtc": "2026-11-19T22:03:46.101Z",
       "matches": [
         {
           "id": "401861146",
@@ -24793,7 +24601,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T12:45:16.898Z",
+      "updatedUtc": "2026-11-19T22:03:46.402Z",
       "matches": [
         {
           "id": "761892",
@@ -27130,6 +26938,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50526796/messi-leads-mls-salaries-rise-sullivan-614k",
+          "title": "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
+          "description": "Inter Miami CF star Lionel Messi remains the highest-paid player in MLS, though the number of players making at least $10 million grew to five.",
+          "url": "https://www.espn.com/soccer/story/_/id/50526796/messi-leads-mls-salaries-rise-sullivan-614k",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1728980_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T18:29:23Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50513113/mls-fc-cincy-advanced-talks-acquire-nwsl-racing-louisville",
           "title": "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
           "description": "The ownership groups of MLS side FC Cincinnati and the NWSL's Racing Louisville FC are nearing an agreement that would relocate the NWSL team to Cincinnati in 2028, multiple sources told ESPN.",
@@ -27356,16 +27174,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50414018/brotherly-love-quinn-cavan-sullivan-combine-philadelphia-goal",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/ss_20261107_185835679_3731109/ss_20261107_185835679_3731109.jpg",
           "publishedUtc": "2026-11-08T00:02:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/761938",
-          "title": "Charlotte FC rallies from 3-goal deficit to draw Inter Miami 3-3 in regular-season finale",
-          "description": "- Lionel Messi was held scoreless as Inter Miami blew a three-goal halftime lead and drew 3-3 with Charlotte FC on Saturday in its Major League Soccer regular-season finale.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/761938",
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761938.png?templateId=espn.applewatch.awayhome.1",
-          "publishedUtc": "2026-11-08T00:39:30Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -28132,7 +27940,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-19T12:45:16.513Z",
+      "updatedUtc": "2026-11-19T22:03:46.331Z",
       "matches": [
         {
           "id": "760415",
@@ -31511,12 +31319,31 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
+          "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
+          "description": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
+          "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748039_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T18:17:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50531740/uefa-pressures-fifa-world-cup-selloff-plan-documents",
+          "title": "UEFA pressures FIFA for World Cup sell-off plan documents",
+          "url": "https://www.espn.com/soccer/story/_/id/50531740/uefa-pressures-fifa-world-cup-selloff-plan-documents",
+          "imageUrl": "https://a.espncdn.com/photo/2021/1215/r951691_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T15:55:53Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
           "title": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
           "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
           "url": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
           "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T11:04:33Z",
+          "publishedUtc": "2026-11-19T17:03:59Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -31717,26 +31544,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50387532/catches-everyone-even-cristiano-ronaldo",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo.jpg",
           "publishedUtc": "2026-11-05T12:03:06Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50387286/fifa-council-japan-tashima-challenge-infantino-reports",
-          "title": "FIFA Council's Tashima to challenge Infantino in March elections - reports",
-          "description": "FIFA Council member Kohzo Tashima intends to run for president of the global football body against incumbent Gianni Infantino, Japanese media reported.",
-          "url": "https://www.espn.com/soccer/story/_/id/50387286/fifa-council-japan-tashima-challenge-infantino-reports",
-          "imageUrl": "https://a.espncdn.com/photo/2020/0317/r680435_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T12:51:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
-          "title": "Source: FIFA to open World Cup private equity plan files following UEFA demands",
-          "description": "FIFA will open access to confidential documents detailing president Gianni Infantino's controversial proposal to bring private investors into the World Cup, a source confirmed to ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50358121/fifa-open-world-cup-private-equity-files-uefa-demands",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0908/r1713266_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-03T19:24:35Z",
           "source": "ESPN",
           "transfer": false
         }
