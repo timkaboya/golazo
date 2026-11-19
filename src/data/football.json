@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-19T03:06:17.391Z",
+  "updatedUtc": "2026-11-19T12:45:17.026Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.279Z",
+      "updatedUtc": "2026-11-19T12:45:16.834Z",
       "matches": [
         {
           "id": "401915403",
@@ -3201,7 +3201,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.182Z",
+      "updatedUtc": "2026-11-19T12:45:16.578Z",
       "matches": [
         {
           "id": "401915560",
@@ -6593,7 +6593,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.311Z",
+      "updatedUtc": "2026-11-19T12:45:16.778Z",
       "matches": [
         {
           "id": "401879233",
@@ -8545,6 +8545,36 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
+          "title": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T11:53:07Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
+          "title": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+          "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T12:01:02Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
+          "title": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T11:51:27Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
           "title": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
           "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
@@ -8751,36 +8781,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
           "imageUrl": "https://a.espncdn.com/photo/2026/1114/r1745802_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-15T14:46:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50490171/arsenal-bruno-guimaraes-declan-rice",
-          "title": "Arsenal's Bruno Guimarães: Learning a lot from 'machine' Declan Rice",
-          "description": "Bruno Guimarães has labelled Arsenal teammate Declan Rice a \"machine\" and said he's been learning a lot by playing alongside him.",
-          "url": "https://www.espn.com/soccer/story/_/id/50490171/arsenal-bruno-guimaraes-declan-rice",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746054_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T14:25:57Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50432839/manchester-united-glazers-transfers-players-managers",
-          "title": "Every Manchester United player, manager, executive since Glazers' takeover: Where are they now?",
-          "description": "The Glazer family took over Manchester United in 2005, but what has happened to the players, managers and executive staff since?",
-          "url": "https://www.espn.com/soccer/story/_/id/50432839/manchester-united-glazers-transfers-players-managers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1112/r1744720_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-15T08:47:18Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50483870/portugal-vs-denmark-was-one-worst-games-decade",
-          "title": "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
-          "description": "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
-          "url": "https://www.espn.com/video/clip/_/id/50483870/portugal-vs-denmark-was-one-worst-games-decade",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1114/dm_261114_Nicol_Portugal_vs_Denmark_was_one_of_the_worst_games_in_a_decade/dm_261114_Nicol_Portugal_vs_Denmark_was_one_of_the_worst_games_in_a_decade.jpg",
-          "publishedUtc": "2026-11-14T22:32:18Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -9530,7 +9530,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.220Z",
+      "updatedUtc": "2026-11-19T12:45:16.830Z",
       "matches": [
         {
           "id": "401882827",
@@ -12576,7 +12576,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.331Z",
+      "updatedUtc": "2026-11-19T12:45:16.743Z",
       "matches": [
         {
           "id": "401874980",
@@ -15636,7 +15636,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.244Z",
+      "updatedUtc": "2026-11-19T12:45:16.678Z",
       "matches": [
         {
           "id": "401884769",
@@ -18679,7 +18679,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.265Z",
+      "updatedUtc": "2026-11-19T12:45:17.026Z",
       "matches": [
         {
           "id": "401876437",
@@ -21564,7 +21564,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-19T03:06:17.157Z",
+      "updatedUtc": "2026-11-19T12:45:16.608Z",
       "matches": [
         {
           "id": "401861146",
@@ -24793,7 +24793,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-19T03:06:17.391Z",
+      "updatedUtc": "2026-11-19T12:45:16.898Z",
       "matches": [
         {
           "id": "761892",
@@ -28132,7 +28132,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-19T03:06:17.135Z",
+      "updatedUtc": "2026-11-19T12:45:16.513Z",
       "matches": [
         {
           "id": "760415",
@@ -31511,6 +31511,16 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
+          "title": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
+          "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
+          "url": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-19T11:04:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
           "title": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
           "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
@@ -31729,16 +31739,6 @@
           "publishedUtc": "2026-11-03T19:24:35Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50309762/wc-coach-okada-leaves-japan-post-infantino-support",
-          "title": "Two-time WC coach Okada leaves Japan post over AFC support of Infantino",
-          "description": "Two-time World Cup coach Takeshi Okada resigned as Japanese federation VP in protest over AFC support of FIFA during Gianni Infantino's re-election campaign.",
-          "url": "https://www.espn.com/soccer/story/_/id/50309762/wc-coach-okada-leaves-japan-post-infantino-support",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1028/r1737632_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T18:57:38Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
