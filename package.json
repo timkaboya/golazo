@@ -11,7 +11,7 @@
     "data:football": "node --experimental-strip-types scripts/fetch-football.ts",
     "prebuild": "node scripts/prebuild.mjs",
     "build": "astro build",
-    "preview": "astro preview",
+    "preview": "npm run build && wrangler dev",
     "preview:cf": "astro build && wrangler pages dev dist",
     "check": "astro check",
     "typecheck": "tsc --noEmit",
@@ -19,9 +19,12 @@
     "test:coverage": "vitest run --coverage --passWithNoTests",
     "test:watch": "vitest",
     "perf": "node scripts/check-bundle.mjs",
-    "e2e": "playwright test"
+    "e2e": "playwright test",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "11",
     "@astrojs/preact": "^4.0.1",
     "astro": "^4.16.0",
     "preact": "^10.24.0"
@@ -32,6 +35,7 @@
     "@types/node": "^22.20.4",
     "@vitest/coverage-v8": "^2.1.9",
     "typescript": "^5.6.0",
-    "vitest": "^2.1.0"
+    "vitest": "^2.1.0",
+    "wrangler": "^4.106.0"
   }
 }

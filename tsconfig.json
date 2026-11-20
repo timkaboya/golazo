@@ -9,6 +9,6 @@
     },
     "types": ["astro/client", "node"]
   },
-  "include": ["src", "functions", "tests"],
+  "include": ["src", "functions", "tests", "./worker-configuration.d.ts"],
   "exclude": ["dist", "node_modules", ".astro"]
 }
