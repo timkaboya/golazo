@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-20T06:52:15.600Z",
+  "updatedUtc": "2026-11-21T06:47:20.114Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.306Z",
+      "updatedUtc": "2026-11-21T06:47:19.803Z",
       "matches": [
         {
           "id": "401915403",
@@ -2225,6 +2225,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50542117/como-moise-kean-injury-champions-league-italy-serie-a",
+          "title": "Champions League upstarts Como suffer Moise Kean injury blow",
+          "description": "Como forward Moise Kean is set to be out injured for at least two months and could miss Champions League games against Paris Saint-Germain and Barcelona.",
+          "url": "https://www.espn.com/soccer/story/_/id/50542117/como-moise-kean-injury-champions-league-italy-serie-a",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748599_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T18:03:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+          "title": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win",
+          "description": "Ballon d'Or winner Harry Kane is on a mission to claim trophies that have so far eluded him in his career, namely a Champions League and a tittle with England.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1102/r1739991_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T12:35:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50500348/nike-adidas-uefa-ball-champions-league",
           "title": "Nike replaces Adidas as UEFA ball provider to restyle Champions League",
           "description": "The Champions League ball will have a new look next season after Nike replaced Adidas as UEFA's official provider.",
@@ -2431,26 +2451,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50382848/liverpool-constantly-prone-mistakes",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_Moreno_Liverpool_constantly_prone_to_mistakes/dm_261104_Moreno_Liverpool_constantly_prone_to_mistakes.jpg",
           "publishedUtc": "2026-11-04T23:50:03Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
-          "title": "Fabregas' Como up to 4th after record-setting 9-goal night",
-          "description": "Como beat Lens 9-1 in the league phase to set a record for most goals on the road by any team in the competition's history and move them up to fourth place in the table.",
-          "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1741242_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T00:22:54Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50382502/mourinho-bellingham-real-madrid-aek-athens-champions-league",
-          "title": "Mourinho hails 'one-of-a-kind' Bellingham after Real Madrid win thriller in Athens",
-          "description": "Real Madrid stayed perfect in the Champions League after Jude Bellingham sparked a 3-2 comeback win against AEK in Athens.",
-          "url": "https://www.espn.com/soccer/story/_/id/50382502/mourinho-bellingham-real-madrid-aek-athens-champions-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1104/r1741207_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-04T23:01:47Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -3201,7 +3201,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.284Z",
+      "updatedUtc": "2026-11-21T06:47:19.774Z",
       "matches": [
         {
           "id": "401915548",
@@ -6401,7 +6401,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.460Z",
+      "updatedUtc": "2026-11-21T06:47:19.997Z",
       "matches": [
         {
           "id": "401879233",
@@ -8353,6 +8353,206 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50544050/burley-labels-pochettino-biggest-manager-mourinho-man-united",
+          "title": "Burley labels Pochettino has the biggest manager since Mourinho for Man United",
+          "description": "ESPN's Nedum Onuoha, Craig Burley and Frank Leboeuf join Kay Murray to react to Mauricio Pochettino's first press conference as Manchester United manager.",
+          "url": "https://www.espn.com/video/clip/_/id/50544050/burley-labels-pochettino-biggest-manager-mourinho-man-united",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/dm_261120_COM_SOC_Analysis_Burley_labels_Pochettino_has_the_biggest_manager_since_Mourinho_for_Man_United_GL/dm_261120_COM_SOC_Analysis_Burley_labels_Pochettino_has_the_biggest_manager_since_Mourinho_for_Man_United_GL.jpg",
+          "publishedUtc": "2026-11-20T22:49:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach",
+          "title": "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United",
+          "description": "Mauricio Pochettino said the experience of coaching the U.S. at the World Cup stands him in good stead for taking over Manchester United.",
+          "url": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748616_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T19:02:39Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
+          "title": "Sources: Tom Brady buys stake in Chelsea after Birmingham exit",
+          "description": "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.",
+          "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1109/r1743720_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T22:24:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50541948/omar-berrada-man-united-ceo-interview-mauricio-pochettino",
+          "title": "Man United CEO Berrada: Club 'heading in right direction' despite relegation form",
+          "description": "Chief executive Omar Berrada insists Manchester United are \"heading in the right direction\" despite the club languishing in the Premier League relegation zone.",
+          "url": "https://www.espn.com/soccer/story/_/id/50541948/omar-berrada-man-united-ceo-interview-mauricio-pochettino",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748586_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T17:28:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50541708/jack-grealish-everton-brentford",
+          "title": "Jack Grealish available for Everton against Brentford",
+          "description": "Jack Grealish is back in the Everton fold and could make his return in Monday's clash with Brentford.\n\nJack Grealish is back in the Everton fold and could make his return in Monday's clash with Brentford.",
+          "url": "https://www.espn.com/soccer/story/_/id/50541708/jack-grealish-everton-brentford",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748569_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T16:33:23Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news",
+          "title": "Xabi Alonso: João Pedro still not available, whole team needs to step up",
+          "description": "Xabi Alonso said his Chelsea side need to learn to deal with the absence of João Pedro as the Blues struggle for goals in the absence of their injured striker.",
+          "url": "https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748560_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T21:41:22Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50541443/aston-villa-johan-manzambi-sunderland",
+          "title": "Aston Villa's Johan Manzambi available for Sunderland clash",
+          "description": "Aston Villa will have Johan Manzambi available for the visit of Sunderland.",
+          "url": "https://www.espn.com/soccer/story/_/id/50541443/aston-villa-johan-manzambi-sunderland",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1016/r1731510_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T15:45:14Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50541358/pochettino-admits-missed-club-management-usmnt-tenure",
+          "title": "Pochettino admits he missed club management during USMNT tenure",
+          "description": "Mauricio Pochettino says his time at the USMNT made him a better coach as he takes the Manchester United job.",
+          "url": "https://www.espn.com/video/clip/_/id/50541358/pochettino-admits-missed-club-management-usmnt-tenure",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL.jpg",
+          "publishedUtc": "2026-11-20T15:30:22Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+          "title": "Tottenham boss Roberto De Zerbi defends Mykhailo Mudryk over Arsenal comments",
+          "description": "Roberto De Zerbi can understand the frustration of Tottenham fans over Mykhailo Mudryk's recent remarks about rivals Arsenal, but has defended the Chelsea loanee.",
+          "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748549_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T15:24:46Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50540980/mauricio-pochettino-man-united-transfers",
+          "title": "Mauricio Pochettino wants input on Man United transfer decisions",
+          "description": "Mauricio Pochettino has said he wants a say in transfer decisions at Manchester United despite being unveiled as head coach at Old Trafford.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540980/mauricio-pochettino-man-united-transfers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748528_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T17:06:46Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50540745/liverpool-manchester-united-mauricio-pochettino",
+          "title": "Mauricio Pochettino, Man United have advantage over Liverpool - Andoni Iraola",
+          "description": "Andoni Iraola believes Man United wll have a \"small advantage\" against Liverpool as his team \"don't exactly know\" what to expect from Mauricio Pochettino.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540745/liverpool-manchester-united-mauricio-pochettino",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748525_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T14:19:59Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50540789/manchester-united-drone-mauricio-pochettino",
+          "title": "Man United to take legal action if drone interruption happens again - sources",
+          "description": "Manchester United are prepared to take legal action if there are further unauthorised drone flights over their training base, sources have told ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540789/manchester-united-drone-mauricio-pochettino",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748522_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T14:34:58Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
+          "title": "Fabian Hürzeler commits to Brighton following Man United rumours",
+          "description": "Fabian Hürzeler has confirmed his commitment to Brighton after receiving strong backing from Seagulls chief Tony Bloom.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1015/r1731248_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T14:02:07Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+          "title": "Liverpool face Man United amid dismal record at Anfield, but will it matter?",
+          "description": "Anfield has a power to propel Liverpool to the greatest heights, but the team are struggling for form there this season and rivals Manchester United are up next.",
+          "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747609_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T13:39:28Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
+          "title": "Mauricio Pochettino's Man United squad audit: Should Fernandes, Rashford stay?",
+          "description": "New Manchester United manager Mauricio Pochettino inherits a squad built by his six predecessors. Which players have a future at the club, and which should go?",
+          "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747570_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T13:39:15Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50540215/arsenal-saka-saliba-arteta-injury",
+          "title": "Arsenal's Bukayo Saka out for a month, William Saliba available - Mikel Arteta",
+          "description": "Arsenal manager Mikel Arteta expects Bukayo Saka to be sidelined for another four weeks with the thigh injury that has already kept the England winger out for a month.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540215/arsenal-saka-saliba-arteta-injury",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735028_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T12:07:50Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50539955/arsenal-arteta-fantasy-premier-league-injuries-team-news",
+          "title": "Mikel Arteta: Steps taken to avoid team leaks due to Fantasy Premier League",
+          "description": "Mikel Arteta has said Arsenal have taken steps to avoid future team leaks via Fantasy Premier League after Christos Tzolis inadvertently revealed information through his own selections in the game.",
+          "url": "https://www.espn.com/soccer/story/_/id/50539955/arsenal-arteta-fantasy-premier-league-injuries-team-news",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748481_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T11:27:07Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50539774/arsenal-mikel-arteta-man-united-drone-pochettino",
+          "title": "Andoni Iraola, Mikel Arteta warn of drone risk after Man United incident",
+          "description": "Liverpool's Andoni Iraola said the drone breach at Manchester United's training ground \"shouldn't be legal,\" while Mikel Arteta called it as a \"serious issue.\"",
+          "url": "https://www.espn.com/soccer/story/_/id/50539774/arsenal-mikel-arteta-man-united-drone-pochettino",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748473_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T17:26:46Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online",
+          "title": "Drone operator who filmed Mauricio Pochettino at Man United apologises",
+          "description": "The operator of the drone that filmed Mauricio Pochettino's first training session at Manchester United accepts it was \"unethical.\"",
+          "url": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748242_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T09:55:09Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
+          "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
+          "description": "Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea this season. What's behind his lack of minutes?",
+          "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747805_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T09:01:33Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
           "title": "Thomas Frank eager to avoid repeat of Arsenal coffee cup controversy at Palace",
           "description": "Thomas Frank said he hopes never to get caught drinking from a Brighton coffee cup after he was reminded of his famous gaffe from his time at Tottenham.",
@@ -8368,19 +8568,9 @@
           "description": "Manchester United are reportedly looking to strengthen their defense under new manager Mauricio Pochettino. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
           "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748257_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-20T04:21:45Z",
+          "publishedUtc": "2026-11-20T15:54:13Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online",
-          "title": "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
-          "description": "Video footage of Mauricio Pochettino's first training session as Manchester United head coach has appeared on YouTube after it was filmed by a drone operator.",
-          "url": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748242_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T22:28:35Z",
-          "source": "ESPN",
-          "transfer": false
         },
         {
           "id": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader",
@@ -8401,196 +8591,6 @@
           "publishedUtc": "2026-11-19T18:46:28Z",
           "source": "ESPN",
           "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso",
-          "title": "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-          "description": "Chelsea's Valentín Barco has said he is confident that he's still a long way away from reaching his full potential.",
-          "url": "https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748049_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T13:19:26Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-          "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-          "description": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-          "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748037_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T13:08:47Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
-          "title": "Mauricio Pochettino: Man United players must relearn 'about being winners'",
-          "description": "Mauricio Pochettino has said his first job as Manchester United's new head coach is to remind the players how to win after a miserable start to the season.",
-          "url": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748016_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T17:16:14Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
-          "title": "Predicting how all 20 Premier League teams will finish the season",
-          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
-          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T13:50:09Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
-          "title": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
-          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
-          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T11:51:27Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
-          "title": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-          "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
-          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T21:58:25Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first",
-          "title": "Pochettino addresses Manchester United supporters for the first time",
-          "description": "Pochettino addresses Manchester United supporters for the first time",
-          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-          "publishedUtc": "2026-11-18T16:26:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
-          "title": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T16:46:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50520661/pochettino-arrives-carrington-first-day-man-united-head-coach",
-          "title": "Pochettino arrives at Carrington for first day as Man United head coach",
-          "description": "Pochettino arrives at Carrington for first day as Man United head coach",
-          "url": "https://www.espn.com/video/clip/_/id/50520661/pochettino-arrives-carrington-first-day-man-united-head-coach",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_arrives_at_Carrington_for_first_day_as_Man_United_head_coachNEW/dm_261118_Pochettino_arrives_at_Carrington_for_first_day_as_Man_United_head_coachNEW.jpg",
-          "publishedUtc": "2026-11-18T14:32:00Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
-          "title": "Man United to take legal action if JJ Gabriel was illegally approached - sources",
-          "description": "Manchester United are prepared to mount legal action if they find evidence that JJ Gabriel has been illegally approached by other clubs while under contract, sources have told ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1118/r1747531_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T15:04:23Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
-          "title": "How fallen giants and their fans bounce back from scandal, relegation",
-          "description": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?",
-          "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747276_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T17:00:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
-          "title": "Reranking the MVP for each of the top Premier League clubs",
-          "description": "Based on a simple combination of ability and tactical importance, we've reranked the best players in order at the top Premier League clubs.",
-          "url": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1114/r1745603_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-18T12:02:03Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
-          "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
-          "description": "JJ Gabriel has confirmed his departure from Manchester United in a post on Instagram and thanked the club for the role they have played in his career.",
-          "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T21:06:50Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50511813/matheus-nunes-man-city-deal",
-          "title": "Matheus Nunes in talks to extend Man City deal - sources",
-          "description": "Manchester City are in talks with Matheus Nunes about extending his contract at the Etihad Stadium, sources have told ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50511813/matheus-nunes-man-city-deal",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747119_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T17:06:27Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50510313/thomas-frank-crystal-palace-tottenham-premier-league",
-          "title": "Thomas Frank: Crystal Palace job 'too good' to turn down",
-          "description": "Thomas Frank decided the Crystal Palace job was \"too good to turn down\" after talks with chairman Steve Parish.",
-          "url": "https://www.espn.com/soccer/story/_/id/50510313/thomas-frank-crystal-palace-tottenham-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747050_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T13:28:25Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50509743/andoni-iraola-liverpool-grassroots-premier-league",
-          "title": "Andoni Iraola goes viral at grassroots game: 'He must be a down-to-earth fella'",
-          "description": "Andoni Iraola has gone viral for an appearance at a children's grassroots football match.",
-          "url": "https://www.espn.com/soccer/story/_/id/50509743/andoni-iraola-liverpool-grassroots-premier-league",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743055_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T12:21:31Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
-          "title": "Mauricio Pochettino can't fix Man United on his own, the owners have to do their jobs",
-          "description": "Mauricio Pochettino's job at Manchester United isn't to fix the club, but to get results and make the players better. The real changes need to be made at the very top.",
-          "url": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1746963_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T08:58:55Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50470622/mauricio-pochettino-tottenham-man-united",
-          "title": "Mauricio Pochettino to Man United: Is Tottenham love affair finally over?",
-          "description": "Mauricio Pochettino is back in the Premier League as the new Man United boss. For Tottenham fans, it's complicated.",
-          "url": "https://www.espn.com/soccer/story/_/id/50470622/mauricio-pochettino-tottenham-man-united",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1113/r1745200_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T07:07:18Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
-          "title": "Declan Rice agrees in principle to new five-year Arsenal deal - sources",
-          "description": "Arsenal midfielder Declan Rice has agreed in principle a new five-year deal which will see him extend his time at the club until 2031, sources have told ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0505/r1654036_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-16T23:06:30Z",
-          "source": "ESPN",
-          "transfer": true
         }
       ],
       "leaders": {
@@ -9338,7 +9338,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.498Z",
+      "updatedUtc": "2026-11-21T06:47:20.050Z",
       "matches": [
         {
           "id": "401882827",
@@ -10005,8 +10005,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
           },
           "venue": "San Mamés, Bilbao",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401882806",
@@ -11167,13 +11171,13 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
               },
               "rank": 7,
-              "played": 11,
+              "played": 12,
               "won": 4,
               "drawn": 4,
-              "lost": 3,
+              "lost": 4,
               "gf": 15,
-              "ga": 11,
-              "gd": 4,
+              "ga": 12,
+              "gd": 3,
               "points": 16
             },
             {
@@ -11212,12 +11216,29 @@
             },
             {
               "team": {
+                "id": "88",
+                "name": "Espanyol",
+                "abbreviation": "ESP",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
+              },
+              "rank": 10,
+              "played": 13,
+              "won": 4,
+              "drawn": 3,
+              "lost": 6,
+              "gf": 14,
+              "ga": 14,
+              "gd": 0,
+              "points": 15
+            },
+            {
+              "team": {
                 "id": "87",
                 "name": "Racing",
                 "abbreviation": "RAC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
               },
-              "rank": 10,
+              "rank": 11,
               "played": 12,
               "won": 4,
               "drawn": 2,
@@ -11234,7 +11255,7 @@
                 "abbreviation": "CEL",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
               },
-              "rank": 11,
+              "rank": 12,
               "played": 12,
               "won": 2,
               "drawn": 7,
@@ -11251,7 +11272,7 @@
                 "abbreviation": "ALA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
               },
-              "rank": 12,
+              "rank": 13,
               "played": 12,
               "won": 3,
               "drawn": 4,
@@ -11260,23 +11281,6 @@
               "ga": 17,
               "gd": -2,
               "points": 13
-            },
-            {
-              "team": {
-                "id": "88",
-                "name": "Espanyol",
-                "abbreviation": "ESP",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
-              },
-              "rank": 13,
-              "played": 12,
-              "won": 3,
-              "drawn": 3,
-              "lost": 6,
-              "gf": 13,
-              "ga": 14,
-              "gd": -1,
-              "points": 12
             },
             {
               "team": {
@@ -11402,6 +11406,46 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+          "title": "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
+          "description": "Real Madrid are looking to boost their attack by signing Como and Argentina international Nico Paz. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748712_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-21T05:21:23Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50543721/athletic-club-vs-espanyol-game-highlights",
+          "title": "Athletic Club vs. Espanyol - Game Highlights",
+          "description": "Watch the Game Highlights from Athletic Club vs. Espanyol, 11/21/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50543721/athletic-club-vs-espanyol-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1120/9feedd41-5f5a-48ed-8196-32572e19bdf5/9feedd41-5f5a-48ed-8196-32572e19bdf5.jpg",
+          "publishedUtc": "2026-11-20T22:03:47Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50541363/vinicius-junior-admits-was-underprepared-world-cup",
+          "title": "Vinícius Júnior admits he was underprepared for the World Cup",
+          "description": "Alex Kirkland breaks down José Mourinho's response to Júnior's claim and what it could mean for the player as new signing Yan Diomandé pushes for a starting role.",
+          "url": "https://www.espn.com/video/clip/_/id/50541363/vinicius-junior-admits-was-underprepared-world-cup",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/dm_261120_11-20_Real_Madrid_IA/dm_261120_11-20_Real_Madrid_IA.jpg",
+          "publishedUtc": "2026-11-20T15:36:31Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50539637/jose-mourinho-vinicius-junior-real-madrid",
+          "title": "José Mourinho wants Vinícius Jr. to move on from summer woes",
+          "description": "José Mourinho has suggested Vinícius Júnior made a mistake in admitting a lack of preseason preparation was to blame for his poor form.",
+          "url": "https://www.espn.com/soccer/story/_/id/50539637/jose-mourinho-vinicius-junior-real-madrid",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748468_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T10:21:51Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50534988/will-vinicius-junior-diomande-start-real-madrid-vs-celta-vigo",
           "title": "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
           "description": "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
@@ -11417,7 +11461,7 @@
           "description": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
           "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748037_2_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-19T13:08:47Z",
+          "publishedUtc": "2026-11-20T09:55:12Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -11428,6 +11472,16 @@
           "url": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
           "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748034_1296x729_16-9.jpg",
           "publishedUtc": "2026-11-19T12:18:13Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+          "title": "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?",
+          "description": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil.",
+          "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747010_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T09:35:18Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -11452,22 +11506,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
-          "title": "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?",
-          "description": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil.",
-          "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747010_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T15:05:58Z",
-          "source": "ESPN",
-          "transfer": true
-        },
-        {
           "id": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
           "title": "Transfer rumors, news: Como's Nico Paz to be Pochettino's first Man United summer signing?",
           "description": "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
           "imageUrl": "https://a.espncdn.com/photo/2026/1112/r1744747_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-14T15:42:44Z",
+          "publishedUtc": "2026-11-20T15:52:54Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -11477,7 +11521,7 @@
           "description": "Real Madrid remain keen on Bayern Munich star Michael Olise. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
           "imageUrl": "https://a.espncdn.com/photo/2026/0822/r1705443_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-14T07:55:59Z",
+          "publishedUtc": "2026-11-20T15:52:40Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -11517,7 +11561,7 @@
           "description": "Barcelona are looking to improve their defense and could look to Bayern Munich's Jonathan Tah as an option. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
           "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1744203_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-10T21:50:28Z",
+          "publishedUtc": "2026-11-20T15:51:46Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -11598,46 +11642,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50425918/fermin-lopez-double-barcelona-beat-atletico-madrid",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_Fermin_Lopez_double_as_Barcelona_beat_Atletico_Madrid/dm_261108_Fermin_Lopez_double_as_Barcelona_beat_Atletico_Madrid.jpg",
           "publishedUtc": "2026-11-08T22:38:36Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/401882816",
-          "title": "López double leads Barcelona past Atleti to go clear atop LaLiga",
-          "description": "A double from Fermín López saw Barcelona come from behind to defeat Atlético Madrid 2-1 on Sunday and restore their three-point lead at the top of LaLiga.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/401882816",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1743259_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T22:13:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50425486/barcelona-downs-atletico-madrid-2-1",
-          "title": "Barcelona downs Atlético Madrid 2-1",
-          "description": "Barcelona downs Atlético Madrid 2-1",
-          "url": "https://www.espn.com/video/clip/_/id/50425486/barcelona-downs-atletico-madrid-2-1",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/4aa7344e0a9d46b8a5da9746289109281041/4aa7344e0a9d46b8a5da9746289109281041.jpg",
-          "publishedUtc": "2026-11-08T22:22:01Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50423036/celta-vigo-vs-levante-game-highlights",
-          "title": "Celta Vigo vs. Levante - Game Highlights",
-          "description": "Watch the Game Highlights from Celta Vigo vs. Levante, 11/08/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50423036/celta-vigo-vs-levante-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/33d60745-eb8f-4d3a-912a-4d6708caa48a/33d60745-eb8f-4d3a-912a-4d6708caa48a.jpg",
-          "publishedUtc": "2026-11-08T19:35:47Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50423011/villarreal-vs-getafe-game-highlights",
-          "title": "Villarreal vs. Getafe - Game Highlights",
-          "description": "Watch the Game Highlights from Villarreal vs. Getafe, 11/08/2026",
-          "url": "https://www.espn.com/video/clip/_/id/50423011/villarreal-vs-getafe-game-highlights",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/4f04f569-99af-4891-ab83-5dfe344e6c5a/4f04f569-99af-4891-ab83-5dfe344e6c5a.jpg",
-          "publishedUtc": "2026-11-08T19:32:35Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -12384,7 +12388,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.414Z",
+      "updatedUtc": "2026-11-21T06:47:19.950Z",
       "matches": [
         {
           "id": "401874980",
@@ -14456,6 +14460,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+          "title": "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
+          "description": "Real Madrid are looking to boost their attack by signing Como and Argentina international Nico Paz. Transfer Talk has the latest.",
+          "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748712_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-21T05:21:23Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50542117/como-moise-kean-injury-champions-league-italy-serie-a",
+          "title": "Champions League upstarts Como suffer Moise Kean injury blow",
+          "description": "Como forward Moise Kean is set to be out injured for at least two months and could miss Champions League games against Paris Saint-Germain and Barcelona.",
+          "url": "https://www.espn.com/soccer/story/_/id/50542117/como-moise-kean-injury-champions-league-italy-serie-a",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748599_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T18:03:34Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
           "title": "How fallen giants and their fans bounce back from scandal, relegation",
           "description": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?",
@@ -14471,7 +14495,7 @@
           "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked to two of Italy's biggest clubs. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
           "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747230_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T20:40:33Z",
+          "publishedUtc": "2026-11-20T15:53:45Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -14481,7 +14505,7 @@
           "description": "Incoming Manchester United boss Mauricio Pochettino is eyeing a quick reunion with USMNT midfielder Weston McKennie. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50499498/transfer-rumors-news-usmnt-pochettino-mckennie-man-united",
           "imageUrl": "https://a.espncdn.com/photo/2026/1116/r1746525_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-16T21:08:48Z",
+          "publishedUtc": "2026-11-20T15:53:30Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -14674,26 +14698,6 @@
           "publishedUtc": "2026-10-28T17:24:14Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50299199/napoli-coach-massimiliano-allegri-not-appeal-touchline-ban",
-          "title": "Napoli coach Massimiliano Allegri will not appeal touchline ban",
-          "description": "Napoli coach Massimiliano Allegri will watch Wednesday's Serie A clash with Monza from the stands after deciding not to appeal against his touchline ban.",
-          "url": "https://www.espn.com/soccer/story/_/id/50299199/napoli-coach-massimiliano-allegri-not-appeal-touchline-ban",
-          "imageUrl": "https://a.espncdn.com/photo/2024/0604/r1341465_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T17:08:45Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50298045/ac-milan-ruben-amorim-injuries-bologna-match",
-          "title": "Milan boss Ruben Amorim faces injury headache ahead of pre-derby Bologna game",
-          "description": "A growing injury list has left AC Milan head coach Ruben Amorim facing a difficult week leading up to the weekend's derby against Inter Milan.",
-          "url": "https://www.espn.com/soccer/story/_/id/50298045/ac-milan-ruben-amorim-injuries-bologna-match",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737008_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-27T15:24:05Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -15444,7 +15448,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.379Z",
+      "updatedUtc": "2026-11-21T06:47:19.906Z",
       "matches": [
         {
           "id": "401884769",
@@ -16303,8 +16307,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
           },
           "venue": "Allianz Arena, München",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401884732",
@@ -17199,14 +17207,14 @@
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
               },
               "rank": 1,
-              "played": 9,
+              "played": 10,
               "won": 6,
-              "drawn": 3,
+              "drawn": 4,
               "lost": 0,
-              "gf": 29,
-              "ga": 9,
+              "gf": 30,
+              "ga": 10,
               "gd": 20,
-              "points": 21
+              "points": 22
             },
             {
               "team": {
@@ -17414,12 +17422,29 @@
             },
             {
               "team": {
+                "id": "122",
+                "name": "Cologne",
+                "abbreviation": "KOE",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
+              },
+              "rank": 14,
+              "played": 10,
+              "won": 2,
+              "drawn": 4,
+              "lost": 4,
+              "gf": 11,
+              "ga": 15,
+              "gd": -4,
+              "points": 10
+            },
+            {
+              "team": {
                 "id": "3841",
                 "name": "Augsburg",
                 "abbreviation": "FCA",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 9,
               "won": 2,
               "drawn": 3,
@@ -17427,23 +17452,6 @@
               "gf": 20,
               "ga": 20,
               "gd": 0,
-              "points": 9
-            },
-            {
-              "team": {
-                "id": "122",
-                "name": "Cologne",
-                "abbreviation": "KOE",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
-              },
-              "rank": 15,
-              "played": 9,
-              "won": 2,
-              "drawn": 3,
-              "lost": 4,
-              "gf": 10,
-              "ga": 14,
-              "gd": -4,
               "points": 9
             },
             {
@@ -17502,12 +17510,22 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich",
+          "title": "Ballon d'Or winner Harry Kane out a 'few months' after ankle injury",
+          "description": "Ballon d'Or winner Harry Kane is set to be out for several months after suffering a ligament tear in his left ankle during Bayern Munich's draw with Cologne.",
+          "url": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748653_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-21T00:18:19Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
           "title": "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
           "description": "Real Madrid remain keen on Bayern Munich star Michael Olise. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
           "imageUrl": "https://a.espncdn.com/photo/2026/0822/r1705443_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-14T07:55:59Z",
+          "publishedUtc": "2026-11-20T15:52:40Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -17537,7 +17555,7 @@
           "description": "Bayern Munich are looking to add reinforcements to their attack by signing Liverpool winger Rio Ngumoha. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
           "imageUrl": "https://a.espncdn.com/photo/2026/1111/r1744559_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-11T21:59:35Z",
+          "publishedUtc": "2026-11-20T15:52:04Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -17567,7 +17585,7 @@
           "description": "Barcelona are looking to improve their defense and could look to Bayern Munich's Jonathan Tah as an option. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
           "imageUrl": "https://a.espncdn.com/photo/2026/1110/r1744203_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-10T21:50:28Z",
+          "publishedUtc": "2026-11-20T15:51:46Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -17597,7 +17615,7 @@
           "description": "Bayern Munich still have Liverpool and England winger Rio Ngumoha firmly in their sights. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50406508/transfer-rumors-news-liverpool-rio-ngumoha-bayern-munich",
           "imageUrl": "https://a.espncdn.com/photo/2026/1107/r1742332_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-07T09:44:44Z",
+          "publishedUtc": "2026-11-20T15:50:35Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -17728,16 +17746,6 @@
           "url": "https://www.espn.com/soccer/story/_/id/50312241/bayern-munich-vincent-kompany-hospital-discharged",
           "imageUrl": "https://a.espncdn.com/photo/2026/1023/r1735057_1296x729_16-9.jpg",
           "publishedUtc": "2026-10-29T01:01:52Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
-          "title": "Ballon d'Or winner Harry Kane gets hero's welcome on Bayern Munich return",
-          "description": "After an historic Ballon d'Or win and an emotional speech, Harry Kane arrived back in Germany on Tuesday to a hero's welcome at Bayern Munich.",
-          "url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1027/r1737178_1296x729_16-9.jpg",
-          "publishedUtc": "2026-10-28T10:45:27Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -18487,32 +18495,8 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.342Z",
+      "updatedUtc": "2026-11-21T06:47:19.873Z",
       "matches": [
-        {
-          "id": "401876437",
-          "utc": "2026-10-16T18:45Z",
-          "phase": "2026 27 Ligue 1",
-          "home": {
-            "id": "2697",
-            "name": "Le Mans",
-            "abbreviation": "MNS",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
-          },
-          "away": {
-            "id": "179",
-            "name": "Toulouse",
-            "abbreviation": "TOU",
-            "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
-          },
-          "venue": "Stade Marie-Marvingt, Le Mans",
-          "status": "finished",
-          "score": {
-            "home": 0,
-            "away": 3
-          },
-          "note": "FT"
-        },
         {
           "id": "401876432",
           "utc": "2026-10-17T15:15Z",
@@ -19370,8 +19354,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
           },
           "venue": "Stade de l'Aube, Paris",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "note": "FT"
         },
         {
           "id": "401876398",
@@ -20284,12 +20272,29 @@
             },
             {
               "team": {
+                "id": "170",
+                "name": "Troyes",
+                "abbreviation": "TRY",
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
+              },
+              "rank": 13,
+              "played": 11,
+              "won": 3,
+              "drawn": 2,
+              "lost": 6,
+              "gf": 10,
+              "ga": 18,
+              "gd": -8,
+              "points": 11
+            },
+            {
+              "team": {
                 "id": "180",
                 "name": "Strasbourg",
                 "abbreviation": "STR",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
               },
-              "rank": 13,
+              "rank": 14,
               "played": 10,
               "won": 3,
               "drawn": 1,
@@ -20306,7 +20311,7 @@
                 "abbreviation": "AUX",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
               },
-              "rank": 14,
+              "rank": 15,
               "played": 10,
               "won": 3,
               "drawn": 1,
@@ -20323,7 +20328,7 @@
                 "abbreviation": "MNS",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
               },
-              "rank": 15,
+              "rank": 16,
               "played": 10,
               "won": 1,
               "drawn": 5,
@@ -20340,7 +20345,7 @@
                 "abbreviation": "ANG",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
               },
-              "rank": 16,
+              "rank": 17,
               "played": 10,
               "won": 2,
               "drawn": 2,
@@ -20352,36 +20357,19 @@
             },
             {
               "team": {
-                "id": "170",
-                "name": "Troyes",
-                "abbreviation": "TRY",
-                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
-              },
-              "rank": 17,
-              "played": 10,
-              "won": 2,
-              "drawn": 2,
-              "lost": 6,
-              "gf": 7,
-              "ga": 17,
-              "gd": -10,
-              "points": 8
-            },
-            {
-              "team": {
                 "id": "3236",
                 "name": "Le Havre AC",
                 "abbreviation": "HAC",
                 "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
               },
               "rank": 18,
-              "played": 10,
+              "played": 11,
               "won": 0,
               "drawn": 2,
-              "lost": 8,
-              "gf": 9,
-              "ga": 22,
-              "gd": -13,
+              "lost": 9,
+              "gf": 10,
+              "ga": 25,
+              "gd": -15,
               "points": 2
             }
           ]
@@ -20394,7 +20382,7 @@
           "description": "AS Monaco and USMNT striker Folarin Balogun is reportedly linked to two of Italy's biggest clubs. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
           "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747230_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T20:40:33Z",
+          "publishedUtc": "2026-11-20T15:53:45Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -20434,7 +20422,7 @@
           "description": "Rennes left-back Mahamadou Nagida is being monitored by Manchester United. Transfer Talk has the latest.",
           "url": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
           "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742863_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T09:55:02Z",
+          "publishedUtc": "2026-11-20T15:50:58Z",
           "source": "ESPN",
           "transfer": true
         },
@@ -21372,7 +21360,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-20T06:52:15.600Z",
+      "updatedUtc": "2026-11-21T06:47:19.833Z",
       "matches": [
         {
           "id": "401861146",
@@ -23615,6 +23603,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50540517/england-suspended-supporter-ban-spain",
+          "title": "England given suspended supporter ban for chants in Spain",
+          "description": "England have been handed a suspended ban on selling tickets for an away match as a result of \"racist and/or discriminatory behaviour\" by fans during Sunday's 3-2 win over Spain.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540517/england-suspended-supporter-ban-spain",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748503_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T13:16:13Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50539055/england-norway-spain-france-nations-league",
+          "title": "Nations League quarterfinal draw: England face Norway, Spain to meet France",
+          "description": "England will face Erling Haaland's Norway in their men's Nations League quarterfinal while world champions Spain will tackle France.",
+          "url": "https://www.espn.com/soccer/story/_/id/50539055/england-norway-spain-france-nations-league",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748501_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T17:43:58Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50519465/nations-league-quarterfinals-draw-england",
           "title": "When is the Nations League quarterfinals draw?",
           "description": "The Nations League last eight have been confirmed. All that's left now is for each country to learn their opponent in the quarterfinals.",
@@ -23831,26 +23839,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50497420/england-claim-thrilling-nations-league-win-spain",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Soccer_HIGHLIGHT_England_claim_thrilling_Nations_League_win_over_Spain_20261116_AUS/dm_261115_Soccer_HIGHLIGHT_England_claim_thrilling_Nations_League_win_over_Spain_20261116_AUS.jpg",
           "publishedUtc": "2026-11-16T02:00:13Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50495555/france-very-fragile-defensively",
-          "title": "Leboeuf: France are very fragile defensively",
-          "description": "Leboeuf: France are very fragile defensively",
-          "url": "https://www.espn.com/video/clip/_/id/50495555/france-very-fragile-defensively",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Leboeuf_France_are_very_fragile_defensively/dm_261115_Leboeuf_France_are_very_fragile_defensively.jpg",
-          "publishedUtc": "2026-11-15T23:22:39Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
-          "title": "England's win over Spain is the statement Tuchel's team has been waiting for",
-          "description": "England ended Spain's 43-match unbeaten run with a statement win that gives Thomas Tuchel renewed belief his side can finally deliver on the biggest stage.",
-          "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1115/r1746364_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-16T08:40:13Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -24601,7 +24589,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-20T06:52:15.562Z",
+      "updatedUtc": "2026-11-21T06:47:20.114Z",
       "matches": [
         {
           "id": "761892",
@@ -26952,6 +26940,55 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50544018/hirving-lozano-returns-san-diego-fc-la-galaxy-loan-ends",
+          "title": "Hirving Lozano returns to San Diego FC as LA Galaxy loan ends",
+          "description": "The LA Galaxy declined to exercise their purchase option for Hirving 'Chucky' Lozano, sending the Mexican forward back to San Diego FC.",
+          "url": "https://www.espn.com/soccer/story/_/id/50544018/hirving-lozano-returns-san-diego-fc-la-galaxy-loan-ends",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748714_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T22:43:56Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50543541/usa-soccer-coach-bj-callaghan-nashville-sc",
+          "title": "Nashville coach Callaghan '100%' focused on playoffs amid USMNT links",
+          "description": "BJ Callaghan said he remains fully focused on leading Nashville through the MLS playoffs amid links to replacing Mauricio Pochettino as USMNT head coach.",
+          "url": "https://www.espn.com/soccer/story/_/id/50543541/usa-soccer-coach-bj-callaghan-nashville-sc",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748697_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T21:49:12Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi",
+          "title": "MLS playoff Round 1 predictions: Who will move on to the conference semifinals?",
+          "description": "Round 1 of the MLS Cup playoffs begins Saturday, so who will emerge from the best-of-three series? ESPN's U.S. soccer analysts make their predictions.",
+          "url": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1119/r1748180_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T15:18:46Z",
+          "source": "ESPN",
+          "transfer": true
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50541122/no-relegation-means-mls-style-careless-whitecaps-muller",
+          "title": "No relegation means MLS playing style more 'careless' - Whitecaps' Müller",
+          "url": "https://www.espn.com/soccer/story/_/id/50541122/no-relegation-means-mls-style-careless-whitecaps-muller",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1007/r1727181_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T15:30:06Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50388883/every-eliminated-mls-team-worked-didnt-2026-needs-improving-2027",
+          "title": "Every eliminated MLS team: What worked and what didn't in 2026, what needs improving in 2027?",
+          "description": "After every team in MLS is eliminated from postseason contention, ESPN details the best and worst of their seasons, and their priorities for 2027.",
+          "url": "https://www.espn.com/soccer/story/_/id/50388883/every-eliminated-mls-team-worked-didnt-2026-needs-improving-2027",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748524_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T15:40:20Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/video/clip/_/id/50538454/seattle-sounders-fc-vs-real-salt-lake-game-highlights",
           "title": "Seattle Sounders FC vs. Real Salt Lake - Game Highlights",
           "description": "Watch the Game Highlights from Seattle Sounders FC vs. Real Salt Lake, 11/19/2026",
@@ -26967,7 +27004,7 @@
           "description": "FC Cincinnati rallied to eliminate Orlando City 3-1 in MLS Cup Eastern Conference wild card match on Thursday.",
           "url": "https://www.espn.com/soccer/story/_/id/50537610/dike-wild-card-loss-injured-orlando-season-ends-cincinnati",
           "imageUrl": "https://a.espncdn.com/photo/2026/1120/r1748420_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-20T05:06:32Z",
+          "publishedUtc": "2026-11-20T08:06:09Z",
           "source": "ESPN",
           "transfer": false
         },
@@ -27132,62 +27169,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/soccer/story/_/id/50388883/every-eliminated-mls-team-worked-didnt-2026-needs-improving-2027",
-          "title": "Every eliminated MLS team: What worked and what didn't in 2026, what needs improving in 2027?",
-          "description": "After every team in MLS is eliminated from postseason contention, ESPN details the best and worst of their seasons, and their priorities for 2027.",
-          "url": "https://www.espn.com/soccer/story/_/id/50388883/every-eliminated-mls-team-worked-didnt-2026-needs-improving-2027",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1106/r1742062_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-09T14:07:44Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
           "id": "http://www.espn.com/soccer/report/_/gameId/761946",
           "title": "LA Galaxy miss playoffs again as Real Salt Lake gets final berth",
           "description": "Sergi Solans and Zach Booth scored early and Real Salt Lake clinched a playoff spot while eliminating the LA Galaxy with a 2-1 Decision Day victory over the Galaxy on Saturday.",
           "url": "http://www.espn.com/soccer/report/_/gameId/761946",
           "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761946.png?templateId=espn.applewatch.awayhome.1",
           "publishedUtc": "2026-11-08T02:54:28Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/761942",
-          "title": "Lassiter scores in 3rd minute, Timbers beat Austin 2-0, clinch playoff spot",
-          "description": "- Ariel Lassiter opened the scoring in the third minute, Kristoffer Velde added a goal and the Portland Timbers beat Austin FC 2-0 on Saturday night to clinch a spot in the MLS Cup playoffs.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/761942",
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761942.png?templateId=espn.applewatch.awayhome.1",
-          "publishedUtc": "2026-11-08T02:35:02Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "http://www.espn.com/soccer/report/_/gameId/761943",
-          "title": "Kaick, Dallas win 3-1, eliminate Rapids from playoff contention",
-          "description": "- Kaick Ferreira, known simply as \"Kaick\", scored the go-ahead goal in the 88th and FC Dallas beat Colorado 3-1 on Saturday night to eliminati the Rapids from playoff contention.",
-          "url": "http://www.espn.com/soccer/report/_/gameId/761943",
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/761943.png?templateId=espn.applewatch.awayhome.1",
-          "publishedUtc": "2026-11-08T02:35:48Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami",
-          "title": "Lionel Messi makes history as 1st back-to-back MLS Golden Boot winner",
-          "description": "Lionel Messi has become the first player to win back-to-back MLS Golden Boot awards after the Inter Miami forward finished the regular season with 26 goals.",
-          "url": "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742766_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T02:55:46Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-          "title": "Messi tracker: Goals, assists, key moments in 2026",
-          "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-          "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-08T10:48:49Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -27954,7 +27941,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-20T06:52:15.246Z",
+      "updatedUtc": "2026-11-21T06:47:19.749Z",
       "matches": [
         {
           "id": "760415",
@@ -31333,6 +31320,26 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/soccer/story/_/id/50542739/conmebol-backs-infantino-reelection-fifa-president",
+          "title": "CONMEBOL backs Infantino's reelection as FIFA president",
+          "description": "Support for the reelection of FIFA president Gianni Infantino was reaffirmed by the 10 members of CONMEBOL on Friday.",
+          "url": "https://www.espn.com/soccer/story/_/id/50542739/conmebol-backs-infantino-reelection-fifa-president",
+          "imageUrl": "https://a.espncdn.com/photo/2025/0410/r1476780_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T19:51:36Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+          "title": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win",
+          "description": "Ballon d'Or winner Harry Kane is on a mission to claim trophies that have so far eluded him in his career, namely a Champions League and a tittle with England.",
+          "url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1102/r1739991_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-20T12:35:56Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
           "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
           "description": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
@@ -31538,26 +31545,6 @@
           "url": "https://www.espn.com/video/clip/_/id/50388146/ronaldo-was-one-greatest-all",
           "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Marcotti_Ronaldo_was_one_of_the_greatest_of_all_time/dm_261105_Marcotti_Ronaldo_was_one_of_the_greatest_of_all_time.jpg",
           "publishedUtc": "2026-11-05T13:21:08Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50387887/cristiano-ronaldo-portugal-career-best-moments-key-stats-retirement-international-soccer",
-          "title": "Cristiano Ronaldo's Portugal career: Best moments, key stats after his retirement from international soccer",
-          "description": "Here's a look at some of the many highlights of Cristiano Ronaldo's 23-year career winning trophies and breaking records with Portugal's national team.",
-          "url": "https://www.espn.com/soccer/story/_/id/50387887/cristiano-ronaldo-portugal-career-best-moments-key-stats-retirement-international-soccer",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1105/r1741455_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-05T13:33:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/video/clip/_/id/50387532/catches-everyone-even-cristiano-ronaldo",
-          "title": "Ogden: Time catches up with everyone, even Cristiano Ronaldo",
-          "description": "Ogden: Time catches up with everyone, even Cristiano Ronaldo",
-          "url": "https://www.espn.com/video/clip/_/id/50387532/catches-everyone-even-cristiano-ronaldo",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo.jpg",
-          "publishedUtc": "2026-11-05T12:03:06Z",
           "source": "ESPN",
           "transfer": false
         }
