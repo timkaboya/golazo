@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedUtc": "2026-11-22T23:29:30.798Z",
+  "updatedUtc": "2026-11-23T07:09:26.523Z",
   "competitions": [
     {
       "config": {
@@ -17,7 +17,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.583Z",
+      "updatedUtc": "2026-11-23T07:09:26.258Z",
       "matches": [
         {
           "id": "401915403",
@@ -3191,7 +3191,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.543Z",
+      "updatedUtc": "2026-11-23T07:09:26.111Z",
       "matches": [
         {
           "id": "401915548",
@@ -6391,7 +6391,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.518Z",
+      "updatedUtc": "2026-11-23T07:09:26.154Z",
       "matches": [
         {
           "id": "401879233",
@@ -9364,7 +9364,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.729Z",
+      "updatedUtc": "2026-11-23T07:09:26.374Z",
       "matches": [
         {
           "id": "401882827",
@@ -12446,7 +12446,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.678Z",
+      "updatedUtc": "2026-11-23T07:09:26.247Z",
       "matches": [
         {
           "id": "401874980",
@@ -15543,7 +15543,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.465Z",
+      "updatedUtc": "2026-11-23T07:09:26.523Z",
       "matches": [
         {
           "id": "401884761",
@@ -18430,7 +18430,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.636Z",
+      "updatedUtc": "2026-11-23T07:09:26.257Z",
       "matches": [
         {
           "id": "401876428",
@@ -21135,7 +21135,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
         "transfers": false
       },
-      "updatedUtc": "2026-11-22T23:29:30.609Z",
+      "updatedUtc": "2026-11-23T07:09:26.079Z",
       "matches": [
         {
           "id": "401861146",
@@ -23608,12 +23608,12 @@
           "transfer": false
         },
         {
-          "id": "https://www.espn.com/video/clip/_/id/50497420/england-claim-thrilling-nations-league-win-spain",
-          "title": "England claim thrilling Nations League win over Spain",
-          "description": "Thomas Tuchel's England, down to 10 men, manage to hold off Spain in a five-goal Nations League epic in Madrid.",
-          "url": "https://www.espn.com/video/clip/_/id/50497420/england-claim-thrilling-nations-league-win-spain",
-          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Soccer_HIGHLIGHT_England_claim_thrilling_Nations_League_win_over_Spain_20261116_AUS/dm_261115_Soccer_HIGHLIGHT_England_claim_thrilling_Nations_League_win_over_Spain_20261116_AUS.jpg",
-          "publishedUtc": "2026-11-16T02:00:13Z",
+          "id": "https://www.espn.com/video/clip/_/id/50495555/france-very-fragile-defensively",
+          "title": "Leboeuf: France are very fragile defensively",
+          "description": "Leboeuf: France are very fragile defensively",
+          "url": "https://www.espn.com/video/clip/_/id/50495555/france-very-fragile-defensively",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Leboeuf_France_are_very_fragile_defensively/dm_261115_Leboeuf_France_are_very_fragile_defensively.jpg",
+          "publishedUtc": "2026-11-15T23:22:39Z",
           "source": "ESPN",
           "transfer": false
         }
@@ -24364,7 +24364,7 @@
         "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
         "transfers": true
       },
-      "updatedUtc": "2026-11-22T23:29:30.798Z",
+      "updatedUtc": "2026-11-23T07:09:26.250Z",
       "matches": [
         {
           "id": "761892",
@@ -25823,8 +25823,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
           },
           "venue": "SeatGeek Stadium, Bridgeview, Illinois",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "note": "FT"
         },
         {
           "id": "401933729",
@@ -25843,8 +25847,12 @@
             "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
           },
           "venue": "BC Place, Vancouver",
-          "status": "upcoming",
-          "note": "Scheduled"
+          "status": "finished",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "note": "FT"
         },
         {
           "id": "401933728",
@@ -26731,6 +26739,56 @@
       ],
       "news": [
         {
+          "id": "https://www.espn.com/video/clip/_/id/50569414/vancouver-whitecaps-vs-real-salt-lake-game-highlights",
+          "title": "Vancouver Whitecaps vs. Real Salt Lake - Game Highlights",
+          "description": "Watch the Game Highlights from Vancouver Whitecaps vs. Real Salt Lake, 11/22/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50569414/vancouver-whitecaps-vs-real-salt-lake-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1123/c6f7bc61-7151-4d3a-8ce8-f32b6afaeae5/c6f7bc61-7151-4d3a-8ce8-f32b6afaeae5.jpg",
+          "publishedUtc": "2026-11-23T04:39:30Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401933730",
+          "title": "VAR gives Charlotte late penalty in series-opening win over Chicago",
+          "description": "Pep Biel scored off a rebound from his own penalty kick in the 11th minute of stoppage time after a handball on Jack Elliot to give Charlotte FC a 2-1 win over the Chicago Fire on Sunday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401933730",
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/401933730.png?templateId=espn.applewatch.awayhome.1",
+          "publishedUtc": "2026-11-23T02:26:52Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "http://www.espn.com/soccer/report/_/gameId/401933731",
+          "title": "Cincinnati stuns Shield-winners Nashville to start best-of-3 series",
+          "description": "Roman Celentano made six saves for his fourth clean sheet of the season as FC Cincinnati took advantage of an early own goal to earn a 1-0 victory over Nashville SC on Sunday.",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401933731",
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/soccer/usa.1/events/401933731.png?templateId=espn.applewatch.awayhome.1",
+          "publishedUtc": "2026-11-22T23:57:21Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/soccer/story/_/id/50566274/dynamo-herrera-charged-dwi-club-aware",
+          "title": "Reports: Dynamo's Herrera charged with DWI, club aware of 'incident'",
+          "description": "Houston Dynamo FC midfielder Héctor Herrera was charged with driving while intoxicated on Saturday in Montgomery County, Texas, according to multiple reports.",
+          "url": "https://www.espn.com/soccer/story/_/id/50566274/dynamo-herrera-charged-dwi-club-aware",
+          "imageUrl": "https://a.espncdn.com/photo/2026/1122/r1749866_1296x729_16-9.jpg",
+          "publishedUtc": "2026-11-22T23:56:10Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
+          "id": "https://www.espn.com/video/clip/_/id/50566848/nashville-sc-vs-fc-cincinnati-game-highlights",
+          "title": "Nashville SC vs. FC Cincinnati - Game Highlights",
+          "description": "Watch the Game Highlights from Nashville SC vs. FC Cincinnati, 11/22/2026",
+          "url": "https://www.espn.com/video/clip/_/id/50566848/nashville-sc-vs-fc-cincinnati-game-highlights",
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1122/e69420a5-3fa2-4e71-83b9-4761c2ace1be/e69420a5-3fa2-4e71-83b9-4761c2ace1be.jpg",
+          "publishedUtc": "2026-11-22T23:48:25Z",
+          "source": "ESPN",
+          "transfer": false
+        },
+        {
           "id": "https://www.espn.com/soccer/story/_/id/50558763/lionel-messi-throw-red-card-inter-miami-columbus-crew",
           "title": "Columbus coach says Messi should've got red card in Miami loss: 'Everyone knows'",
           "description": "Columbus Crew head coach Laurent Courtois said Lionel Messi should have received a red card for taking a throw-in straight into the face of Gonzalo Tapia.",
@@ -26918,56 +26976,6 @@
           "publishedUtc": "2026-11-17T21:08:44Z",
           "source": "ESPN",
           "transfer": true
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
-          "title": "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-          "description": "The wild card kicks off the MLS Cup playoffs on Thursday, so who will advance to Round 1? ESPN's U.S. soccer analysts make their predictions.",
-          "url": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1117/r1747073_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-17T14:46:50Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50452764/mls-cup-playoff-power-rankings",
-          "title": "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?",
-          "description": "Nashville just won the Supporters' Shield with a league-record points haul, so naturally it tops ESPN's MLS Cup playoff Power Rankings.",
-          "url": "https://www.espn.com/soccer/story/_/id/50452764/mls-cup-playoff-power-rankings",
-          "imageUrl": "https://a.espncdn.com/photo/2026/0831/r1709551_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-16T13:50:14Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50474340/san-jose-earthquakes-sold-625-million-heath-freeman",
-          "title": "Sources: San Jose Earthquakes sold for $625 million to Heath Freeman",
-          "description": "Alden Global Capital co-founder Heath Freeman is purchasing the San Jose Earthquakes from John Fisher, following MLS owners' approval of the sale Thursday.",
-          "url": "https://www.espn.com/soccer/story/_/id/50474340/san-jose-earthquakes-sold-625-million-heath-freeman",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1113/r1745440_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-14T05:59:42Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/espn/story/_/id/50472383/south-africa-kenya-mbekezeli-mbokazi-afcon-qualifiers",
-          "title": "South Africa need to start Mbokazi in next AFCON qualifier against Kenya",
-          "description": "After three wins in the first three games, Pitso Mosimane suffered a setback in a 2-2 draw against Kenya, which laid bare the importance of MLS trio Lyle Foster, Puso Dithejane and Mbekezeli Mbokazi.",
-          "url": "https://www.espn.com/espn/story/_/id/50472383/south-africa-kenya-mbekezeli-mbokazi-afcon-qualifiers",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1113/r1745344_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-13T18:44:35Z",
-          "source": "ESPN",
-          "transfer": false
-        },
-        {
-          "id": "https://www.espn.com/soccer/story/_/id/50472990/messi-play-argentina-jan-19-inter-miami-river-friendly",
-          "title": "Messi to play in Argentina Jan. 19 for Inter Miami-River friendly",
-          "description": "Lionel Messi will return to play at Estadio Monumental on Jan. 19 when Inter Miami travel to Buenos Aires to play River Plate.",
-          "url": "https://www.espn.com/soccer/story/_/id/50472990/messi-play-argentina-jan-19-inter-miami-river-friendly",
-          "imageUrl": "https://a.espncdn.com/photo/2026/1108/r1742766_1296x729_16-9.jpg",
-          "publishedUtc": "2026-11-13T22:21:12Z",
-          "source": "ESPN",
-          "transfer": false
         }
       ],
       "leaders": {
@@ -27732,7 +27740,7 @@
         "transfers": false,
         "archiveHref": "/world-cup"
       },
-      "updatedUtc": "2026-11-22T23:29:30.563Z",
+      "updatedUtc": "2026-11-23T07:09:26.262Z",
       "matches": [
         {
           "id": "760415",
